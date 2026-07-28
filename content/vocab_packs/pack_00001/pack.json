@@ -1,0 +1,48 @@
+{
+  "id": "pack_00001",
+  "topicId": "topic_00002",
+  "version": 1,
+  "title": "Pets",
+  "description": "Common pet words with simple hints for beginner practice.",
+  "coverImage": "images/cover.webp",
+  "backgroundImage": null,
+  "tags": [
+    "beginner",
+    "animals",
+    "pets"
+  ],
+  "items": [
+    {
+      "id": "pack_00001_0001",
+      "word": "cat",
+      "hint": "c_t",
+      "phonetic": "/kæt/",
+      "meanings": {
+        "vi": "con mèo",
+        "en": "cat"
+      },
+      "imagePath": "images/cat.webp",
+      "audioPath": null,
+      "tags": [
+        "animal",
+        "pet"
+      ]
+    },
+    {
+      "id": "pack_00001_0002",
+      "word": "dog",
+      "hint": "d_g",
+      "phonetic": "/dɔːɡ/",
+      "meanings": {
+        "vi": "con chó",
+        "en": "dog"
+      },
+      "imagePath": "images/dog.webp",
+      "audioPath": null,
+      "tags": [
+        "animal",
+        "pet"
+      ]
+    }
+  ]
+}

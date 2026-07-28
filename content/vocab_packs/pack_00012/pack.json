@@ -1,0 +1,44 @@
+{
+  "id": "pack_00012",
+  "topicId": "topic_00003",
+  "version": 1,
+  "title": "Coming Soon",
+  "description": "Placeholder pack shared by topics that don't have real vocabulary yet.",
+  "coverImage": "images/cover.webp",
+  "backgroundImage": null,
+  "tags": [
+    "placeholder"
+  ],
+  "items": [
+    {
+      "id": "pack_00012_0001",
+      "word": "sample",
+      "hint": "s_____",
+      "phonetic": "/ˈsɑːmpəl/",
+      "meanings": {
+        "vi": "mẫu",
+        "en": "sample"
+      },
+      "imagePath": null,
+      "audioPath": null,
+      "tags": [
+        "placeholder"
+      ]
+    },
+    {
+      "id": "pack_00012_0002",
+      "word": "example",
+      "hint": "e______",
+      "phonetic": "/ɪɡˈzɑːmpəl/",
+      "meanings": {
+        "vi": "ví dụ",
+        "en": "example"
+      },
+      "imagePath": null,
+      "audioPath": null,
+      "tags": [
+        "placeholder"
+      ]
+    }
+  ]
+}

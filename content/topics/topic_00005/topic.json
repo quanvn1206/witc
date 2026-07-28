@@ -1,0 +1,14 @@
+{
+  "id": "topic_00005",
+  "version": 1,
+  "title": "Household Tools",
+  "description": "Common tools found around the house.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "household"
+  ]
+}

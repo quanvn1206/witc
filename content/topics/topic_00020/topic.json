@@ -1,0 +1,14 @@
+{
+  "id": "topic_00020",
+  "version": 1,
+  "title": "Shopping & Money",
+  "description": "Shopping trips and everyday money words.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "shopping"
+  ]
+}

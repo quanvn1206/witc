@@ -1,0 +1,44 @@
+{
+  "id": "pack_00010",
+  "topicId": "topic_00012",
+  "version": 1,
+  "title": "School",
+  "description": "School sample words.",
+  "coverImage": "images/cover.webp",
+  "backgroundImage": null,
+  "tags": [
+    "sample"
+  ],
+  "items": [
+    {
+      "id": "pack_00010_0001",
+      "word": "sample",
+      "hint": "s_____",
+      "phonetic": "/ˈsɑːmpəl/",
+      "meanings": {
+        "vi": "mẫu",
+        "en": "sample"
+      },
+      "imagePath": "images/sample.webp",
+      "audioPath": null,
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "pack_00010_0002",
+      "word": "example",
+      "hint": "e______",
+      "phonetic": "/ɪɡˈzɑːmpəl/",
+      "meanings": {
+        "vi": "ví dụ",
+        "en": "example"
+      },
+      "imagePath": "images/example.webp",
+      "audioPath": null,
+      "tags": [
+        "sample"
+      ]
+    }
+  ]
+}

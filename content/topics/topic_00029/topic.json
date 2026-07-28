@@ -1,0 +1,14 @@
+{
+  "id": "topic_00029",
+  "version": 1,
+  "title": "City & Traffic",
+  "description": "City life and traffic vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00008"
+  ],
+  "tags": [
+    "beginner",
+    "places"
+  ]
+}

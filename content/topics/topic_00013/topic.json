@@ -1,0 +1,14 @@
+{
+  "id": "topic_00013",
+  "version": 1,
+  "title": "Countries & Flags",
+  "description": "Countries, nationalities, and their flags.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "intermediate",
+    "geography"
+  ]
+}

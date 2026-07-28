@@ -1,0 +1,14 @@
+{
+  "id": "topic_00023",
+  "version": 1,
+  "title": "Beauty & Salon",
+  "description": "Beauty, skincare, and salon vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "beauty"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "topic_00019",
+  "version": 1,
+  "title": "Holidays & Festivals",
+  "description": "Holidays, festivals, and celebrations.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "holidays"
+  ]
+}

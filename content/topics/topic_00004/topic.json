@@ -1,0 +1,16 @@
+{
+  "id": "topic_00004",
+  "version": 1,
+  "title": "Tricky Words",
+  "description": "Hard-to-name everyday actions.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00005",
+    "pack_00006",
+    "pack_00007"
+  ],
+  "tags": [
+    "intermediate",
+    "verbs"
+  ]
+}

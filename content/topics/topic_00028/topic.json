@@ -1,0 +1,14 @@
+{
+  "id": "topic_00028",
+  "version": 1,
+  "title": "Finance & Banking",
+  "description": "Money, banking, and finance vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "intermediate",
+    "finance"
+  ]
+}

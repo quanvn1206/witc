@@ -1,0 +1,14 @@
+{
+  "id": "topic_00022",
+  "version": 1,
+  "title": "Automotive & Mechanic",
+  "description": "Cars, parts, and mechanic vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "intermediate",
+    "automotive"
+  ]
+}

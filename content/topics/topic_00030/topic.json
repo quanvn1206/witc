@@ -1,0 +1,14 @@
+{
+  "id": "topic_00030",
+  "version": 1,
+  "title": "Restaurant & Kitchen",
+  "description": "Restaurants, cooking, and the kitchen.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "food"
+  ]
+}

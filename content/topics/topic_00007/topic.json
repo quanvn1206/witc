@@ -1,0 +1,14 @@
+{
+  "id": "topic_00007",
+  "version": 1,
+  "title": "Body Parts & Health",
+  "description": "Body parts and basic health vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "health"
+  ]
+}

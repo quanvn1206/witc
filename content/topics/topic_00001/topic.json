@@ -1,0 +1,15 @@
+{
+  "id": "topic_00001",
+  "version": 1,
+  "title": "Food & Drinks",
+  "description": "Everyday meals, snacks, and drinks.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00009",
+    "pack_00011"
+  ],
+  "tags": [
+    "beginner",
+    "food"
+  ]
+}

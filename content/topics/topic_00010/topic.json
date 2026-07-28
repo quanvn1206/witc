@@ -1,0 +1,14 @@
+{
+  "id": "topic_00010",
+  "version": 1,
+  "title": "Weather & Seasons",
+  "description": "Weather conditions and the four seasons.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "weather"
+  ]
+}

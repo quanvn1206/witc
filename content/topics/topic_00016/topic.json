@@ -1,0 +1,14 @@
+{
+  "id": "topic_00016",
+  "version": 1,
+  "title": "Hobbies & Games",
+  "description": "Hobbies, games, and free-time activities.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "hobbies"
+  ]
+}

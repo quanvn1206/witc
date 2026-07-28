@@ -1,0 +1,14 @@
+{
+  "id": "topic_00008",
+  "version": 1,
+  "title": "Clothes & Fashion",
+  "description": "Clothing items and fashion vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "clothes"
+  ]
+}

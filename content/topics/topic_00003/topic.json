@@ -1,0 +1,14 @@
+{
+  "id": "topic_00003",
+  "version": 1,
+  "title": "Emotions & Feelings",
+  "description": "Words for how people feel and express emotions.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "emotions"
+  ]
+}

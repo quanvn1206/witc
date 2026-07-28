@@ -1,0 +1,14 @@
+{
+  "id": "topic_00006",
+  "version": 1,
+  "title": "Home & Furniture",
+  "description": "Rooms, furniture, and things found at home.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "home"
+  ]
+}

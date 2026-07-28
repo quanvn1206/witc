@@ -1,0 +1,14 @@
+{
+  "id": "topic_00025",
+  "version": 1,
+  "title": "Medical & Healthcare",
+  "description": "Medical terms and healthcare vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "intermediate",
+    "health"
+  ]
+}

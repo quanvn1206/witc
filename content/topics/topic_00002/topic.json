@@ -1,0 +1,18 @@
+{
+  "id": "topic_00002",
+  "version": 1,
+  "title": "Animals & Pets",
+  "description": "Pets and common animal words for beginner practice.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00001",
+    "pack_00002",
+    "pack_00003",
+    "pack_00004"
+  ],
+  "tags": [
+    "beginner",
+    "animals",
+    "pets"
+  ]
+}

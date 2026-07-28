@@ -1,0 +1,14 @@
+{
+  "id": "topic_00014",
+  "version": 1,
+  "title": "Technology & Gadgets",
+  "description": "Devices and everyday technology words.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "intermediate",
+    "technology"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "topic_00018",
+  "version": 1,
+  "title": "Music & Movies",
+  "description": "Music, movies, and entertainment words.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "beginner",
+    "entertainment"
+  ]
+}

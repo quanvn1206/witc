@@ -1,0 +1,44 @@
+{
+  "id": "pack_00004",
+  "topicId": "topic_00002",
+  "version": 1,
+  "title": "Sea Life",
+  "description": "Sea Life sample words.",
+  "coverImage": "images/cover.webp",
+  "backgroundImage": null,
+  "tags": [
+    "sample"
+  ],
+  "items": [
+    {
+      "id": "pack_00004_0001",
+      "word": "sample",
+      "hint": "s_____",
+      "phonetic": "/ˈsɑːmpəl/",
+      "meanings": {
+        "vi": "mẫu",
+        "en": "sample"
+      },
+      "imagePath": "images/sample.webp",
+      "audioPath": null,
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "pack_00004_0002",
+      "word": "example",
+      "hint": "e______",
+      "phonetic": "/ɪɡˈzɑːmpəl/",
+      "meanings": {
+        "vi": "ví dụ",
+        "en": "example"
+      },
+      "imagePath": "images/example.webp",
+      "audioPath": null,
+      "tags": [
+        "sample"
+      ]
+    }
+  ]
+}

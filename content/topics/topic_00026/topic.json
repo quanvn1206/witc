@@ -1,0 +1,14 @@
+{
+  "id": "topic_00026",
+  "version": 1,
+  "title": "Capital Cities",
+  "description": "Capital cities from around the world.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "intermediate",
+    "geography"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "topic_00012",
+  "version": 1,
+  "title": "School & Study",
+  "description": "Classroom items and study vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00010"
+  ],
+  "tags": [
+    "beginner",
+    "school"
+  ]
+}

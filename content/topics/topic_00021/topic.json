@@ -1,0 +1,14 @@
+{
+  "id": "topic_00021",
+  "version": 1,
+  "title": "World Landmarks",
+  "description": "Famous landmarks and places around the world.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00012"
+  ],
+  "tags": [
+    "intermediate",
+    "geography"
+  ]
+}

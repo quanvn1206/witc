@@ -1,0 +1,144 @@
+{
+  "id": "pack_00011",
+  "topicId": "topic_00001",
+  "version": 1,
+  "title": "Fruits",
+  "description": "Fruits vocabulary for Food & Drinks practice.",
+  "coverImage": "images/cover.webp",
+  "backgroundImage": "images/background.webp",
+  "tags": [
+    "a1"
+  ],
+  "items": [
+    {
+      "id": "pack_00011_00001",
+      "word": "apple",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "apple"
+      },
+      "imagePath": "images/apple.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00002",
+      "word": "banana",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "banana"
+      },
+      "imagePath": "images/banana.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00003",
+      "word": "orange",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "orange"
+      },
+      "imagePath": "images/orange.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00004",
+      "word": "grape",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "grape"
+      },
+      "imagePath": "images/grape.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00005",
+      "word": "watermelon",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "watermelon"
+      },
+      "imagePath": "images/watermelon.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00006",
+      "word": "strawberry",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "strawberry"
+      },
+      "imagePath": "images/strawberry.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00007",
+      "word": "mango",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "mango"
+      },
+      "imagePath": "images/mango.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00008",
+      "word": "pineapple",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "pineapple"
+      },
+      "imagePath": "images/pineapple.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00009",
+      "word": "lemon",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "lemon"
+      },
+      "imagePath": "images/lemon.webp",
+      "audioPath": null,
+      "tags": []
+    },
+    {
+      "id": "pack_00011_00010",
+      "word": "peach",
+      "hint": null,
+      "phonetic": null,
+      "meanings": {
+        "vi": null,
+        "en": "peach"
+      },
+      "imagePath": "images/peach.webp",
+      "audioPath": null,
+      "tags": []
+    }
+  ]
+}
