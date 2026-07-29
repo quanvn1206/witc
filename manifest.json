@@ -1,0 +1,180 @@
+{
+  "manifestVersion": 1,
+  "trendingTopicIds": [],
+  "topics": [
+    {
+      "id": "topic_trending",
+      "version": 1
+    },
+    {
+      "id": "topic_00001",
+      "version": 3
+    },
+    {
+      "id": "topic_00002",
+      "version": 1
+    },
+    {
+      "id": "topic_00003",
+      "version": 1
+    },
+    {
+      "id": "topic_00004",
+      "version": 1
+    },
+    {
+      "id": "topic_00005",
+      "version": 1
+    },
+    {
+      "id": "topic_00006",
+      "version": 1
+    },
+    {
+      "id": "topic_00007",
+      "version": 1
+    },
+    {
+      "id": "topic_00008",
+      "version": 1
+    },
+    {
+      "id": "topic_00009",
+      "version": 1
+    },
+    {
+      "id": "topic_00010",
+      "version": 1
+    },
+    {
+      "id": "topic_00011",
+      "version": 1
+    },
+    {
+      "id": "topic_00012",
+      "version": 1
+    },
+    {
+      "id": "topic_00013",
+      "version": 1
+    },
+    {
+      "id": "topic_00014",
+      "version": 1
+    },
+    {
+      "id": "topic_00015",
+      "version": 1
+    },
+    {
+      "id": "topic_00016",
+      "version": 1
+    },
+    {
+      "id": "topic_00017",
+      "version": 1
+    },
+    {
+      "id": "topic_00018",
+      "version": 1
+    },
+    {
+      "id": "topic_00019",
+      "version": 1
+    },
+    {
+      "id": "topic_00020",
+      "version": 1
+    },
+    {
+      "id": "topic_00021",
+      "version": 1
+    },
+    {
+      "id": "topic_00022",
+      "version": 1
+    },
+    {
+      "id": "topic_00023",
+      "version": 1
+    },
+    {
+      "id": "topic_00024",
+      "version": 1
+    },
+    {
+      "id": "topic_00025",
+      "version": 1
+    },
+    {
+      "id": "topic_00026",
+      "version": 1
+    },
+    {
+      "id": "topic_00027",
+      "version": 1
+    },
+    {
+      "id": "topic_00028",
+      "version": 1
+    },
+    {
+      "id": "topic_00029",
+      "version": 1
+    },
+    {
+      "id": "topic_00030",
+      "version": 1
+    }
+  ],
+  "vocabPacks": [
+    {
+      "id": "pack_00001",
+      "version": 2
+    },
+    {
+      "id": "pack_00002",
+      "version": 1
+    },
+    {
+      "id": "pack_00003",
+      "version": 1
+    },
+    {
+      "id": "pack_00004",
+      "version": 1
+    },
+    {
+      "id": "pack_00005",
+      "version": 1
+    },
+    {
+      "id": "pack_00006",
+      "version": 1
+    },
+    {
+      "id": "pack_00007",
+      "version": 1
+    },
+    {
+      "id": "pack_00008",
+      "version": 1
+    },
+    {
+      "id": "pack_00009",
+      "version": 1
+    },
+    {
+      "id": "pack_00010",
+      "version": 1
+    },
+    {
+      "id": "pack_00011",
+      "version": 1
+    },
+    {
+      "id": "pack_00012",
+      "version": 1
+    }
+  ]
+}
