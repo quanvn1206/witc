@@ -5,7 +5,11 @@
   "description": "Restaurants, cooking, and the kitchen.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00151",
+    "pack_00152",
+    "pack_00153",
+    "pack_00154",
+    "pack_00155"
   ],
   "tags": [
     "beginner",

@@ -5,7 +5,11 @@
   "description": "Sports, exercise, and fitness vocabulary.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00081",
+    "pack_00082",
+    "pack_00083",
+    "pack_00084",
+    "pack_00085"
   ],
   "tags": [
     "beginner",

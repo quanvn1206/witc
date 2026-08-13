@@ -5,7 +5,11 @@
   "description": "Vehicles and ways to get around.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00054",
+    "pack_00055",
+    "pack_00056",
+    "pack_00057",
+    "pack_00058"
   ],
   "tags": [
     "beginner",

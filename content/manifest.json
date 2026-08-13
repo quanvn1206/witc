@@ -1,14 +1,10 @@
 {
-  "manifestVersion": 1,
+  "manifestVersion": 2,
   "trendingTopicIds": [],
   "topics": [
     {
-      "id": "topic_trending",
-      "version": 1
-    },
-    {
       "id": "topic_00001",
-      "version": 3
+      "version": 1
     },
     {
       "id": "topic_00002",
@@ -23,11 +19,11 @@
       "version": 1
     },
     {
-      "id": "topic_00005",
+      "id": "topic_00006",
       "version": 1
     },
     {
-      "id": "topic_00006",
+      "id": "topic_00005",
       "version": 1
     },
     {
@@ -63,6 +59,10 @@
       "version": 1
     },
     {
+      "id": "topic_00024",
+      "version": 1
+    },
+    {
       "id": "topic_00015",
       "version": 1
     },
@@ -79,11 +79,11 @@
       "version": 1
     },
     {
-      "id": "topic_00019",
+      "id": "topic_00020",
       "version": 1
     },
     {
-      "id": "topic_00020",
+      "id": "topic_00019",
       "version": 1
     },
     {
@@ -91,7 +91,7 @@
       "version": 1
     },
     {
-      "id": "topic_00022",
+      "id": "topic_00026",
       "version": 1
     },
     {
@@ -99,7 +99,7 @@
       "version": 1
     },
     {
-      "id": "topic_00024",
+      "id": "topic_00022",
       "version": 1
     },
     {
@@ -107,7 +107,7 @@
       "version": 1
     },
     {
-      "id": "topic_00026",
+      "id": "topic_00029",
       "version": 1
     },
     {
@@ -119,18 +119,22 @@
       "version": 1
     },
     {
-      "id": "topic_00029",
+      "id": "topic_00030",
       "version": 1
     },
     {
-      "id": "topic_00030",
+      "id": "topic_00031",
+      "version": 1
+    },
+    {
+      "id": "topic_00032",
       "version": 1
     }
   ],
   "vocabPacks": [
     {
       "id": "pack_00001",
-      "version": 2
+      "version": 1
     },
     {
       "id": "pack_00002",
@@ -174,6 +178,618 @@
     },
     {
       "id": "pack_00012",
+      "version": 1
+    },
+    {
+      "id": "pack_00013",
+      "version": 1
+    },
+    {
+      "id": "pack_00014",
+      "version": 1
+    },
+    {
+      "id": "pack_00015",
+      "version": 1
+    },
+    {
+      "id": "pack_00016",
+      "version": 1
+    },
+    {
+      "id": "pack_00017",
+      "version": 1
+    },
+    {
+      "id": "pack_00018",
+      "version": 1
+    },
+    {
+      "id": "pack_00019",
+      "version": 1
+    },
+    {
+      "id": "pack_00020",
+      "version": 1
+    },
+    {
+      "id": "pack_00021",
+      "version": 1
+    },
+    {
+      "id": "pack_00022",
+      "version": 1
+    },
+    {
+      "id": "pack_00023",
+      "version": 1
+    },
+    {
+      "id": "pack_00024",
+      "version": 1
+    },
+    {
+      "id": "pack_00025",
+      "version": 1
+    },
+    {
+      "id": "pack_00026",
+      "version": 1
+    },
+    {
+      "id": "pack_00027",
+      "version": 1
+    },
+    {
+      "id": "pack_00028",
+      "version": 1
+    },
+    {
+      "id": "pack_00029",
+      "version": 1
+    },
+    {
+      "id": "pack_00030",
+      "version": 1
+    },
+    {
+      "id": "pack_00031",
+      "version": 1
+    },
+    {
+      "id": "pack_00032",
+      "version": 1
+    },
+    {
+      "id": "pack_00033",
+      "version": 1
+    },
+    {
+      "id": "pack_00034",
+      "version": 1
+    },
+    {
+      "id": "pack_00035",
+      "version": 1
+    },
+    {
+      "id": "pack_00036",
+      "version": 1
+    },
+    {
+      "id": "pack_00037",
+      "version": 1
+    },
+    {
+      "id": "pack_00038",
+      "version": 1
+    },
+    {
+      "id": "pack_00039",
+      "version": 1
+    },
+    {
+      "id": "pack_00040",
+      "version": 1
+    },
+    {
+      "id": "pack_00041",
+      "version": 1
+    },
+    {
+      "id": "pack_00042",
+      "version": 1
+    },
+    {
+      "id": "pack_00043",
+      "version": 1
+    },
+    {
+      "id": "pack_00044",
+      "version": 1
+    },
+    {
+      "id": "pack_00045",
+      "version": 1
+    },
+    {
+      "id": "pack_00046",
+      "version": 1
+    },
+    {
+      "id": "pack_00047",
+      "version": 1
+    },
+    {
+      "id": "pack_00048",
+      "version": 1
+    },
+    {
+      "id": "pack_00049",
+      "version": 1
+    },
+    {
+      "id": "pack_00050",
+      "version": 1
+    },
+    {
+      "id": "pack_00051",
+      "version": 1
+    },
+    {
+      "id": "pack_00052",
+      "version": 1
+    },
+    {
+      "id": "pack_00053",
+      "version": 1
+    },
+    {
+      "id": "pack_00054",
+      "version": 1
+    },
+    {
+      "id": "pack_00055",
+      "version": 1
+    },
+    {
+      "id": "pack_00056",
+      "version": 1
+    },
+    {
+      "id": "pack_00057",
+      "version": 1
+    },
+    {
+      "id": "pack_00058",
+      "version": 1
+    },
+    {
+      "id": "pack_00059",
+      "version": 1
+    },
+    {
+      "id": "pack_00060",
+      "version": 1
+    },
+    {
+      "id": "pack_00061",
+      "version": 1
+    },
+    {
+      "id": "pack_00062",
+      "version": 1
+    },
+    {
+      "id": "pack_00063",
+      "version": 1
+    },
+    {
+      "id": "pack_00064",
+      "version": 1
+    },
+    {
+      "id": "pack_00065",
+      "version": 1
+    },
+    {
+      "id": "pack_00066",
+      "version": 1
+    },
+    {
+      "id": "pack_00067",
+      "version": 1
+    },
+    {
+      "id": "pack_00068",
+      "version": 1
+    },
+    {
+      "id": "pack_00069",
+      "version": 1
+    },
+    {
+      "id": "pack_00070",
+      "version": 1
+    },
+    {
+      "id": "pack_00071",
+      "version": 1
+    },
+    {
+      "id": "pack_00072",
+      "version": 1
+    },
+    {
+      "id": "pack_00073",
+      "version": 1
+    },
+    {
+      "id": "pack_00074",
+      "version": 1
+    },
+    {
+      "id": "pack_00075",
+      "version": 1
+    },
+    {
+      "id": "pack_00076",
+      "version": 1
+    },
+    {
+      "id": "pack_00077",
+      "version": 1
+    },
+    {
+      "id": "pack_00078",
+      "version": 1
+    },
+    {
+      "id": "pack_00079",
+      "version": 1
+    },
+    {
+      "id": "pack_00080",
+      "version": 1
+    },
+    {
+      "id": "pack_00081",
+      "version": 1
+    },
+    {
+      "id": "pack_00082",
+      "version": 1
+    },
+    {
+      "id": "pack_00083",
+      "version": 1
+    },
+    {
+      "id": "pack_00084",
+      "version": 1
+    },
+    {
+      "id": "pack_00085",
+      "version": 1
+    },
+    {
+      "id": "pack_00086",
+      "version": 1
+    },
+    {
+      "id": "pack_00087",
+      "version": 1
+    },
+    {
+      "id": "pack_00088",
+      "version": 1
+    },
+    {
+      "id": "pack_00089",
+      "version": 1
+    },
+    {
+      "id": "pack_00090",
+      "version": 1
+    },
+    {
+      "id": "pack_00091",
+      "version": 1
+    },
+    {
+      "id": "pack_00092",
+      "version": 1
+    },
+    {
+      "id": "pack_00093",
+      "version": 1
+    },
+    {
+      "id": "pack_00094",
+      "version": 1
+    },
+    {
+      "id": "pack_00095",
+      "version": 1
+    },
+    {
+      "id": "pack_00096",
+      "version": 1
+    },
+    {
+      "id": "pack_00097",
+      "version": 1
+    },
+    {
+      "id": "pack_00098",
+      "version": 1
+    },
+    {
+      "id": "pack_00099",
+      "version": 1
+    },
+    {
+      "id": "pack_00100",
+      "version": 1
+    },
+    {
+      "id": "pack_00101",
+      "version": 1
+    },
+    {
+      "id": "pack_00102",
+      "version": 1
+    },
+    {
+      "id": "pack_00103",
+      "version": 1
+    },
+    {
+      "id": "pack_00104",
+      "version": 1
+    },
+    {
+      "id": "pack_00105",
+      "version": 1
+    },
+    {
+      "id": "pack_00106",
+      "version": 1
+    },
+    {
+      "id": "pack_00107",
+      "version": 1
+    },
+    {
+      "id": "pack_00108",
+      "version": 1
+    },
+    {
+      "id": "pack_00109",
+      "version": 1
+    },
+    {
+      "id": "pack_00110",
+      "version": 1
+    },
+    {
+      "id": "pack_00111",
+      "version": 1
+    },
+    {
+      "id": "pack_00112",
+      "version": 1
+    },
+    {
+      "id": "pack_00113",
+      "version": 1
+    },
+    {
+      "id": "pack_00114",
+      "version": 1
+    },
+    {
+      "id": "pack_00115",
+      "version": 1
+    },
+    {
+      "id": "pack_00116",
+      "version": 1
+    },
+    {
+      "id": "pack_00117",
+      "version": 1
+    },
+    {
+      "id": "pack_00118",
+      "version": 1
+    },
+    {
+      "id": "pack_00119",
+      "version": 1
+    },
+    {
+      "id": "pack_00120",
+      "version": 1
+    },
+    {
+      "id": "pack_00121",
+      "version": 1
+    },
+    {
+      "id": "pack_00122",
+      "version": 1
+    },
+    {
+      "id": "pack_00123",
+      "version": 1
+    },
+    {
+      "id": "pack_00124",
+      "version": 1
+    },
+    {
+      "id": "pack_00125",
+      "version": 1
+    },
+    {
+      "id": "pack_00126",
+      "version": 1
+    },
+    {
+      "id": "pack_00127",
+      "version": 1
+    },
+    {
+      "id": "pack_00128",
+      "version": 1
+    },
+    {
+      "id": "pack_00129",
+      "version": 1
+    },
+    {
+      "id": "pack_00130",
+      "version": 1
+    },
+    {
+      "id": "pack_00131",
+      "version": 1
+    },
+    {
+      "id": "pack_00132",
+      "version": 1
+    },
+    {
+      "id": "pack_00133",
+      "version": 1
+    },
+    {
+      "id": "pack_00134",
+      "version": 1
+    },
+    {
+      "id": "pack_00135",
+      "version": 1
+    },
+    {
+      "id": "pack_00136",
+      "version": 1
+    },
+    {
+      "id": "pack_00137",
+      "version": 1
+    },
+    {
+      "id": "pack_00138",
+      "version": 1
+    },
+    {
+      "id": "pack_00139",
+      "version": 1
+    },
+    {
+      "id": "pack_00140",
+      "version": 1
+    },
+    {
+      "id": "pack_00141",
+      "version": 1
+    },
+    {
+      "id": "pack_00142",
+      "version": 1
+    },
+    {
+      "id": "pack_00143",
+      "version": 1
+    },
+    {
+      "id": "pack_00144",
+      "version": 1
+    },
+    {
+      "id": "pack_00145",
+      "version": 1
+    },
+    {
+      "id": "pack_00146",
+      "version": 1
+    },
+    {
+      "id": "pack_00147",
+      "version": 1
+    },
+    {
+      "id": "pack_00148",
+      "version": 1
+    },
+    {
+      "id": "pack_00149",
+      "version": 1
+    },
+    {
+      "id": "pack_00150",
+      "version": 1
+    },
+    {
+      "id": "pack_00151",
+      "version": 1
+    },
+    {
+      "id": "pack_00152",
+      "version": 1
+    },
+    {
+      "id": "pack_00153",
+      "version": 1
+    },
+    {
+      "id": "pack_00154",
+      "version": 1
+    },
+    {
+      "id": "pack_00155",
+      "version": 1
+    },
+    {
+      "id": "pack_00156",
+      "version": 1
+    },
+    {
+      "id": "pack_00157",
+      "version": 1
+    },
+    {
+      "id": "pack_00158",
+      "version": 1
+    },
+    {
+      "id": "pack_00159",
+      "version": 1
+    },
+    {
+      "id": "pack_00160",
+      "version": 1
+    },
+    {
+      "id": "pack_00161",
+      "version": 1
+    },
+    {
+      "id": "pack_00162",
+      "version": 1
+    },
+    {
+      "id": "pack_00163",
+      "version": 1
+    },
+    {
+      "id": "pack_00164",
+      "version": 1
+    },
+    {
+      "id": "pack_00165",
       "version": 1
     }
   ]

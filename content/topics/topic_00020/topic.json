@@ -5,7 +5,11 @@
   "description": "Shopping trips and everyday money words.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00101",
+    "pack_00102",
+    "pack_00103",
+    "pack_00104",
+    "pack_00105"
   ],
   "tags": [
     "beginner",

@@ -5,7 +5,11 @@
   "description": "Famous landmarks and places around the world.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00111",
+    "pack_00112",
+    "pack_00113",
+    "pack_00114",
+    "pack_00115"
   ],
   "tags": [
     "intermediate",

@@ -5,7 +5,11 @@
   "description": "Beauty, skincare, and salon vocabulary.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00121",
+    "pack_00122",
+    "pack_00123",
+    "pack_00124",
+    "pack_00125"
   ],
   "tags": [
     "beginner",

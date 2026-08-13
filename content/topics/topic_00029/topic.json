@@ -5,7 +5,11 @@
   "description": "City life and traffic vocabulary.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00008"
+    "pack_00136",
+    "pack_00137",
+    "pack_00138",
+    "pack_00139",
+    "pack_00140"
   ],
   "tags": [
     "beginner",

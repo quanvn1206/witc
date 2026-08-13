@@ -5,7 +5,11 @@
   "description": "Weather conditions and the four seasons.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00049",
+    "pack_00050",
+    "pack_00051",
+    "pack_00052",
+    "pack_00053"
   ],
   "tags": [
     "beginner",

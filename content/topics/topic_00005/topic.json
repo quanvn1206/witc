@@ -5,7 +5,11 @@
   "description": "Common tools found around the house.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00029",
+    "pack_00030",
+    "pack_00031",
+    "pack_00032",
+    "pack_00033"
   ],
   "tags": [
     "beginner",

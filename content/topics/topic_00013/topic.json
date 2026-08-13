@@ -5,7 +5,13 @@
   "description": "Countries, nationalities, and their flags.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00064",
+    "pack_00065",
+    "pack_00066",
+    "pack_00067",
+    "pack_00068",
+    "pack_00069",
+    "pack_00070"
   ],
   "tags": [
     "intermediate",

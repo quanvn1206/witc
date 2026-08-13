@@ -1,12 +1,16 @@
 {
   "id": "topic_00001",
   "version": 1,
-  "title": "Food & Drinks test",
+  "title": "Food & Drinks",
   "description": "Everyday meals, snacks, and drinks.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00009",
-    "pack_00011"
+    "pack_00001",
+    "pack_00002",
+    "pack_00003",
+    "pack_00004",
+    "pack_00005",
+    "pack_00006"
   ],
   "tags": [
     "beginner",

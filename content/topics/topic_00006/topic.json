@@ -5,7 +5,11 @@
   "description": "Rooms, furniture, and things found at home.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00024",
+    "pack_00025",
+    "pack_00026",
+    "pack_00027",
+    "pack_00028"
   ],
   "tags": [
     "beginner",

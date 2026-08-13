@@ -5,7 +5,11 @@
   "description": "Construction sites and building tools.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00141",
+    "pack_00142",
+    "pack_00143",
+    "pack_00144",
+    "pack_00145"
   ],
   "tags": [
     "intermediate",

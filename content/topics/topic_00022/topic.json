@@ -5,7 +5,11 @@
   "description": "Cars, parts, and mechanic vocabulary.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00126",
+    "pack_00127",
+    "pack_00128",
+    "pack_00129",
+    "pack_00130"
   ],
   "tags": [
     "intermediate",

@@ -1,0 +1,18 @@
+{
+  "id": "topic_00032",
+  "version": 1,
+  "title": "Word Completion",
+  "description": "Fill-in-the-blank practice across mixed vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00161",
+    "pack_00162",
+    "pack_00163",
+    "pack_00164",
+    "pack_00165"
+  ],
+  "tags": [
+    "intermediate",
+    "vocabulary"
+  ]
+}

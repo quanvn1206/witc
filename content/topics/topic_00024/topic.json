@@ -5,7 +5,11 @@
   "description": "Travel, trips, and places to visit.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00076",
+    "pack_00077",
+    "pack_00078",
+    "pack_00079",
+    "pack_00080"
   ],
   "tags": [
     "beginner",

@@ -5,7 +5,11 @@
   "description": "Family members and people around you.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00044",
+    "pack_00045",
+    "pack_00046",
+    "pack_00047",
+    "pack_00048"
   ],
   "tags": [
     "beginner",

@@ -5,7 +5,11 @@
   "description": "Devices and everyday technology words.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00071",
+    "pack_00072",
+    "pack_00073",
+    "pack_00074",
+    "pack_00075"
   ],
   "tags": [
     "intermediate",

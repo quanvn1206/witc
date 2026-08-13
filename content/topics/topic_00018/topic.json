@@ -5,7 +5,11 @@
   "description": "Music, movies, and entertainment words.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00096",
+    "pack_00097",
+    "pack_00098",
+    "pack_00099",
+    "pack_00100"
   ],
   "tags": [
     "beginner",

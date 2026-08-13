@@ -1,0 +1,18 @@
+{
+  "id": "topic_00031",
+  "version": 1,
+  "title": "Farming & Agriculture",
+  "description": "Farm life, crops, and agriculture vocabulary.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00156",
+    "pack_00157",
+    "pack_00158",
+    "pack_00159",
+    "pack_00160"
+  ],
+  "tags": [
+    "beginner",
+    "farming"
+  ]
+}

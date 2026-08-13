@@ -5,7 +5,11 @@
   "description": "Classroom items and study vocabulary.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00010"
+    "pack_00059",
+    "pack_00060",
+    "pack_00061",
+    "pack_00062",
+    "pack_00063"
   ],
   "tags": [
     "beginner",

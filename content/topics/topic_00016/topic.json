@@ -5,7 +5,11 @@
   "description": "Hobbies, games, and free-time activities.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00086",
+    "pack_00087",
+    "pack_00088",
+    "pack_00089",
+    "pack_00090"
   ],
   "tags": [
     "beginner",

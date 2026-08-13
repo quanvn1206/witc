@@ -5,7 +5,11 @@
   "description": "Capital cities from around the world.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00116",
+    "pack_00117",
+    "pack_00118",
+    "pack_00119",
+    "pack_00120"
   ],
   "tags": [
     "intermediate",

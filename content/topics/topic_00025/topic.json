@@ -5,7 +5,11 @@
   "description": "Medical terms and healthcare vocabulary.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00131",
+    "pack_00132",
+    "pack_00133",
+    "pack_00134",
+    "pack_00135"
   ],
   "tags": [
     "intermediate",

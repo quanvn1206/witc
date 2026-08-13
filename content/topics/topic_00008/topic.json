@@ -5,7 +5,11 @@
   "description": "Clothing items and fashion vocabulary.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00039",
+    "pack_00040",
+    "pack_00041",
+    "pack_00042",
+    "pack_00043"
   ],
   "tags": [
     "beginner",

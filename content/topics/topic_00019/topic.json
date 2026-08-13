@@ -5,7 +5,11 @@
   "description": "Holidays, festivals, and celebrations.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00106",
+    "pack_00107",
+    "pack_00108",
+    "pack_00109",
+    "pack_00110"
   ],
   "tags": [
     "beginner",

@@ -5,7 +5,11 @@
   "description": "Body parts and basic health vocabulary.",
   "coverImage": "images/cover.webp",
   "packIds": [
-    "pack_00012"
+    "pack_00034",
+    "pack_00035",
+    "pack_00036",
+    "pack_00037",
+    "pack_00038"
   ],
   "tags": [
     "beginner",
