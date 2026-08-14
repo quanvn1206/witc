@@ -188,7 +188,7 @@
         "tr": "seçmek",
         "en": "pick"
       },
-      "imagePath": null,
+      "imagePath": "images/pick.webp",
       "audioPath": null,
       "tags": []
     },
@@ -266,7 +266,7 @@
         "tr": "çimen",
         "en": "grass"
       },
-      "imagePath": null,
+      "imagePath": "images/grass.webp",
       "audioPath": null,
       "tags": []
     }

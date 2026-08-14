@@ -4,7 +4,7 @@
   "version": 1,
   "title": "Body Care",
   "description": "Body Care vocabulary for Medical & Healthcare practice.",
-  "coverImage": "images/background.webp",
+  "coverImage": "images/doctor.webp",
   "backgroundImage": "images/background.webp",
   "tags": [
     "a1"
@@ -32,7 +32,7 @@
         "tr": "doktor",
         "en": "doctor"
       },
-      "imagePath": null,
+      "imagePath": "images/doctor.webp",
       "audioPath": null,
       "tags": []
     },

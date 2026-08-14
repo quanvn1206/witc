@@ -110,7 +110,7 @@
         "tr": "ızgara",
         "en": "grill"
       },
-      "imagePath": null,
+      "imagePath": "images/grill.webp",
       "audioPath": null,
       "tags": []
     },
@@ -266,7 +266,7 @@
         "tr": "karışım",
         "en": "mix"
       },
-      "imagePath": null,
+      "imagePath": "images/mix.webp",
       "audioPath": null,
       "tags": []
     }

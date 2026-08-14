@@ -4,7 +4,7 @@
   "version": 1,
   "title": "Urban Transport",
   "description": "Urban Transport vocabulary for City & Traffic practice.",
-  "coverImage": "images/background.webp",
+  "coverImage": "images/commute.webp",
   "backgroundImage": "images/background.webp",
   "tags": [
     "b1"
@@ -32,7 +32,7 @@
         "tr": "işe gidip gelmek",
         "en": "commute"
       },
-      "imagePath": null,
+      "imagePath": "images/commute.webp",
       "audioPath": null,
       "tags": []
     },
