@@ -14,7 +14,7 @@
       "id": "pack_00084_0001",
       "word": "endurance",
       "hint": null,
-      "phonetic": "/ɛndˈʊɹɹəns/",
+      "phonetic": "/ˈɛndərəns/",
       "meanings": {
         "es": "resistencia",
         "pt": "resistência",
@@ -40,7 +40,7 @@
       "id": "pack_00084_0002",
       "word": "strength",
       "hint": null,
-      "phonetic": "/stɹˈɛŋθ/",
+      "phonetic": "/strɛŋkθ/",
       "meanings": {
         "es": "fortaleza",
         "pt": "força",
@@ -66,7 +66,7 @@
       "id": "pack_00084_0003",
       "word": "flexibility",
       "hint": null,
-      "phonetic": "/flˌɛksəbˈɪlᵻɾi/",
+      "phonetic": "/ˌflɛksəˈbɪləti/",
       "meanings": {
         "es": "flexibilidad",
         "pt": "flexibilidade",
@@ -92,7 +92,7 @@
       "id": "pack_00084_0004",
       "word": "coach",
       "hint": null,
-      "phonetic": "/kˈoʊtʃ/",
+      "phonetic": "/koʊtʃ/",
       "meanings": {
         "es": "entrenador",
         "pt": "treinador",
@@ -118,7 +118,7 @@
       "id": "pack_00084_0005",
       "word": "competition",
       "hint": null,
-      "phonetic": "/kˌɑːmpətˈɪʃən/",
+      "phonetic": "/ˌkɑmpəˈtɪʃən/",
       "meanings": {
         "es": "competencia",
         "pt": "concorrência",
@@ -144,7 +144,7 @@
       "id": "pack_00084_0006",
       "word": "tournament",
       "hint": null,
-      "phonetic": "/tˈʊɹnəmənt/",
+      "phonetic": "/ˈtʊrnəmənt/",
       "meanings": {
         "es": "torneo",
         "pt": "torneio",
@@ -170,7 +170,7 @@
       "id": "pack_00084_0007",
       "word": "athlete",
       "hint": null,
-      "phonetic": "/ˈæθliːt/",
+      "phonetic": "/ˈæθlit/",
       "meanings": {
         "es": "atleta",
         "pt": "atleta",
@@ -196,7 +196,7 @@
       "id": "pack_00084_0008",
       "word": "referee",
       "hint": null,
-      "phonetic": "/ɹˌɛfɚɹˈiː/",
+      "phonetic": "/ˌrɛfəˈri/",
       "meanings": {
         "es": "árbitro",
         "pt": "árbitro",
@@ -222,7 +222,7 @@
       "id": "pack_00084_0009",
       "word": "performance",
       "hint": null,
-      "phonetic": "/pɚfˈɔːɹməns/",
+      "phonetic": "/pərˈfɔrməns/",
       "meanings": {
         "es": "actuación",
         "pt": "desempenho",
@@ -248,7 +248,7 @@
       "id": "pack_00084_0010",
       "word": "teamwork",
       "hint": null,
-      "phonetic": "/tˈiːmwɜːk/",
+      "phonetic": "/ˈtimwɜrk/",
       "meanings": {
         "es": "trabajo en equipo",
         "pt": "trabalho em equipe",

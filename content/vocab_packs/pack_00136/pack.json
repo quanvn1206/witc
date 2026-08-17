@@ -14,7 +14,7 @@
       "id": "pack_00136_0001",
       "word": "street",
       "hint": null,
-      "phonetic": "/stɹˈiːt/",
+      "phonetic": "/strit/",
       "meanings": {
         "es": "calle",
         "pt": "rua",
@@ -40,7 +40,7 @@
       "id": "pack_00136_0002",
       "word": "road",
       "hint": null,
-      "phonetic": "/ɹˈoʊd/",
+      "phonetic": "/roʊd/",
       "meanings": {
         "es": "camino",
         "pt": "estrada",
@@ -66,7 +66,7 @@
       "id": "pack_00136_0003",
       "word": "bridge",
       "hint": null,
-      "phonetic": "/bɹˈɪdʒ/",
+      "phonetic": "/brɪdʒ/",
       "meanings": {
         "es": "puente",
         "pt": "ponte",
@@ -92,7 +92,7 @@
       "id": "pack_00136_0004",
       "word": "park",
       "hint": null,
-      "phonetic": "/pˈɑːɹk/",
+      "phonetic": "/pɑrk/",
       "meanings": {
         "es": "parque",
         "pt": "parque",
@@ -118,7 +118,7 @@
       "id": "pack_00136_0005",
       "word": "hospital",
       "hint": null,
-      "phonetic": "/hˈɑːspɪɾəl/",
+      "phonetic": "/ˈhɑspɪtəl/",
       "meanings": {
         "es": "hospital",
         "pt": "hospital",
@@ -144,7 +144,7 @@
       "id": "pack_00136_0006",
       "word": "school",
       "hint": null,
-      "phonetic": "/skˈuːl/",
+      "phonetic": "/skul/",
       "meanings": {
         "es": "escuela",
         "pt": "escola",
@@ -170,7 +170,7 @@
       "id": "pack_00136_0007",
       "word": "bank",
       "hint": null,
-      "phonetic": "/bˈæŋk/",
+      "phonetic": "/bæŋk/",
       "meanings": {
         "es": "banco",
         "pt": "banco",
@@ -196,7 +196,7 @@
       "id": "pack_00136_0008",
       "word": "supermarket",
       "hint": null,
-      "phonetic": "/sˈuːpɚmˌɑːɹkɪt/",
+      "phonetic": "/ˈsupərmɑrkɪt/",
       "meanings": {
         "es": "supermercado",
         "pt": "supermercado",
@@ -222,7 +222,7 @@
       "id": "pack_00136_0009",
       "word": "station",
       "hint": null,
-      "phonetic": "/stˈeɪʃən/",
+      "phonetic": "/ˈsteɪʃən/",
       "meanings": {
         "es": "estación",
         "pt": "estação",
@@ -248,7 +248,7 @@
       "id": "pack_00136_0010",
       "word": "library",
       "hint": null,
-      "phonetic": "/lˈaɪbɹɛɹi/",
+      "phonetic": "/ˈlaɪbrɛri/",
       "meanings": {
         "es": "biblioteca",
         "pt": "biblioteca",

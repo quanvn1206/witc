@@ -14,7 +14,7 @@
       "id": "pack_00062_0001",
       "word": "exam",
       "hint": null,
-      "phonetic": "/ɛɡzˈæm/",
+      "phonetic": "/ɪɡˈzæm/",
       "meanings": {
         "es": "examen",
         "pt": "exame",
@@ -40,7 +40,7 @@
       "id": "pack_00062_0002",
       "word": "grade",
       "hint": null,
-      "phonetic": "/ɡɹˈeɪd/",
+      "phonetic": "/ɡreɪd/",
       "meanings": {
         "es": "calificación",
         "pt": "nota",
@@ -66,7 +66,7 @@
       "id": "pack_00062_0003",
       "word": "assignment",
       "hint": null,
-      "phonetic": "/ɐsˈaɪnmənt/",
+      "phonetic": "/əˈsaɪnmənt/",
       "meanings": {
         "es": "asignación",
         "pt": "atribuição",
@@ -92,7 +92,7 @@
       "id": "pack_00062_0004",
       "word": "project",
       "hint": null,
-      "phonetic": "/pɹˈɑːdʒɛkt/",
+      "phonetic": "/ˈprɑdʒɛkt/",
       "meanings": {
         "es": "proyecto",
         "pt": "projeto",
@@ -118,7 +118,7 @@
       "id": "pack_00062_0005",
       "word": "presentation",
       "hint": null,
-      "phonetic": "/pɹˌɛzəntˈeɪʃən/",
+      "phonetic": "/ˌprɛzənˈteɪʃən/",
       "meanings": {
         "es": "presentación",
         "pt": "apresentação",
@@ -144,7 +144,7 @@
       "id": "pack_00062_0006",
       "word": "deadline",
       "hint": null,
-      "phonetic": "/dˈɛdlaɪn/",
+      "phonetic": "/ˈdɛdlaɪn/",
       "meanings": {
         "es": "fecha límite",
         "pt": "prazo final",
@@ -170,7 +170,7 @@
       "id": "pack_00062_0007",
       "word": "certificate",
       "hint": null,
-      "phonetic": "/sɚtˈɪfɪkət/",
+      "phonetic": "/sərˈtɪfɪkət/",
       "meanings": {
         "es": "certificado",
         "pt": "certificado",
@@ -196,7 +196,7 @@
       "id": "pack_00062_0008",
       "word": "semester",
       "hint": null,
-      "phonetic": "/səmˈɛstɚ/",
+      "phonetic": "/səˈmɛstər/",
       "meanings": {
         "es": "semestre",
         "pt": "semestre",
@@ -222,7 +222,7 @@
       "id": "pack_00062_0009",
       "word": "curriculum",
       "hint": null,
-      "phonetic": "/kɜːɹˈɪkjʊləm/",
+      "phonetic": "/kəˈrɪkjələm/",
       "meanings": {
         "es": "plan de estudios",
         "pt": "currículo",
@@ -248,7 +248,7 @@
       "id": "pack_00062_0010",
       "word": "scholarship",
       "hint": null,
-      "phonetic": "/skˈɑːlɚʃˌɪp/",
+      "phonetic": "/ˈskɑlərʃɪp/",
       "meanings": {
         "es": "beca",
         "pt": "bolsa de estudos",

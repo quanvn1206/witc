@@ -14,7 +14,7 @@
       "id": "pack_00010_0001",
       "word": "dog",
       "hint": null,
-      "phonetic": "/dˈɑːɡ/",
+      "phonetic": "/dɔɡ/",
       "meanings": {
         "es": "perro",
         "pt": "cachorro",
@@ -40,7 +40,7 @@
       "id": "pack_00010_0002",
       "word": "cat",
       "hint": null,
-      "phonetic": "/kˈæt/",
+      "phonetic": "/kæt/",
       "meanings": {
         "es": "gato",
         "pt": "gato",
@@ -66,7 +66,7 @@
       "id": "pack_00010_0003",
       "word": "hamster",
       "hint": null,
-      "phonetic": "/hˈæmstɚ/",
+      "phonetic": "/ˈhæmstər/",
       "meanings": {
         "es": "hámster",
         "pt": "hamster",
@@ -92,7 +92,7 @@
       "id": "pack_00010_0004",
       "word": "parrot",
       "hint": null,
-      "phonetic": "/pˈæɹət/",
+      "phonetic": "/ˈpɛrət/",
       "meanings": {
         "es": "loro",
         "pt": "papagaio",
@@ -118,7 +118,7 @@
       "id": "pack_00010_0005",
       "word": "goldfish",
       "hint": null,
-      "phonetic": "/ɡˈoʊldfɪʃ/",
+      "phonetic": "/ˈɡoʊldfɪʃ/",
       "meanings": {
         "es": "pez de colores",
         "pt": "peixinho dourado",
@@ -144,7 +144,7 @@
       "id": "pack_00010_0006",
       "word": "guinea pig",
       "hint": null,
-      "phonetic": "/ɡˈɪni pˈɪɡ/",
+      "phonetic": "/ˈɡɪni pɪɡ/",
       "meanings": {
         "es": "conejillo de Indias",
         "pt": "cobaia",
@@ -170,7 +170,7 @@
       "id": "pack_00010_0007",
       "word": "puppy",
       "hint": null,
-      "phonetic": "/pˈʌpi/",
+      "phonetic": "/ˈpʌpi/",
       "meanings": {
         "es": "cachorro",
         "pt": "filhote de cachorro",
@@ -196,7 +196,7 @@
       "id": "pack_00010_0008",
       "word": "kitten",
       "hint": null,
-      "phonetic": "/kˈɪʔn̩/",
+      "phonetic": "/ˈkɪtən/",
       "meanings": {
         "es": "gatito",
         "pt": "gatinho",
@@ -222,7 +222,7 @@
       "id": "pack_00010_0009",
       "word": "turtle",
       "hint": null,
-      "phonetic": "/tˈɜːɾəl/",
+      "phonetic": "/ˈtɜrtəl/",
       "meanings": {
         "es": "tortuga",
         "pt": "tartaruga",
@@ -248,7 +248,7 @@
       "id": "pack_00010_0010",
       "word": "rabbit",
       "hint": null,
-      "phonetic": "/ɹˈæbɪt/",
+      "phonetic": "/ˈræbət/",
       "meanings": {
         "es": "conejo",
         "pt": "coelho",

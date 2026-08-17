@@ -14,7 +14,7 @@
       "id": "pack_00156_0001",
       "word": "cow",
       "hint": null,
-      "phonetic": "/kˈaʊ/",
+      "phonetic": "/kaʊ/",
       "meanings": {
         "es": "vaca",
         "pt": "vaca",
@@ -40,7 +40,7 @@
       "id": "pack_00156_0002",
       "word": "pig",
       "hint": null,
-      "phonetic": "/pˈɪɡ/",
+      "phonetic": "/pɪɡ/",
       "meanings": {
         "es": "cerdo",
         "pt": "porco",
@@ -66,7 +66,7 @@
       "id": "pack_00156_0003",
       "word": "sheep",
       "hint": null,
-      "phonetic": "/ʃˈiːp/",
+      "phonetic": "/ʃip/",
       "meanings": {
         "es": "oveja",
         "pt": "ovelha",
@@ -92,7 +92,7 @@
       "id": "pack_00156_0004",
       "word": "goat",
       "hint": null,
-      "phonetic": "/ɡˈoʊt/",
+      "phonetic": "/ɡoʊt/",
       "meanings": {
         "es": "cabra",
         "pt": "cabra",
@@ -118,7 +118,7 @@
       "id": "pack_00156_0005",
       "word": "horse",
       "hint": null,
-      "phonetic": "/hˈɔːɹs/",
+      "phonetic": "/hɔrs/",
       "meanings": {
         "es": "caballo",
         "pt": "cavalo",
@@ -144,7 +144,7 @@
       "id": "pack_00156_0006",
       "word": "chicken",
       "hint": null,
-      "phonetic": "/tʃˈɪkɪn/",
+      "phonetic": "/ˈtʃɪkən/",
       "meanings": {
         "es": "pollo",
         "pt": "frango",
@@ -170,7 +170,7 @@
       "id": "pack_00156_0007",
       "word": "duck",
       "hint": null,
-      "phonetic": "/dˈʌk/",
+      "phonetic": "/dʌk/",
       "meanings": {
         "es": "pato",
         "pt": "pato",
@@ -196,7 +196,7 @@
       "id": "pack_00156_0008",
       "word": "turkey",
       "hint": null,
-      "phonetic": "/tˈɜːki/",
+      "phonetic": "/ˈtɜrki/",
       "meanings": {
         "es": "pavo",
         "pt": "peru",
@@ -222,7 +222,7 @@
       "id": "pack_00156_0009",
       "word": "rabbit",
       "hint": null,
-      "phonetic": "/ɹˈæbɪt/",
+      "phonetic": "/ˈræbət/",
       "meanings": {
         "es": "conejo",
         "pt": "coelho",
@@ -248,7 +248,7 @@
       "id": "pack_00156_0010",
       "word": "donkey",
       "hint": null,
-      "phonetic": "/dˈɔŋki/",
+      "phonetic": "/ˈdɑŋki/",
       "meanings": {
         "es": "burro",
         "pt": "burro",

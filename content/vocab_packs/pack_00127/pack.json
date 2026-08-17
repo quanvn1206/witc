@@ -14,7 +14,7 @@
       "id": "pack_00127_0001",
       "word": "fuel",
       "hint": null,
-      "phonetic": "/fjˈuːəl/",
+      "phonetic": "/ˈfjuəl/",
       "meanings": {
         "es": "combustible",
         "pt": "combustível",
@@ -40,7 +40,7 @@
       "id": "pack_00127_0002",
       "word": "oil",
       "hint": null,
-      "phonetic": "/ˈɔɪl/",
+      "phonetic": "/ɔɪl/",
       "meanings": {
         "es": "aceite",
         "pt": "óleo",
@@ -66,7 +66,7 @@
       "id": "pack_00127_0003",
       "word": "battery",
       "hint": null,
-      "phonetic": "/bˈæɾɚɹi/",
+      "phonetic": "/ˈbætəri/",
       "meanings": {
         "es": "batería",
         "pt": "bateria",
@@ -92,7 +92,7 @@
       "id": "pack_00127_0004",
       "word": "wash",
       "hint": null,
-      "phonetic": "/wˈɑːʃ/",
+      "phonetic": "/wɑʃ/",
       "meanings": {
         "es": "lavar",
         "pt": "lavar",
@@ -118,7 +118,7 @@
       "id": "pack_00127_0005",
       "word": "repair",
       "hint": null,
-      "phonetic": "/ɹᵻpˈɛɹ/",
+      "phonetic": "/rɪˈpɛr/",
       "meanings": {
         "es": "reparar",
         "pt": "reparar",
@@ -144,7 +144,7 @@
       "id": "pack_00127_0006",
       "word": "garage",
       "hint": null,
-      "phonetic": "/ɡɚɹˈɑːʒ/",
+      "phonetic": "/ɡəˈrɑʒ/",
       "meanings": {
         "es": "cochera",
         "pt": "garagem",
@@ -170,7 +170,7 @@
       "id": "pack_00127_0007",
       "word": "mechanic",
       "hint": null,
-      "phonetic": "/mᵻkˈænɪk/",
+      "phonetic": "/məˈkænɪk/",
       "meanings": {
         "es": "mecánico",
         "pt": "mecânico",
@@ -196,7 +196,7 @@
       "id": "pack_00127_0008",
       "word": "wrench",
       "hint": null,
-      "phonetic": "/ɹˈɛntʃ/",
+      "phonetic": "/rɛntʃ/",
       "meanings": {
         "es": "llave inglesa",
         "pt": "chave inglesa",
@@ -222,7 +222,7 @@
       "id": "pack_00127_0009",
       "word": "toolbox",
       "hint": null,
-      "phonetic": "/tˈuːlbɑːks/",
+      "phonetic": "/ˈtulbɔks/",
       "meanings": {
         "es": "caja de instrumento",
         "pt": "caixa de ferramentas",
@@ -248,7 +248,7 @@
       "id": "pack_00127_0010",
       "word": "pump",
       "hint": null,
-      "phonetic": "/pˈʌmp/",
+      "phonetic": "/pʌmp/",
       "meanings": {
         "es": "bomba",
         "pt": "bombear",

@@ -14,7 +14,7 @@
       "id": "pack_00070_0001",
       "word": "diplomacy",
       "hint": null,
-      "phonetic": "/dɪplˈoʊməsi/",
+      "phonetic": "/dɪˈploʊməsi/",
       "meanings": {
         "es": "diplomacia",
         "pt": "diplomacia",
@@ -40,7 +40,7 @@
       "id": "pack_00070_0002",
       "word": "alliance",
       "hint": null,
-      "phonetic": "/ɐlˈaɪəns/",
+      "phonetic": "/əˈlaɪəns/",
       "meanings": {
         "es": "alianza",
         "pt": "aliança",
@@ -66,7 +66,7 @@
       "id": "pack_00070_0003",
       "word": "sovereignty",
       "hint": null,
-      "phonetic": "/sˈɑːvɚɹˌɪnti/",
+      "phonetic": "/ˈsɑvrənti/",
       "meanings": {
         "es": "soberanía",
         "pt": "soberania",
@@ -92,7 +92,7 @@
       "id": "pack_00070_0004",
       "word": "federation",
       "hint": null,
-      "phonetic": "/fˌɛdɚɹˈeɪʃən/",
+      "phonetic": "/ˌfɛdəˈreɪʃən/",
       "meanings": {
         "es": "federación",
         "pt": "federação",
@@ -118,7 +118,7 @@
       "id": "pack_00070_0005",
       "word": "multicultural",
       "hint": null,
-      "phonetic": "/mˌʌltɪkˈʌltʃɚɹəl/",
+      "phonetic": "/ˌmʌltiˈkʌltʃərəl/",
       "meanings": {
         "es": "multicultural",
         "pt": "multicultural",
@@ -144,7 +144,7 @@
       "id": "pack_00070_0006",
       "word": "treaty",
       "hint": null,
-      "phonetic": "/tɹˈiːɾi/",
+      "phonetic": "/ˈtriti/",
       "meanings": {
         "es": "tratado",
         "pt": "tratado",
@@ -170,7 +170,7 @@
       "id": "pack_00070_0007",
       "word": "territory",
       "hint": null,
-      "phonetic": "/tˈɛɹɪtˌɔːɹi/",
+      "phonetic": "/ˈtɛrɪtɔri/",
       "meanings": {
         "es": "territorio",
         "pt": "território",
@@ -196,7 +196,7 @@
       "id": "pack_00070_0008",
       "word": "globalisation",
       "hint": null,
-      "phonetic": "/ɡlˌoʊbələzˈeɪʃən/",
+      "phonetic": "/ˌɡloʊbəlɪˈzeɪʃən/",
       "meanings": {
         "es": "globalización",
         "pt": "globalização",
@@ -222,7 +222,7 @@
       "id": "pack_00070_0009",
       "word": "migration",
       "hint": null,
-      "phonetic": "/maɪɡɹˈeɪʃən/",
+      "phonetic": "/maɪˈɡreɪʃən/",
       "meanings": {
         "es": "migración",
         "pt": "migração",
@@ -248,7 +248,7 @@
       "id": "pack_00070_0010",
       "word": "international organization",
       "hint": null,
-      "phonetic": "/ˌɪntɚnˈæʃənəl ˌɔːɹɡɐnᵻzˈeɪʃən/",
+      "phonetic": "/ˌɪntərˈnæʃənəl ˌɔrɡənəˈzeɪʃən/",
       "meanings": {
         "es": "organización internacional",
         "pt": "organização internacional",

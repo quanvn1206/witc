@@ -14,7 +14,7 @@
       "id": "pack_00145_0001",
       "word": "architecture",
       "hint": null,
-      "phonetic": "/ˈɑːɹkɪtˌɛktʃɚ/",
+      "phonetic": "/ˈɑrkətɛktʃər/",
       "meanings": {
         "es": "arquitectura",
         "pt": "arquitetura",
@@ -40,7 +40,7 @@
       "id": "pack_00145_0002",
       "word": "inspection",
       "hint": null,
-      "phonetic": "/ɪnspˈɛkʃən/",
+      "phonetic": "/ˌɪnˈspɛkʃən/",
       "meanings": {
         "es": "inspección",
         "pt": "inspeção",
@@ -66,7 +66,7 @@
       "id": "pack_00145_0003",
       "word": "renovation",
       "hint": null,
-      "phonetic": "/ɹˌɛnəvˈeɪʃən/",
+      "phonetic": "/ˌrɛnəˈveɪʃən/",
       "meanings": {
         "es": "renovación",
         "pt": "renovação",
@@ -92,7 +92,7 @@
       "id": "pack_00145_0004",
       "word": "maintenance",
       "hint": null,
-      "phonetic": "/mˈeɪntənəns/",
+      "phonetic": "/ˈmeɪntənəns/",
       "meanings": {
         "es": "mantenimiento",
         "pt": "manutenção",
@@ -118,7 +118,7 @@
       "id": "pack_00145_0005",
       "word": "engineering",
       "hint": null,
-      "phonetic": "/ˌɛndʒɪnˈɪɹɪŋ/",
+      "phonetic": "/ˈɛndʒənɪrɪŋ/",
       "meanings": {
         "es": "ingeniería",
         "pt": "engenharia",
@@ -144,7 +144,7 @@
       "id": "pack_00145_0006",
       "word": "structural support",
       "hint": null,
-      "phonetic": "/stɹˈʌktʃɚɹəl səpˈɔːɹt/",
+      "phonetic": "/ˈstrʌktʃərəl səˈpɔrt/",
       "meanings": {
         "es": "soporte estructural",
         "pt": "suporte estrutural",
@@ -170,7 +170,7 @@
       "id": "pack_00145_0007",
       "word": "building permit",
       "hint": null,
-      "phonetic": "/bˈɪldɪŋ pˈɜːmɪt/",
+      "phonetic": "/ˈbɪldɪŋ pərˈmɪt/",
       "meanings": {
         "es": "permiso de construcción",
         "pt": "licença de construção",
@@ -196,7 +196,7 @@
       "id": "pack_00145_0008",
       "word": "site supervisor",
       "hint": null,
-      "phonetic": "/sˈaɪt sˈuːpɚvˌaɪzɚ/",
+      "phonetic": "/saɪt ˈsupərvaɪzər/",
       "meanings": {
         "es": "supervisor del sitio",
         "pt": "supervisor de local",
@@ -222,7 +222,7 @@
       "id": "pack_00145_0009",
       "word": "safety regulation",
       "hint": null,
-      "phonetic": "/sˈeɪfti ɹˌɛɡjʊlˈeɪʃən/",
+      "phonetic": "/ˈseɪfti ˌrɛɡjəˈleɪʃən/",
       "meanings": {
         "es": "regulación de seguridad",
         "pt": "regulamento de segurança",
@@ -248,7 +248,7 @@
       "id": "pack_00145_0010",
       "word": "project management",
       "hint": null,
-      "phonetic": "/pɹˈɑːdʒɛkt mˈænɪdʒmənt/",
+      "phonetic": "/ˈprɑdʒɛkt ˈmænədʒmənt/",
       "meanings": {
         "es": "gestión de proyectos",
         "pt": "gerenciamento de projetos",

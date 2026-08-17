@@ -14,7 +14,7 @@
       "id": "pack_00048_0001",
       "word": "colleague",
       "hint": null,
-      "phonetic": "/kˈɑːliːɡ/",
+      "phonetic": "/ˈkɑliɡ/",
       "meanings": {
         "es": "colega",
         "pt": "colega",
@@ -40,7 +40,7 @@
       "id": "pack_00048_0002",
       "word": "roommate",
       "hint": null,
-      "phonetic": "/ɹˈuːmeɪt/",
+      "phonetic": "/ˈrumeɪt/",
       "meanings": {
         "es": "compañero de cuarto",
         "pt": "colega de quarto",
@@ -66,7 +66,7 @@
       "id": "pack_00048_0003",
       "word": "relative",
       "hint": null,
-      "phonetic": "/ɹˈɛlətˌɪv/",
+      "phonetic": "/ˈrɛlətɪv/",
       "meanings": {
         "es": "relativo",
         "pt": "relativo",
@@ -92,7 +92,7 @@
       "id": "pack_00048_0004",
       "word": "couple",
       "hint": null,
-      "phonetic": "/kˈʌpəl/",
+      "phonetic": "/ˈkʌpəl/",
       "meanings": {
         "es": "pareja",
         "pt": "casal",
@@ -118,7 +118,7 @@
       "id": "pack_00048_0005",
       "word": "stranger",
       "hint": null,
-      "phonetic": "/stɹˈeɪndʒɚ/",
+      "phonetic": "/ˈstreɪndʒər/",
       "meanings": {
         "es": "extraño",
         "pt": "estranho",
@@ -144,7 +144,7 @@
       "id": "pack_00048_0006",
       "word": "guest",
       "hint": null,
-      "phonetic": "/ɡˈɛst/",
+      "phonetic": "/ɡɛst/",
       "meanings": {
         "es": "invitado",
         "pt": "convidado",
@@ -170,7 +170,7 @@
       "id": "pack_00048_0007",
       "word": "host",
       "hint": null,
-      "phonetic": "/hˈoʊst/",
+      "phonetic": "/hoʊst/",
       "meanings": {
         "es": "anfitrión",
         "pt": "hospedar",
@@ -196,7 +196,7 @@
       "id": "pack_00048_0008",
       "word": "teammate",
       "hint": null,
-      "phonetic": "/tˈiːmeɪt/",
+      "phonetic": "/ˈtimeɪt/",
       "meanings": {
         "es": "compañero de equipo",
         "pt": "companheiro de equipe",
@@ -222,7 +222,7 @@
       "id": "pack_00048_0009",
       "word": "leader",
       "hint": null,
-      "phonetic": "/lˈiːdɚ/",
+      "phonetic": "/ˈlidər/",
       "meanings": {
         "es": "líder",
         "pt": "líder",
@@ -248,7 +248,7 @@
       "id": "pack_00048_0010",
       "word": "follower",
       "hint": null,
-      "phonetic": "/fˈɑːloʊɚ/",
+      "phonetic": "/ˈfɑloʊər/",
       "meanings": {
         "es": "seguidor",
         "pt": "seguidor",

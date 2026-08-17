@@ -14,7 +14,7 @@
       "id": "pack_00020_0001",
       "word": "talk",
       "hint": null,
-      "phonetic": "/tˈɔːk/",
+      "phonetic": "/tɔk/",
       "meanings": {
         "es": "hablar",
         "pt": "falar",
@@ -40,7 +40,7 @@
       "id": "pack_00020_0002",
       "word": "whisper",
       "hint": null,
-      "phonetic": "/wˈɪspɚ/",
+      "phonetic": "/ˈwɪspər/",
       "meanings": {
         "es": "susurro",
         "pt": "sussurrar",
@@ -66,7 +66,7 @@
       "id": "pack_00020_0003",
       "word": "shout",
       "hint": null,
-      "phonetic": "/ʃˈaʊt/",
+      "phonetic": "/ʃaʊt/",
       "meanings": {
         "es": "gritar",
         "pt": "gritar",
@@ -92,7 +92,7 @@
       "id": "pack_00020_0004",
       "word": "yell",
       "hint": null,
-      "phonetic": "/jˈɛl/",
+      "phonetic": "/jɛl/",
       "meanings": {
         "es": "gritar",
         "pt": "gritar",
@@ -118,7 +118,7 @@
       "id": "pack_00020_0005",
       "word": "chat",
       "hint": null,
-      "phonetic": "/tʃˈæt/",
+      "phonetic": "/tʃæt/",
       "meanings": {
         "es": "charlar",
         "pt": "bater papo",
@@ -144,7 +144,7 @@
       "id": "pack_00020_0006",
       "word": "argue",
       "hint": null,
-      "phonetic": "/ˈɑːɹɡjuː/",
+      "phonetic": "/ˈɑrɡju/",
       "meanings": {
         "es": "argumentar",
         "pt": "discutir",
@@ -170,7 +170,7 @@
       "id": "pack_00020_0007",
       "word": "sing",
       "hint": null,
-      "phonetic": "/sˈɪŋ/",
+      "phonetic": "/sɪŋ/",
       "meanings": {
         "es": "cantar",
         "pt": "cantar",
@@ -196,7 +196,7 @@
       "id": "pack_00020_0008",
       "word": "mumble",
       "hint": null,
-      "phonetic": "/mˈʌmbəl/",
+      "phonetic": "/ˈmʌmbəl/",
       "meanings": {
         "es": "mascullar",
         "pt": "resmungar",
@@ -222,7 +222,7 @@
       "id": "pack_00020_0009",
       "word": "laugh",
       "hint": null,
-      "phonetic": "/lˈæf/",
+      "phonetic": "/læf/",
       "meanings": {
         "es": "reír",
         "pt": "rir",
@@ -248,7 +248,7 @@
       "id": "pack_00020_0010",
       "word": "sigh",
       "hint": null,
-      "phonetic": "/sˈaɪ/",
+      "phonetic": "/saɪ/",
       "meanings": {
         "es": "suspiro",
         "pt": "suspirar",

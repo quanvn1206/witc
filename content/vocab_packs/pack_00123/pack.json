@@ -14,7 +14,7 @@
       "id": "pack_00123_0001",
       "word": "conditioner",
       "hint": null,
-      "phonetic": "/kəndˈɪʃənɚ/",
+      "phonetic": "/kənˈdɪʃənər/",
       "meanings": {
         "es": "acondicionador",
         "pt": "condicionador",
@@ -40,7 +40,7 @@
       "id": "pack_00123_0002",
       "word": "moisturizer",
       "hint": null,
-      "phonetic": "/mˈɔɪstʃɚɹˌaɪzɚ/",
+      "phonetic": "/ˈmɔɪstʃəraɪzər/",
       "meanings": {
         "es": "hidratante",
         "pt": "hidratante",
@@ -66,7 +66,7 @@
       "id": "pack_00123_0003",
       "word": "cleanser",
       "hint": null,
-      "phonetic": "/klˈɛnzɚ/",
+      "phonetic": "/ˈklɛnzər/",
       "meanings": {
         "es": "limpiador",
         "pt": "limpador",
@@ -92,7 +92,7 @@
       "id": "pack_00123_0004",
       "word": "sunscreen",
       "hint": null,
-      "phonetic": "/sˈʌnskɹiːn/",
+      "phonetic": "/sənˈskrin/",
       "meanings": {
         "es": "protector solar",
         "pt": "protetor solar",
@@ -118,7 +118,7 @@
       "id": "pack_00123_0005",
       "word": "facial",
       "hint": null,
-      "phonetic": "/fˈeɪʃəl/",
+      "phonetic": "/ˈfeɪʃəl/",
       "meanings": {
         "es": "facial",
         "pt": "facial",
@@ -144,7 +144,7 @@
       "id": "pack_00123_0006",
       "word": "hairstyle",
       "hint": null,
-      "phonetic": "/hˈɛɹstaɪl/",
+      "phonetic": "/ˈhɛrstaɪl/",
       "meanings": {
         "es": "peinado",
         "pt": "penteado",
@@ -170,7 +170,7 @@
       "id": "pack_00123_0007",
       "word": "trim",
       "hint": null,
-      "phonetic": "/tɹˈɪm/",
+      "phonetic": "/trɪm/",
       "meanings": {
         "es": "recortar",
         "pt": "aparar",
@@ -196,7 +196,7 @@
       "id": "pack_00123_0008",
       "word": "curl",
       "hint": null,
-      "phonetic": "/kˈɜːl/",
+      "phonetic": "/kɜrl/",
       "meanings": {
         "es": "rizo",
         "pt": "enrolar",
@@ -222,7 +222,7 @@
       "id": "pack_00123_0009",
       "word": "shave",
       "hint": null,
-      "phonetic": "/ʃˈeɪv/",
+      "phonetic": "/ʃeɪv/",
       "meanings": {
         "es": "afeitar",
         "pt": "depilar",
@@ -248,7 +248,7 @@
       "id": "pack_00123_0010",
       "word": "skincare",
       "hint": null,
-      "phonetic": "/skˈɪŋkɛɹ/",
+      "phonetic": "/ˈskɪnkɛr/",
       "meanings": {
         "es": "protección de la piel",
         "pt": "cuidados com a pele",

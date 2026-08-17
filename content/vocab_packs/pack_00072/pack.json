@@ -14,7 +14,7 @@
       "id": "pack_00072_0001",
       "word": "click",
       "hint": null,
-      "phonetic": "/klˈɪk/",
+      "phonetic": "/klɪk/",
       "meanings": {
         "es": "hacer clic",
         "pt": "clique",
@@ -40,7 +40,7 @@
       "id": "pack_00072_0002",
       "word": "type",
       "hint": null,
-      "phonetic": "/tˈaɪp/",
+      "phonetic": "/taɪp/",
       "meanings": {
         "es": "tipo",
         "pt": "tipo",
@@ -66,7 +66,7 @@
       "id": "pack_00072_0003",
       "word": "save",
       "hint": null,
-      "phonetic": "/sˈeɪv/",
+      "phonetic": "/seɪv/",
       "meanings": {
         "es": "ahorrar",
         "pt": "salvar",
@@ -118,7 +118,7 @@
       "id": "pack_00072_0005",
       "word": "close",
       "hint": null,
-      "phonetic": "/klˈoʊs/",
+      "phonetic": "/kloʊs/",
       "meanings": {
         "es": "cerca",
         "pt": "fechar",
@@ -144,7 +144,7 @@
       "id": "pack_00072_0006",
       "word": "print",
       "hint": null,
-      "phonetic": "/pɹˈɪnt/",
+      "phonetic": "/prɪnt/",
       "meanings": {
         "es": "imprimir",
         "pt": "imprimir",
@@ -196,7 +196,7 @@
       "id": "pack_00072_0008",
       "word": "download",
       "hint": null,
-      "phonetic": "/dˈaʊnloʊd/",
+      "phonetic": "/ˈdaʊnloʊd/",
       "meanings": {
         "es": "descargar",
         "pt": "download",
@@ -222,7 +222,7 @@
       "id": "pack_00072_0009",
       "word": "search",
       "hint": null,
-      "phonetic": "/sˈɜːtʃ/",
+      "phonetic": "/sɜrtʃ/",
       "meanings": {
         "es": "buscar",
         "pt": "procurar",
@@ -248,7 +248,7 @@
       "id": "pack_00072_0010",
       "word": "connect",
       "hint": null,
-      "phonetic": "/kənˈɛkt/",
+      "phonetic": "/kəˈnɛkt/",
       "meanings": {
         "es": "conectar",
         "pt": "conectar",

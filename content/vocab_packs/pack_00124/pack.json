@@ -14,7 +14,7 @@
       "id": "pack_00124_0001",
       "word": "stylist",
       "hint": null,
-      "phonetic": "/stˈaɪlɪst/",
+      "phonetic": "/ˈstaɪlɪst/",
       "meanings": {
         "es": "estilista",
         "pt": "estilista",
@@ -40,7 +40,7 @@
       "id": "pack_00124_0002",
       "word": "beautician",
       "hint": null,
-      "phonetic": "/bjuːtˈɪʃən/",
+      "phonetic": "/ˈbjutɪʃən/",
       "meanings": {
         "es": "cosmetólogo",
         "pt": "esteticista",
@@ -66,7 +66,7 @@
       "id": "pack_00124_0003",
       "word": "treatment",
       "hint": null,
-      "phonetic": "/tɹˈiːtmənt/",
+      "phonetic": "/ˈtritmənt/",
       "meanings": {
         "es": "tratamiento",
         "pt": "tratamento",
@@ -92,7 +92,7 @@
       "id": "pack_00124_0004",
       "word": "appointment",
       "hint": null,
-      "phonetic": "/ɐpˈɔɪntmənt/",
+      "phonetic": "/əˈpɔɪntmənt/",
       "meanings": {
         "es": "cita",
         "pt": "encontro",
@@ -118,7 +118,7 @@
       "id": "pack_00124_0005",
       "word": "cosmetics",
       "hint": null,
-      "phonetic": "/kɑːzmˈɛɾɪks/",
+      "phonetic": "/kɑzˈmɛtɪks/",
       "meanings": {
         "es": "productos cosméticos",
         "pt": "cosméticos",
@@ -144,7 +144,7 @@
       "id": "pack_00124_0006",
       "word": "eyebrow shaping",
       "hint": null,
-      "phonetic": "/ˈaɪbɹaʊ ʃˈeɪpɪŋ/",
+      "phonetic": "/ˈaɪbraʊ ˈʃeɪpɪŋ/",
       "meanings": {
         "es": "dar forma a las cejas",
         "pt": "modelagem de sobrancelha",
@@ -170,7 +170,7 @@
       "id": "pack_00124_0007",
       "word": "hair coloring",
       "hint": null,
-      "phonetic": "/hˈɛɹ kˈʌlɚɹɪŋ/",
+      "phonetic": "/hɛr ˈkʌlərɪŋ/",
       "meanings": {
         "es": "coloración del cabello",
         "pt": "coloração de cabelo",
@@ -196,7 +196,7 @@
       "id": "pack_00124_0008",
       "word": "waxing",
       "hint": null,
-      "phonetic": "/wˈæksɪŋ/",
+      "phonetic": "/ˈwæksɪŋ/",
       "meanings": {
         "es": "depilación",
         "pt": "depilação",
@@ -222,7 +222,7 @@
       "id": "pack_00124_0009",
       "word": "skincare routine",
       "hint": null,
-      "phonetic": "/skˈɪŋkɛɹ ɹuːtˈiːn/",
+      "phonetic": "/ˈskɪnkɛr ruˈtin/",
       "meanings": {
         "es": "rutina de cuidado de la piel",
         "pt": "rotina de cuidados com a pele",
@@ -248,7 +248,7 @@
       "id": "pack_00124_0010",
       "word": "blow-dry",
       "hint": null,
-      "phonetic": "/blˈoʊdɹˈaɪ/",
+      "phonetic": "/ˈbloʊdraɪ/",
       "meanings": {
         "es": "secar con secador",
         "pt": "secar",

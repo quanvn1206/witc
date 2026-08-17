@@ -14,7 +14,7 @@
       "id": "pack_00148_0001",
       "word": "budget",
       "hint": null,
-      "phonetic": "/bˈʌdʒɪt/",
+      "phonetic": "/ˈbʌdʒɪt/",
       "meanings": {
         "es": "presupuesto",
         "pt": "orçamento",
@@ -40,7 +40,7 @@
       "id": "pack_00148_0002",
       "word": "income",
       "hint": null,
-      "phonetic": "/ˈɪŋkʌm/",
+      "phonetic": "/ˈɪnkʌm/",
       "meanings": {
         "es": "ingreso",
         "pt": "renda",
@@ -66,7 +66,7 @@
       "id": "pack_00148_0003",
       "word": "expense",
       "hint": null,
-      "phonetic": "/ɛkspˈɛns/",
+      "phonetic": "/ɪkˈspɛns/",
       "meanings": {
         "es": "gastos",
         "pt": "despesa",
@@ -92,7 +92,7 @@
       "id": "pack_00148_0004",
       "word": "balance",
       "hint": null,
-      "phonetic": "/bˈæləns/",
+      "phonetic": "/ˈbæləns/",
       "meanings": {
         "es": "balance",
         "pt": "equilíbrio",
@@ -118,7 +118,7 @@
       "id": "pack_00148_0005",
       "word": "transfer",
       "hint": null,
-      "phonetic": "/tɹˈænsfɜː/",
+      "phonetic": "/trænˈsfɜr/",
       "meanings": {
         "es": "transferir",
         "pt": "transferir",
@@ -144,7 +144,7 @@
       "id": "pack_00148_0006",
       "word": "loan",
       "hint": null,
-      "phonetic": "/lˈoʊn/",
+      "phonetic": "/loʊn/",
       "meanings": {
         "es": "préstamo",
         "pt": "empréstimo",
@@ -170,7 +170,7 @@
       "id": "pack_00148_0007",
       "word": "interest",
       "hint": null,
-      "phonetic": "/ˈɪntɹɛst/",
+      "phonetic": "/ˈɪntrəst/",
       "meanings": {
         "es": "interés",
         "pt": "interesse",
@@ -196,7 +196,7 @@
       "id": "pack_00148_0008",
       "word": "payment",
       "hint": null,
-      "phonetic": "/pˈeɪmənt/",
+      "phonetic": "/ˈpeɪmənt/",
       "meanings": {
         "es": "pago",
         "pt": "pagamento",
@@ -222,7 +222,7 @@
       "id": "pack_00148_0009",
       "word": "savings",
       "hint": null,
-      "phonetic": "/sˈeɪvɪŋz/",
+      "phonetic": "/ˈseɪvɪŋz/",
       "meanings": {
         "es": "ahorros",
         "pt": "poupança",
@@ -248,7 +248,7 @@
       "id": "pack_00148_0010",
       "word": "insurance",
       "hint": null,
-      "phonetic": "/ɪnʃˈʊɹɹəns/",
+      "phonetic": "/ˌɪnˈʃʊrəns/",
       "meanings": {
         "es": "seguro",
         "pt": "seguro",

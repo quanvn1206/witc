@@ -14,7 +14,7 @@
       "id": "pack_00076_0001",
       "word": "hotel",
       "hint": null,
-      "phonetic": "/hoʊtˈɛl/",
+      "phonetic": "/hoʊˈtɛl/",
       "meanings": {
         "es": "hotel",
         "pt": "hotel",
@@ -40,7 +40,7 @@
       "id": "pack_00076_0002",
       "word": "restaurant",
       "hint": null,
-      "phonetic": "/ɹˈɛstɹɑːnt/",
+      "phonetic": "/ˈrɛstərɑnt/",
       "meanings": {
         "es": "restaurante",
         "pt": "restaurante",
@@ -66,7 +66,7 @@
       "id": "pack_00076_0003",
       "word": "airport",
       "hint": null,
-      "phonetic": "/ˈɛɹpɔːɹt/",
+      "phonetic": "/ˈɛrpɔrt/",
       "meanings": {
         "es": "aeropuerto",
         "pt": "aeroporto",
@@ -92,7 +92,7 @@
       "id": "pack_00076_0004",
       "word": "station",
       "hint": null,
-      "phonetic": "/stˈeɪʃən/",
+      "phonetic": "/ˈsteɪʃən/",
       "meanings": {
         "es": "estación",
         "pt": "estação",
@@ -118,7 +118,7 @@
       "id": "pack_00076_0005",
       "word": "hospital",
       "hint": null,
-      "phonetic": "/hˈɑːspɪɾəl/",
+      "phonetic": "/ˈhɑspɪtəl/",
       "meanings": {
         "es": "hospital",
         "pt": "hospital",
@@ -144,7 +144,7 @@
       "id": "pack_00076_0006",
       "word": "bank",
       "hint": null,
-      "phonetic": "/bˈæŋk/",
+      "phonetic": "/bæŋk/",
       "meanings": {
         "es": "banco",
         "pt": "banco",
@@ -170,7 +170,7 @@
       "id": "pack_00076_0007",
       "word": "supermarket",
       "hint": null,
-      "phonetic": "/sˈuːpɚmˌɑːɹkɪt/",
+      "phonetic": "/ˈsupərmɑrkɪt/",
       "meanings": {
         "es": "supermercado",
         "pt": "supermercado",
@@ -196,7 +196,7 @@
       "id": "pack_00076_0008",
       "word": "park",
       "hint": null,
-      "phonetic": "/pˈɑːɹk/",
+      "phonetic": "/pɑrk/",
       "meanings": {
         "es": "parque",
         "pt": "parque",
@@ -222,7 +222,7 @@
       "id": "pack_00076_0009",
       "word": "museum",
       "hint": null,
-      "phonetic": "/mjuːzˈiəm/",
+      "phonetic": "/mjuˈziəm/",
       "meanings": {
         "es": "museo",
         "pt": "museu",
@@ -248,7 +248,7 @@
       "id": "pack_00076_0010",
       "word": "beach",
       "hint": null,
-      "phonetic": "/bˈiːtʃ/",
+      "phonetic": "/bitʃ/",
       "meanings": {
         "es": "playa",
         "pt": "praia",

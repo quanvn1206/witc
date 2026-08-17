@@ -14,7 +14,7 @@
       "id": "pack_00013_0001",
       "word": "happy",
       "hint": null,
-      "phonetic": "/hˈæpi/",
+      "phonetic": "/ˈhæpi/",
       "meanings": {
         "es": "feliz",
         "pt": "feliz",
@@ -40,7 +40,7 @@
       "id": "pack_00013_0002",
       "word": "sad",
       "hint": null,
-      "phonetic": "/sˈæd/",
+      "phonetic": "/sæd/",
       "meanings": {
         "es": "triste",
         "pt": "triste",
@@ -66,7 +66,7 @@
       "id": "pack_00013_0003",
       "word": "angry",
       "hint": null,
-      "phonetic": "/ˈæŋɡɹi/",
+      "phonetic": "/ˈæŋɡri/",
       "meanings": {
         "es": "enojado",
         "pt": "nervoso",
@@ -92,7 +92,7 @@
       "id": "pack_00013_0004",
       "word": "scared",
       "hint": null,
-      "phonetic": "/skˈɛɹd/",
+      "phonetic": "/skɛrd/",
       "meanings": {
         "es": "asustado",
         "pt": "assustado",
@@ -118,7 +118,7 @@
       "id": "pack_00013_0005",
       "word": "excited",
       "hint": null,
-      "phonetic": "/ɛksˈaɪɾᵻd/",
+      "phonetic": "/ɪkˈsaɪtəd/",
       "meanings": {
         "es": "entusiasmado",
         "pt": "excitado",
@@ -144,7 +144,7 @@
       "id": "pack_00013_0006",
       "word": "surprised",
       "hint": null,
-      "phonetic": "/sɚpɹˈaɪzd/",
+      "phonetic": "/sərˈpraɪzd/",
       "meanings": {
         "es": "sorprendido",
         "pt": "surpreso",
@@ -170,7 +170,7 @@
       "id": "pack_00013_0007",
       "word": "bored",
       "hint": null,
-      "phonetic": "/bˈɔːɹd/",
+      "phonetic": "/bɔrd/",
       "meanings": {
         "es": "aburrido",
         "pt": "entediado",
@@ -196,7 +196,7 @@
       "id": "pack_00013_0008",
       "word": "calm",
       "hint": null,
-      "phonetic": "/kˈɑːm/",
+      "phonetic": "/kɑm/",
       "meanings": {
         "es": "calma",
         "pt": "calma",
@@ -222,7 +222,7 @@
       "id": "pack_00013_0009",
       "word": "nervous",
       "hint": null,
-      "phonetic": "/nˈɜːvəs/",
+      "phonetic": "/ˈnɜrvəs/",
       "meanings": {
         "es": "nervioso",
         "pt": "nervoso",
@@ -248,7 +248,7 @@
       "id": "pack_00013_0010",
       "word": "worried",
       "hint": null,
-      "phonetic": "/wˈʌɹid/",
+      "phonetic": "/ˈwɜrid/",
       "meanings": {
         "es": "preocupado",
         "pt": "preocupado",

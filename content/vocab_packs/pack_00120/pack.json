@@ -14,7 +14,7 @@
       "id": "pack_00120_0001",
       "word": "urbanization",
       "hint": null,
-      "phonetic": "/ˌɜːbɐnᵻzˈeɪʃən/",
+      "phonetic": "/ˌɜrbənəˈzeɪʃən/",
       "meanings": {
         "es": "urbanización",
         "pt": "urbanização",
@@ -40,7 +40,7 @@
       "id": "pack_00120_0002",
       "word": "sustainability",
       "hint": null,
-      "phonetic": "/səstˌeɪnəbˈɪlᵻɾi/",
+      "phonetic": "/səˌsteɪnəˈbɪlɪti/",
       "meanings": {
         "es": "sostenibilidad",
         "pt": "sustentabilidade",
@@ -66,7 +66,7 @@
       "id": "pack_00120_0003",
       "word": "cosmopolitan",
       "hint": null,
-      "phonetic": "/kˌɑːzməpˈɑːlɪtən/",
+      "phonetic": "/ˌkɑzməˈpɑlətən/",
       "meanings": {
         "es": "cosmopolita",
         "pt": "cosmopolita",
@@ -92,7 +92,7 @@
       "id": "pack_00120_0004",
       "word": "governance",
       "hint": null,
-      "phonetic": "/ɡˈʌvɚnəns/",
+      "phonetic": "/ˈɡʌvərnəns/",
       "meanings": {
         "es": "gobernancia",
         "pt": "governança",
@@ -118,7 +118,7 @@
       "id": "pack_00120_0005",
       "word": "metropolitan area",
       "hint": null,
-      "phonetic": "/mˌɛtɹəpˈɑːlɪtən ˈɛɹiə/",
+      "phonetic": "/ˌmɛtrəˈpɑlətən ˈɛriə/",
       "meanings": {
         "es": "área metropolitana",
         "pt": "área metropolitana",
@@ -144,7 +144,7 @@
       "id": "pack_00120_0006",
       "word": "economic hub",
       "hint": null,
-      "phonetic": "/ˌiːkənˈɑːmɪk hˈʌb/",
+      "phonetic": "/ˌɛkəˈnɑmɪk hʌb/",
       "meanings": {
         "es": "centro económico",
         "pt": "centro econômico",
@@ -170,7 +170,7 @@
       "id": "pack_00120_0007",
       "word": "cultural diversity",
       "hint": null,
-      "phonetic": "/kˈʌltʃɚɹəl daɪvˈɜːsᵻɾi/",
+      "phonetic": "/ˈkʌltʃərəl dɪˈvɜrsɪti/",
       "meanings": {
         "es": "diversidad cultural",
         "pt": "diversidade cultural",
@@ -196,7 +196,7 @@
       "id": "pack_00120_0008",
       "word": "urban planning",
       "hint": null,
-      "phonetic": "/ˈɜːbən plˈænɪŋ/",
+      "phonetic": "/ˈɜrbən ˈplænɪŋ/",
       "meanings": {
         "es": "planificación urbana",
         "pt": "planejamento urbano",
@@ -222,7 +222,7 @@
       "id": "pack_00120_0009",
       "word": "international trade",
       "hint": null,
-      "phonetic": "/ˌɪntɚnˈæʃənəl tɹˈeɪd/",
+      "phonetic": "/ˌɪntərˈnæʃənəl treɪd/",
       "meanings": {
         "es": "comercio internacional",
         "pt": "comércio internacional",
@@ -248,7 +248,7 @@
       "id": "pack_00120_0010",
       "word": "smart city",
       "hint": null,
-      "phonetic": "/smˈɑːɹt sˈɪɾi/",
+      "phonetic": "/smɑrt ˈsɪti/",
       "meanings": {
         "es": "ciudad inteligente",
         "pt": "cidade inteligente",

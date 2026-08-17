@@ -14,7 +14,7 @@
       "id": "pack_00087_0001",
       "word": "chess",
       "hint": null,
-      "phonetic": "/tʃˈɛs/",
+      "phonetic": "/tʃɛs/",
       "meanings": {
         "es": "ajedrez",
         "pt": "xadrez",
@@ -40,7 +40,7 @@
       "id": "pack_00087_0002",
       "word": "cards",
       "hint": null,
-      "phonetic": "/kˈɑːɹdz/",
+      "phonetic": "/kɑrdz/",
       "meanings": {
         "es": "tarjetas",
         "pt": "cartões",
@@ -66,7 +66,7 @@
       "id": "pack_00087_0003",
       "word": "puzzle",
       "hint": null,
-      "phonetic": "/pˈʌzəl/",
+      "phonetic": "/ˈpʌzəl/",
       "meanings": {
         "es": "rompecabezas",
         "pt": "quebra-cabeça",
@@ -92,7 +92,7 @@
       "id": "pack_00087_0004",
       "word": "dice",
       "hint": null,
-      "phonetic": "/dˈaɪs/",
+      "phonetic": "/daɪs/",
       "meanings": {
         "es": "dados",
         "pt": "dados",
@@ -118,7 +118,7 @@
       "id": "pack_00087_0005",
       "word": "dominoes",
       "hint": null,
-      "phonetic": "/dˈɑːmɪnˌoʊz/",
+      "phonetic": "/ˈdɑmənoʊz/",
       "meanings": {
         "es": "dominó",
         "pt": "dominó",
@@ -144,7 +144,7 @@
       "id": "pack_00087_0006",
       "word": "checkerboard",
       "hint": null,
-      "phonetic": "/tʃˈɛkɚbˌɔːɹd/",
+      "phonetic": "/ˈtʃɛkərbɔrd/",
       "meanings": {
         "es": "tablero de damas",
         "pt": "tabuleiro de damas",
@@ -170,7 +170,7 @@
       "id": "pack_00087_0007",
       "word": "token",
       "hint": null,
-      "phonetic": "/tˈoʊkən/",
+      "phonetic": "/ˈtoʊkən/",
       "meanings": {
         "es": "simbólico",
         "pt": "ficha",
@@ -196,7 +196,7 @@
       "id": "pack_00087_0008",
       "word": "turn",
       "hint": null,
-      "phonetic": "/tˈɜːn/",
+      "phonetic": "/tɜrn/",
       "meanings": {
         "es": "doblar",
         "pt": "vez",
@@ -222,7 +222,7 @@
       "id": "pack_00087_0009",
       "word": "winner",
       "hint": null,
-      "phonetic": "/wˈɪnɚ/",
+      "phonetic": "/ˈwɪnər/",
       "meanings": {
         "es": "ganador",
         "pt": "ganhador",
@@ -248,7 +248,7 @@
       "id": "pack_00087_0010",
       "word": "loser",
       "hint": null,
-      "phonetic": "/lˈuːzɚ/",
+      "phonetic": "/ˈluzər/",
       "meanings": {
         "es": "perdedor",
         "pt": "perdedor",

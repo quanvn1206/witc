@@ -14,7 +14,7 @@
       "id": "pack_00033_0001",
       "word": "scissors",
       "hint": null,
-      "phonetic": "/sˈɪsɚz/",
+      "phonetic": "/ˈsɪzərz/",
       "meanings": {
         "es": "tijeras",
         "pt": "tesoura",
@@ -40,7 +40,7 @@
       "id": "pack_00033_0002",
       "word": "stapler",
       "hint": null,
-      "phonetic": "/stˈeɪplɚ/",
+      "phonetic": "/ˈsteɪpələr/",
       "meanings": {
         "es": "grapadora",
         "pt": "grampeador",
@@ -66,7 +66,7 @@
       "id": "pack_00033_0003",
       "word": "ruler",
       "hint": null,
-      "phonetic": "/ɹˈuːlɚ/",
+      "phonetic": "/ˈrulər/",
       "meanings": {
         "es": "gobernante",
         "pt": "governante",
@@ -92,7 +92,7 @@
       "id": "pack_00033_0004",
       "word": "glue",
       "hint": null,
-      "phonetic": "/ɡlˈuː/",
+      "phonetic": "/ɡlu/",
       "meanings": {
         "es": "pegamento",
         "pt": "cola",
@@ -118,7 +118,7 @@
       "id": "pack_00033_0005",
       "word": "tape",
       "hint": null,
-      "phonetic": "/tˈeɪp/",
+      "phonetic": "/teɪp/",
       "meanings": {
         "es": "cinta",
         "pt": "fita",
@@ -144,7 +144,7 @@
       "id": "pack_00033_0006",
       "word": "marker",
       "hint": null,
-      "phonetic": "/mˈɑːɹkɚ/",
+      "phonetic": "/ˈmɑrkər/",
       "meanings": {
         "es": "marcador",
         "pt": "marcador",
@@ -170,7 +170,7 @@
       "id": "pack_00033_0007",
       "word": "notebook",
       "hint": null,
-      "phonetic": "/nˈoʊtbʊk/",
+      "phonetic": "/ˈnoʊtbʊk/",
       "meanings": {
         "es": "computadora portátil",
         "pt": "caderno",
@@ -196,7 +196,7 @@
       "id": "pack_00033_0008",
       "word": "paper clip",
       "hint": null,
-      "phonetic": "/pˈeɪpɚ klˈɪp/",
+      "phonetic": "/ˈpeɪpər klɪp/",
       "meanings": {
         "es": "clip de papel",
         "pt": "clipe de papel",
@@ -222,7 +222,7 @@
       "id": "pack_00033_0009",
       "word": "envelope",
       "hint": null,
-      "phonetic": "/ˈɑːnvəlˌoʊp/",
+      "phonetic": "/ˈɛnvəloʊp/",
       "meanings": {
         "es": "sobre",
         "pt": "envelope",
@@ -248,7 +248,7 @@
       "id": "pack_00033_0010",
       "word": "calculator",
       "hint": null,
-      "phonetic": "/kˈælkjʊlˌeɪɾɚ/",
+      "phonetic": "/ˈkælkjəleɪtər/",
       "meanings": {
         "es": "calculadora",
         "pt": "calculadora",

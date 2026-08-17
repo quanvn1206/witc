@@ -14,7 +14,7 @@
       "id": "pack_00135_0001",
       "word": "healthcare",
       "hint": null,
-      "phonetic": "/hˈɛlθkɛɹ/",
+      "phonetic": "/ˈhɛlθkɛr/",
       "meanings": {
         "es": "cuidado de la salud",
         "pt": "assistência médica",
@@ -40,7 +40,7 @@
       "id": "pack_00135_0002",
       "word": "prevention",
       "hint": null,
-      "phonetic": "/pɹɪvˈɛnʃən/",
+      "phonetic": "/priˈvɛnʃən/",
       "meanings": {
         "es": "prevención",
         "pt": "prevenção",
@@ -66,7 +66,7 @@
       "id": "pack_00135_0003",
       "word": "rehabilitation",
       "hint": null,
-      "phonetic": "/ɹᵻhˌæbɪlɪtˈeɪʃən/",
+      "phonetic": "/ˌrihəˌbɪləˈteɪʃən/",
       "meanings": {
         "es": "rehabilitación",
         "pt": "reabilitação",
@@ -92,7 +92,7 @@
       "id": "pack_00135_0004",
       "word": "chronic disease",
       "hint": null,
-      "phonetic": "/kɹˈɑːnɪk dɪzˈiːz/",
+      "phonetic": "/ˈkrɑnɪk dɪˈziz/",
       "meanings": {
         "es": "enfermedad crónica",
         "pt": "doença crônica",
@@ -118,7 +118,7 @@
       "id": "pack_00135_0005",
       "word": "medical record",
       "hint": null,
-      "phonetic": "/mˈɛdɪkəl ɹˈɛkɚd/",
+      "phonetic": "/ˈmɛdəkəl rəˈkɔrd/",
       "meanings": {
         "es": "expediente medico",
         "pt": "prontuário médico",
@@ -144,7 +144,7 @@
       "id": "pack_00135_0006",
       "word": "laboratory",
       "hint": null,
-      "phonetic": "/lˈæbɹətˌɔːɹi/",
+      "phonetic": "/ˈlæbrətɔri/",
       "meanings": {
         "es": "laboratorio",
         "pt": "laboratório",
@@ -170,7 +170,7 @@
       "id": "pack_00135_0007",
       "word": "insurance",
       "hint": null,
-      "phonetic": "/ɪnʃˈʊɹɹəns/",
+      "phonetic": "/ˌɪnˈʃʊrəns/",
       "meanings": {
         "es": "seguro",
         "pt": "seguro",
@@ -196,7 +196,7 @@
       "id": "pack_00135_0008",
       "word": "mental health",
       "hint": null,
-      "phonetic": "/mˈɛntəl hˈɛlθ/",
+      "phonetic": "/ˈmɛntəl hɛlθ/",
       "meanings": {
         "es": "salud mental",
         "pt": "saúde mental",
@@ -222,7 +222,7 @@
       "id": "pack_00135_0009",
       "word": "public health",
       "hint": null,
-      "phonetic": "/pˈʌblɪk hˈɛlθ/",
+      "phonetic": "/ˈpʌblɪk hɛlθ/",
       "meanings": {
         "es": "salud publica",
         "pt": "saúde pública",
@@ -248,7 +248,7 @@
       "id": "pack_00135_0010",
       "word": "outpatient",
       "hint": null,
-      "phonetic": "/aʊtpˈeɪʃənt/",
+      "phonetic": "/ˈaʊtpeɪʃənt/",
       "meanings": {
         "es": "paciente externo",
         "pt": "ambulatorial",

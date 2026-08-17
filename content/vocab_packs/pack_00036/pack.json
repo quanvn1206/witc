@@ -14,7 +14,7 @@
       "id": "pack_00036_0001",
       "word": "cold",
       "hint": null,
-      "phonetic": "/kˈoʊld/",
+      "phonetic": "/koʊld/",
       "meanings": {
         "es": "frío",
         "pt": "frio",
@@ -40,7 +40,7 @@
       "id": "pack_00036_0002",
       "word": "cough",
       "hint": null,
-      "phonetic": "/kˈɔf/",
+      "phonetic": "/kɑf/",
       "meanings": {
         "es": "tos",
         "pt": "tosse",
@@ -66,7 +66,7 @@
       "id": "pack_00036_0003",
       "word": "fever",
       "hint": null,
-      "phonetic": "/fˈiːvɚ/",
+      "phonetic": "/ˈfivər/",
       "meanings": {
         "es": "fiebre",
         "pt": "febre",
@@ -92,7 +92,7 @@
       "id": "pack_00036_0004",
       "word": "headache",
       "hint": null,
-      "phonetic": "/hˈɛdeɪk/",
+      "phonetic": "/ˈhɛdeɪk/",
       "meanings": {
         "es": "dolor de cabeza",
         "pt": "dor de cabeça",
@@ -118,7 +118,7 @@
       "id": "pack_00036_0005",
       "word": "stomachache",
       "hint": null,
-      "phonetic": "/stˈʌməkˌeɪk/",
+      "phonetic": "/ˈstʌməkeɪk/",
       "meanings": {
         "es": "Dolor de estómago",
         "pt": "dor de estômago",
@@ -144,7 +144,7 @@
       "id": "pack_00036_0006",
       "word": "toothache",
       "hint": null,
-      "phonetic": "/tˈuːθeɪk/",
+      "phonetic": "/ˈtuθeɪk/",
       "meanings": {
         "es": "dolor de muelas",
         "pt": "dor de dente",
@@ -170,7 +170,7 @@
       "id": "pack_00036_0007",
       "word": "sore throat",
       "hint": null,
-      "phonetic": "/sˈɔːɹ θɹˈoʊt/",
+      "phonetic": "/sɔr θroʊt/",
       "meanings": {
         "es": "dolor de garganta",
         "pt": "dor de garganta",
@@ -196,7 +196,7 @@
       "id": "pack_00036_0008",
       "word": "flu",
       "hint": null,
-      "phonetic": "/flˈuː/",
+      "phonetic": "/flu/",
       "meanings": {
         "es": "gripe",
         "pt": "gripe",
@@ -222,7 +222,7 @@
       "id": "pack_00036_0009",
       "word": "runny nose",
       "hint": null,
-      "phonetic": "/ɹˈʌni nˈoʊz/",
+      "phonetic": "/ˈrʌni noʊz/",
       "meanings": {
         "es": "rinorrea",
         "pt": "nariz escorrendo",
@@ -248,7 +248,7 @@
       "id": "pack_00036_0010",
       "word": "allergy",
       "hint": null,
-      "phonetic": "/ˈælɚdʒi/",
+      "phonetic": "/ˈælərdʒi/",
       "meanings": {
         "es": "alergia",
         "pt": "alergia",

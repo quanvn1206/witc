@@ -14,7 +14,7 @@
       "id": "pack_00122_0001",
       "word": "haircut",
       "hint": null,
-      "phonetic": "/hˈɛɹkʌt/",
+      "phonetic": "/ˈhɛrkʌt/",
       "meanings": {
         "es": "corte de pelo",
         "pt": "corte de cabelo",
@@ -40,7 +40,7 @@
       "id": "pack_00122_0002",
       "word": "hairstyle",
       "hint": null,
-      "phonetic": "/hˈɛɹstaɪl/",
+      "phonetic": "/ˈhɛrstaɪl/",
       "meanings": {
         "es": "peinado",
         "pt": "penteado",
@@ -66,7 +66,7 @@
       "id": "pack_00122_0003",
       "word": "haircut appointment",
       "hint": null,
-      "phonetic": "/hˈɛɹkʌt ɐpˈɔɪntmənt/",
+      "phonetic": "/ˈhɛrkʌt əˈpɔɪntmənt/",
       "meanings": {
         "es": "cita de corte de pelo",
         "pt": "marcação de corte de cabelo",
@@ -92,7 +92,7 @@
       "id": "pack_00122_0004",
       "word": "manicure",
       "hint": null,
-      "phonetic": "/mˈænɪkjˌʊɹ/",
+      "phonetic": "/ˈmænɪkjər/",
       "meanings": {
         "es": "manicura",
         "pt": "manicure",
@@ -118,7 +118,7 @@
       "id": "pack_00122_0005",
       "word": "pedicure",
       "hint": null,
-      "phonetic": "/pˈɛdɪkjˌʊɹ/",
+      "phonetic": "/ˈpɛdɪkjər/",
       "meanings": {
         "es": "pedicure",
         "pt": "pedicure",
@@ -144,7 +144,7 @@
       "id": "pack_00122_0006",
       "word": "makeup",
       "hint": null,
-      "phonetic": "/mˈeɪkʌp/",
+      "phonetic": "/ˈmeɪkʌp/",
       "meanings": {
         "es": "constituir",
         "pt": "inventar",
@@ -170,7 +170,7 @@
       "id": "pack_00122_0007",
       "word": "haircut scissors",
       "hint": null,
-      "phonetic": "/hˈɛɹkʌt sˈɪsɚz/",
+      "phonetic": "/ˈhɛrkʌt ˈsɪzərz/",
       "meanings": {
         "es": "tijeras de corte de pelo",
         "pt": "tesoura de corte de cabelo",
@@ -196,7 +196,7 @@
       "id": "pack_00122_0008",
       "word": "hair dryer",
       "hint": null,
-      "phonetic": "/hˈɛɹ dɹˈaɪɚ/",
+      "phonetic": "/hɛr ˈdraɪər/",
       "meanings": {
         "es": "secador de pelo",
         "pt": "secador de cabelo",
@@ -222,7 +222,7 @@
       "id": "pack_00122_0009",
       "word": "nail polish",
       "hint": null,
-      "phonetic": "/nˈeɪl pˈɑːlɪʃ/",
+      "phonetic": "/neɪl ˈpɑlɪʃ/",
       "meanings": {
         "es": "esmalte de uñas",
         "pt": "esmalte",
@@ -248,7 +248,7 @@
       "id": "pack_00122_0010",
       "word": "massage",
       "hint": null,
-      "phonetic": "/mɐsˈɑːʒ/",
+      "phonetic": "/məˈsɑʒ/",
       "meanings": {
         "es": "masaje",
         "pt": "massagem",

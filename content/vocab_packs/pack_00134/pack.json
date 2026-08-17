@@ -14,7 +14,7 @@
       "id": "pack_00134_0001",
       "word": "surgery",
       "hint": null,
-      "phonetic": "/sˈɜːdʒɚɹi/",
+      "phonetic": "/ˈsɜrdʒəri/",
       "meanings": {
         "es": "cirugía",
         "pt": "cirurgia",
@@ -40,7 +40,7 @@
       "id": "pack_00134_0002",
       "word": "diagnosis",
       "hint": null,
-      "phonetic": "/dˌaɪəɡnˈoʊsɪs/",
+      "phonetic": "/ˌdaɪəɡˈnoʊsəs/",
       "meanings": {
         "es": "diagnóstico",
         "pt": "diagnóstico",
@@ -66,7 +66,7 @@
       "id": "pack_00134_0003",
       "word": "symptom",
       "hint": null,
-      "phonetic": "/sˈɪmptəm/",
+      "phonetic": "/ˈsɪmptəm/",
       "meanings": {
         "es": "síntoma",
         "pt": "sintoma",
@@ -92,7 +92,7 @@
       "id": "pack_00134_0004",
       "word": "examine",
       "hint": null,
-      "phonetic": "/ɛɡzˈæmɪn/",
+      "phonetic": "/ɪɡˈzæmɪn/",
       "meanings": {
         "es": "examinar",
         "pt": "examinar",
@@ -118,7 +118,7 @@
       "id": "pack_00134_0005",
       "word": "vaccination",
       "hint": null,
-      "phonetic": "/vˌæksᵻnˈeɪʃən/",
+      "phonetic": "/væksəˈneɪʃən/",
       "meanings": {
         "es": "vacunación",
         "pt": "vacinação",
@@ -144,7 +144,7 @@
       "id": "pack_00134_0006",
       "word": "emergency",
       "hint": null,
-      "phonetic": "/ɪmˈɜːdʒənsi/",
+      "phonetic": "/ɪˈmɜrdʒənsi/",
       "meanings": {
         "es": "emergencia",
         "pt": "emergência",
@@ -170,7 +170,7 @@
       "id": "pack_00134_0007",
       "word": "operation",
       "hint": null,
-      "phonetic": "/ˌɑːpɚɹˈeɪʃən/",
+      "phonetic": "/ˌɑpəˈreɪʃən/",
       "meanings": {
         "es": "operación",
         "pt": "operação",
@@ -196,7 +196,7 @@
       "id": "pack_00134_0008",
       "word": "specialist",
       "hint": null,
-      "phonetic": "/spˈɛʃəlˌɪst/",
+      "phonetic": "/ˈspɛʃələst/",
       "meanings": {
         "es": "especialista",
         "pt": "especialista",
@@ -222,7 +222,7 @@
       "id": "pack_00134_0009",
       "word": "blood pressure",
       "hint": null,
-      "phonetic": "/blˈʌd pɹˈɛʃɚ/",
+      "phonetic": "/blʌd ˈprɛʃər/",
       "meanings": {
         "es": "presión arterial",
         "pt": "pressão arterial",
@@ -248,7 +248,7 @@
       "id": "pack_00134_0010",
       "word": "X-ray",
       "hint": null,
-      "phonetic": "/ˈɛksɹˈeɪ/",
+      "phonetic": "/ˈɛksreɪ/",
       "meanings": {
         "es": "radiografía",
         "pt": "raio X",

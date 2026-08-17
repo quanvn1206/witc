@@ -14,7 +14,7 @@
       "id": "pack_00117_0001",
       "word": "Paris",
       "hint": null,
-      "phonetic": "/pˈæɹɪs/",
+      "phonetic": "/ˈpɛrɪs/",
       "meanings": {
         "es": "París",
         "pt": "Paris",
@@ -40,7 +40,7 @@
       "id": "pack_00117_0002",
       "word": "London",
       "hint": null,
-      "phonetic": "/lˈʌndən/",
+      "phonetic": "/ˈlʌndən/",
       "meanings": {
         "es": "Londres",
         "pt": "Londres",
@@ -66,7 +66,7 @@
       "id": "pack_00117_0003",
       "word": "Rome",
       "hint": null,
-      "phonetic": "/ɹˈoʊm/",
+      "phonetic": "/roʊm/",
       "meanings": {
         "es": "Roma",
         "pt": "Roma",
@@ -92,7 +92,7 @@
       "id": "pack_00117_0004",
       "word": "Madrid",
       "hint": null,
-      "phonetic": "/mədɹˈɪd/",
+      "phonetic": "/məˈdrɪd/",
       "meanings": {
         "es": "Madrid",
         "pt": "Madri",
@@ -118,7 +118,7 @@
       "id": "pack_00117_0005",
       "word": "Ottawa",
       "hint": null,
-      "phonetic": "/ˈɑːɾɐwə/",
+      "phonetic": "/ˈɑtəwɑ/",
       "meanings": {
         "es": "Ottawa",
         "pt": "Otava",
@@ -144,7 +144,7 @@
       "id": "pack_00117_0006",
       "word": "Canberra",
       "hint": null,
-      "phonetic": "/kˈænbɚɹə/",
+      "phonetic": "/ˌkænˈbɛrə/",
       "meanings": {
         "es": "Canberra",
         "pt": "Canberra",
@@ -170,7 +170,7 @@
       "id": "pack_00117_0007",
       "word": "Washington",
       "hint": null,
-      "phonetic": "/wˈɑːʃɪŋtən/",
+      "phonetic": "/ˈwɑʃɪŋtən/",
       "meanings": {
         "es": "Washington",
         "pt": "Washington",
@@ -196,7 +196,7 @@
       "id": "pack_00117_0008",
       "word": "Brasilia",
       "hint": null,
-      "phonetic": "/bɹæsˈɪliə/",
+      "phonetic": "/brəˈzɪljə/",
       "meanings": {
         "es": "brasilia",
         "pt": "Brasília",
@@ -222,7 +222,7 @@
       "id": "pack_00117_0009",
       "word": "Cairo",
       "hint": null,
-      "phonetic": "/kˈaɪɹoʊ/",
+      "phonetic": "/ˈkaɪroʊ/",
       "meanings": {
         "es": "El Cairo",
         "pt": "Cairo",
@@ -248,7 +248,7 @@
       "id": "pack_00117_0010",
       "word": "Moscow",
       "hint": null,
-      "phonetic": "/mˈɑːskoʊ/",
+      "phonetic": "/ˈmɑskoʊ/",
       "meanings": {
         "es": "Moscú",
         "pt": "Moscou",

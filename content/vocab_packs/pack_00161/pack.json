@@ -14,7 +14,7 @@
       "id": "pack_00161_0001",
       "word": "say",
       "hint": null,
-      "phonetic": "/sˈeɪ/",
+      "phonetic": "/seɪ/",
       "meanings": {
         "es": "decir",
         "pt": "dizer",
@@ -40,7 +40,7 @@
       "id": "pack_00161_0002",
       "word": "bay",
       "hint": null,
-      "phonetic": "/bˈeɪ/",
+      "phonetic": "/beɪ/",
       "meanings": {
         "es": "bahía",
         "pt": "baía",
@@ -66,7 +66,7 @@
       "id": "pack_00161_0003",
       "word": "day",
       "hint": null,
-      "phonetic": "/dˈeɪ/",
+      "phonetic": "/deɪ/",
       "meanings": {
         "es": "día",
         "pt": "dia",
@@ -92,7 +92,7 @@
       "id": "pack_00161_0004",
       "word": "pay",
       "hint": null,
-      "phonetic": "/pˈeɪ/",
+      "phonetic": "/peɪ/",
       "meanings": {
         "es": "pagar",
         "pt": "pagar",
@@ -118,7 +118,7 @@
       "id": "pack_00161_0005",
       "word": "way",
       "hint": null,
-      "phonetic": "/wˈeɪ/",
+      "phonetic": "/weɪ/",
       "meanings": {
         "es": "forma",
         "pt": "caminho",
@@ -144,7 +144,7 @@
       "id": "pack_00161_0006",
       "word": "lay",
       "hint": null,
-      "phonetic": "/lˈeɪ/",
+      "phonetic": "/leɪ/",
       "meanings": {
         "es": "poner",
         "pt": "deitar",
@@ -170,7 +170,7 @@
       "id": "pack_00161_0007",
       "word": "hay",
       "hint": null,
-      "phonetic": "/hˈeɪ/",
+      "phonetic": "/heɪ/",
       "meanings": {
         "es": "heno",
         "pt": "feno",
@@ -196,7 +196,7 @@
       "id": "pack_00161_0008",
       "word": "ray",
       "hint": null,
-      "phonetic": "/ɹˈeɪ/",
+      "phonetic": "/reɪ/",
       "meanings": {
         "es": "rayo",
         "pt": "raio",
@@ -222,7 +222,7 @@
       "id": "pack_00161_0009",
       "word": "play",
       "hint": null,
-      "phonetic": "/plˈeɪ/",
+      "phonetic": "/pleɪ/",
       "meanings": {
         "es": "jugar",
         "pt": "jogar",
@@ -248,7 +248,7 @@
       "id": "pack_00161_0010",
       "word": "pray",
       "hint": null,
-      "phonetic": "/pɹˈeɪ/",
+      "phonetic": "/preɪ/",
       "meanings": {
         "es": "orar",
         "pt": "rezar",

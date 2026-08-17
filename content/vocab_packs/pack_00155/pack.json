@@ -14,7 +14,7 @@
       "id": "pack_00155_0001",
       "word": "recipe",
       "hint": null,
-      "phonetic": "/ɹˈɛsᵻpˌiː/",
+      "phonetic": "/ˈrɛsəpi/",
       "meanings": {
         "es": "receta",
         "pt": "receita",
@@ -40,7 +40,7 @@
       "id": "pack_00155_0002",
       "word": "ingredient",
       "hint": null,
-      "phonetic": "/ɪŋɡɹˈiːdiənt/",
+      "phonetic": "/ˌɪnˈɡridiənt/",
       "meanings": {
         "es": "ingrediente",
         "pt": "ingrediente",
@@ -66,7 +66,7 @@
       "id": "pack_00155_0003",
       "word": "cuisine",
       "hint": null,
-      "phonetic": "/kwᵻzˈiːn/",
+      "phonetic": "/kwɪˈzin/",
       "meanings": {
         "es": "cocina",
         "pt": "cozinha",
@@ -92,7 +92,7 @@
       "id": "pack_00155_0004",
       "word": "seasoning",
       "hint": null,
-      "phonetic": "/sˈiːzənɪŋ/",
+      "phonetic": "/ˈsizənɪŋ/",
       "meanings": {
         "es": "condimento",
         "pt": "tempero",
@@ -118,7 +118,7 @@
       "id": "pack_00155_0005",
       "word": "nutrition",
       "hint": null,
-      "phonetic": "/njuːtɹˈɪʃən/",
+      "phonetic": "/nuˈtrɪʃən/",
       "meanings": {
         "es": "nutrición",
         "pt": "nutrição",
@@ -144,7 +144,7 @@
       "id": "pack_00155_0006",
       "word": "presentation",
       "hint": null,
-      "phonetic": "/pɹˌɛzəntˈeɪʃən/",
+      "phonetic": "/ˌprɛzənˈteɪʃən/",
       "meanings": {
         "es": "presentación",
         "pt": "apresentação",
@@ -170,7 +170,7 @@
       "id": "pack_00155_0007",
       "word": "hygiene",
       "hint": null,
-      "phonetic": "/hˈaɪdʒiːn/",
+      "phonetic": "/ˈhaɪdʒin/",
       "meanings": {
         "es": "higiene",
         "pt": "higiene",
@@ -196,7 +196,7 @@
       "id": "pack_00155_0008",
       "word": "portion",
       "hint": null,
-      "phonetic": "/pˈɔːɹʃən/",
+      "phonetic": "/ˈpɔrʃən/",
       "meanings": {
         "es": "parte",
         "pt": "parte",
@@ -222,7 +222,7 @@
       "id": "pack_00155_0009",
       "word": "garnish",
       "hint": null,
-      "phonetic": "/ɡˈɑːɹnɪʃ/",
+      "phonetic": "/ˈɡɑrnɪʃ/",
       "meanings": {
         "es": "guarnación",
         "pt": "enfeitar",
@@ -248,7 +248,7 @@
       "id": "pack_00155_0010",
       "word": "specialty",
       "hint": null,
-      "phonetic": "/spˈɛʃəlɾi/",
+      "phonetic": "/ˈspɛʃəlti/",
       "meanings": {
         "es": "especialidad",
         "pt": "especialidade",

@@ -14,7 +14,7 @@
       "id": "pack_00082_0001",
       "word": "jump",
       "hint": null,
-      "phonetic": "/dʒˈʌmp/",
+      "phonetic": "/dʒʌmp/",
       "meanings": {
         "es": "saltar",
         "pt": "pular",
@@ -40,7 +40,7 @@
       "id": "pack_00082_0002",
       "word": "stretch",
       "hint": null,
-      "phonetic": "/stɹˈɛtʃ/",
+      "phonetic": "/strɛtʃ/",
       "meanings": {
         "es": "estirar",
         "pt": "esticar",
@@ -66,7 +66,7 @@
       "id": "pack_00082_0003",
       "word": "exercise",
       "hint": null,
-      "phonetic": "/ˈɛksɚsˌaɪz/",
+      "phonetic": "/ˈɛksərsaɪz/",
       "meanings": {
         "es": "ejercicio",
         "pt": "exercício",
@@ -92,7 +92,7 @@
       "id": "pack_00082_0004",
       "word": "warm up",
       "hint": null,
-      "phonetic": "/wˈɔːɹm ˈʌp/",
+      "phonetic": "/wɔrm ʌp/",
       "meanings": {
         "es": "calentamiento",
         "pt": "aquecimento",
@@ -118,7 +118,7 @@
       "id": "pack_00082_0005",
       "word": "cool down",
       "hint": null,
-      "phonetic": "/kˈuːl dˈaʊn/",
+      "phonetic": "/kul daʊn/",
       "meanings": {
         "es": "enfriarse",
         "pt": "esfriar",
@@ -144,7 +144,7 @@
       "id": "pack_00082_0006",
       "word": "push-up",
       "hint": null,
-      "phonetic": "/pˈʊʃˈʌp/",
+      "phonetic": "/ˈpʊʃʌp/",
       "meanings": {
         "es": "flexión",
         "pt": "flexão",
@@ -170,7 +170,7 @@
       "id": "pack_00082_0007",
       "word": "sit-up",
       "hint": null,
-      "phonetic": "/sˈɪtˈʌp/",
+      "phonetic": "/ˈsɪtʌp/",
       "meanings": {
         "es": "sentarse",
         "pt": "abdominais",
@@ -196,7 +196,7 @@
       "id": "pack_00082_0008",
       "word": "walk",
       "hint": null,
-      "phonetic": "/wˈɔːk/",
+      "phonetic": "/wɔk/",
       "meanings": {
         "es": "caminar",
         "pt": "andar",
@@ -222,7 +222,7 @@
       "id": "pack_00082_0009",
       "word": "jog",
       "hint": null,
-      "phonetic": "/dʒˈɑːɡ/",
+      "phonetic": "/dʒɑɡ/",
       "meanings": {
         "es": "sacudida",
         "pt": "correr",
@@ -248,7 +248,7 @@
       "id": "pack_00082_0010",
       "word": "rest",
       "hint": null,
-      "phonetic": "/ɹˈɛst/",
+      "phonetic": "/rɛst/",
       "meanings": {
         "es": "descansar",
         "pt": "descansar",

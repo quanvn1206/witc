@@ -14,7 +14,7 @@
       "id": "pack_00042_0001",
       "word": "cotton",
       "hint": null,
-      "phonetic": "/kˈɑːʔn̩/",
+      "phonetic": "/ˈkɑtən/",
       "meanings": {
         "es": "algodón",
         "pt": "algodão",
@@ -40,7 +40,7 @@
       "id": "pack_00042_0002",
       "word": "leather",
       "hint": null,
-      "phonetic": "/lˈɛðɚ/",
+      "phonetic": "/ˈlɛðər/",
       "meanings": {
         "es": "cuero",
         "pt": "couro",
@@ -66,7 +66,7 @@
       "id": "pack_00042_0003",
       "word": "silk",
       "hint": null,
-      "phonetic": "/sˈɪlk/",
+      "phonetic": "/sɪlk/",
       "meanings": {
         "es": "seda",
         "pt": "seda",
@@ -92,7 +92,7 @@
       "id": "pack_00042_0004",
       "word": "wool",
       "hint": null,
-      "phonetic": "/wˈʊl/",
+      "phonetic": "/wʊl/",
       "meanings": {
         "es": "lana",
         "pt": "lã",
@@ -118,7 +118,7 @@
       "id": "pack_00042_0005",
       "word": "denim",
       "hint": null,
-      "phonetic": "/dˈɛnɪm/",
+      "phonetic": "/ˈdɛnəm/",
       "meanings": {
         "es": "dril",
         "pt": "jeans",
@@ -144,7 +144,7 @@
       "id": "pack_00042_0006",
       "word": "striped",
       "hint": null,
-      "phonetic": "/stɹˈaɪpt/",
+      "phonetic": "/straɪpt/",
       "meanings": {
         "es": "a rayas",
         "pt": "listrado",
@@ -170,7 +170,7 @@
       "id": "pack_00042_0007",
       "word": "checked",
       "hint": null,
-      "phonetic": "/tʃˈɛkt/",
+      "phonetic": "/tʃɛkt/",
       "meanings": {
         "es": "comprobado",
         "pt": "verificado",
@@ -196,7 +196,7 @@
       "id": "pack_00042_0008",
       "word": "plain",
       "hint": null,
-      "phonetic": "/plˈeɪn/",
+      "phonetic": "/pleɪn/",
       "meanings": {
         "es": "plano",
         "pt": "simples",
@@ -222,7 +222,7 @@
       "id": "pack_00042_0009",
       "word": "floral",
       "hint": null,
-      "phonetic": "/flˈɔːɹəl/",
+      "phonetic": "/ˈflɔrəl/",
       "meanings": {
         "es": "floral",
         "pt": "floral",
@@ -248,7 +248,7 @@
       "id": "pack_00042_0010",
       "word": "pocket",
       "hint": null,
-      "phonetic": "/pˈɑːkɪt/",
+      "phonetic": "/ˈpɑkət/",
       "meanings": {
         "es": "bolsillo",
         "pt": "bolso",

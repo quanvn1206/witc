@@ -14,7 +14,7 @@
       "id": "pack_00014_0001",
       "word": "proud",
       "hint": null,
-      "phonetic": "/pɹˈaʊd/",
+      "phonetic": "/praʊd/",
       "meanings": {
         "es": "orgulloso",
         "pt": "orgulhoso",
@@ -40,7 +40,7 @@
       "id": "pack_00014_0002",
       "word": "confident",
       "hint": null,
-      "phonetic": "/kˈɑːnfɪdənt/",
+      "phonetic": "/ˈkɑnfədənt/",
       "meanings": {
         "es": "seguro",
         "pt": "confiante",
@@ -66,7 +66,7 @@
       "id": "pack_00014_0003",
       "word": "relaxed",
       "hint": null,
-      "phonetic": "/ɹᵻlˈækst/",
+      "phonetic": "/rɪˈlækst/",
       "meanings": {
         "es": "relajado",
         "pt": "relaxado",
@@ -92,7 +92,7 @@
       "id": "pack_00014_0004",
       "word": "cheerful",
       "hint": null,
-      "phonetic": "/tʃˈɪɹfəl/",
+      "phonetic": "/ˈtʃɪrfəl/",
       "meanings": {
         "es": "alegre",
         "pt": "alegre",
@@ -118,7 +118,7 @@
       "id": "pack_00014_0005",
       "word": "grateful",
       "hint": null,
-      "phonetic": "/ɡɹˈeɪtfəl/",
+      "phonetic": "/ˈɡreɪtfəl/",
       "meanings": {
         "es": "agradecido",
         "pt": "grato",
@@ -144,7 +144,7 @@
       "id": "pack_00014_0006",
       "word": "hopeful",
       "hint": null,
-      "phonetic": "/hˈoʊpfəl/",
+      "phonetic": "/ˈhoʊpfəl/",
       "meanings": {
         "es": "esperanzado",
         "pt": "esperançoso",
@@ -170,7 +170,7 @@
       "id": "pack_00014_0007",
       "word": "content",
       "hint": null,
-      "phonetic": "/kˈɑːntɛnt/",
+      "phonetic": "/ˈkɑntɛnt/",
       "meanings": {
         "es": "contenido",
         "pt": "contente",
@@ -196,7 +196,7 @@
       "id": "pack_00014_0008",
       "word": "amused",
       "hint": null,
-      "phonetic": "/ɐmjˈuːzd/",
+      "phonetic": "/əˈmjuzd/",
       "meanings": {
         "es": "divertido",
         "pt": "divertido",
@@ -222,7 +222,7 @@
       "id": "pack_00014_0009",
       "word": "thrilled",
       "hint": null,
-      "phonetic": "/θɹˈɪld/",
+      "phonetic": "/θrɪld/",
       "meanings": {
         "es": "encantado",
         "pt": "entusiasmado",
@@ -248,7 +248,7 @@
       "id": "pack_00014_0010",
       "word": "satisfied",
       "hint": null,
-      "phonetic": "/sˈæɾɪsfˌaɪd/",
+      "phonetic": "/ˈsætəsfaɪd/",
       "meanings": {
         "es": "satisfecho",
         "pt": "satisfeito",

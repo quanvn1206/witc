@@ -14,7 +14,7 @@
       "id": "pack_00146_0001",
       "word": "money",
       "hint": null,
-      "phonetic": "/mˈʌni/",
+      "phonetic": "/ˈmʌni/",
       "meanings": {
         "es": "dinero",
         "pt": "dinheiro",
@@ -40,7 +40,7 @@
       "id": "pack_00146_0002",
       "word": "bank",
       "hint": null,
-      "phonetic": "/bˈæŋk/",
+      "phonetic": "/bæŋk/",
       "meanings": {
         "es": "banco",
         "pt": "banco",
@@ -66,7 +66,7 @@
       "id": "pack_00146_0003",
       "word": "cash",
       "hint": null,
-      "phonetic": "/kˈæʃ/",
+      "phonetic": "/kæʃ/",
       "meanings": {
         "es": "dinero",
         "pt": "dinheiro",
@@ -92,7 +92,7 @@
       "id": "pack_00146_0004",
       "word": "coin",
       "hint": null,
-      "phonetic": "/kˈɔɪn/",
+      "phonetic": "/kɔɪn/",
       "meanings": {
         "es": "acuñar",
         "pt": "moeda",
@@ -118,7 +118,7 @@
       "id": "pack_00146_0005",
       "word": "wallet",
       "hint": null,
-      "phonetic": "/wˈɔlɪt/",
+      "phonetic": "/ˈwɔlət/",
       "meanings": {
         "es": "billetera",
         "pt": "carteira",
@@ -144,7 +144,7 @@
       "id": "pack_00146_0006",
       "word": "bill",
       "hint": null,
-      "phonetic": "/bˈɪl/",
+      "phonetic": "/bɪl/",
       "meanings": {
         "es": "factura",
         "pt": "conta",
@@ -170,7 +170,7 @@
       "id": "pack_00146_0007",
       "word": "price",
       "hint": null,
-      "phonetic": "/pɹˈaɪs/",
+      "phonetic": "/praɪs/",
       "meanings": {
         "es": "precio",
         "pt": "preço",
@@ -196,7 +196,7 @@
       "id": "pack_00146_0008",
       "word": "pay",
       "hint": null,
-      "phonetic": "/pˈeɪ/",
+      "phonetic": "/peɪ/",
       "meanings": {
         "es": "pagar",
         "pt": "pagar",
@@ -222,7 +222,7 @@
       "id": "pack_00146_0009",
       "word": "save",
       "hint": null,
-      "phonetic": "/sˈeɪv/",
+      "phonetic": "/seɪv/",
       "meanings": {
         "es": "ahorrar",
         "pt": "salvar",
@@ -248,7 +248,7 @@
       "id": "pack_00146_0010",
       "word": "spend",
       "hint": null,
-      "phonetic": "/spˈɛnd/",
+      "phonetic": "/spɛnd/",
       "meanings": {
         "es": "gastar",
         "pt": "gastar",

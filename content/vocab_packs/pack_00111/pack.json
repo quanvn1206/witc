@@ -14,7 +14,7 @@
       "id": "pack_00111_0001",
       "word": "Eiffel Tower",
       "hint": null,
-      "phonetic": "/ˈaɪfəl tˈaʊɚ/",
+      "phonetic": "/ˈaɪfəl ˈtaʊər/",
       "meanings": {
         "es": "Torre Eiffel",
         "pt": "Torre Eiffel",
@@ -40,7 +40,7 @@
       "id": "pack_00111_0002",
       "word": "Big Ben",
       "hint": null,
-      "phonetic": "/bˈɪɡ bˈɛn/",
+      "phonetic": "/bɪɡ bɛn/",
       "meanings": {
         "es": "Gran Ben",
         "pt": "Grande Ben",
@@ -66,7 +66,7 @@
       "id": "pack_00111_0003",
       "word": "Great Wall",
       "hint": null,
-      "phonetic": "/ɡɹˈeɪt wˈɔːl/",
+      "phonetic": "/ɡreɪt wɔl/",
       "meanings": {
         "es": "Gran Muralla",
         "pt": "Grande Muralha",
@@ -92,7 +92,7 @@
       "id": "pack_00111_0004",
       "word": "Colosseum",
       "hint": null,
-      "phonetic": "/kˌɑːləsˈiəm/",
+      "phonetic": "/ˌkɑləˈsiəm/",
       "meanings": {
         "es": "Coliseo",
         "pt": "Coliseu",
@@ -118,7 +118,7 @@
       "id": "pack_00111_0005",
       "word": "pyramid",
       "hint": null,
-      "phonetic": "/pˈɪɹɐmˌɪd/",
+      "phonetic": "/ˈpɪrəmɪd/",
       "meanings": {
         "es": "pirámide",
         "pt": "pirâmide",
@@ -144,7 +144,7 @@
       "id": "pack_00111_0006",
       "word": "Taj Mahal",
       "hint": null,
-      "phonetic": "/tˈɑːʒ mɐhˈɑːl/",
+      "phonetic": "/tɑʒ məˈhɑl/",
       "meanings": {
         "es": "Taj Mahal",
         "pt": "Taj Mahal",
@@ -170,7 +170,7 @@
       "id": "pack_00111_0007",
       "word": "lighthouse",
       "hint": null,
-      "phonetic": "/lˈaɪthaʊs/",
+      "phonetic": "/ˈlaɪthaʊs/",
       "meanings": {
         "es": "faro",
         "pt": "farol",
@@ -196,7 +196,7 @@
       "id": "pack_00111_0008",
       "word": "castle",
       "hint": null,
-      "phonetic": "/kˈæsəl/",
+      "phonetic": "/ˈkæsəl/",
       "meanings": {
         "es": "castillo",
         "pt": "castelo",
@@ -222,7 +222,7 @@
       "id": "pack_00111_0009",
       "word": "bridge",
       "hint": null,
-      "phonetic": "/bɹˈɪdʒ/",
+      "phonetic": "/brɪdʒ/",
       "meanings": {
         "es": "puente",
         "pt": "ponte",
@@ -248,7 +248,7 @@
       "id": "pack_00111_0010",
       "word": "statue",
       "hint": null,
-      "phonetic": "/stˈætʃuː/",
+      "phonetic": "/ˈstætʃu/",
       "meanings": {
         "es": "estatua",
         "pt": "estátua",

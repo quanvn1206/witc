@@ -14,7 +14,7 @@
       "id": "pack_00132_0001",
       "word": "appointment",
       "hint": null,
-      "phonetic": "/ɐpˈɔɪntmənt/",
+      "phonetic": "/əˈpɔɪntmənt/",
       "meanings": {
         "es": "cita",
         "pt": "encontro",
@@ -40,7 +40,7 @@
       "id": "pack_00132_0002",
       "word": "checkup",
       "hint": null,
-      "phonetic": "/tʃˈɛkʌp/",
+      "phonetic": "/ˈtʃɛkʌp/",
       "meanings": {
         "es": "chequeo",
         "pt": "checar",
@@ -66,7 +66,7 @@
       "id": "pack_00132_0003",
       "word": "dentist",
       "hint": null,
-      "phonetic": "/dˈɛntɪst/",
+      "phonetic": "/ˈdɛntəst/",
       "meanings": {
         "es": "dentista",
         "pt": "dentista",
@@ -92,7 +92,7 @@
       "id": "pack_00132_0004",
       "word": "pharmacy",
       "hint": null,
-      "phonetic": "/fˈɑːɹməsi/",
+      "phonetic": "/ˈfɑrməsi/",
       "meanings": {
         "es": "farmacia",
         "pt": "farmácia",
@@ -118,7 +118,7 @@
       "id": "pack_00132_0005",
       "word": "prescription",
       "hint": null,
-      "phonetic": "/pɹɪskɹˈɪpʃən/",
+      "phonetic": "/prəˈskrɪpʃən/",
       "meanings": {
         "es": "prescripción",
         "pt": "prescrição",
@@ -144,7 +144,7 @@
       "id": "pack_00132_0006",
       "word": "injection",
       "hint": null,
-      "phonetic": "/ɪndʒˈɛkʃən/",
+      "phonetic": "/ˌɪnˈdʒɛkʃən/",
       "meanings": {
         "es": "inyección",
         "pt": "injeção",
@@ -170,7 +170,7 @@
       "id": "pack_00132_0007",
       "word": "cough",
       "hint": null,
-      "phonetic": "/kˈɔf/",
+      "phonetic": "/kɑf/",
       "meanings": {
         "es": "tos",
         "pt": "tosse",
@@ -196,7 +196,7 @@
       "id": "pack_00132_0008",
       "word": "fever",
       "hint": null,
-      "phonetic": "/fˈiːvɚ/",
+      "phonetic": "/ˈfivər/",
       "meanings": {
         "es": "fiebre",
         "pt": "febre",
@@ -222,7 +222,7 @@
       "id": "pack_00132_0009",
       "word": "headache",
       "hint": null,
-      "phonetic": "/hˈɛdeɪk/",
+      "phonetic": "/ˈhɛdeɪk/",
       "meanings": {
         "es": "dolor de cabeza",
         "pt": "dor de cabeça",
@@ -248,7 +248,7 @@
       "id": "pack_00132_0010",
       "word": "stomachache",
       "hint": null,
-      "phonetic": "/stˈʌməkˌeɪk/",
+      "phonetic": "/ˈstʌməkeɪk/",
       "meanings": {
         "es": "Dolor de estómago",
         "pt": "dor de estômago",

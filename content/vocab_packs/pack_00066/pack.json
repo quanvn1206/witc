@@ -14,7 +14,7 @@
       "id": "pack_00066_0001",
       "word": "Japan",
       "hint": null,
-      "phonetic": "/dʒəpˈæn/",
+      "phonetic": "/dʒəˈpæn/",
       "meanings": {
         "es": "Japón",
         "pt": "Japão",
@@ -40,7 +40,7 @@
       "id": "pack_00066_0002",
       "word": "Bangladesh",
       "hint": null,
-      "phonetic": "/bˌæŋɡlɐdˈɛʃ/",
+      "phonetic": "/ˈbæŋlədɛʃ/",
       "meanings": {
         "es": "Bangladesh",
         "pt": "Bangladesh",
@@ -66,7 +66,7 @@
       "id": "pack_00066_0003",
       "word": "Palau",
       "hint": null,
-      "phonetic": "/pˈælaʊ/",
+      "phonetic": "/ˈpælaʊ/",
       "meanings": {
         "es": "Palaos",
         "pt": "Palau",
@@ -92,7 +92,7 @@
       "id": "pack_00066_0004",
       "word": "Greenland",
       "hint": null,
-      "phonetic": "/ɡɹˈiːnlənd/",
+      "phonetic": "/ˈɡrinlənd/",
       "meanings": {
         "es": "Tierra Verde",
         "pt": "Groenlândia",
@@ -118,7 +118,7 @@
       "id": "pack_00066_0005",
       "word": "Laos",
       "hint": null,
-      "phonetic": "/lˈaʊz/",
+      "phonetic": "/ˈlɑoʊs/",
       "meanings": {
         "es": "Laos",
         "pt": "Laos",
@@ -144,7 +144,7 @@
       "id": "pack_00066_0006",
       "word": "China",
       "hint": null,
-      "phonetic": "/tʃˈaɪnə/",
+      "phonetic": "/ˈtʃaɪnə/",
       "meanings": {
         "es": "Porcelana",
         "pt": "China",
@@ -170,7 +170,7 @@
       "id": "pack_00066_0007",
       "word": "South Korea",
       "hint": null,
-      "phonetic": "/sˈaʊθ kɚɹˈiːə/",
+      "phonetic": "/saʊθ ˌkɔˈriə/",
       "meanings": {
         "es": "Corea del Sur",
         "pt": "Coréia do Sul",
@@ -196,7 +196,7 @@
       "id": "pack_00066_0008",
       "word": "North Korea",
       "hint": null,
-      "phonetic": "/nˈɔːɹθ kɚɹˈiːə/",
+      "phonetic": "/nɔrθ ˌkɔˈriə/",
       "meanings": {
         "es": "Corea del Norte",
         "pt": "Coréia do Norte",
@@ -222,7 +222,7 @@
       "id": "pack_00066_0009",
       "word": "Taiwan",
       "hint": null,
-      "phonetic": "/taɪwˈɑːn/",
+      "phonetic": "/ˈtaɪwɑn/",
       "meanings": {
         "es": "Taiwán",
         "pt": "Taiwan",
@@ -248,7 +248,7 @@
       "id": "pack_00066_0010",
       "word": "Vietnam",
       "hint": null,
-      "phonetic": "/vˌiːətnˈɑːm/",
+      "phonetic": "/viˌɛtˈnɑm/",
       "meanings": {
         "es": "Vietnam",
         "pt": "Vietnã",

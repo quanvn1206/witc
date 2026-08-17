@@ -14,7 +14,7 @@
       "id": "pack_00083_0001",
       "word": "treadmill",
       "hint": null,
-      "phonetic": "/tɹˈɛdmɪl/",
+      "phonetic": "/ˈtrɛdmɪl/",
       "meanings": {
         "es": "rueda de andar",
         "pt": "esteira",
@@ -40,7 +40,7 @@
       "id": "pack_00083_0002",
       "word": "dumbbell",
       "hint": null,
-      "phonetic": "/dˈʌmbɛl/",
+      "phonetic": "/ˈdʌmbɛl/",
       "meanings": {
         "es": "pesa",
         "pt": "haltere",
@@ -66,7 +66,7 @@
       "id": "pack_00083_0003",
       "word": "yoga mat",
       "hint": null,
-      "phonetic": "/jˈoʊɡə mˈæt/",
+      "phonetic": "/ˈjoʊɡə mæt/",
       "meanings": {
         "es": "estera de yoga",
         "pt": "tapete de ioga",
@@ -92,7 +92,7 @@
       "id": "pack_00083_0004",
       "word": "helmet",
       "hint": null,
-      "phonetic": "/hˈɛlmɪt/",
+      "phonetic": "/ˈhɛlmət/",
       "meanings": {
         "es": "casco",
         "pt": "capacete",
@@ -118,7 +118,7 @@
       "id": "pack_00083_0005",
       "word": "racket",
       "hint": null,
-      "phonetic": "/ɹˈækɪt/",
+      "phonetic": "/ˈrækɪt/",
       "meanings": {
         "es": "raqueta",
         "pt": "raquete",
@@ -144,7 +144,7 @@
       "id": "pack_00083_0006",
       "word": "gloves",
       "hint": null,
-      "phonetic": "/ɡlˈʌvz/",
+      "phonetic": "/ɡlʌvz/",
       "meanings": {
         "es": "guantes",
         "pt": "luvas",
@@ -170,7 +170,7 @@
       "id": "pack_00083_0007",
       "word": "whistle",
       "hint": null,
-      "phonetic": "/wˈɪsəl/",
+      "phonetic": "/ˈwɪsəl/",
       "meanings": {
         "es": "silbar",
         "pt": "assobiar",
@@ -196,7 +196,7 @@
       "id": "pack_00083_0008",
       "word": "goalpost",
       "hint": null,
-      "phonetic": "/ɡˈoʊlpoʊst/",
+      "phonetic": "/ˈɡoʊlpoʊst/",
       "meanings": {
         "es": "poste de puerta",
         "pt": "trave",
@@ -222,7 +222,7 @@
       "id": "pack_00083_0009",
       "word": "stopwatch",
       "hint": null,
-      "phonetic": "/stˈɑːpwɑːtʃ/",
+      "phonetic": "/ˈstɑpwɑtʃ/",
       "meanings": {
         "es": "cronógrafo",
         "pt": "cronômetro",
@@ -248,7 +248,7 @@
       "id": "pack_00083_0010",
       "word": "trainer",
       "hint": null,
-      "phonetic": "/tɹˈeɪnɚ/",
+      "phonetic": "/ˈtreɪnər/",
       "meanings": {
         "es": "entrenador",
         "pt": "treinador",

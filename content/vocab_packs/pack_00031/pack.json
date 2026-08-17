@@ -14,7 +14,7 @@
       "id": "pack_00031_0001",
       "word": "hammer",
       "hint": null,
-      "phonetic": "/hˈæmɚ/",
+      "phonetic": "/ˈhæmər/",
       "meanings": {
         "es": "martillo",
         "pt": "martelo",
@@ -40,7 +40,7 @@
       "id": "pack_00031_0002",
       "word": "screwdriver",
       "hint": null,
-      "phonetic": "/skɹˈuːdɹaɪvɚ/",
+      "phonetic": "/ˈskrudraɪvər/",
       "meanings": {
         "es": "destornillador",
         "pt": "chave de fenda",
@@ -66,7 +66,7 @@
       "id": "pack_00031_0003",
       "word": "wrench",
       "hint": null,
-      "phonetic": "/ɹˈɛntʃ/",
+      "phonetic": "/rɛntʃ/",
       "meanings": {
         "es": "llave inglesa",
         "pt": "chave inglesa",
@@ -92,7 +92,7 @@
       "id": "pack_00031_0004",
       "word": "pliers",
       "hint": null,
-      "phonetic": "/plˈaɪɚz/",
+      "phonetic": "/ˈplaɪərz/",
       "meanings": {
         "es": "alicates",
         "pt": "alicate",
@@ -118,7 +118,7 @@
       "id": "pack_00031_0005",
       "word": "drill",
       "hint": null,
-      "phonetic": "/dɹˈɪl/",
+      "phonetic": "/drɪl/",
       "meanings": {
         "es": "perforar",
         "pt": "furar",
@@ -144,7 +144,7 @@
       "id": "pack_00031_0006",
       "word": "saw",
       "hint": null,
-      "phonetic": "/sˈɔː/",
+      "phonetic": "/sɔ/",
       "meanings": {
         "es": "sierra",
         "pt": "serra",
@@ -170,7 +170,7 @@
       "id": "pack_00031_0007",
       "word": "nail",
       "hint": null,
-      "phonetic": "/nˈeɪl/",
+      "phonetic": "/neɪl/",
       "meanings": {
         "es": "clavo",
         "pt": "unha",
@@ -196,7 +196,7 @@
       "id": "pack_00031_0008",
       "word": "screw",
       "hint": null,
-      "phonetic": "/skɹˈuː/",
+      "phonetic": "/skru/",
       "meanings": {
         "es": "tornillo",
         "pt": "parafuso",
@@ -222,7 +222,7 @@
       "id": "pack_00031_0009",
       "word": "toolbox",
       "hint": null,
-      "phonetic": "/tˈuːlbɑːks/",
+      "phonetic": "/ˈtulbɔks/",
       "meanings": {
         "es": "caja de instrumento",
         "pt": "caixa de ferramentas",
@@ -248,7 +248,7 @@
       "id": "pack_00031_0010",
       "word": "tape measure",
       "hint": null,
-      "phonetic": "/tˈeɪp mˈɛʒɚ/",
+      "phonetic": "/teɪp ˈmɛʒər/",
       "meanings": {
         "es": "cinta métrica",
         "pt": "fita métrica",

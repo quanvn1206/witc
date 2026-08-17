@@ -14,7 +14,7 @@
       "id": "pack_00057_0001",
       "word": "steering wheel",
       "hint": null,
-      "phonetic": "/stˈɪɹɪŋ wˈiːl/",
+      "phonetic": "/ˈstɪrɪŋ wil/",
       "meanings": {
         "es": "volante",
         "pt": "volante",
@@ -40,7 +40,7 @@
       "id": "pack_00057_0002",
       "word": "seat belt",
       "hint": null,
-      "phonetic": "/sˈiːt bˈɛlt/",
+      "phonetic": "/sit bɛlt/",
       "meanings": {
         "es": "cinturón de seguridad",
         "pt": "cinto de segurança",
@@ -66,7 +66,7 @@
       "id": "pack_00057_0003",
       "word": "engine",
       "hint": null,
-      "phonetic": "/ˈɛndʒɪn/",
+      "phonetic": "/ˈɛndʒən/",
       "meanings": {
         "es": "motor",
         "pt": "motor",
@@ -92,7 +92,7 @@
       "id": "pack_00057_0004",
       "word": "fuel",
       "hint": null,
-      "phonetic": "/fjˈuːəl/",
+      "phonetic": "/ˈfjuəl/",
       "meanings": {
         "es": "combustible",
         "pt": "combustível",
@@ -118,7 +118,7 @@
       "id": "pack_00057_0005",
       "word": "brake",
       "hint": null,
-      "phonetic": "/bɹˈeɪk/",
+      "phonetic": "/breɪk/",
       "meanings": {
         "es": "freno",
         "pt": "freio",
@@ -144,7 +144,7 @@
       "id": "pack_00057_0006",
       "word": "accelerator",
       "hint": null,
-      "phonetic": "/ɐksˈɛlɚɹˌeɪɾɚ/",
+      "phonetic": "/ækˈsɛləreɪtər/",
       "meanings": {
         "es": "acelerador",
         "pt": "acelerador",
@@ -170,7 +170,7 @@
       "id": "pack_00057_0007",
       "word": "license",
       "hint": null,
-      "phonetic": "/lˈaɪsəns/",
+      "phonetic": "/ˈlaɪsəns/",
       "meanings": {
         "es": "licencia",
         "pt": "licença",
@@ -196,7 +196,7 @@
       "id": "pack_00057_0008",
       "word": "overtake",
       "hint": null,
-      "phonetic": "/ˌoʊvɚtˈeɪk/",
+      "phonetic": "/ˈoʊvərteɪk/",
       "meanings": {
         "es": "adelantar",
         "pt": "ultrapassar",
@@ -222,7 +222,7 @@
       "id": "pack_00057_0009",
       "word": "intersection",
       "hint": null,
-      "phonetic": "/ˌɪntɚsˈɛkʃən/",
+      "phonetic": "/ˌɪntərˈsɛkʃən/",
       "meanings": {
         "es": "intersección",
         "pt": "interseção",
@@ -248,7 +248,7 @@
       "id": "pack_00057_0010",
       "word": "navigation",
       "hint": null,
-      "phonetic": "/nˌævɪɡˈeɪʃən/",
+      "phonetic": "/ˈnævəɡeɪʃən/",
       "meanings": {
         "es": "navegación",
         "pt": "navegação",

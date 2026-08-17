@@ -14,7 +14,7 @@
       "id": "pack_00021_0001",
       "word": "carry",
       "hint": null,
-      "phonetic": "/kˈæɹi/",
+      "phonetic": "/ˈkæri/",
       "meanings": {
         "es": "llevar",
         "pt": "carregar",
@@ -40,7 +40,7 @@
       "id": "pack_00021_0002",
       "word": "hold",
       "hint": null,
-      "phonetic": "/hˈoʊld/",
+      "phonetic": "/hoʊld/",
       "meanings": {
         "es": "sostener",
         "pt": "segurar",
@@ -66,7 +66,7 @@
       "id": "pack_00021_0003",
       "word": "hug",
       "hint": null,
-      "phonetic": "/hˈʌɡ/",
+      "phonetic": "/hʌɡ/",
       "meanings": {
         "es": "abrazo",
         "pt": "abraço",
@@ -92,7 +92,7 @@
       "id": "pack_00021_0004",
       "word": "grab",
       "hint": null,
-      "phonetic": "/ɡɹˈæb/",
+      "phonetic": "/ɡræb/",
       "meanings": {
         "es": "agarrar",
         "pt": "pegar",
@@ -118,7 +118,7 @@
       "id": "pack_00021_0005",
       "word": "lift",
       "hint": null,
-      "phonetic": "/lˈɪft/",
+      "phonetic": "/lɪft/",
       "meanings": {
         "es": "elevar",
         "pt": "elevador",
@@ -144,7 +144,7 @@
       "id": "pack_00021_0006",
       "word": "push",
       "hint": null,
-      "phonetic": "/pˈʊʃ/",
+      "phonetic": "/pʊʃ/",
       "meanings": {
         "es": "empujar",
         "pt": "empurrar",
@@ -170,7 +170,7 @@
       "id": "pack_00021_0007",
       "word": "pull",
       "hint": null,
-      "phonetic": "/pˈʊl/",
+      "phonetic": "/pʊl/",
       "meanings": {
         "es": "jalar",
         "pt": "puxar",
@@ -196,7 +196,7 @@
       "id": "pack_00021_0008",
       "word": "drag",
       "hint": null,
-      "phonetic": "/dɹˈæɡ/",
+      "phonetic": "/dræɡ/",
       "meanings": {
         "es": "arrastrar",
         "pt": "arrastar",
@@ -222,7 +222,7 @@
       "id": "pack_00021_0009",
       "word": "throw",
       "hint": null,
-      "phonetic": "/θɹˈoʊ/",
+      "phonetic": "/θroʊ/",
       "meanings": {
         "es": "tirar",
         "pt": "lançar",
@@ -248,7 +248,7 @@
       "id": "pack_00021_0010",
       "word": "catch",
       "hint": null,
-      "phonetic": "/kˈætʃ/",
+      "phonetic": "/kætʃ/",
       "meanings": {
         "es": "atrapar",
         "pt": "pegar",

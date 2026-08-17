@@ -14,7 +14,7 @@
       "id": "pack_00162_0001",
       "word": "love",
       "hint": null,
-      "phonetic": "/lˈʌv/",
+      "phonetic": "/lʌv/",
       "meanings": {
         "es": "amar",
         "pt": "amor",
@@ -40,7 +40,7 @@
       "id": "pack_00162_0002",
       "word": "glove",
       "hint": null,
-      "phonetic": "/ɡlˈʌv/",
+      "phonetic": "/ɡlʌv/",
       "meanings": {
         "es": "guante",
         "pt": "luva",
@@ -66,7 +66,7 @@
       "id": "pack_00162_0003",
       "word": "dove",
       "hint": null,
-      "phonetic": "/dˈʌv/",
+      "phonetic": "/dʌv/",
       "meanings": {
         "es": "paloma",
         "pt": "pomba",
@@ -92,7 +92,7 @@
       "id": "pack_00162_0004",
       "word": "shove",
       "hint": null,
-      "phonetic": "/ʃˈʌv/",
+      "phonetic": "/ʃʌv/",
       "meanings": {
         "es": "empujón",
         "pt": "empurrão",
@@ -118,7 +118,7 @@
       "id": "pack_00162_0005",
       "word": "stove",
       "hint": null,
-      "phonetic": "/stˈoʊv/",
+      "phonetic": "/stoʊv/",
       "meanings": {
         "es": "cocina",
         "pt": "forno",
@@ -144,7 +144,7 @@
       "id": "pack_00162_0006",
       "word": "above",
       "hint": null,
-      "phonetic": "/əbˈʌv/",
+      "phonetic": "/əˈbʌv/",
       "meanings": {
         "es": "arriba",
         "pt": "acima",
@@ -170,7 +170,7 @@
       "id": "pack_00162_0007",
       "word": "improve",
       "hint": null,
-      "phonetic": "/ɪmpɹˈuːv/",
+      "phonetic": "/ˌɪmˈpruv/",
       "meanings": {
         "es": "mejorar",
         "pt": "melhorar",
@@ -196,7 +196,7 @@
       "id": "pack_00162_0008",
       "word": "remove",
       "hint": null,
-      "phonetic": "/ɹᵻmˈuːv/",
+      "phonetic": "/riˈmuv/",
       "meanings": {
         "es": "eliminar",
         "pt": "remover",
@@ -222,7 +222,7 @@
       "id": "pack_00162_0009",
       "word": "approve",
       "hint": null,
-      "phonetic": "/ɐpɹˈuːv/",
+      "phonetic": "/əˈpruv/",
       "meanings": {
         "es": "aprobar",
         "pt": "aprovar",
@@ -248,7 +248,7 @@
       "id": "pack_00162_0010",
       "word": "cove",
       "hint": null,
-      "phonetic": "/kˈoʊv/",
+      "phonetic": "/koʊv/",
       "meanings": {
         "es": "ensenada",
         "pt": "enseada",

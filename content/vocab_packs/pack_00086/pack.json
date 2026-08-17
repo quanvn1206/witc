@@ -14,7 +14,7 @@
       "id": "pack_00086_0001",
       "word": "reading",
       "hint": null,
-      "phonetic": "/ɹˈiːdɪŋ/",
+      "phonetic": "/ˈridɪŋ/",
       "meanings": {
         "es": "lectura",
         "pt": "leitura",
@@ -40,7 +40,7 @@
       "id": "pack_00086_0002",
       "word": "drawing",
       "hint": null,
-      "phonetic": "/dɹˈɔːɪŋ/",
+      "phonetic": "/ˈdrɔɪŋ/",
       "meanings": {
         "es": "dibujo",
         "pt": "desenho",
@@ -66,7 +66,7 @@
       "id": "pack_00086_0003",
       "word": "cooking",
       "hint": null,
-      "phonetic": "/kˈʊkɪŋ/",
+      "phonetic": "/ˈkʊkɪŋ/",
       "meanings": {
         "es": "cocinando",
         "pt": "culinária",
@@ -92,7 +92,7 @@
       "id": "pack_00086_0004",
       "word": "dancing",
       "hint": null,
-      "phonetic": "/dˈænsɪŋ/",
+      "phonetic": "/ˈdænsɪŋ/",
       "meanings": {
         "es": "baile",
         "pt": "dança",
@@ -118,7 +118,7 @@
       "id": "pack_00086_0005",
       "word": "singing",
       "hint": null,
-      "phonetic": "/sˈɪŋɪŋ/",
+      "phonetic": "/ˈsɪŋɪŋ/",
       "meanings": {
         "es": "cantando",
         "pt": "cantoria",
@@ -144,7 +144,7 @@
       "id": "pack_00086_0006",
       "word": "fishing",
       "hint": null,
-      "phonetic": "/fˈɪʃɪŋ/",
+      "phonetic": "/ˈfɪʃɪŋ/",
       "meanings": {
         "es": "pesca",
         "pt": "pesca",
@@ -170,7 +170,7 @@
       "id": "pack_00086_0007",
       "word": "gardening",
       "hint": null,
-      "phonetic": "/ɡˈɑːɹdənɪŋ/",
+      "phonetic": "/ˈɡɑrdənɪŋ/",
       "meanings": {
         "es": "jardinería",
         "pt": "jardinagem",
@@ -196,7 +196,7 @@
       "id": "pack_00086_0008",
       "word": "painting",
       "hint": null,
-      "phonetic": "/pˈeɪntɪŋ/",
+      "phonetic": "/ˈpeɪntɪŋ/",
       "meanings": {
         "es": "cuadro",
         "pt": "pintura",
@@ -222,7 +222,7 @@
       "id": "pack_00086_0009",
       "word": "knitting",
       "hint": null,
-      "phonetic": "/nˈɪɾɪŋ/",
+      "phonetic": "/ˈnɪtɪŋ/",
       "meanings": {
         "es": "tejido de punto",
         "pt": "tricô",
@@ -248,7 +248,7 @@
       "id": "pack_00086_0010",
       "word": "baking",
       "hint": null,
-      "phonetic": "/bˈeɪkɪŋ/",
+      "phonetic": "/ˈbeɪkɪŋ/",
       "meanings": {
         "es": "hornada",
         "pt": "cozimento",

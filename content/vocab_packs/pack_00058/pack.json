@@ -14,7 +14,7 @@
       "id": "pack_00058_0001",
       "word": "commute",
       "hint": null,
-      "phonetic": "/kəmjˈuːt/",
+      "phonetic": "/kəˈmjut/",
       "meanings": {
         "es": "desplazarse",
         "pt": "trajeto",
@@ -40,7 +40,7 @@
       "id": "pack_00058_0002",
       "word": "congestion",
       "hint": null,
-      "phonetic": "/kəndʒˈɛstʃən/",
+      "phonetic": "/kənˈdʒɛstʃən/",
       "meanings": {
         "es": "congestión",
         "pt": "congestionamento",
@@ -66,7 +66,7 @@
       "id": "pack_00058_0003",
       "word": "infrastructure",
       "hint": null,
-      "phonetic": "/ˈɪnfɹəstɹˌʌktʃɚ/",
+      "phonetic": "/ˌɪnfrəˈstrʌktʃər/",
       "meanings": {
         "es": "infraestructura",
         "pt": "infraestrutura",
@@ -92,7 +92,7 @@
       "id": "pack_00058_0004",
       "word": "railway",
       "hint": null,
-      "phonetic": "/ɹˈeɪlweɪ/",
+      "phonetic": "/ˈreɪlweɪ/",
       "meanings": {
         "es": "ferrocarril",
         "pt": "ferrovia",
@@ -118,7 +118,7 @@
       "id": "pack_00058_0005",
       "word": "shipment",
       "hint": null,
-      "phonetic": "/ʃˈɪpmənt/",
+      "phonetic": "/ˈʃɪpmənt/",
       "meanings": {
         "es": "envío",
         "pt": "remessa",
@@ -144,7 +144,7 @@
       "id": "pack_00058_0006",
       "word": "logistics",
       "hint": null,
-      "phonetic": "/lədʒˈɪstɪks/",
+      "phonetic": "/ləˈdʒɪstɪks/",
       "meanings": {
         "es": "logística",
         "pt": "logística",
@@ -170,7 +170,7 @@
       "id": "pack_00058_0007",
       "word": "destination",
       "hint": null,
-      "phonetic": "/dˌɛstɪnˈeɪʃən/",
+      "phonetic": "/ˌdɛstəˈneɪʃən/",
       "meanings": {
         "es": "destino",
         "pt": "destino",
@@ -196,7 +196,7 @@
       "id": "pack_00058_0008",
       "word": "departure",
       "hint": null,
-      "phonetic": "/dᵻpˈɑːɹtʃɚ/",
+      "phonetic": "/dɪˈpɑrtʃər/",
       "meanings": {
         "es": "partida",
         "pt": "partida",
@@ -222,7 +222,7 @@
       "id": "pack_00058_0009",
       "word": "transit",
       "hint": null,
-      "phonetic": "/tɹˈænsɪt/",
+      "phonetic": "/ˈtrænzɪt/",
       "meanings": {
         "es": "tránsito",
         "pt": "trânsito",
@@ -248,7 +248,7 @@
       "id": "pack_00058_0010",
       "word": "sustainable transport",
       "hint": null,
-      "phonetic": "/səstˈeɪnəbəl tɹˈænspɔːɹt/",
+      "phonetic": "/səˈsteɪnəbəl trænˈspɔrt/",
       "meanings": {
         "es": "transporte sostenible",
         "pt": "transporte sustentável",

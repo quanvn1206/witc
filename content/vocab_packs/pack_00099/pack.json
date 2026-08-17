@@ -14,7 +14,7 @@
       "id": "pack_00099_0001",
       "word": "screenplay",
       "hint": null,
-      "phonetic": "/skɹˈiːnpleɪ/",
+      "phonetic": "/ˈskrinpleɪ/",
       "meanings": {
         "es": "guión",
         "pt": "roteiro",
@@ -40,7 +40,7 @@
       "id": "pack_00099_0002",
       "word": "producer",
       "hint": null,
-      "phonetic": "/pɹədˈuːsɚ/",
+      "phonetic": "/prəˈdusər/",
       "meanings": {
         "es": "productor",
         "pt": "produtor",
@@ -66,7 +66,7 @@
       "id": "pack_00099_0003",
       "word": "documentary",
       "hint": null,
-      "phonetic": "/dˌɑːkjuːmˈɛntɚɹi/",
+      "phonetic": "/ˌdɑkjəˈmɛntəri/",
       "meanings": {
         "es": "documental",
         "pt": "documentário",
@@ -92,7 +92,7 @@
       "id": "pack_00099_0004",
       "word": "animation",
       "hint": null,
-      "phonetic": "/ˌænɪmˈeɪʃən/",
+      "phonetic": "/ˌænəˈmeɪʃən/",
       "meanings": {
         "es": "animación",
         "pt": "animação",
@@ -118,7 +118,7 @@
       "id": "pack_00099_0005",
       "word": "rehearsal",
       "hint": null,
-      "phonetic": "/ɹᵻhˈɜːsəl/",
+      "phonetic": "/rɪˈhɜrsəl/",
       "meanings": {
         "es": "ensayo",
         "pt": "ensaio",
@@ -144,7 +144,7 @@
       "id": "pack_00099_0006",
       "word": "premiere",
       "hint": null,
-      "phonetic": "/pɹəmˈɪɹ/",
+      "phonetic": "/prɛˈmɪr/",
       "meanings": {
         "es": "estreno",
         "pt": "estreia",
@@ -170,7 +170,7 @@
       "id": "pack_00099_0007",
       "word": "genre",
       "hint": null,
-      "phonetic": "/ʒˈɑːnɹə/",
+      "phonetic": "/ˈʒɑnrə/",
       "meanings": {
         "es": "género",
         "pt": "gênero",
@@ -196,7 +196,7 @@
       "id": "pack_00099_0008",
       "word": "orchestra",
       "hint": null,
-      "phonetic": "/ˈɔːɹkᵻstɹə/",
+      "phonetic": "/ˈɔrkəstrə/",
       "meanings": {
         "es": "orquesta",
         "pt": "orquestra",
@@ -222,7 +222,7 @@
       "id": "pack_00099_0009",
       "word": "recording",
       "hint": null,
-      "phonetic": "/ɹᵻkˈɔːɹdɪŋ/",
+      "phonetic": "/rəˈkɔrdɪŋ/",
       "meanings": {
         "es": "grabación",
         "pt": "gravação",
@@ -248,7 +248,7 @@
       "id": "pack_00099_0010",
       "word": "dialogue",
       "hint": null,
-      "phonetic": "/dˈaɪəlɑːɡ/",
+      "phonetic": "/ˈdaɪəlɔɡ/",
       "meanings": {
         "es": "diálogo",
         "pt": "diálogo",

@@ -14,7 +14,7 @@
       "id": "pack_00143_0001",
       "word": "build",
       "hint": null,
-      "phonetic": "/bˈɪld/",
+      "phonetic": "/bɪld/",
       "meanings": {
         "es": "construir",
         "pt": "construir",
@@ -40,7 +40,7 @@
       "id": "pack_00143_0002",
       "word": "repair",
       "hint": null,
-      "phonetic": "/ɹᵻpˈɛɹ/",
+      "phonetic": "/rɪˈpɛr/",
       "meanings": {
         "es": "reparar",
         "pt": "reparar",
@@ -66,7 +66,7 @@
       "id": "pack_00143_0003",
       "word": "install",
       "hint": null,
-      "phonetic": "/ɪnstˈɔːl/",
+      "phonetic": "/ˌɪnˈstɔl/",
       "meanings": {
         "es": "instalar",
         "pt": "instalar",
@@ -92,7 +92,7 @@
       "id": "pack_00143_0004",
       "word": "measure",
       "hint": null,
-      "phonetic": "/mˈɛʒɚ/",
+      "phonetic": "/ˈmɛʒər/",
       "meanings": {
         "es": "medida",
         "pt": "medir",
@@ -118,7 +118,7 @@
       "id": "pack_00143_0005",
       "word": "dig",
       "hint": null,
-      "phonetic": "/dˈɪɡ/",
+      "phonetic": "/dɪɡ/",
       "meanings": {
         "es": "excavar",
         "pt": "escavação",
@@ -144,7 +144,7 @@
       "id": "pack_00143_0006",
       "word": "pour",
       "hint": null,
-      "phonetic": "/pˈɔːɹ/",
+      "phonetic": "/pɔr/",
       "meanings": {
         "es": "derramar",
         "pt": "derramar",
@@ -170,7 +170,7 @@
       "id": "pack_00143_0007",
       "word": "lift",
       "hint": null,
-      "phonetic": "/lˈɪft/",
+      "phonetic": "/lɪft/",
       "meanings": {
         "es": "elevar",
         "pt": "elevador",
@@ -196,7 +196,7 @@
       "id": "pack_00143_0008",
       "word": "fix",
       "hint": null,
-      "phonetic": "/fˈɪks/",
+      "phonetic": "/fɪks/",
       "meanings": {
         "es": "arreglar",
         "pt": "consertar",
@@ -222,7 +222,7 @@
       "id": "pack_00143_0009",
       "word": "paint",
       "hint": null,
-      "phonetic": "/pˈeɪnt/",
+      "phonetic": "/peɪnt/",
       "meanings": {
         "es": "pintar",
         "pt": "pintar",
@@ -248,7 +248,7 @@
       "id": "pack_00143_0010",
       "word": "renovate",
       "hint": null,
-      "phonetic": "/ɹˈɛnəvˌeɪt/",
+      "phonetic": "/ˈrɛnəveɪt/",
       "meanings": {
         "es": "renovar",
         "pt": "renovar",

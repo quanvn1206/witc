@@ -14,7 +14,7 @@
       "id": "pack_00097_0001",
       "word": "movie",
       "hint": null,
-      "phonetic": "/mˈuːvi/",
+      "phonetic": "/ˈmuvi/",
       "meanings": {
         "es": "película",
         "pt": "filme",
@@ -40,7 +40,7 @@
       "id": "pack_00097_0002",
       "word": "actor",
       "hint": null,
-      "phonetic": "/ˈæktɚ/",
+      "phonetic": "/ˈæktər/",
       "meanings": {
         "es": "actor",
         "pt": "ator",
@@ -66,7 +66,7 @@
       "id": "pack_00097_0003",
       "word": "actress",
       "hint": null,
-      "phonetic": "/ˈæktɹəs/",
+      "phonetic": "/ˈæktrəs/",
       "meanings": {
         "es": "actriz",
         "pt": "atriz",
@@ -92,7 +92,7 @@
       "id": "pack_00097_0004",
       "word": "cinema",
       "hint": null,
-      "phonetic": "/sˈɪnəmə/",
+      "phonetic": "/ˈsɪnəmə/",
       "meanings": {
         "es": "cine",
         "pt": "cinema",
@@ -118,7 +118,7 @@
       "id": "pack_00097_0005",
       "word": "ticket",
       "hint": null,
-      "phonetic": "/tˈɪkɪt/",
+      "phonetic": "/ˈtɪkət/",
       "meanings": {
         "es": "boleto",
         "pt": "bilhete",
@@ -144,7 +144,7 @@
       "id": "pack_00097_0006",
       "word": "screen",
       "hint": null,
-      "phonetic": "/skɹˈiːn/",
+      "phonetic": "/skrin/",
       "meanings": {
         "es": "pantalla",
         "pt": "tela",
@@ -170,7 +170,7 @@
       "id": "pack_00097_0007",
       "word": "comedy",
       "hint": null,
-      "phonetic": "/kˈɑːmədi/",
+      "phonetic": "/ˈkɑmədi/",
       "meanings": {
         "es": "comedia",
         "pt": "comédia",
@@ -196,7 +196,7 @@
       "id": "pack_00097_0008",
       "word": "cartoon",
       "hint": null,
-      "phonetic": "/kɑːɹtˈuːn/",
+      "phonetic": "/kɑrˈtun/",
       "meanings": {
         "es": "dibujos animados",
         "pt": "desenho animado",
@@ -222,7 +222,7 @@
       "id": "pack_00097_0009",
       "word": "hero",
       "hint": null,
-      "phonetic": "/hˈiəɹoʊ/",
+      "phonetic": "/ˈhɪroʊ/",
       "meanings": {
         "es": "héroe",
         "pt": "herói",
@@ -248,7 +248,7 @@
       "id": "pack_00097_0010",
       "word": "scene",
       "hint": null,
-      "phonetic": "/sˈiːn/",
+      "phonetic": "/sin/",
       "meanings": {
         "es": "escena",
         "pt": "cena",

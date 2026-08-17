@@ -14,7 +14,7 @@
       "id": "pack_00026_0001",
       "word": "stove",
       "hint": null,
-      "phonetic": "/stˈoʊv/",
+      "phonetic": "/stoʊv/",
       "meanings": {
         "es": "cocina",
         "pt": "forno",
@@ -40,7 +40,7 @@
       "id": "pack_00026_0002",
       "word": "refrigerator",
       "hint": null,
-      "phonetic": "/ɹᵻfɹˈɪdʒɚɹˌeɪɾɚ/",
+      "phonetic": "/rəˈfrɪdʒəreɪtər/",
       "meanings": {
         "es": "refrigerador",
         "pt": "frigorífico",
@@ -66,7 +66,7 @@
       "id": "pack_00026_0003",
       "word": "sink",
       "hint": null,
-      "phonetic": "/sˈɪŋk/",
+      "phonetic": "/sɪŋk/",
       "meanings": {
         "es": "hundir",
         "pt": "afundar",
@@ -118,7 +118,7 @@
       "id": "pack_00026_0005",
       "word": "microwave",
       "hint": null,
-      "phonetic": "/mˈaɪkɹoʊwˌeɪv/",
+      "phonetic": "/ˈmaɪkrəweɪv/",
       "meanings": {
         "es": "microonda",
         "pt": "microondas",
@@ -144,7 +144,7 @@
       "id": "pack_00026_0006",
       "word": "pot",
       "hint": null,
-      "phonetic": "/pˈɑːt/",
+      "phonetic": "/pɑt/",
       "meanings": {
         "es": "olla",
         "pt": "pote",
@@ -170,7 +170,7 @@
       "id": "pack_00026_0007",
       "word": "pan",
       "hint": null,
-      "phonetic": "/pˈæn/",
+      "phonetic": "/pæn/",
       "meanings": {
         "es": "cacerola",
         "pt": "frigideira",
@@ -196,7 +196,7 @@
       "id": "pack_00026_0008",
       "word": "kettle",
       "hint": null,
-      "phonetic": "/kˈɛɾəl/",
+      "phonetic": "/ˈkɛtəl/",
       "meanings": {
         "es": "pava",
         "pt": "chaleira",
@@ -222,7 +222,7 @@
       "id": "pack_00026_0009",
       "word": "cutting board",
       "hint": null,
-      "phonetic": "/kˈʌɾɪŋ bˈɔːɹd/",
+      "phonetic": "/ˈkʌtɪŋ bɔrd/",
       "meanings": {
         "es": "tabla de cortar",
         "pt": "tábua de corte",
@@ -248,7 +248,7 @@
       "id": "pack_00026_0010",
       "word": "dish",
       "hint": null,
-      "phonetic": "/dˈɪʃ/",
+      "phonetic": "/dɪʃ/",
       "meanings": {
         "es": "plato",
         "pt": "prato",

@@ -14,7 +14,7 @@
       "id": "pack_00078_0001",
       "word": "vacation",
       "hint": null,
-      "phonetic": "/veɪkˈeɪʃən/",
+      "phonetic": "/veɪˈkeɪʃən/",
       "meanings": {
         "es": "vacaciones",
         "pt": "férias",
@@ -40,7 +40,7 @@
       "id": "pack_00078_0002",
       "word": "tourist",
       "hint": null,
-      "phonetic": "/tˈʊɹɹɪst/",
+      "phonetic": "/ˈtʊrəst/",
       "meanings": {
         "es": "turístico",
         "pt": "turista",
@@ -66,7 +66,7 @@
       "id": "pack_00078_0003",
       "word": "sightseeing",
       "hint": null,
-      "phonetic": "/sˈaɪtsiːɪŋ/",
+      "phonetic": "/ˈsaɪtsiɪŋ/",
       "meanings": {
         "es": "pasear",
         "pt": "passeio turístico",
@@ -92,7 +92,7 @@
       "id": "pack_00078_0004",
       "word": "souvenir",
       "hint": null,
-      "phonetic": "/sˌuːvənˈɪɹ/",
+      "phonetic": "/ˌsuvəˈnɪr/",
       "meanings": {
         "es": "recuerdo",
         "pt": "lembrança",
@@ -118,7 +118,7 @@
       "id": "pack_00078_0005",
       "word": "campsite",
       "hint": null,
-      "phonetic": "/kˈæmpsaɪt/",
+      "phonetic": "/ˈkæmpsaɪt/",
       "meanings": {
         "es": "cámping",
         "pt": "acampamento",
@@ -144,7 +144,7 @@
       "id": "pack_00078_0006",
       "word": "hostel",
       "hint": null,
-      "phonetic": "/hˈɑːstəl/",
+      "phonetic": "/ˈhɑstəl/",
       "meanings": {
         "es": "Albergue",
         "pt": "Hostel",
@@ -170,7 +170,7 @@
       "id": "pack_00078_0007",
       "word": "resort",
       "hint": null,
-      "phonetic": "/ɹᵻzˈɔːɹt/",
+      "phonetic": "/rɪˈzɔrt/",
       "meanings": {
         "es": "complejo",
         "pt": "recorrer",
@@ -196,7 +196,7 @@
       "id": "pack_00078_0008",
       "word": "tour",
       "hint": null,
-      "phonetic": "/tˈʊɹ/",
+      "phonetic": "/tʊr/",
       "meanings": {
         "es": "recorrido",
         "pt": "percorrer",
@@ -222,7 +222,7 @@
       "id": "pack_00078_0009",
       "word": "itinerary",
       "hint": null,
-      "phonetic": "/aɪtˈɪnɚɹˌɛɹi/",
+      "phonetic": "/aɪˈtɪnərɛri/",
       "meanings": {
         "es": "itinerario",
         "pt": "itinerário",
@@ -248,7 +248,7 @@
       "id": "pack_00078_0010",
       "word": "landmark",
       "hint": null,
-      "phonetic": "/lˈændmɑːɹk/",
+      "phonetic": "/ˈlændmɑrk/",
       "meanings": {
         "es": "marca",
         "pt": "marco",

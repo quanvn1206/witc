@@ -14,7 +14,7 @@
       "id": "pack_00091_0001",
       "word": "desk",
       "hint": null,
-      "phonetic": "/dˈɛsk/",
+      "phonetic": "/dɛsk/",
       "meanings": {
         "es": "escritorio",
         "pt": "mesa",
@@ -40,7 +40,7 @@
       "id": "pack_00091_0002",
       "word": "computer",
       "hint": null,
-      "phonetic": "/kəmpjˈuːɾɚ/",
+      "phonetic": "/kəmˈpjutər/",
       "meanings": {
         "es": "computadora",
         "pt": "computador",
@@ -66,7 +66,7 @@
       "id": "pack_00091_0003",
       "word": "printer",
       "hint": null,
-      "phonetic": "/pɹˈɪntɚ/",
+      "phonetic": "/ˈprɪntər/",
       "meanings": {
         "es": "impresora",
         "pt": "impressora",
@@ -92,7 +92,7 @@
       "id": "pack_00091_0004",
       "word": "paper",
       "hint": null,
-      "phonetic": "/pˈeɪpɚ/",
+      "phonetic": "/ˈpeɪpər/",
       "meanings": {
         "es": "papel",
         "pt": "papel",
@@ -118,7 +118,7 @@
       "id": "pack_00091_0005",
       "word": "folder",
       "hint": null,
-      "phonetic": "/fˈoʊldɚ/",
+      "phonetic": "/ˈfoʊldər/",
       "meanings": {
         "es": "carpeta",
         "pt": "pasta",
@@ -144,7 +144,7 @@
       "id": "pack_00091_0006",
       "word": "stapler",
       "hint": null,
-      "phonetic": "/stˈeɪplɚ/",
+      "phonetic": "/ˈsteɪpələr/",
       "meanings": {
         "es": "grapadora",
         "pt": "grampeador",
@@ -170,7 +170,7 @@
       "id": "pack_00091_0007",
       "word": "notebook",
       "hint": null,
-      "phonetic": "/nˈoʊtbʊk/",
+      "phonetic": "/ˈnoʊtbʊk/",
       "meanings": {
         "es": "computadora portátil",
         "pt": "caderno",
@@ -196,7 +196,7 @@
       "id": "pack_00091_0008",
       "word": "calendar",
       "hint": null,
-      "phonetic": "/kˈæləndɚ/",
+      "phonetic": "/ˈkæləndər/",
       "meanings": {
         "es": "calendario",
         "pt": "calendário",
@@ -222,7 +222,7 @@
       "id": "pack_00091_0009",
       "word": "chair",
       "hint": null,
-      "phonetic": "/tʃˈɛɹ/",
+      "phonetic": "/tʃɛr/",
       "meanings": {
         "es": "silla",
         "pt": "cadeira",
@@ -248,7 +248,7 @@
       "id": "pack_00091_0010",
       "word": "pen",
       "hint": null,
-      "phonetic": "/pˈɛn/",
+      "phonetic": "/pɛn/",
       "meanings": {
         "es": "bolígrafo",
         "pt": "caneta",

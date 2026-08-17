@@ -14,7 +14,7 @@
       "id": "pack_00055_0001",
       "word": "station",
       "hint": null,
-      "phonetic": "/stˈeɪʃən/",
+      "phonetic": "/ˈsteɪʃən/",
       "meanings": {
         "es": "estación",
         "pt": "estação",
@@ -40,7 +40,7 @@
       "id": "pack_00055_0002",
       "word": "platform",
       "hint": null,
-      "phonetic": "/plˈætfɔːɹm/",
+      "phonetic": "/ˈplætfɔrm/",
       "meanings": {
         "es": "plataforma",
         "pt": "plataforma",
@@ -66,7 +66,7 @@
       "id": "pack_00055_0003",
       "word": "ticket",
       "hint": null,
-      "phonetic": "/tˈɪkɪt/",
+      "phonetic": "/ˈtɪkət/",
       "meanings": {
         "es": "boleto",
         "pt": "bilhete",
@@ -92,7 +92,7 @@
       "id": "pack_00055_0004",
       "word": "passenger",
       "hint": null,
-      "phonetic": "/pˈæsɪndʒɚ/",
+      "phonetic": "/ˈpæsəndʒər/",
       "meanings": {
         "es": "pasajero",
         "pt": "passageiro",
@@ -118,7 +118,7 @@
       "id": "pack_00055_0005",
       "word": "driver",
       "hint": null,
-      "phonetic": "/dɹˈaɪvɚ/",
+      "phonetic": "/ˈdraɪvər/",
       "meanings": {
         "es": "conductor",
         "pt": "motorista",
@@ -144,7 +144,7 @@
       "id": "pack_00055_0006",
       "word": "stop",
       "hint": null,
-      "phonetic": "/stˈɑːp/",
+      "phonetic": "/stɑp/",
       "meanings": {
         "es": "detener",
         "pt": "parar",
@@ -170,7 +170,7 @@
       "id": "pack_00055_0007",
       "word": "route",
       "hint": null,
-      "phonetic": "/ɹˈaʊt/",
+      "phonetic": "/rut/",
       "meanings": {
         "es": "ruta",
         "pt": "rota",
@@ -196,7 +196,7 @@
       "id": "pack_00055_0008",
       "word": "subway",
       "hint": null,
-      "phonetic": "/sˈʌbweɪ/",
+      "phonetic": "/ˈsʌbweɪ/",
       "meanings": {
         "es": "metro",
         "pt": "metrô",
@@ -222,7 +222,7 @@
       "id": "pack_00055_0009",
       "word": "tram",
       "hint": null,
-      "phonetic": "/tɹˈæm/",
+      "phonetic": "/træm/",
       "meanings": {
         "es": "tranvía",
         "pt": "eléctrico",
@@ -248,7 +248,7 @@
       "id": "pack_00055_0010",
       "word": "ferry",
       "hint": null,
-      "phonetic": "/fˈɛɹi/",
+      "phonetic": "/ˈfɛri/",
       "meanings": {
         "es": "transportar",
         "pt": "balsa",

@@ -14,7 +14,7 @@
       "id": "pack_00128_0001",
       "word": "replace",
       "hint": null,
-      "phonetic": "/ɹᵻplˈeɪs/",
+      "phonetic": "/ˌriˈpleɪs/",
       "meanings": {
         "es": "reemplazar",
         "pt": "substituir",
@@ -40,7 +40,7 @@
       "id": "pack_00128_0002",
       "word": "inspect",
       "hint": null,
-      "phonetic": "/ɪnspˈɛkt/",
+      "phonetic": "/ˌɪnˈspɛkt/",
       "meanings": {
         "es": "inspeccionar",
         "pt": "inspecionar",
@@ -66,7 +66,7 @@
       "id": "pack_00128_0003",
       "word": "radiator",
       "hint": null,
-      "phonetic": "/ɹˈeɪdɪˌeɪɾɚ/",
+      "phonetic": "/ˈreɪdieɪtər/",
       "meanings": {
         "es": "radiador",
         "pt": "radiador",
@@ -92,7 +92,7 @@
       "id": "pack_00128_0004",
       "word": "gearbox",
       "hint": null,
-      "phonetic": "/ɡˈɪɹbɑːks/",
+      "phonetic": "/ˈɡɪrbɑks/",
       "meanings": {
         "es": "caja de cambios",
         "pt": "caixa de velocidades",
@@ -118,7 +118,7 @@
       "id": "pack_00128_0005",
       "word": "clutch",
       "hint": null,
-      "phonetic": "/klˈʌtʃ/",
+      "phonetic": "/klʌtʃ/",
       "meanings": {
         "es": "embrague",
         "pt": "embreagem",
@@ -144,7 +144,7 @@
       "id": "pack_00128_0006",
       "word": "spark plug",
       "hint": null,
-      "phonetic": "/spˈɑːɹk plˈʌɡ/",
+      "phonetic": "/spɑrk plʌɡ/",
       "meanings": {
         "es": "bujía",
         "pt": "vela de ignição",
@@ -170,7 +170,7 @@
       "id": "pack_00128_0007",
       "word": "windshield",
       "hint": null,
-      "phonetic": "/wˈɪndʃiːld/",
+      "phonetic": "/ˈwɪndʃild/",
       "meanings": {
         "es": "parabrisas",
         "pt": "pára-brisa",
@@ -196,7 +196,7 @@
       "id": "pack_00128_0008",
       "word": "suspension",
       "hint": null,
-      "phonetic": "/səspˈɛnʃən/",
+      "phonetic": "/səˈspɛnʃən/",
       "meanings": {
         "es": "suspensión",
         "pt": "suspensão",
@@ -222,7 +222,7 @@
       "id": "pack_00128_0009",
       "word": "exhaust",
       "hint": null,
-      "phonetic": "/ɛɡzˈɔːst/",
+      "phonetic": "/ɪɡˈzɔst/",
       "meanings": {
         "es": "escape",
         "pt": "escape",
@@ -248,7 +248,7 @@
       "id": "pack_00128_0010",
       "word": "maintenance",
       "hint": null,
-      "phonetic": "/mˈeɪntənəns/",
+      "phonetic": "/ˈmeɪntənəns/",
       "meanings": {
         "es": "mantenimiento",
         "pt": "manutenção",

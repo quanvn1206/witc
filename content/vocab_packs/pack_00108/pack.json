@@ -14,7 +14,7 @@
       "id": "pack_00108_0001",
       "word": "celebrate",
       "hint": null,
-      "phonetic": "/sˈɛləbɹˌeɪt/",
+      "phonetic": "/ˈsɛləbreɪt/",
       "meanings": {
         "es": "celebrar",
         "pt": "comemorar",
@@ -40,7 +40,7 @@
       "id": "pack_00108_0002",
       "word": "decorate",
       "hint": null,
-      "phonetic": "/dˈɛkɚɹˌeɪt/",
+      "phonetic": "/ˈdɛkəreɪt/",
       "meanings": {
         "es": "decorar",
         "pt": "decorar",
@@ -66,7 +66,7 @@
       "id": "pack_00108_0003",
       "word": "invite",
       "hint": null,
-      "phonetic": "/ɪnvˈaɪt/",
+      "phonetic": "/ˌɪnˈvaɪt/",
       "meanings": {
         "es": "invitar",
         "pt": "convidar",
@@ -92,7 +92,7 @@
       "id": "pack_00108_0004",
       "word": "exchange gifts",
       "hint": null,
-      "phonetic": "/ɛkstʃˈeɪndʒ ɡˈɪfts/",
+      "phonetic": "/ɪksˈtʃeɪndʒ ɡɪfts/",
       "meanings": {
         "es": "intercambiar regalos",
         "pt": "trocar presentes",
@@ -118,7 +118,7 @@
       "id": "pack_00108_0005",
       "word": "tradition",
       "hint": null,
-      "phonetic": "/tɹɐdˈɪʃən/",
+      "phonetic": "/trəˈdɪʃən/",
       "meanings": {
         "es": "tradición",
         "pt": "tradição",
@@ -144,7 +144,7 @@
       "id": "pack_00108_0006",
       "word": "ceremony",
       "hint": null,
-      "phonetic": "/sˈɛɹᵻməni/",
+      "phonetic": "/ˈsɛrəmoʊni/",
       "meanings": {
         "es": "ceremonia",
         "pt": "cerimônia",
@@ -170,7 +170,7 @@
       "id": "pack_00108_0007",
       "word": "carnival",
       "hint": null,
-      "phonetic": "/kˈɑːɹnɪvəl/",
+      "phonetic": "/ˈkɑrnəvəl/",
       "meanings": {
         "es": "carnaval",
         "pt": "carnaval",
@@ -196,7 +196,7 @@
       "id": "pack_00108_0008",
       "word": "lantern",
       "hint": null,
-      "phonetic": "/lˈæntɚn/",
+      "phonetic": "/ˈlæntərn/",
       "meanings": {
         "es": "linterna",
         "pt": "lanterna",
@@ -222,7 +222,7 @@
       "id": "pack_00108_0009",
       "word": "feast",
       "hint": null,
-      "phonetic": "/fˈiːst/",
+      "phonetic": "/fist/",
       "meanings": {
         "es": "banquete",
         "pt": "celebração",
@@ -248,7 +248,7 @@
       "id": "pack_00108_0010",
       "word": "costume parade",
       "hint": null,
-      "phonetic": "/kˈɔstuːm pɚɹˈeɪd/",
+      "phonetic": "/kɑˈstum pəˈreɪd/",
       "meanings": {
         "es": "desfile de disfraces",
         "pt": "desfile de fantasias",

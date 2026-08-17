@@ -14,7 +14,7 @@
       "id": "pack_00149_0001",
       "word": "investment",
       "hint": null,
-      "phonetic": "/ɪnvˈɛstmənt/",
+      "phonetic": "/ˌɪnˈvɛstmənt/",
       "meanings": {
         "es": "inversión",
         "pt": "investimento",
@@ -40,7 +40,7 @@
       "id": "pack_00149_0002",
       "word": "profit",
       "hint": null,
-      "phonetic": "/pɹˈɑːfɪt/",
+      "phonetic": "/ˈprɑfət/",
       "meanings": {
         "es": "ganancia",
         "pt": "lucro",
@@ -66,7 +66,7 @@
       "id": "pack_00149_0003",
       "word": "loss",
       "hint": null,
-      "phonetic": "/lˈɔs/",
+      "phonetic": "/lɔs/",
       "meanings": {
         "es": "pérdida",
         "pt": "perda",
@@ -92,7 +92,7 @@
       "id": "pack_00149_0004",
       "word": "revenue",
       "hint": null,
-      "phonetic": "/ɹˈɛvənˌuː/",
+      "phonetic": "/ˈrɛvənu/",
       "meanings": {
         "es": "ganancia",
         "pt": "receita",
@@ -144,7 +144,7 @@
       "id": "pack_00149_0006",
       "word": "transaction",
       "hint": null,
-      "phonetic": "/tɹænsˈækʃən/",
+      "phonetic": "/trænˈzækʃən/",
       "meanings": {
         "es": "transacción",
         "pt": "transação",
@@ -170,7 +170,7 @@
       "id": "pack_00149_0007",
       "word": "tax",
       "hint": null,
-      "phonetic": "/tˈæks/",
+      "phonetic": "/tæks/",
       "meanings": {
         "es": "impuesto",
         "pt": "imposto",
@@ -196,7 +196,7 @@
       "id": "pack_00149_0008",
       "word": "salary",
       "hint": null,
-      "phonetic": "/sˈælɚɹi/",
+      "phonetic": "/ˈsæləri/",
       "meanings": {
         "es": "salario",
         "pt": "salário",
@@ -222,7 +222,7 @@
       "id": "pack_00149_0009",
       "word": "exchange rate",
       "hint": null,
-      "phonetic": "/ɛkstʃˈeɪndʒ ɹˈeɪt/",
+      "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
       "meanings": {
         "es": "tipo de cambio",
         "pt": "taxa de câmbio",
@@ -248,7 +248,7 @@
       "id": "pack_00149_0010",
       "word": "mortgage",
       "hint": null,
-      "phonetic": "/mˈɔːɹɡɪdʒ/",
+      "phonetic": "/ˈmɔrɡədʒ/",
       "meanings": {
         "es": "hipoteca",
         "pt": "hipoteca",

@@ -14,7 +14,7 @@
       "id": "pack_00096_0001",
       "word": "song",
       "hint": null,
-      "phonetic": "/sˈɔŋ/",
+      "phonetic": "/sɔŋ/",
       "meanings": {
         "es": "canción",
         "pt": "canção",
@@ -40,7 +40,7 @@
       "id": "pack_00096_0002",
       "word": "singer",
       "hint": null,
-      "phonetic": "/sˈɪŋɚ/",
+      "phonetic": "/ˈsɪŋər/",
       "meanings": {
         "es": "cantante",
         "pt": "cantor",
@@ -66,7 +66,7 @@
       "id": "pack_00096_0003",
       "word": "guitar",
       "hint": null,
-      "phonetic": "/ɡɪtˈɑːɹ/",
+      "phonetic": "/ɡɪˈtɑr/",
       "meanings": {
         "es": "guitarra",
         "pt": "guitarra",
@@ -118,7 +118,7 @@
       "id": "pack_00096_0005",
       "word": "drum",
       "hint": null,
-      "phonetic": "/dɹˈʌm/",
+      "phonetic": "/drʌm/",
       "meanings": {
         "es": "tambor",
         "pt": "tambor",
@@ -144,7 +144,7 @@
       "id": "pack_00096_0006",
       "word": "violin",
       "hint": null,
-      "phonetic": "/vaɪəlˈɪn/",
+      "phonetic": "/vaɪəˈlɪn/",
       "meanings": {
         "es": "violín",
         "pt": "violino",
@@ -170,7 +170,7 @@
       "id": "pack_00096_0007",
       "word": "concert",
       "hint": null,
-      "phonetic": "/kˈɑːnsɚt/",
+      "phonetic": "/ˈkɑnsərt/",
       "meanings": {
         "es": "concierto",
         "pt": "concerto",
@@ -222,7 +222,7 @@
       "id": "pack_00096_0009",
       "word": "band",
       "hint": null,
-      "phonetic": "/bˈænd/",
+      "phonetic": "/bænd/",
       "meanings": {
         "es": "banda",
         "pt": "banda",
@@ -248,7 +248,7 @@
       "id": "pack_00096_0010",
       "word": "microphone",
       "hint": null,
-      "phonetic": "/mˈaɪkɹəfˌoʊn/",
+      "phonetic": "/ˈmaɪkrəfoʊn/",
       "meanings": {
         "es": "micrófono",
         "pt": "microfone",

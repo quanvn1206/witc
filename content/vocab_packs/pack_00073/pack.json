@@ -14,7 +14,7 @@
       "id": "pack_00073_0001",
       "word": "browser",
       "hint": null,
-      "phonetic": "/bɹˈaʊzɚ/",
+      "phonetic": "/ˈbraʊzər/",
       "meanings": {
         "es": "navegador",
         "pt": "navegador",
@@ -40,7 +40,7 @@
       "id": "pack_00073_0002",
       "word": "website",
       "hint": null,
-      "phonetic": "/wˈɛbsaɪt/",
+      "phonetic": "/ˈwɛbsaɪt/",
       "meanings": {
         "es": "sitio web",
         "pt": "site",
@@ -66,7 +66,7 @@
       "id": "pack_00073_0003",
       "word": "password",
       "hint": null,
-      "phonetic": "/pˈæswɜːd/",
+      "phonetic": "/ˈpæswɜrd/",
       "meanings": {
         "es": "contraseña",
         "pt": "senha",
@@ -92,7 +92,7 @@
       "id": "pack_00073_0004",
       "word": "account",
       "hint": null,
-      "phonetic": "/ɐkˈaʊnt/",
+      "phonetic": "/əˈkaʊnt/",
       "meanings": {
         "es": "cuenta",
         "pt": "conta",
@@ -118,7 +118,7 @@
       "id": "pack_00073_0005",
       "word": "application",
       "hint": null,
-      "phonetic": "/ˌæplɪkˈeɪʃən/",
+      "phonetic": "/ˌæpləˈkeɪʃən/",
       "meanings": {
         "es": "solicitud",
         "pt": "aplicativo",
@@ -144,7 +144,7 @@
       "id": "pack_00073_0006",
       "word": "Wi-Fi",
       "hint": null,
-      "phonetic": "/wˈaɪfˌaɪ/",
+      "phonetic": "/ˈwaɪfaɪ/",
       "meanings": {
         "es": "Wifi",
         "pt": "Wi-fi",
@@ -170,7 +170,7 @@
       "id": "pack_00073_0007",
       "word": "network",
       "hint": null,
-      "phonetic": "/nˈɛtwɜːk/",
+      "phonetic": "/ˈnɛtwɜrk/",
       "meanings": {
         "es": "red",
         "pt": "rede",
@@ -196,7 +196,7 @@
       "id": "pack_00073_0008",
       "word": "message",
       "hint": null,
-      "phonetic": "/mˈɛsɪdʒ/",
+      "phonetic": "/ˈmɛsədʒ/",
       "meanings": {
         "es": "mensaje",
         "pt": "mensagem",
@@ -222,7 +222,7 @@
       "id": "pack_00073_0009",
       "word": "notification",
       "hint": null,
-      "phonetic": "/nˌoʊɾɪfɪkˈeɪʃən/",
+      "phonetic": "/ˌnoʊtəfəˈkeɪʃən/",
       "meanings": {
         "es": "notificación",
         "pt": "notificação",
@@ -248,7 +248,7 @@
       "id": "pack_00073_0010",
       "word": "update",
       "hint": null,
-      "phonetic": "/ˈʌpdeɪt/",
+      "phonetic": "/əpˈdeɪt/",
       "meanings": {
         "es": "actualizar",
         "pt": "atualizar",

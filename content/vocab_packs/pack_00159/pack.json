@@ -14,7 +14,7 @@
       "id": "pack_00159_0001",
       "word": "greenhouse",
       "hint": null,
-      "phonetic": "/ɡɹˈiːnhaʊs/",
+      "phonetic": "/ˈɡrinhaʊs/",
       "meanings": {
         "es": "invernadero",
         "pt": "estufa",
@@ -40,7 +40,7 @@
       "id": "pack_00159_0002",
       "word": "irrigation",
       "hint": null,
-      "phonetic": "/ˌɪɹɪɡˈeɪʃən/",
+      "phonetic": "/ˌɪrəˈɡeɪʃən/",
       "meanings": {
         "es": "riego",
         "pt": "irrigação",
@@ -66,7 +66,7 @@
       "id": "pack_00159_0003",
       "word": "livestock",
       "hint": null,
-      "phonetic": "/lˈaɪvstɑːk/",
+      "phonetic": "/ˈlaɪvstɑk/",
       "meanings": {
         "es": "ganado",
         "pt": "gado",
@@ -92,7 +92,7 @@
       "id": "pack_00159_0004",
       "word": "poultry",
       "hint": null,
-      "phonetic": "/pˈoʊltɹi/",
+      "phonetic": "/ˈpoʊltri/",
       "meanings": {
         "es": "aves de corral",
         "pt": "aves",
@@ -118,7 +118,7 @@
       "id": "pack_00159_0005",
       "word": "pesticide",
       "hint": null,
-      "phonetic": "/pˈɛstɪsˌaɪd/",
+      "phonetic": "/ˈpɛstəsaɪd/",
       "meanings": {
         "es": "pesticida",
         "pt": "pesticida",
@@ -144,7 +144,7 @@
       "id": "pack_00159_0006",
       "word": "fertilizer",
       "hint": null,
-      "phonetic": "/fˈɜːɾəlˌaɪzɚ/",
+      "phonetic": "/ˈfɜrtəlaɪzər/",
       "meanings": {
         "es": "fertilizante",
         "pt": "fertilizante",
@@ -170,7 +170,7 @@
       "id": "pack_00159_0007",
       "word": "tractor",
       "hint": null,
-      "phonetic": "/tɹˈæktɚ/",
+      "phonetic": "/ˈtræktər/",
       "meanings": {
         "es": "tractor",
         "pt": "trator",
@@ -196,7 +196,7 @@
       "id": "pack_00159_0008",
       "word": "crop rotation",
       "hint": null,
-      "phonetic": "/kɹˈɑːp ɹoʊtˈeɪʃən/",
+      "phonetic": "/krɑp roʊˈteɪʃən/",
       "meanings": {
         "es": "rotación de cultivos",
         "pt": "rotação de culturas",
@@ -222,7 +222,7 @@
       "id": "pack_00159_0009",
       "word": "soil",
       "hint": null,
-      "phonetic": "/sˈɔɪl/",
+      "phonetic": "/sɔɪl/",
       "meanings": {
         "es": "suelo",
         "pt": "solo",
@@ -248,7 +248,7 @@
       "id": "pack_00159_0010",
       "word": "orchard",
       "hint": null,
-      "phonetic": "/ˈɔːɹtʃɚd/",
+      "phonetic": "/ˈɔrtʃərd/",
       "meanings": {
         "es": "huerta",
         "pt": "pomar",

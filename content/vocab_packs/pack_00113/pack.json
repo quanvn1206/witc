@@ -14,7 +14,7 @@
       "id": "pack_00113_0001",
       "word": "fortress",
       "hint": null,
-      "phonetic": "/fˈɔːɹtɹəs/",
+      "phonetic": "/ˈfɔrtrəs/",
       "meanings": {
         "es": "fortaleza",
         "pt": "fortaleza",
@@ -40,7 +40,7 @@
       "id": "pack_00113_0002",
       "word": "ruins",
       "hint": null,
-      "phonetic": "/ɹˈuːɪnz/",
+      "phonetic": "/ˈruənz/",
       "meanings": {
         "es": "restos",
         "pt": "ruínas",
@@ -66,7 +66,7 @@
       "id": "pack_00113_0003",
       "word": "cathedral",
       "hint": null,
-      "phonetic": "/kɐθˈiːdɹəl/",
+      "phonetic": "/kəˈθidrəl/",
       "meanings": {
         "es": "catedral",
         "pt": "catedral",
@@ -92,7 +92,7 @@
       "id": "pack_00113_0004",
       "word": "arch",
       "hint": null,
-      "phonetic": "/ˈɑːɹtʃ/",
+      "phonetic": "/ɑrtʃ/",
       "meanings": {
         "es": "arco",
         "pt": "arco",
@@ -118,7 +118,7 @@
       "id": "pack_00113_0005",
       "word": "heritage site",
       "hint": null,
-      "phonetic": "/hˈɛɹɪɾɪdʒ sˈaɪt/",
+      "phonetic": "/ˈhɛrətədʒ saɪt/",
       "meanings": {
         "es": "sitio patrimonial",
         "pt": "patrimônio",
@@ -144,7 +144,7 @@
       "id": "pack_00113_0006",
       "word": "fortress wall",
       "hint": null,
-      "phonetic": "/fˈɔːɹtɹəs wˈɔːl/",
+      "phonetic": "/ˈfɔrtrəs wɔl/",
       "meanings": {
         "es": "muralla de la fortaleza",
         "pt": "muralha da fortaleza",
@@ -170,7 +170,7 @@
       "id": "pack_00113_0007",
       "word": "observatory",
       "hint": null,
-      "phonetic": "/əbzˈɜːvətˌɔːɹi/",
+      "phonetic": "/əbˈzɜrvətɔri/",
       "meanings": {
         "es": "observatorio",
         "pt": "observatório",
@@ -196,7 +196,7 @@
       "id": "pack_00113_0008",
       "word": "cliff",
       "hint": null,
-      "phonetic": "/klˈɪf/",
+      "phonetic": "/klɪf/",
       "meanings": {
         "es": "acantilado",
         "pt": "penhasco",
@@ -222,7 +222,7 @@
       "id": "pack_00113_0009",
       "word": "cave",
       "hint": null,
-      "phonetic": "/kˈeɪv/",
+      "phonetic": "/keɪv/",
       "meanings": {
         "es": "cueva",
         "pt": "caverna",
@@ -248,7 +248,7 @@
       "id": "pack_00113_0010",
       "word": "memorial",
       "hint": null,
-      "phonetic": "/məmˈɔːɹɪəl/",
+      "phonetic": "/məˈmɔriəl/",
       "meanings": {
         "es": "memorial",
         "pt": "memorial",

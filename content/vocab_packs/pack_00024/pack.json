@@ -14,7 +14,7 @@
       "id": "pack_00024_0001",
       "word": "sofa",
       "hint": null,
-      "phonetic": "/sˈoʊfə/",
+      "phonetic": "/ˈsoʊfə/",
       "meanings": {
         "es": "sofá",
         "pt": "sofá",
@@ -40,7 +40,7 @@
       "id": "pack_00024_0002",
       "word": "armchair",
       "hint": null,
-      "phonetic": "/ˈɑːɹmtʃɛɹ/",
+      "phonetic": "/ˈɑrmtʃɛr/",
       "meanings": {
         "es": "sillón",
         "pt": "cadeirão",
@@ -66,7 +66,7 @@
       "id": "pack_00024_0003",
       "word": "coffee table",
       "hint": null,
-      "phonetic": "/kˈɔfi tˈeɪbəl/",
+      "phonetic": "/ˈkɑfi ˈteɪbəl/",
       "meanings": {
         "es": "mesa de centro",
         "pt": "mesa de café",
@@ -92,7 +92,7 @@
       "id": "pack_00024_0004",
       "word": "bookshelf",
       "hint": null,
-      "phonetic": "/bˈʊkʃɛlf/",
+      "phonetic": "/ˈbʊkʃɛlf/",
       "meanings": {
         "es": "estante para libros",
         "pt": "estante",
@@ -118,7 +118,7 @@
       "id": "pack_00024_0005",
       "word": "TV stand",
       "hint": null,
-      "phonetic": "/tˌiːvˈiː stˈænd/",
+      "phonetic": "/ti vi stænd/",
       "meanings": {
         "es": "soporte de televisión",
         "pt": "Suporte de TV",
@@ -144,7 +144,7 @@
       "id": "pack_00024_0006",
       "word": "cushion",
       "hint": null,
-      "phonetic": "/kˈʊʃən/",
+      "phonetic": "/ˈkʊʃən/",
       "meanings": {
         "es": "almohadón",
         "pt": "almofada",
@@ -170,7 +170,7 @@
       "id": "pack_00024_0007",
       "word": "rug",
       "hint": null,
-      "phonetic": "/ɹˈʌɡ/",
+      "phonetic": "/rʌɡ/",
       "meanings": {
         "es": "alfombra",
         "pt": "tapete",
@@ -196,7 +196,7 @@
       "id": "pack_00024_0008",
       "word": "curtain",
       "hint": null,
-      "phonetic": "/kˈɜːtən/",
+      "phonetic": "/ˈkɜrtən/",
       "meanings": {
         "es": "cortina",
         "pt": "cortina",
@@ -222,7 +222,7 @@
       "id": "pack_00024_0009",
       "word": "lamp",
       "hint": null,
-      "phonetic": "/lˈæmp/",
+      "phonetic": "/læmp/",
       "meanings": {
         "es": "lámpara",
         "pt": "lâmpada",
@@ -248,7 +248,7 @@
       "id": "pack_00024_0010",
       "word": "wall clock",
       "hint": null,
-      "phonetic": "/wˈɔːl klˈɑːk/",
+      "phonetic": "/wɔl klɑk/",
       "meanings": {
         "es": "reloj de pared",
         "pt": "relógio de parede",

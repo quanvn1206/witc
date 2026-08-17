@@ -14,7 +14,7 @@
       "id": "pack_00112_0001",
       "word": "museum",
       "hint": null,
-      "phonetic": "/mjuːzˈiəm/",
+      "phonetic": "/mjuˈziəm/",
       "meanings": {
         "es": "museo",
         "pt": "museu",
@@ -40,7 +40,7 @@
       "id": "pack_00112_0002",
       "word": "palace",
       "hint": null,
-      "phonetic": "/pˈælɪs/",
+      "phonetic": "/ˈpæləs/",
       "meanings": {
         "es": "palacio",
         "pt": "palácio",
@@ -66,7 +66,7 @@
       "id": "pack_00112_0003",
       "word": "temple",
       "hint": null,
-      "phonetic": "/tˈɛmpəl/",
+      "phonetic": "/ˈtɛmpəl/",
       "meanings": {
         "es": "templo",
         "pt": "templo",
@@ -92,7 +92,7 @@
       "id": "pack_00112_0004",
       "word": "tower",
       "hint": null,
-      "phonetic": "/tˈaʊɚ/",
+      "phonetic": "/ˈtaʊər/",
       "meanings": {
         "es": "torre",
         "pt": "torre",
@@ -118,7 +118,7 @@
       "id": "pack_00112_0005",
       "word": "monument",
       "hint": null,
-      "phonetic": "/mˈɑːnjuːmənt/",
+      "phonetic": "/ˈmɑnjumənt/",
       "meanings": {
         "es": "monumento",
         "pt": "monumento",
@@ -144,7 +144,7 @@
       "id": "pack_00112_0006",
       "word": "garden",
       "hint": null,
-      "phonetic": "/ɡˈɑːɹdən/",
+      "phonetic": "/ˈɡɑrdən/",
       "meanings": {
         "es": "jardín",
         "pt": "jardim",
@@ -170,7 +170,7 @@
       "id": "pack_00112_0007",
       "word": "square",
       "hint": null,
-      "phonetic": "/skwˈɛɹ/",
+      "phonetic": "/skwɛr/",
       "meanings": {
         "es": "cuadrado",
         "pt": "quadrado",
@@ -196,7 +196,7 @@
       "id": "pack_00112_0008",
       "word": "fountain",
       "hint": null,
-      "phonetic": "/fˈaʊntɪn/",
+      "phonetic": "/ˈfaʊntən/",
       "meanings": {
         "es": "fuente",
         "pt": "fonte",
@@ -222,7 +222,7 @@
       "id": "pack_00112_0009",
       "word": "church",
       "hint": null,
-      "phonetic": "/tʃˈɜːtʃ/",
+      "phonetic": "/tʃɜrtʃ/",
       "meanings": {
         "es": "iglesia",
         "pt": "igreja",
@@ -248,7 +248,7 @@
       "id": "pack_00112_0010",
       "word": "park",
       "hint": null,
-      "phonetic": "/pˈɑːɹk/",
+      "phonetic": "/pɑrk/",
       "meanings": {
         "es": "parque",
         "pt": "parque",

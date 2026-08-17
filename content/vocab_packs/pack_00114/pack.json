@@ -14,7 +14,7 @@
       "id": "pack_00114_0001",
       "word": "landmark",
       "hint": null,
-      "phonetic": "/lˈændmɑːɹk/",
+      "phonetic": "/ˈlændmɑrk/",
       "meanings": {
         "es": "marca",
         "pt": "marco",
@@ -40,7 +40,7 @@
       "id": "pack_00114_0002",
       "word": "architecture",
       "hint": null,
-      "phonetic": "/ˈɑːɹkɪtˌɛktʃɚ/",
+      "phonetic": "/ˈɑrkətɛktʃər/",
       "meanings": {
         "es": "arquitectura",
         "pt": "arquitetura",
@@ -66,7 +66,7 @@
       "id": "pack_00114_0003",
       "word": "restoration",
       "hint": null,
-      "phonetic": "/ɹˌɛstɚɹˈeɪʃən/",
+      "phonetic": "/ˌrɛstəˈreɪʃən/",
       "meanings": {
         "es": "restauración",
         "pt": "restauração",
@@ -92,7 +92,7 @@
       "id": "pack_00114_0004",
       "word": "ancient city",
       "hint": null,
-      "phonetic": "/ˈeɪntʃənt sˈɪɾi/",
+      "phonetic": "/ˈeɪntʃənt ˈsɪti/",
       "meanings": {
         "es": "ciudad antigua",
         "pt": "cidade antiga",
@@ -118,7 +118,7 @@
       "id": "pack_00114_0005",
       "word": "fortress",
       "hint": null,
-      "phonetic": "/fˈɔːɹtɹəs/",
+      "phonetic": "/ˈfɔrtrəs/",
       "meanings": {
         "es": "fortaleza",
         "pt": "fortaleza",
@@ -144,7 +144,7 @@
       "id": "pack_00114_0006",
       "word": "dynasty",
       "hint": null,
-      "phonetic": "/dˈaɪnɐsti/",
+      "phonetic": "/ˈdaɪnəsti/",
       "meanings": {
         "es": "dinastía",
         "pt": "dinastia",
@@ -170,7 +170,7 @@
       "id": "pack_00114_0007",
       "word": "empire",
       "hint": null,
-      "phonetic": "/ˈɛmpaɪɚ/",
+      "phonetic": "/ˈɛmpaɪər/",
       "meanings": {
         "es": "imperio",
         "pt": "império",
@@ -196,7 +196,7 @@
       "id": "pack_00114_0008",
       "word": "archaeological site",
       "hint": null,
-      "phonetic": "/ˌɑːɹkiːəlˈɑːdʒɪkəl sˈaɪt/",
+      "phonetic": "/ˌɑrkiəˈlɑdʒɪkəl saɪt/",
       "meanings": {
         "es": "sitio arqueológico",
         "pt": "sítio arqueológico",
@@ -222,7 +222,7 @@
       "id": "pack_00114_0009",
       "word": "sculpture",
       "hint": null,
-      "phonetic": "/skˈʌlptʃɚ/",
+      "phonetic": "/ˈskʌlptʃər/",
       "meanings": {
         "es": "escultura",
         "pt": "escultura",
@@ -248,7 +248,7 @@
       "id": "pack_00114_0010",
       "word": "attraction",
       "hint": null,
-      "phonetic": "/ɐtɹˈækʃən/",
+      "phonetic": "/əˈtrækʃən/",
       "meanings": {
         "es": "atracción",
         "pt": "atração",

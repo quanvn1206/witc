@@ -14,7 +14,7 @@
       "id": "pack_00051_0001",
       "word": "thunder",
       "hint": null,
-      "phonetic": "/θˈʌndɚ/",
+      "phonetic": "/ˈθʌndər/",
       "meanings": {
         "es": "trueno",
         "pt": "trovão",
@@ -40,7 +40,7 @@
       "id": "pack_00051_0002",
       "word": "lightning",
       "hint": null,
-      "phonetic": "/lˈaɪtnɪŋ/",
+      "phonetic": "/ˈlaɪtnɪŋ/",
       "meanings": {
         "es": "iluminación",
         "pt": "raio",
@@ -66,7 +66,7 @@
       "id": "pack_00051_0003",
       "word": "rainbow",
       "hint": null,
-      "phonetic": "/ɹˈeɪnboʊ/",
+      "phonetic": "/ˈreɪnboʊ/",
       "meanings": {
         "es": "arcoíris",
         "pt": "arco-íris",
@@ -92,7 +92,7 @@
       "id": "pack_00051_0004",
       "word": "frost",
       "hint": null,
-      "phonetic": "/fɹˈɔst/",
+      "phonetic": "/frɔst/",
       "meanings": {
         "es": "helada",
         "pt": "geada",
@@ -118,7 +118,7 @@
       "id": "pack_00051_0005",
       "word": "ice",
       "hint": null,
-      "phonetic": "/ˈaɪs/",
+      "phonetic": "/aɪs/",
       "meanings": {
         "es": "hielo",
         "pt": "gelo",
@@ -144,7 +144,7 @@
       "id": "pack_00051_0006",
       "word": "puddle",
       "hint": null,
-      "phonetic": "/pˈʌdəl/",
+      "phonetic": "/ˈpʌdəl/",
       "meanings": {
         "es": "charco",
         "pt": "poça",
@@ -170,7 +170,7 @@
       "id": "pack_00051_0007",
       "word": "shadow",
       "hint": null,
-      "phonetic": "/ʃˈædoʊ/",
+      "phonetic": "/ˈʃædoʊ/",
       "meanings": {
         "es": "sombra",
         "pt": "sombra",
@@ -196,7 +196,7 @@
       "id": "pack_00051_0008",
       "word": "sunshine",
       "hint": null,
-      "phonetic": "/sˈʌnʃaɪn/",
+      "phonetic": "/ˈsʌnʃaɪn/",
       "meanings": {
         "es": "luz solar",
         "pt": "luz do sol",
@@ -222,7 +222,7 @@
       "id": "pack_00051_0009",
       "word": "humidity",
       "hint": null,
-      "phonetic": "/hjuːmˈɪdᵻɾi/",
+      "phonetic": "/hjuˈmɪdəti/",
       "meanings": {
         "es": "humedad",
         "pt": "umidade",
@@ -248,7 +248,7 @@
       "id": "pack_00051_0010",
       "word": "forecast",
       "hint": null,
-      "phonetic": "/fˈɔːɹkæst/",
+      "phonetic": "/ˈfɔrkæst/",
       "meanings": {
         "es": "pronóstico",
         "pt": "previsão",

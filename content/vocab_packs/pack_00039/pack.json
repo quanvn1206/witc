@@ -14,7 +14,7 @@
       "id": "pack_00039_0001",
       "word": "shirt",
       "hint": null,
-      "phonetic": "/ʃˈɜːt/",
+      "phonetic": "/ʃɜrt/",
       "meanings": {
         "es": "camisa",
         "pt": "camisa",
@@ -40,7 +40,7 @@
       "id": "pack_00039_0002",
       "word": "T-shirt",
       "hint": null,
-      "phonetic": "/tˈiːʃˈɜːt/",
+      "phonetic": "/ˈtiʃɜrt/",
       "meanings": {
         "es": "Camiseta",
         "pt": "Camiseta",
@@ -66,7 +66,7 @@
       "id": "pack_00039_0003",
       "word": "pants",
       "hint": null,
-      "phonetic": "/pˈænts/",
+      "phonetic": "/pænts/",
       "meanings": {
         "es": "pantalones",
         "pt": "calça",
@@ -92,7 +92,7 @@
       "id": "pack_00039_0004",
       "word": "shorts",
       "hint": null,
-      "phonetic": "/ʃˈɔːɹts/",
+      "phonetic": "/ʃɔrts/",
       "meanings": {
         "es": "bermudas",
         "pt": "shorts",
@@ -118,7 +118,7 @@
       "id": "pack_00039_0005",
       "word": "skirt",
       "hint": null,
-      "phonetic": "/skˈɜːt/",
+      "phonetic": "/skɜrt/",
       "meanings": {
         "es": "falda",
         "pt": "saia",
@@ -144,7 +144,7 @@
       "id": "pack_00039_0006",
       "word": "dress",
       "hint": null,
-      "phonetic": "/dɹˈɛs/",
+      "phonetic": "/drɛs/",
       "meanings": {
         "es": "vestido",
         "pt": "vestir",
@@ -170,7 +170,7 @@
       "id": "pack_00039_0007",
       "word": "jacket",
       "hint": null,
-      "phonetic": "/dʒˈækɪt/",
+      "phonetic": "/ˈdʒækət/",
       "meanings": {
         "es": "chaqueta",
         "pt": "jaqueta",
@@ -196,7 +196,7 @@
       "id": "pack_00039_0008",
       "word": "coat",
       "hint": null,
-      "phonetic": "/kˈoʊt/",
+      "phonetic": "/koʊt/",
       "meanings": {
         "es": "abrigo",
         "pt": "casaco",
@@ -222,7 +222,7 @@
       "id": "pack_00039_0009",
       "word": "socks",
       "hint": null,
-      "phonetic": "/sˈɑːks/",
+      "phonetic": "/sɑks/",
       "meanings": {
         "es": "medias",
         "pt": "meias",
@@ -248,7 +248,7 @@
       "id": "pack_00039_0010",
       "word": "shoes",
       "hint": null,
-      "phonetic": "/ʃˈuːz/",
+      "phonetic": "/ʃuz/",
       "meanings": {
         "es": "zapatos",
         "pt": "sapato",

@@ -14,7 +14,7 @@
       "id": "pack_00043_0001",
       "word": "wear",
       "hint": null,
-      "phonetic": "/wˈɛɹ/",
+      "phonetic": "/wɛr/",
       "meanings": {
         "es": "tener puesto",
         "pt": "vestir",
@@ -40,7 +40,7 @@
       "id": "pack_00043_0002",
       "word": "try on",
       "hint": null,
-      "phonetic": "/tɹˈaɪ ˈɔn/",
+      "phonetic": "/traɪ ɑn/",
       "meanings": {
         "es": "probarse",
         "pt": "experimentar",
@@ -66,7 +66,7 @@
       "id": "pack_00043_0003",
       "word": "fit",
       "hint": null,
-      "phonetic": "/fˈɪt/",
+      "phonetic": "/fɪt/",
       "meanings": {
         "es": "adaptar",
         "pt": "ajustar",
@@ -92,7 +92,7 @@
       "id": "pack_00043_0004",
       "word": "match",
       "hint": null,
-      "phonetic": "/mˈætʃ/",
+      "phonetic": "/mætʃ/",
       "meanings": {
         "es": "fósforo",
         "pt": "corresponder",
@@ -118,7 +118,7 @@
       "id": "pack_00043_0005",
       "word": "button",
       "hint": null,
-      "phonetic": "/bˈʌʔn̩/",
+      "phonetic": "/ˈbʌtən/",
       "meanings": {
         "es": "botón",
         "pt": "botão",
@@ -144,7 +144,7 @@
       "id": "pack_00043_0006",
       "word": "zip",
       "hint": null,
-      "phonetic": "/zˈɪp/",
+      "phonetic": "/zɪp/",
       "meanings": {
         "es": "cremallera",
         "pt": "zip",
@@ -170,7 +170,7 @@
       "id": "pack_00043_0007",
       "word": "fold",
       "hint": null,
-      "phonetic": "/fˈoʊld/",
+      "phonetic": "/foʊld/",
       "meanings": {
         "es": "doblar",
         "pt": "dobrar",
@@ -196,7 +196,7 @@
       "id": "pack_00043_0008",
       "word": "hang",
       "hint": null,
-      "phonetic": "/hˈæŋ/",
+      "phonetic": "/hæŋ/",
       "meanings": {
         "es": "colgar",
         "pt": "pendurar",
@@ -222,7 +222,7 @@
       "id": "pack_00043_0009",
       "word": "dress",
       "hint": null,
-      "phonetic": "/dɹˈɛs/",
+      "phonetic": "/drɛs/",
       "meanings": {
         "es": "vestido",
         "pt": "vestir",
@@ -248,7 +248,7 @@
       "id": "pack_00043_0010",
       "word": "undress",
       "hint": null,
-      "phonetic": "/ʌndɹˈɛs/",
+      "phonetic": "/ənˈdrɛs/",
       "meanings": {
         "es": "desnudo",
         "pt": "despir",

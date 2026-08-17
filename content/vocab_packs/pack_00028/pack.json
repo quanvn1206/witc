@@ -14,7 +14,7 @@
       "id": "pack_00028_0001",
       "word": "garden chair",
       "hint": null,
-      "phonetic": "/ɡˈɑːɹdən tʃˈɛɹ/",
+      "phonetic": "/ˈɡɑrdən tʃɛr/",
       "meanings": {
         "es": "silla de jardin",
         "pt": "cadeira de jardim",
@@ -40,7 +40,7 @@
       "id": "pack_00028_0002",
       "word": "umbrella",
       "hint": null,
-      "phonetic": "/ʌmbɹˈɛlə/",
+      "phonetic": "/əmˈbrɛlə/",
       "meanings": {
         "es": "paraguas",
         "pt": "guarda-chuva",
@@ -66,7 +66,7 @@
       "id": "pack_00028_0003",
       "word": "flower pot",
       "hint": null,
-      "phonetic": "/flˈaʊɚ pˈɑːt/",
+      "phonetic": "/ˈflaʊər pɑt/",
       "meanings": {
         "es": "maceta",
         "pt": "vaso de flores",
@@ -92,7 +92,7 @@
       "id": "pack_00028_0004",
       "word": "watering can",
       "hint": null,
-      "phonetic": "/wˈɔːɾɚɹɪŋ kˈæn/",
+      "phonetic": "/ˈwɔtərɪŋ kæn/",
       "meanings": {
         "es": "regadera",
         "pt": "regador",
@@ -118,7 +118,7 @@
       "id": "pack_00028_0005",
       "word": "hammock",
       "hint": null,
-      "phonetic": "/hˈæmək/",
+      "phonetic": "/ˈhæmək/",
       "meanings": {
         "es": "hamaca",
         "pt": "rede",
@@ -144,7 +144,7 @@
       "id": "pack_00028_0006",
       "word": "fence",
       "hint": null,
-      "phonetic": "/fˈɛns/",
+      "phonetic": "/fɛns/",
       "meanings": {
         "es": "cerca",
         "pt": "cerca",
@@ -170,7 +170,7 @@
       "id": "pack_00028_0007",
       "word": "mailbox",
       "hint": null,
-      "phonetic": "/mˈeɪlbɑːks/",
+      "phonetic": "/ˈmeɪlbɑks/",
       "meanings": {
         "es": "buzón",
         "pt": "caixa de correio",
@@ -196,7 +196,7 @@
       "id": "pack_00028_0008",
       "word": "doormat",
       "hint": null,
-      "phonetic": "/dˈɔːɹmæt/",
+      "phonetic": "/ˈdɔrmæt/",
       "meanings": {
         "es": "felpudo",
         "pt": "capacho",
@@ -222,7 +222,7 @@
       "id": "pack_00028_0009",
       "word": "patio table",
       "hint": null,
-      "phonetic": "/pˈæɾɪˌoʊ tˈeɪbəl/",
+      "phonetic": "/ˈpætioʊ ˈteɪbəl/",
       "meanings": {
         "es": "mesa de patio",
         "pt": "mesa de pátio",
@@ -248,7 +248,7 @@
       "id": "pack_00028_0010",
       "word": "birdhouse",
       "hint": null,
-      "phonetic": "/bˈɜːdhaʊs/",
+      "phonetic": "/ˈbɜrdhaʊs/",
       "meanings": {
         "es": "pajarera",
         "pt": "casa de passarinho",

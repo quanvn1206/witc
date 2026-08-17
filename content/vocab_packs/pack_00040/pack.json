@@ -14,7 +14,7 @@
       "id": "pack_00040_0001",
       "word": "hat",
       "hint": null,
-      "phonetic": "/hˈæt/",
+      "phonetic": "/hæt/",
       "meanings": {
         "es": "sombrero",
         "pt": "chapéu",
@@ -40,7 +40,7 @@
       "id": "pack_00040_0002",
       "word": "cap",
       "hint": null,
-      "phonetic": "/kˈæp/",
+      "phonetic": "/kæp/",
       "meanings": {
         "es": "tapa",
         "pt": "boné",
@@ -66,7 +66,7 @@
       "id": "pack_00040_0003",
       "word": "belt",
       "hint": null,
-      "phonetic": "/bˈɛlt/",
+      "phonetic": "/bɛlt/",
       "meanings": {
         "es": "cinturón",
         "pt": "cinto",
@@ -92,7 +92,7 @@
       "id": "pack_00040_0004",
       "word": "scarf",
       "hint": null,
-      "phonetic": "/skˈɑːɹf/",
+      "phonetic": "/skɑrf/",
       "meanings": {
         "es": "bufanda",
         "pt": "lenço",
@@ -118,7 +118,7 @@
       "id": "pack_00040_0005",
       "word": "gloves",
       "hint": null,
-      "phonetic": "/ɡlˈʌvz/",
+      "phonetic": "/ɡlʌvz/",
       "meanings": {
         "es": "guantes",
         "pt": "luvas",
@@ -144,7 +144,7 @@
       "id": "pack_00040_0006",
       "word": "necklace",
       "hint": null,
-      "phonetic": "/nˈɛkləs/",
+      "phonetic": "/ˈnɛkləs/",
       "meanings": {
         "es": "collar",
         "pt": "colar",
@@ -170,7 +170,7 @@
       "id": "pack_00040_0007",
       "word": "ring",
       "hint": null,
-      "phonetic": "/ɹˈɪŋ/",
+      "phonetic": "/rɪŋ/",
       "meanings": {
         "es": "anillo",
         "pt": "anel",
@@ -196,7 +196,7 @@
       "id": "pack_00040_0008",
       "word": "watch",
       "hint": null,
-      "phonetic": "/wˈɑːtʃ/",
+      "phonetic": "/wɑtʃ/",
       "meanings": {
         "es": "mirar",
         "pt": "assistir",
@@ -222,7 +222,7 @@
       "id": "pack_00040_0009",
       "word": "backpack",
       "hint": null,
-      "phonetic": "/bˈækpæk/",
+      "phonetic": "/ˈbækpæk/",
       "meanings": {
         "es": "mochila",
         "pt": "mochila",
@@ -248,7 +248,7 @@
       "id": "pack_00040_0010",
       "word": "wallet",
       "hint": null,
-      "phonetic": "/wˈɔlɪt/",
+      "phonetic": "/ˈwɔlət/",
       "meanings": {
         "es": "billetera",
         "pt": "carteira",

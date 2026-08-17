@@ -14,7 +14,7 @@
       "id": "pack_00126_0001",
       "word": "car",
       "hint": null,
-      "phonetic": "/kˈɑːɹ/",
+      "phonetic": "/kɑr/",
       "meanings": {
         "es": "auto",
         "pt": "carro",
@@ -40,7 +40,7 @@
       "id": "pack_00126_0002",
       "word": "wheel",
       "hint": null,
-      "phonetic": "/wˈiːl/",
+      "phonetic": "/wil/",
       "meanings": {
         "es": "rueda",
         "pt": "roda",
@@ -66,7 +66,7 @@
       "id": "pack_00126_0003",
       "word": "tire",
       "hint": null,
-      "phonetic": "/tˈaɪɚ/",
+      "phonetic": "/ˈtaɪər/",
       "meanings": {
         "es": "neumático",
         "pt": "pneu",
@@ -92,7 +92,7 @@
       "id": "pack_00126_0004",
       "word": "engine",
       "hint": null,
-      "phonetic": "/ˈɛndʒɪn/",
+      "phonetic": "/ˈɛndʒən/",
       "meanings": {
         "es": "motor",
         "pt": "motor",
@@ -118,7 +118,7 @@
       "id": "pack_00126_0005",
       "word": "door",
       "hint": null,
-      "phonetic": "/dˈɔːɹ/",
+      "phonetic": "/dɔr/",
       "meanings": {
         "es": "puerta",
         "pt": "porta",
@@ -144,7 +144,7 @@
       "id": "pack_00126_0006",
       "word": "window",
       "hint": null,
-      "phonetic": "/wˈɪndoʊ/",
+      "phonetic": "/ˈwɪndoʊ/",
       "meanings": {
         "es": "ventana",
         "pt": "janela",
@@ -170,7 +170,7 @@
       "id": "pack_00126_0007",
       "word": "mirror",
       "hint": null,
-      "phonetic": "/mˈɪɹɚ/",
+      "phonetic": "/ˈmɪrər/",
       "meanings": {
         "es": "espejo",
         "pt": "espelho",
@@ -196,7 +196,7 @@
       "id": "pack_00126_0008",
       "word": "seat",
       "hint": null,
-      "phonetic": "/sˈiːt/",
+      "phonetic": "/sit/",
       "meanings": {
         "es": "asiento",
         "pt": "assento",
@@ -222,7 +222,7 @@
       "id": "pack_00126_0009",
       "word": "brake",
       "hint": null,
-      "phonetic": "/bɹˈeɪk/",
+      "phonetic": "/breɪk/",
       "meanings": {
         "es": "freno",
         "pt": "freio",
@@ -248,7 +248,7 @@
       "id": "pack_00126_0010",
       "word": "steering wheel",
       "hint": null,
-      "phonetic": "/stˈɪɹɪŋ wˈiːl/",
+      "phonetic": "/ˈstɪrɪŋ wil/",
       "meanings": {
         "es": "volante",
         "pt": "volante",

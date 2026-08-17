@@ -14,7 +14,7 @@
       "id": "pack_00046_0001",
       "word": "doctor",
       "hint": null,
-      "phonetic": "/dˈɑːktɚ/",
+      "phonetic": "/ˈdɑktər/",
       "meanings": {
         "es": "doctor",
         "pt": "doutor",
@@ -40,7 +40,7 @@
       "id": "pack_00046_0002",
       "word": "engineer",
       "hint": null,
-      "phonetic": "/ˌɛndʒɪnˈɪɹ/",
+      "phonetic": "/ˈɛndʒənɪr/",
       "meanings": {
         "es": "ingeniero",
         "pt": "engenheiro",
@@ -66,7 +66,7 @@
       "id": "pack_00046_0003",
       "word": "chef",
       "hint": null,
-      "phonetic": "/ʃˈɛf/",
+      "phonetic": "/ʃɛf/",
       "meanings": {
         "es": "cocinero",
         "pt": "cozinheiro",
@@ -92,7 +92,7 @@
       "id": "pack_00046_0004",
       "word": "police officer",
       "hint": null,
-      "phonetic": "/pəlˈiːs ˈɑːfɪsɚ/",
+      "phonetic": "/pəˈlis ˈɔfəsər/",
       "meanings": {
         "es": "oficial de policia",
         "pt": "policial",
@@ -118,7 +118,7 @@
       "id": "pack_00046_0005",
       "word": "firefighter",
       "hint": null,
-      "phonetic": "/fˈaɪɚfaɪɾɚ/",
+      "phonetic": "/ˈfaɪrfaɪtər/",
       "meanings": {
         "es": "bombero",
         "pt": "bombeiro",
@@ -144,7 +144,7 @@
       "id": "pack_00046_0006",
       "word": "farmer",
       "hint": null,
-      "phonetic": "/fˈɑːɹmɚ/",
+      "phonetic": "/ˈfɑrmər/",
       "meanings": {
         "es": "agricultor",
         "pt": "agricultor",
@@ -170,7 +170,7 @@
       "id": "pack_00046_0007",
       "word": "driver",
       "hint": null,
-      "phonetic": "/dɹˈaɪvɚ/",
+      "phonetic": "/ˈdraɪvər/",
       "meanings": {
         "es": "conductor",
         "pt": "motorista",
@@ -196,7 +196,7 @@
       "id": "pack_00046_0008",
       "word": "artist",
       "hint": null,
-      "phonetic": "/ˈɑːɹɾɪst/",
+      "phonetic": "/ˈɑrtəst/",
       "meanings": {
         "es": "artista",
         "pt": "artista",
@@ -222,7 +222,7 @@
       "id": "pack_00046_0009",
       "word": "nurse",
       "hint": null,
-      "phonetic": "/nˈɜːs/",
+      "phonetic": "/nɜrs/",
       "meanings": {
         "es": "enfermero",
         "pt": "enfermeira",
@@ -248,7 +248,7 @@
       "id": "pack_00046_0010",
       "word": "waiter",
       "hint": null,
-      "phonetic": "/wˈeɪɾɚ/",
+      "phonetic": "/ˈweɪtər/",
       "meanings": {
         "es": "mesero",
         "pt": "garçom",

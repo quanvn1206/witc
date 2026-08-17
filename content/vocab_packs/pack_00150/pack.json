@@ -14,7 +14,7 @@
       "id": "pack_00150_0001",
       "word": "inflation",
       "hint": null,
-      "phonetic": "/ɪnflˈeɪʃən/",
+      "phonetic": "/ˌɪnˈfleɪʃən/",
       "meanings": {
         "es": "inflación",
         "pt": "inflação",
@@ -40,7 +40,7 @@
       "id": "pack_00150_0002",
       "word": "economy",
       "hint": null,
-      "phonetic": "/ɪkˈɑːnəmi/",
+      "phonetic": "/ɪˈkɑnəmi/",
       "meanings": {
         "es": "economía",
         "pt": "economia",
@@ -66,7 +66,7 @@
       "id": "pack_00150_0003",
       "word": "finance",
       "hint": null,
-      "phonetic": "/fˈaɪnæns/",
+      "phonetic": "/fəˈnæns/",
       "meanings": {
         "es": "finanzas",
         "pt": "financiar",
@@ -118,7 +118,7 @@
       "id": "pack_00150_0005",
       "word": "liability",
       "hint": null,
-      "phonetic": "/lˌaɪəbˈɪlᵻɾi/",
+      "phonetic": "/ˌlaɪəˈbɪlɪti/",
       "meanings": {
         "es": "responsabilidad",
         "pt": "responsabilidade",
@@ -144,7 +144,7 @@
       "id": "pack_00150_0006",
       "word": "capital",
       "hint": null,
-      "phonetic": "/kˈæpɪɾəl/",
+      "phonetic": "/ˈkæpətəl/",
       "meanings": {
         "es": "capital",
         "pt": "capital",
@@ -170,7 +170,7 @@
       "id": "pack_00150_0007",
       "word": "dividend",
       "hint": null,
-      "phonetic": "/dˈɪvɪdˌɛnd/",
+      "phonetic": "/ˈdɪvɪdɛnd/",
       "meanings": {
         "es": "dividendo",
         "pt": "dividendo",
@@ -196,7 +196,7 @@
       "id": "pack_00150_0008",
       "word": "bankruptcy",
       "hint": null,
-      "phonetic": "/bˈæŋkɹʌptsi/",
+      "phonetic": "/ˈbæŋkrəpsi/",
       "meanings": {
         "es": "quiebra",
         "pt": "falência",
@@ -222,7 +222,7 @@
       "id": "pack_00150_0009",
       "word": "credit rating",
       "hint": null,
-      "phonetic": "/kɹˈɛdɪt ɹˈeɪɾɪŋ/",
+      "phonetic": "/ˈkrɛdət ˈreɪtɪŋ/",
       "meanings": {
         "es": "calificación crediticia",
         "pt": "classificação de crédito",
@@ -248,7 +248,7 @@
       "id": "pack_00150_0010",
       "word": "financial planning",
       "hint": null,
-      "phonetic": "/faɪnˈænʃəl plˈænɪŋ/",
+      "phonetic": "/fəˈnænʃəl ˈplænɪŋ/",
       "meanings": {
         "es": "planificación financiera",
         "pt": "planejamento financeiro",

@@ -14,7 +14,7 @@
       "id": "pack_00092_0001",
       "word": "manager",
       "hint": null,
-      "phonetic": "/mˈænɪdʒɚ/",
+      "phonetic": "/ˈmænədʒər/",
       "meanings": {
         "es": "gerente",
         "pt": "gerente",
@@ -40,7 +40,7 @@
       "id": "pack_00092_0002",
       "word": "employee",
       "hint": null,
-      "phonetic": "/ɛmplˈɔɪiː/",
+      "phonetic": "/ɛmˈplɔɪi/",
       "meanings": {
         "es": "empleado",
         "pt": "funcionário",
@@ -66,7 +66,7 @@
       "id": "pack_00092_0003",
       "word": "customer",
       "hint": null,
-      "phonetic": "/kˈʌstəmɚ/",
+      "phonetic": "/ˈkʌstəmər/",
       "meanings": {
         "es": "cliente",
         "pt": "cliente",
@@ -92,7 +92,7 @@
       "id": "pack_00092_0004",
       "word": "colleague",
       "hint": null,
-      "phonetic": "/kˈɑːliːɡ/",
+      "phonetic": "/ˈkɑliɡ/",
       "meanings": {
         "es": "colega",
         "pt": "colega",
@@ -118,7 +118,7 @@
       "id": "pack_00092_0005",
       "word": "receptionist",
       "hint": null,
-      "phonetic": "/ɹᵻsˈɛpʃənˌɪst/",
+      "phonetic": "/rɪˈsɛpʃənɪst/",
       "meanings": {
         "es": "recepcionista",
         "pt": "recepcionista",
@@ -144,7 +144,7 @@
       "id": "pack_00092_0006",
       "word": "boss",
       "hint": null,
-      "phonetic": "/bˈɔs/",
+      "phonetic": "/bɑs/",
       "meanings": {
         "es": "jefe",
         "pt": "chefe",
@@ -170,7 +170,7 @@
       "id": "pack_00092_0007",
       "word": "assistant",
       "hint": null,
-      "phonetic": "/ɐsˈɪstənt/",
+      "phonetic": "/əˈsɪstənt/",
       "meanings": {
         "es": "asistente",
         "pt": "assistente",
@@ -196,7 +196,7 @@
       "id": "pack_00092_0008",
       "word": "visitor",
       "hint": null,
-      "phonetic": "/vˈɪzɪɾɚ/",
+      "phonetic": "/ˈvɪzɪtər/",
       "meanings": {
         "es": "visitante",
         "pt": "Visitante",
@@ -222,7 +222,7 @@
       "id": "pack_00092_0009",
       "word": "client",
       "hint": null,
-      "phonetic": "/klˈaɪənt/",
+      "phonetic": "/ˈklaɪənt/",
       "meanings": {
         "es": "cliente",
         "pt": "cliente",
@@ -248,7 +248,7 @@
       "id": "pack_00092_0010",
       "word": "team",
       "hint": null,
-      "phonetic": "/tˈiːm/",
+      "phonetic": "/tim/",
       "meanings": {
         "es": "equipo",
         "pt": "equipe",

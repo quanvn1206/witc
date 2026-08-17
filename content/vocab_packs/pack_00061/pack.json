@@ -14,7 +14,7 @@
       "id": "pack_00061_0001",
       "word": "read",
       "hint": null,
-      "phonetic": "/ɹˈiːd/",
+      "phonetic": "/rɛd/",
       "meanings": {
         "es": "leer",
         "pt": "ler",
@@ -40,7 +40,7 @@
       "id": "pack_00061_0002",
       "word": "write",
       "hint": null,
-      "phonetic": "/ɹˈaɪt/",
+      "phonetic": "/raɪt/",
       "meanings": {
         "es": "escribir",
         "pt": "escrever",
@@ -66,7 +66,7 @@
       "id": "pack_00061_0003",
       "word": "study",
       "hint": null,
-      "phonetic": "/stˈʌdi/",
+      "phonetic": "/ˈstʌdi/",
       "meanings": {
         "es": "estudiar",
         "pt": "estudar",
@@ -92,7 +92,7 @@
       "id": "pack_00061_0004",
       "word": "practice",
       "hint": null,
-      "phonetic": "/pɹˈæktɪs/",
+      "phonetic": "/ˈpræktəs/",
       "meanings": {
         "es": "práctica",
         "pt": "prática",
@@ -118,7 +118,7 @@
       "id": "pack_00061_0005",
       "word": "memorize",
       "hint": null,
-      "phonetic": "/mˈɛmɚɹˌaɪz/",
+      "phonetic": "/ˈmɛməraɪz/",
       "meanings": {
         "es": "memorizar",
         "pt": "memorizar",
@@ -144,7 +144,7 @@
       "id": "pack_00061_0006",
       "word": "discuss",
       "hint": null,
-      "phonetic": "/dɪskˈʌs/",
+      "phonetic": "/dɪˈskʌs/",
       "meanings": {
         "es": "conversar",
         "pt": "discutir",
@@ -170,7 +170,7 @@
       "id": "pack_00061_0007",
       "word": "explain",
       "hint": null,
-      "phonetic": "/ɛksplˈeɪn/",
+      "phonetic": "/ɪkˈspleɪn/",
       "meanings": {
         "es": "explicar",
         "pt": "explicar",
@@ -196,7 +196,7 @@
       "id": "pack_00061_0008",
       "word": "review",
       "hint": null,
-      "phonetic": "/ɹᵻvjˈuː/",
+      "phonetic": "/ˌriˈvju/",
       "meanings": {
         "es": "revisar",
         "pt": "análise",
@@ -222,7 +222,7 @@
       "id": "pack_00061_0009",
       "word": "solve",
       "hint": null,
-      "phonetic": "/sˈɑːlv/",
+      "phonetic": "/sɑlv/",
       "meanings": {
         "es": "resolver",
         "pt": "resolver",
@@ -248,7 +248,7 @@
       "id": "pack_00061_0010",
       "word": "research",
       "hint": null,
-      "phonetic": "/ɹᵻsˈɜːtʃ/",
+      "phonetic": "/riˈsɜrtʃ/",
       "meanings": {
         "es": "investigación",
         "pt": "pesquisar",

@@ -14,7 +14,7 @@
       "id": "pack_00009_0001",
       "word": "lion",
       "hint": null,
-      "phonetic": "/lˈaɪən/",
+      "phonetic": "/ˈlaɪən/",
       "meanings": {
         "es": "león",
         "pt": "leão",
@@ -40,7 +40,7 @@
       "id": "pack_00009_0002",
       "word": "tiger",
       "hint": null,
-      "phonetic": "/tˈaɪɡɚ/",
+      "phonetic": "/ˈtaɪɡər/",
       "meanings": {
         "es": "tigre",
         "pt": "tigre",
@@ -66,7 +66,7 @@
       "id": "pack_00009_0003",
       "word": "elephant",
       "hint": null,
-      "phonetic": "/ˈɛlɪfənt/",
+      "phonetic": "/ˈɛləfənt/",
       "meanings": {
         "es": "elefante",
         "pt": "elefante",
@@ -92,7 +92,7 @@
       "id": "pack_00009_0004",
       "word": "giraffe",
       "hint": null,
-      "phonetic": "/dʒᵻɹˈæf/",
+      "phonetic": "/dʒəˈræf/",
       "meanings": {
         "es": "jirafa",
         "pt": "girafa",
@@ -118,7 +118,7 @@
       "id": "pack_00009_0005",
       "word": "zebra",
       "hint": null,
-      "phonetic": "/zˈiːbɹə/",
+      "phonetic": "/ˈzibrə/",
       "meanings": {
         "es": "cebra",
         "pt": "zebra",
@@ -144,7 +144,7 @@
       "id": "pack_00009_0006",
       "word": "monkey",
       "hint": null,
-      "phonetic": "/mˈʌŋki/",
+      "phonetic": "/ˈmʌŋki/",
       "meanings": {
         "es": "mono",
         "pt": "macaco",
@@ -170,7 +170,7 @@
       "id": "pack_00009_0007",
       "word": "bear",
       "hint": null,
-      "phonetic": "/bˈɛɹ/",
+      "phonetic": "/bɛr/",
       "meanings": {
         "es": "oso",
         "pt": "urso",
@@ -196,7 +196,7 @@
       "id": "pack_00009_0008",
       "word": "wolf",
       "hint": null,
-      "phonetic": "/wˈʊlf/",
+      "phonetic": "/wʊlf/",
       "meanings": {
         "es": "lobo",
         "pt": "lobo",
@@ -222,7 +222,7 @@
       "id": "pack_00009_0009",
       "word": "fox",
       "hint": null,
-      "phonetic": "/fˈɑːks/",
+      "phonetic": "/fɑks/",
       "meanings": {
         "es": "zorro",
         "pt": "raposa",
@@ -248,7 +248,7 @@
       "id": "pack_00009_0010",
       "word": "deer",
       "hint": null,
-      "phonetic": "/dˈɪɹ/",
+      "phonetic": "/dɪr/",
       "meanings": {
         "es": "ciervo",
         "pt": "cervo",

@@ -14,7 +14,7 @@
       "id": "pack_00035_0001",
       "word": "hair",
       "hint": null,
-      "phonetic": "/hˈɛɹ/",
+      "phonetic": "/hɛr/",
       "meanings": {
         "es": "cabello",
         "pt": "cabelo",
@@ -40,7 +40,7 @@
       "id": "pack_00035_0002",
       "word": "forehead",
       "hint": null,
-      "phonetic": "/fˈɔːɹhɛd/",
+      "phonetic": "/ˈfɔrhɛd/",
       "meanings": {
         "es": "frente",
         "pt": "testa",
@@ -66,7 +66,7 @@
       "id": "pack_00035_0003",
       "word": "eyebrow",
       "hint": null,
-      "phonetic": "/ˈaɪbɹaʊ/",
+      "phonetic": "/ˈaɪbraʊ/",
       "meanings": {
         "es": "ceja",
         "pt": "sobrancelha",
@@ -118,7 +118,7 @@
       "id": "pack_00035_0005",
       "word": "cheek",
       "hint": null,
-      "phonetic": "/tʃˈiːk/",
+      "phonetic": "/tʃik/",
       "meanings": {
         "es": "mejilla",
         "pt": "bochecha",
@@ -144,7 +144,7 @@
       "id": "pack_00035_0006",
       "word": "chin",
       "hint": null,
-      "phonetic": "/tʃˈɪn/",
+      "phonetic": "/tʃɪn/",
       "meanings": {
         "es": "mentón",
         "pt": "queixo",
@@ -170,7 +170,7 @@
       "id": "pack_00035_0007",
       "word": "lips",
       "hint": null,
-      "phonetic": "/lˈɪps/",
+      "phonetic": "/lɪps/",
       "meanings": {
         "es": "labios",
         "pt": "lábios",
@@ -196,7 +196,7 @@
       "id": "pack_00035_0008",
       "word": "teeth",
       "hint": null,
-      "phonetic": "/tˈiːθ/",
+      "phonetic": "/tiθ/",
       "meanings": {
         "es": "dientes",
         "pt": "dentes",
@@ -222,7 +222,7 @@
       "id": "pack_00035_0009",
       "word": "tongue",
       "hint": null,
-      "phonetic": "/tˈʌŋ/",
+      "phonetic": "/tʌŋ/",
       "meanings": {
         "es": "lengua",
         "pt": "língua",
@@ -248,7 +248,7 @@
       "id": "pack_00035_0010",
       "word": "neck",
       "hint": null,
-      "phonetic": "/nˈɛk/",
+      "phonetic": "/nɛk/",
       "meanings": {
         "es": "cuello",
         "pt": "pescoço",

@@ -14,7 +14,7 @@
       "id": "pack_00052_0001",
       "word": "rain",
       "hint": null,
-      "phonetic": "/ɹˈeɪn/",
+      "phonetic": "/reɪn/",
       "meanings": {
         "es": "lluvia",
         "pt": "chuva",
@@ -40,7 +40,7 @@
       "id": "pack_00052_0002",
       "word": "snow",
       "hint": null,
-      "phonetic": "/snˈoʊ/",
+      "phonetic": "/snoʊ/",
       "meanings": {
         "es": "nieve",
         "pt": "neve",
@@ -66,7 +66,7 @@
       "id": "pack_00052_0003",
       "word": "freeze",
       "hint": null,
-      "phonetic": "/fɹˈiːz/",
+      "phonetic": "/friz/",
       "meanings": {
         "es": "congelar",
         "pt": "congelar",
@@ -92,7 +92,7 @@
       "id": "pack_00052_0004",
       "word": "melt",
       "hint": null,
-      "phonetic": "/mˈɛlt/",
+      "phonetic": "/mɛlt/",
       "meanings": {
         "es": "derretir",
         "pt": "derretido",
@@ -118,7 +118,7 @@
       "id": "pack_00052_0005",
       "word": "shine",
       "hint": null,
-      "phonetic": "/ʃˈaɪn/",
+      "phonetic": "/ʃaɪn/",
       "meanings": {
         "es": "brillar",
         "pt": "brilhar",
@@ -144,7 +144,7 @@
       "id": "pack_00052_0006",
       "word": "blow",
       "hint": null,
-      "phonetic": "/blˈoʊ/",
+      "phonetic": "/bloʊ/",
       "meanings": {
         "es": "explotar",
         "pt": "soprar",
@@ -170,7 +170,7 @@
       "id": "pack_00052_0007",
       "word": "pour",
       "hint": null,
-      "phonetic": "/pˈɔːɹ/",
+      "phonetic": "/pɔr/",
       "meanings": {
         "es": "derramar",
         "pt": "derramar",
@@ -196,7 +196,7 @@
       "id": "pack_00052_0008",
       "word": "clear",
       "hint": null,
-      "phonetic": "/klˈɪɹ/",
+      "phonetic": "/klɪr/",
       "meanings": {
         "es": "claro",
         "pt": "claro",
@@ -222,7 +222,7 @@
       "id": "pack_00052_0009",
       "word": "warm up",
       "hint": null,
-      "phonetic": "/wˈɔːɹm ˈʌp/",
+      "phonetic": "/wɔrm ʌp/",
       "meanings": {
         "es": "calentamiento",
         "pt": "aquecimento",
@@ -248,7 +248,7 @@
       "id": "pack_00052_0010",
       "word": "cool down",
       "hint": null,
-      "phonetic": "/kˈuːl dˈaʊn/",
+      "phonetic": "/kul daʊn/",
       "meanings": {
         "es": "enfriarse",
         "pt": "esfriar",

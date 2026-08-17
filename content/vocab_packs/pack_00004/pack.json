@@ -14,7 +14,7 @@
       "id": "pack_00004_0001",
       "word": "bread",
       "hint": null,
-      "phonetic": "/bɹˈɛd/",
+      "phonetic": "/brɛd/",
       "meanings": {
         "es": "pan",
         "pt": "pão",
@@ -40,7 +40,7 @@
       "id": "pack_00004_0002",
       "word": "cake",
       "hint": null,
-      "phonetic": "/kˈeɪk/",
+      "phonetic": "/keɪk/",
       "meanings": {
         "es": "pastel",
         "pt": "bolo",
@@ -66,7 +66,7 @@
       "id": "pack_00004_0003",
       "word": "cookie",
       "hint": null,
-      "phonetic": "/kˈʊki/",
+      "phonetic": "/ˈkʊki/",
       "meanings": {
         "es": "galleta",
         "pt": "biscoito",
@@ -92,7 +92,7 @@
       "id": "pack_00004_0004",
       "word": "donut",
       "hint": null,
-      "phonetic": "/dˈoʊnʌt/",
+      "phonetic": "/ˈdoʊnʌt/",
       "meanings": {
         "es": "rosquilla",
         "pt": "rosquinha",
@@ -118,7 +118,7 @@
       "id": "pack_00004_0005",
       "word": "muffin",
       "hint": null,
-      "phonetic": "/mˈʌfɪn/",
+      "phonetic": "/ˈmʌfən/",
       "meanings": {
         "es": "mollete",
         "pt": "muffin",
@@ -144,7 +144,7 @@
       "id": "pack_00004_0006",
       "word": "croissant",
       "hint": null,
-      "phonetic": "/kwˈɑːsɑ̃/",
+      "phonetic": "/ˌkwɑˈsɑnt/",
       "meanings": {
         "es": "cuerno",
         "pt": "croissant",
@@ -170,7 +170,7 @@
       "id": "pack_00004_0007",
       "word": "pie",
       "hint": null,
-      "phonetic": "/pˈaɪ/",
+      "phonetic": "/paɪ/",
       "meanings": {
         "es": "pastel",
         "pt": "torta",
@@ -196,7 +196,7 @@
       "id": "pack_00004_0008",
       "word": "pancake",
       "hint": null,
-      "phonetic": "/pˈæŋkeɪk/",
+      "phonetic": "/ˈpænkeɪk/",
       "meanings": {
         "es": "crepe",
         "pt": "panqueca",
@@ -222,7 +222,7 @@
       "id": "pack_00004_0009",
       "word": "waffle",
       "hint": null,
-      "phonetic": "/wˈɑːfəl/",
+      "phonetic": "/ˈwɑfəl/",
       "meanings": {
         "es": "gofre",
         "pt": "waffle",
@@ -248,7 +248,7 @@
       "id": "pack_00004_0010",
       "word": "cupcake",
       "hint": null,
-      "phonetic": "/kˈʌpkeɪk/",
+      "phonetic": "/ˈkʌpkeɪk/",
       "meanings": {
         "es": "magdalena",
         "pt": "bolinho",

@@ -14,7 +14,7 @@
       "id": "pack_00137_0001",
       "word": "bus",
       "hint": null,
-      "phonetic": "/bˈʌs/",
+      "phonetic": "/bʌs/",
       "meanings": {
         "es": "autobús",
         "pt": "ônibus",
@@ -40,7 +40,7 @@
       "id": "pack_00137_0002",
       "word": "taxi",
       "hint": null,
-      "phonetic": "/tˈæksi/",
+      "phonetic": "/ˈtæksi/",
       "meanings": {
         "es": "Taxi",
         "pt": "Táxi",
@@ -66,7 +66,7 @@
       "id": "pack_00137_0003",
       "word": "bicycle",
       "hint": null,
-      "phonetic": "/bˈaɪsɪkəl/",
+      "phonetic": "/ˈbaɪsɪkəl/",
       "meanings": {
         "es": "bicicleta",
         "pt": "bicicleta",
@@ -92,7 +92,7 @@
       "id": "pack_00137_0004",
       "word": "motorcycle",
       "hint": null,
-      "phonetic": "/mˈoʊɾɚsˌaɪkəl/",
+      "phonetic": "/ˈmoʊtərsaɪkəl/",
       "meanings": {
         "es": "motocicleta",
         "pt": "motocicleta",
@@ -118,7 +118,7 @@
       "id": "pack_00137_0005",
       "word": "crosswalk",
       "hint": null,
-      "phonetic": "/kɹˈɔswɔːk/",
+      "phonetic": "/ˈkrɑswɑk/",
       "meanings": {
         "es": "paso de peatones",
         "pt": "faixa de pedestres",
@@ -144,7 +144,7 @@
       "id": "pack_00137_0006",
       "word": "traffic light",
       "hint": null,
-      "phonetic": "/tɹˈæfɪk lˈaɪt/",
+      "phonetic": "/ˈtræfɪk laɪt/",
       "meanings": {
         "es": "semáforo",
         "pt": "semáforo",
@@ -170,7 +170,7 @@
       "id": "pack_00137_0007",
       "word": "sidewalk",
       "hint": null,
-      "phonetic": "/sˈaɪdwɔːk/",
+      "phonetic": "/ˈsaɪdwɔk/",
       "meanings": {
         "es": "acera",
         "pt": "calçada",
@@ -196,7 +196,7 @@
       "id": "pack_00137_0008",
       "word": "bus stop",
       "hint": null,
-      "phonetic": "/bˈʌs stˈɑːp/",
+      "phonetic": "/bʌs stɑp/",
       "meanings": {
         "es": "parada de autobús",
         "pt": "ponto de ônibus",
@@ -222,7 +222,7 @@
       "id": "pack_00137_0009",
       "word": "ticket",
       "hint": null,
-      "phonetic": "/tˈɪkɪt/",
+      "phonetic": "/ˈtɪkət/",
       "meanings": {
         "es": "boleto",
         "pt": "bilhete",
@@ -248,7 +248,7 @@
       "id": "pack_00137_0010",
       "word": "map",
       "hint": null,
-      "phonetic": "/mˈæp/",
+      "phonetic": "/mæp/",
       "meanings": {
         "es": "mapa",
         "pt": "mapa",

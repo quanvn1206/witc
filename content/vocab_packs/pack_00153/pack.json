@@ -14,7 +14,7 @@
       "id": "pack_00153_0001",
       "word": "boil",
       "hint": null,
-      "phonetic": "/bˈɔɪl/",
+      "phonetic": "/bɔɪl/",
       "meanings": {
         "es": "hervir",
         "pt": "ferver",
@@ -40,7 +40,7 @@
       "id": "pack_00153_0002",
       "word": "fry",
       "hint": null,
-      "phonetic": "/fɹˈaɪ/",
+      "phonetic": "/fraɪ/",
       "meanings": {
         "es": "freír",
         "pt": "fritar",
@@ -66,7 +66,7 @@
       "id": "pack_00153_0003",
       "word": "bake",
       "hint": null,
-      "phonetic": "/bˈeɪk/",
+      "phonetic": "/beɪk/",
       "meanings": {
         "es": "hornear",
         "pt": "assar",
@@ -92,7 +92,7 @@
       "id": "pack_00153_0004",
       "word": "grill",
       "hint": null,
-      "phonetic": "/ɡɹˈɪl/",
+      "phonetic": "/ɡrɪl/",
       "meanings": {
         "es": "parrilla",
         "pt": "grade",
@@ -118,7 +118,7 @@
       "id": "pack_00153_0005",
       "word": "roast",
       "hint": null,
-      "phonetic": "/ɹˈoʊst/",
+      "phonetic": "/roʊst/",
       "meanings": {
         "es": "asar",
         "pt": "assar",
@@ -144,7 +144,7 @@
       "id": "pack_00153_0006",
       "word": "steam",
       "hint": null,
-      "phonetic": "/stˈiːm/",
+      "phonetic": "/stim/",
       "meanings": {
         "es": "vapor",
         "pt": "vapor",
@@ -170,7 +170,7 @@
       "id": "pack_00153_0007",
       "word": "chop",
       "hint": null,
-      "phonetic": "/tʃˈɑːp/",
+      "phonetic": "/tʃɑp/",
       "meanings": {
         "es": "cortar",
         "pt": "cortar",
@@ -196,7 +196,7 @@
       "id": "pack_00153_0008",
       "word": "slice",
       "hint": null,
-      "phonetic": "/slˈaɪs/",
+      "phonetic": "/slaɪs/",
       "meanings": {
         "es": "rebanada",
         "pt": "fatiar",
@@ -222,7 +222,7 @@
       "id": "pack_00153_0009",
       "word": "stir",
       "hint": null,
-      "phonetic": "/stˈɜː/",
+      "phonetic": "/stɜr/",
       "meanings": {
         "es": "remover",
         "pt": "mexer",
@@ -248,7 +248,7 @@
       "id": "pack_00153_0010",
       "word": "mix",
       "hint": null,
-      "phonetic": "/mˈɪks/",
+      "phonetic": "/mɪks/",
       "meanings": {
         "es": "mezcla",
         "pt": "mistura",

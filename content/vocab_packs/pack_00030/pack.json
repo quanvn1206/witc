@@ -14,7 +14,7 @@
       "id": "pack_00030_0001",
       "word": "knife",
       "hint": null,
-      "phonetic": "/nˈaɪf/",
+      "phonetic": "/naɪf/",
       "meanings": {
         "es": "cuchillo",
         "pt": "faca",
@@ -40,7 +40,7 @@
       "id": "pack_00030_0002",
       "word": "fork",
       "hint": null,
-      "phonetic": "/fˈɔːɹk/",
+      "phonetic": "/fɔrk/",
       "meanings": {
         "es": "tenedor",
         "pt": "garfo",
@@ -66,7 +66,7 @@
       "id": "pack_00030_0003",
       "word": "spoon",
       "hint": null,
-      "phonetic": "/spˈuːn/",
+      "phonetic": "/spun/",
       "meanings": {
         "es": "cuchara",
         "pt": "colher",
@@ -92,7 +92,7 @@
       "id": "pack_00030_0004",
       "word": "plate",
       "hint": null,
-      "phonetic": "/plˈeɪt/",
+      "phonetic": "/pleɪt/",
       "meanings": {
         "es": "lámina",
         "pt": "placa",
@@ -118,7 +118,7 @@
       "id": "pack_00030_0005",
       "word": "bowl",
       "hint": null,
-      "phonetic": "/bˈoʊl/",
+      "phonetic": "/boʊl/",
       "meanings": {
         "es": "bol",
         "pt": "tigela",
@@ -144,7 +144,7 @@
       "id": "pack_00030_0006",
       "word": "cup",
       "hint": null,
-      "phonetic": "/kˈʌp/",
+      "phonetic": "/kʌp/",
       "meanings": {
         "es": "taza",
         "pt": "xícara",
@@ -170,7 +170,7 @@
       "id": "pack_00030_0007",
       "word": "frying pan",
       "hint": null,
-      "phonetic": "/fɹˈaɪɪŋ pˈæn/",
+      "phonetic": "/ˈfraɪɪŋ pæn/",
       "meanings": {
         "es": "sartén",
         "pt": "frigideira",
@@ -196,7 +196,7 @@
       "id": "pack_00030_0008",
       "word": "saucepan",
       "hint": null,
-      "phonetic": "/sˈɔːspən/",
+      "phonetic": "/ˈsɔspæn/",
       "meanings": {
         "es": "cacerola",
         "pt": "panela",
@@ -222,7 +222,7 @@
       "id": "pack_00030_0009",
       "word": "whisk",
       "hint": null,
-      "phonetic": "/wˈɪsk/",
+      "phonetic": "/wɪsk/",
       "meanings": {
         "es": "batidor",
         "pt": "batedor",
@@ -248,7 +248,7 @@
       "id": "pack_00030_0010",
       "word": "strainer",
       "hint": null,
-      "phonetic": "/stɹˈeɪnɚ/",
+      "phonetic": "/ˈstreɪnər/",
       "meanings": {
         "es": "colador",
         "pt": "filtro",

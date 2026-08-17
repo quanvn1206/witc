@@ -14,7 +14,7 @@
       "id": "pack_00119_0001",
       "word": "metropolitan",
       "hint": null,
-      "phonetic": "/mˌɛtɹəpˈɑːlɪtən/",
+      "phonetic": "/ˌmɛtrəˈpɑlətən/",
       "meanings": {
         "es": "metropolitano",
         "pt": "metropolitano",
@@ -40,7 +40,7 @@
       "id": "pack_00119_0002",
       "word": "municipality",
       "hint": null,
-      "phonetic": "/mjuːnˈɪsɪpˈælᵻɾi/",
+      "phonetic": "/ˌmjunɪsəˈpæləti/",
       "meanings": {
         "es": "municipio",
         "pt": "município",
@@ -66,7 +66,7 @@
       "id": "pack_00119_0003",
       "word": "population",
       "hint": null,
-      "phonetic": "/pˌɑːpjʊlˈeɪʃən/",
+      "phonetic": "/ˌpɑpjəˈleɪʃən/",
       "meanings": {
         "es": "población",
         "pt": "população",
@@ -92,7 +92,7 @@
       "id": "pack_00119_0004",
       "word": "infrastructure",
       "hint": null,
-      "phonetic": "/ˈɪnfɹəstɹˌʌktʃɚ/",
+      "phonetic": "/ˌɪnfrəˈstrʌktʃər/",
       "meanings": {
         "es": "infraestructura",
         "pt": "infraestrutura",
@@ -118,7 +118,7 @@
       "id": "pack_00119_0005",
       "word": "public transport",
       "hint": null,
-      "phonetic": "/pˈʌblɪk tɹˈænspɔːɹt/",
+      "phonetic": "/ˈpʌblɪk trænˈspɔrt/",
       "meanings": {
         "es": "transporte público",
         "pt": "transporte público",
@@ -144,7 +144,7 @@
       "id": "pack_00119_0006",
       "word": "tourism",
       "hint": null,
-      "phonetic": "/tˈʊɹɹɪzəm/",
+      "phonetic": "/ˈtʊrɪzəm/",
       "meanings": {
         "es": "turismo",
         "pt": "turismo",
@@ -170,7 +170,7 @@
       "id": "pack_00119_0007",
       "word": "finance",
       "hint": null,
-      "phonetic": "/fˈaɪnæns/",
+      "phonetic": "/fəˈnæns/",
       "meanings": {
         "es": "finanzas",
         "pt": "financiar",
@@ -196,7 +196,7 @@
       "id": "pack_00119_0008",
       "word": "administration",
       "hint": null,
-      "phonetic": "/ɐdmˌɪnɪstɹˈeɪʃən/",
+      "phonetic": "/ædˌmɪnɪˈstreɪʃən/",
       "meanings": {
         "es": "administración",
         "pt": "administração",
@@ -222,7 +222,7 @@
       "id": "pack_00119_0009",
       "word": "resident",
       "hint": null,
-      "phonetic": "/ɹˈɛzᵻdənt/",
+      "phonetic": "/ˈrɛzɪdənt/",
       "meanings": {
         "es": "residente",
         "pt": "residente",
@@ -248,7 +248,7 @@
       "id": "pack_00119_0010",
       "word": "development",
       "hint": null,
-      "phonetic": "/dɪvˈɛləpmənt/",
+      "phonetic": "/dɪˈvɛləpmənt/",
       "meanings": {
         "es": "desarrollo",
         "pt": "desenvolvimento",

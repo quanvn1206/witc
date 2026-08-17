@@ -14,7 +14,7 @@
       "id": "pack_00025_0001",
       "word": "bed",
       "hint": null,
-      "phonetic": "/bˈɛd/",
+      "phonetic": "/bɛd/",
       "meanings": {
         "es": "cama",
         "pt": "cama",
@@ -40,7 +40,7 @@
       "id": "pack_00025_0002",
       "word": "pillow",
       "hint": null,
-      "phonetic": "/pˈɪloʊ/",
+      "phonetic": "/ˈpɪloʊ/",
       "meanings": {
         "es": "almohada",
         "pt": "travesseiro",
@@ -66,7 +66,7 @@
       "id": "pack_00025_0003",
       "word": "blanket",
       "hint": null,
-      "phonetic": "/blˈæŋkɪt/",
+      "phonetic": "/ˈblæŋkət/",
       "meanings": {
         "es": "frazada",
         "pt": "cobertor",
@@ -92,7 +92,7 @@
       "id": "pack_00025_0004",
       "word": "wardrobe",
       "hint": null,
-      "phonetic": "/wˈɔːɹdɹoʊb/",
+      "phonetic": "/ˈwɔrdroʊb/",
       "meanings": {
         "es": "armario",
         "pt": "guarda-roupa",
@@ -118,7 +118,7 @@
       "id": "pack_00025_0005",
       "word": "nightstand",
       "hint": null,
-      "phonetic": "/nˈaɪtstænd/",
+      "phonetic": "/ˈnaɪtstænd/",
       "meanings": {
         "es": "mesita de noche",
         "pt": "mesa de cabeceira",
@@ -144,7 +144,7 @@
       "id": "pack_00025_0006",
       "word": "dresser",
       "hint": null,
-      "phonetic": "/dɹˈɛsɚ/",
+      "phonetic": "/ˈdrɛsər/",
       "meanings": {
         "es": "aparador",
         "pt": "cômoda",
@@ -170,7 +170,7 @@
       "id": "pack_00025_0007",
       "word": "mirror",
       "hint": null,
-      "phonetic": "/mˈɪɹɚ/",
+      "phonetic": "/ˈmɪrər/",
       "meanings": {
         "es": "espejo",
         "pt": "espelho",
@@ -196,7 +196,7 @@
       "id": "pack_00025_0008",
       "word": "alarm clock",
       "hint": null,
-      "phonetic": "/ɐlˈɑːɹm klˈɑːk/",
+      "phonetic": "/əˈlɑrm klɑk/",
       "meanings": {
         "es": "despertador",
         "pt": "despertador",
@@ -222,7 +222,7 @@
       "id": "pack_00025_0009",
       "word": "hanger",
       "hint": null,
-      "phonetic": "/hˈæŋɚ/",
+      "phonetic": "/ˈhæŋər/",
       "meanings": {
         "es": "percha",
         "pt": "cabide",
@@ -248,7 +248,7 @@
       "id": "pack_00025_0010",
       "word": "mattress",
       "hint": null,
-      "phonetic": "/mˈætɹəs/",
+      "phonetic": "/ˈmætrəs/",
       "meanings": {
         "es": "colchón",
         "pt": "colchão",

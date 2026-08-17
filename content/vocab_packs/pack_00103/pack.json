@@ -14,7 +14,7 @@
       "id": "pack_00103_0001",
       "word": "refund",
       "hint": null,
-      "phonetic": "/ɹᵻfˈʌnd/",
+      "phonetic": "/rɪˈfʌnd/",
       "meanings": {
         "es": "reembolso",
         "pt": "reembolso",
@@ -40,7 +40,7 @@
       "id": "pack_00103_0002",
       "word": "exchange",
       "hint": null,
-      "phonetic": "/ɛkstʃˈeɪndʒ/",
+      "phonetic": "/ɪksˈtʃeɪndʒ/",
       "meanings": {
         "es": "intercambio",
         "pt": "intercâmbio",
@@ -66,7 +66,7 @@
       "id": "pack_00103_0003",
       "word": "bargain",
       "hint": null,
-      "phonetic": "/bˈɑːɹɡɪn/",
+      "phonetic": "/ˈbɑrɡən/",
       "meanings": {
         "es": "negociar",
         "pt": "negociar",
@@ -92,7 +92,7 @@
       "id": "pack_00103_0004",
       "word": "brand",
       "hint": null,
-      "phonetic": "/bɹˈænd/",
+      "phonetic": "/brænd/",
       "meanings": {
         "es": "marca",
         "pt": "marca",
@@ -118,7 +118,7 @@
       "id": "pack_00103_0005",
       "word": "advertisement",
       "hint": null,
-      "phonetic": "/ˌædvɚtˈaɪzmənt/",
+      "phonetic": "/ædˈvɜrtəzmənt/",
       "meanings": {
         "es": "anuncio",
         "pt": "anúncio",
@@ -144,7 +144,7 @@
       "id": "pack_00103_0006",
       "word": "delivery",
       "hint": null,
-      "phonetic": "/dᵻlˈɪvɚɹi/",
+      "phonetic": "/dɪˈlɪvəri/",
       "meanings": {
         "es": "entrega",
         "pt": "entrega",
@@ -170,7 +170,7 @@
       "id": "pack_00103_0007",
       "word": "online shopping",
       "hint": null,
-      "phonetic": "/ˈɑːnlaɪn ʃˈɑːpɪŋ/",
+      "phonetic": "/ˈɔnlaɪn ˈʃɑpɪŋ/",
       "meanings": {
         "es": "compras en línea",
         "pt": "compras on-line",
@@ -196,7 +196,7 @@
       "id": "pack_00103_0008",
       "word": "order",
       "hint": null,
-      "phonetic": "/ˈɔːɹdɚ/",
+      "phonetic": "/ˈɔrdər/",
       "meanings": {
         "es": "orden",
         "pt": "ordem",
@@ -222,7 +222,7 @@
       "id": "pack_00103_0009",
       "word": "payment",
       "hint": null,
-      "phonetic": "/pˈeɪmənt/",
+      "phonetic": "/ˈpeɪmənt/",
       "meanings": {
         "es": "pago",
         "pt": "pagamento",
@@ -248,7 +248,7 @@
       "id": "pack_00103_0010",
       "word": "coupon",
       "hint": null,
-      "phonetic": "/kˈuːpɑːn/",
+      "phonetic": "/ˈkupɔn/",
       "meanings": {
         "es": "cupón",
         "pt": "cupom",

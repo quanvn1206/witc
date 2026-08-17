@@ -14,7 +14,7 @@
       "id": "pack_00139_0001",
       "word": "commute",
       "hint": null,
-      "phonetic": "/kəmjˈuːt/",
+      "phonetic": "/kəˈmjut/",
       "meanings": {
         "es": "desplazarse",
         "pt": "trajeto",
@@ -40,7 +40,7 @@
       "id": "pack_00139_0002",
       "word": "public transport",
       "hint": null,
-      "phonetic": "/pˈʌblɪk tɹˈænspɔːɹt/",
+      "phonetic": "/ˈpʌblɪk trænˈspɔrt/",
       "meanings": {
         "es": "transporte público",
         "pt": "transporte público",
@@ -66,7 +66,7 @@
       "id": "pack_00139_0003",
       "word": "congestion",
       "hint": null,
-      "phonetic": "/kəndʒˈɛstʃən/",
+      "phonetic": "/kənˈdʒɛstʃən/",
       "meanings": {
         "es": "congestión",
         "pt": "congestionamento",
@@ -92,7 +92,7 @@
       "id": "pack_00139_0004",
       "word": "railway",
       "hint": null,
-      "phonetic": "/ɹˈeɪlweɪ/",
+      "phonetic": "/ˈreɪlweɪ/",
       "meanings": {
         "es": "ferrocarril",
         "pt": "ferrovia",
@@ -118,7 +118,7 @@
       "id": "pack_00139_0005",
       "word": "pedestrian crossing",
       "hint": null,
-      "phonetic": "/pədˈɛstɹiən kɹˈɔsɪŋ/",
+      "phonetic": "/pəˈdɛstriən ˈkrɔsɪŋ/",
       "meanings": {
         "es": "paso de peatones",
         "pt": "passagem para pedestres",
@@ -144,7 +144,7 @@
       "id": "pack_00139_0006",
       "word": "rush hour",
       "hint": null,
-      "phonetic": "/ɹˈʌʃ ˈaʊɚ/",
+      "phonetic": "/rʌʃ ˈaʊər/",
       "meanings": {
         "es": "hora punta",
         "pt": "hora do rush",
@@ -170,7 +170,7 @@
       "id": "pack_00139_0007",
       "word": "overpass",
       "hint": null,
-      "phonetic": "/ˌoʊvɚpˈæs/",
+      "phonetic": "/ˈoʊvərpæs/",
       "meanings": {
         "es": "paso superior",
         "pt": "ultrapassar",
@@ -196,7 +196,7 @@
       "id": "pack_00139_0008",
       "word": "underpass",
       "hint": null,
-      "phonetic": "/ˌʌndɚpˈæs/",
+      "phonetic": "/ˈʌndərpæs/",
       "meanings": {
         "es": "paso inferior",
         "pt": "passagem subterrânea",
@@ -222,7 +222,7 @@
       "id": "pack_00139_0009",
       "word": "traffic flow",
       "hint": null,
-      "phonetic": "/tɹˈæfɪk flˈoʊ/",
+      "phonetic": "/ˈtræfɪk floʊ/",
       "meanings": {
         "es": "flujo de tráfico",
         "pt": "fluxo de tráfego",
@@ -248,7 +248,7 @@
       "id": "pack_00139_0010",
       "word": "road safety",
       "hint": null,
-      "phonetic": "/ɹˈoʊd sˈeɪfti/",
+      "phonetic": "/roʊd ˈseɪfti/",
       "meanings": {
         "es": "seguridad vial",
         "pt": "segurança rodoviária",

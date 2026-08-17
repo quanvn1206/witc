@@ -14,7 +14,7 @@
       "id": "pack_00059_0001",
       "word": "book",
       "hint": null,
-      "phonetic": "/bˈʊk/",
+      "phonetic": "/bʊk/",
       "meanings": {
         "es": "libro",
         "pt": "livro",
@@ -40,7 +40,7 @@
       "id": "pack_00059_0002",
       "word": "notebook",
       "hint": null,
-      "phonetic": "/nˈoʊtbʊk/",
+      "phonetic": "/ˈnoʊtbʊk/",
       "meanings": {
         "es": "computadora portátil",
         "pt": "caderno",
@@ -66,7 +66,7 @@
       "id": "pack_00059_0003",
       "word": "pen",
       "hint": null,
-      "phonetic": "/pˈɛn/",
+      "phonetic": "/pɛn/",
       "meanings": {
         "es": "bolígrafo",
         "pt": "caneta",
@@ -92,7 +92,7 @@
       "id": "pack_00059_0004",
       "word": "pencil",
       "hint": null,
-      "phonetic": "/pˈɛnsəl/",
+      "phonetic": "/ˈpɛnsəl/",
       "meanings": {
         "es": "lápiz",
         "pt": "lápis",
@@ -118,7 +118,7 @@
       "id": "pack_00059_0005",
       "word": "eraser",
       "hint": null,
-      "phonetic": "/ᵻɹˈeɪsɚ/",
+      "phonetic": "/ɪˈreɪsər/",
       "meanings": {
         "es": "borrador",
         "pt": "apagador",
@@ -144,7 +144,7 @@
       "id": "pack_00059_0006",
       "word": "ruler",
       "hint": null,
-      "phonetic": "/ɹˈuːlɚ/",
+      "phonetic": "/ˈrulər/",
       "meanings": {
         "es": "gobernante",
         "pt": "governante",
@@ -170,7 +170,7 @@
       "id": "pack_00059_0007",
       "word": "backpack",
       "hint": null,
-      "phonetic": "/bˈækpæk/",
+      "phonetic": "/ˈbækpæk/",
       "meanings": {
         "es": "mochila",
         "pt": "mochila",
@@ -196,7 +196,7 @@
       "id": "pack_00059_0008",
       "word": "desk",
       "hint": null,
-      "phonetic": "/dˈɛsk/",
+      "phonetic": "/dɛsk/",
       "meanings": {
         "es": "escritorio",
         "pt": "mesa",
@@ -222,7 +222,7 @@
       "id": "pack_00059_0009",
       "word": "chair",
       "hint": null,
-      "phonetic": "/tʃˈɛɹ/",
+      "phonetic": "/tʃɛr/",
       "meanings": {
         "es": "silla",
         "pt": "cadeira",
@@ -248,7 +248,7 @@
       "id": "pack_00059_0010",
       "word": "board",
       "hint": null,
-      "phonetic": "/bˈɔːɹd/",
+      "phonetic": "/bɔrd/",
       "meanings": {
         "es": "junta",
         "pt": "quadro",

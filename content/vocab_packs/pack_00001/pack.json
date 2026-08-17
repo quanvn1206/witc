@@ -40,7 +40,7 @@
       "id": "pack_00001_0002",
       "word": "banana",
       "hint": null,
-      "phonetic": "/bɐnˈænə/",
+      "phonetic": "/bəˈnænə/",
       "meanings": {
         "es": "banana",
         "pt": "banana",
@@ -66,7 +66,7 @@
       "id": "pack_00001_0003",
       "word": "orange",
       "hint": null,
-      "phonetic": "/ˈɔɹɪndʒ/",
+      "phonetic": "/ˈɔrəndʒ/",
       "meanings": {
         "es": "naranja",
         "pt": "laranja",
@@ -92,7 +92,7 @@
       "id": "pack_00001_0004",
       "word": "grape",
       "hint": null,
-      "phonetic": "/ɡɹˈeɪp/",
+      "phonetic": "/ɡreɪp/",
       "meanings": {
         "es": "uva",
         "pt": "uva",
@@ -118,7 +118,7 @@
       "id": "pack_00001_0005",
       "word": "watermelon",
       "hint": null,
-      "phonetic": "/wˈɔːɾɚmˌɛlən/",
+      "phonetic": "/ˈwɔtərmɛlən/",
       "meanings": {
         "es": "sandía",
         "pt": "melancia",
@@ -144,7 +144,7 @@
       "id": "pack_00001_0006",
       "word": "strawberry",
       "hint": null,
-      "phonetic": "/stɹˈɔːbɛɹi/",
+      "phonetic": "/ˈstrɔbɛri/",
       "meanings": {
         "es": "fresa",
         "pt": "morango",
@@ -170,7 +170,7 @@
       "id": "pack_00001_0007",
       "word": "mango",
       "hint": null,
-      "phonetic": "/mˈæŋɡoʊ/",
+      "phonetic": "/ˈmæŋɡoʊ/",
       "meanings": {
         "es": "mango",
         "pt": "manga",
@@ -196,7 +196,7 @@
       "id": "pack_00001_0008",
       "word": "pineapple",
       "hint": null,
-      "phonetic": "/pˈaɪnæpəl/",
+      "phonetic": "/ˈpaɪnæpəl/",
       "meanings": {
         "es": "piña",
         "pt": "abacaxi",
@@ -222,7 +222,7 @@
       "id": "pack_00001_0009",
       "word": "lemon",
       "hint": null,
-      "phonetic": "/lˈɛmən/",
+      "phonetic": "/ˈlɛmən/",
       "meanings": {
         "es": "limón",
         "pt": "limão",
@@ -248,7 +248,7 @@
       "id": "pack_00001_0010",
       "word": "peach",
       "hint": null,
-      "phonetic": "/pˈiːtʃ/",
+      "phonetic": "/pitʃ/",
       "meanings": {
         "es": "durazno",
         "pt": "pêssego",

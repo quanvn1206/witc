@@ -14,7 +14,7 @@
       "id": "pack_00100_0001",
       "word": "cinematography",
       "hint": null,
-      "phonetic": "/sˌɪnɪmɐtˈɑːɡɹəfi/",
+      "phonetic": "/ˌsɪnɪməˈtɑɡrəfi/",
       "meanings": {
         "es": "cinematografía",
         "pt": "cinematografia",
@@ -40,7 +40,7 @@
       "id": "pack_00100_0002",
       "word": "composition",
       "hint": null,
-      "phonetic": "/kˌɑːmpəzˈɪʃən/",
+      "phonetic": "/ˌkɑmpəˈzɪʃən/",
       "meanings": {
         "es": "composición",
         "pt": "composição",
@@ -66,7 +66,7 @@
       "id": "pack_00100_0003",
       "word": "choreography",
       "hint": null,
-      "phonetic": "/kˌɔːɹɪˈɑːɡɹəfi/",
+      "phonetic": "/ˌkɔriˈɑɡrəfi/",
       "meanings": {
         "es": "coreografía",
         "pt": "coreografia",
@@ -92,7 +92,7 @@
       "id": "pack_00100_0004",
       "word": "adaptation",
       "hint": null,
-      "phonetic": "/ˌædæptˈeɪʃən/",
+      "phonetic": "/ˌædəpˈteɪʃən/",
       "meanings": {
         "es": "adaptación",
         "pt": "adaptação",
@@ -118,7 +118,7 @@
       "id": "pack_00100_0005",
       "word": "masterpiece",
       "hint": null,
-      "phonetic": "/mˈæstɚpˌiːs/",
+      "phonetic": "/ˈmæstərpis/",
       "meanings": {
         "es": "obra maestra",
         "pt": "obra de arte",
@@ -144,7 +144,7 @@
       "id": "pack_00100_0006",
       "word": "interpretation",
       "hint": null,
-      "phonetic": "/ɪntˌɜːpɹɪtˈeɪʃən/",
+      "phonetic": "/ˌɪnˌtɜrprɪˈteɪʃən/",
       "meanings": {
         "es": "interpretación",
         "pt": "interpretação",
@@ -170,7 +170,7 @@
       "id": "pack_00100_0007",
       "word": "broadcast",
       "hint": null,
-      "phonetic": "/bɹˈɔːdkæst/",
+      "phonetic": "/ˈbrɔdkæst/",
       "meanings": {
         "es": "transmisión",
         "pt": "transmissão",
@@ -196,7 +196,7 @@
       "id": "pack_00100_0008",
       "word": "distribution",
       "hint": null,
-      "phonetic": "/dˌɪstɹɪbjˈuːʃən/",
+      "phonetic": "/ˌdɪstrəˈbjuʃən/",
       "meanings": {
         "es": "distribución",
         "pt": "distribuição",
@@ -222,7 +222,7 @@
       "id": "pack_00100_0009",
       "word": "production",
       "hint": null,
-      "phonetic": "/pɹədˈʌkʃən/",
+      "phonetic": "/prəˈdʌkʃən/",
       "meanings": {
         "es": "producción",
         "pt": "produção",
@@ -248,7 +248,7 @@
       "id": "pack_00100_0010",
       "word": "soundtrack",
       "hint": null,
-      "phonetic": "/sˈaʊndtɹæk/",
+      "phonetic": "/ˈsaʊndtræk/",
       "meanings": {
         "es": "banda sonora",
         "pt": "trilha sonora",

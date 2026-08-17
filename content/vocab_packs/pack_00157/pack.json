@@ -14,7 +14,7 @@
       "id": "pack_00157_0001",
       "word": "rice",
       "hint": null,
-      "phonetic": "/ɹˈaɪs/",
+      "phonetic": "/raɪs/",
       "meanings": {
         "es": "arroz",
         "pt": "arroz",
@@ -40,7 +40,7 @@
       "id": "pack_00157_0002",
       "word": "corn",
       "hint": null,
-      "phonetic": "/kˈɔːɹn/",
+      "phonetic": "/kɔrn/",
       "meanings": {
         "es": "maíz",
         "pt": "milho",
@@ -66,7 +66,7 @@
       "id": "pack_00157_0003",
       "word": "wheat",
       "hint": null,
-      "phonetic": "/wˈiːt/",
+      "phonetic": "/wit/",
       "meanings": {
         "es": "trigo",
         "pt": "trigo",
@@ -92,7 +92,7 @@
       "id": "pack_00157_0004",
       "word": "bean",
       "hint": null,
-      "phonetic": "/bˈiːn/",
+      "phonetic": "/bin/",
       "meanings": {
         "es": "frijol",
         "pt": "feijão",
@@ -118,7 +118,7 @@
       "id": "pack_00157_0005",
       "word": "potato",
       "hint": null,
-      "phonetic": "/pətˈeɪɾoʊ/",
+      "phonetic": "/pəˈteɪtoʊ/",
       "meanings": {
         "es": "papa",
         "pt": "batata",
@@ -144,7 +144,7 @@
       "id": "pack_00157_0006",
       "word": "tomato",
       "hint": null,
-      "phonetic": "/təmˈeɪɾoʊ/",
+      "phonetic": "/təˈmeɪtoʊ/",
       "meanings": {
         "es": "tomate",
         "pt": "tomate",
@@ -170,7 +170,7 @@
       "id": "pack_00157_0007",
       "word": "carrot",
       "hint": null,
-      "phonetic": "/kˈæɹət/",
+      "phonetic": "/ˈkærət/",
       "meanings": {
         "es": "zanahoria",
         "pt": "cenoura",
@@ -196,7 +196,7 @@
       "id": "pack_00157_0008",
       "word": "cabbage",
       "hint": null,
-      "phonetic": "/kˈæbɪdʒ/",
+      "phonetic": "/ˈkæbədʒ/",
       "meanings": {
         "es": "repollo",
         "pt": "repolho",
@@ -222,7 +222,7 @@
       "id": "pack_00157_0009",
       "word": "lettuce",
       "hint": null,
-      "phonetic": "/lˈɛɾɪs/",
+      "phonetic": "/ˈlɛtəs/",
       "meanings": {
         "es": "lechuga",
         "pt": "alface",
@@ -248,7 +248,7 @@
       "id": "pack_00157_0010",
       "word": "onion",
       "hint": null,
-      "phonetic": "/ˈʌniən/",
+      "phonetic": "/ˈʌnjən/",
       "meanings": {
         "es": "cebolla",
         "pt": "cebola",

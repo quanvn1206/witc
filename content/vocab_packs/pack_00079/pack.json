@@ -14,7 +14,7 @@
       "id": "pack_00079_0001",
       "word": "customs",
       "hint": null,
-      "phonetic": "/kˈʌstəmz/",
+      "phonetic": "/ˈkʌstəmz/",
       "meanings": {
         "es": "aduanas",
         "pt": "alfândega",
@@ -40,7 +40,7 @@
       "id": "pack_00079_0002",
       "word": "visa",
       "hint": null,
-      "phonetic": "/vˈiːzə/",
+      "phonetic": "/ˈvizə/",
       "meanings": {
         "es": "visa",
         "pt": "Visa",
@@ -66,7 +66,7 @@
       "id": "pack_00079_0003",
       "word": "immigration",
       "hint": null,
-      "phonetic": "/ˌɪmɪɡɹˈeɪʃən/",
+      "phonetic": "/ˌɪməˈɡreɪʃən/",
       "meanings": {
         "es": "inmigración",
         "pt": "imigração",
@@ -92,7 +92,7 @@
       "id": "pack_00079_0004",
       "word": "currency exchange",
       "hint": null,
-      "phonetic": "/kˈɜːɹənsi ɛkstʃˈeɪndʒ/",
+      "phonetic": "/ˈkɜrənsi ɪksˈtʃeɪndʒ/",
       "meanings": {
         "es": "cambio de divisas",
         "pt": "câmbio de moeda",
@@ -118,7 +118,7 @@
       "id": "pack_00079_0005",
       "word": "departure",
       "hint": null,
-      "phonetic": "/dᵻpˈɑːɹtʃɚ/",
+      "phonetic": "/dɪˈpɑrtʃər/",
       "meanings": {
         "es": "partida",
         "pt": "partida",
@@ -144,7 +144,7 @@
       "id": "pack_00079_0006",
       "word": "arrival",
       "hint": null,
-      "phonetic": "/ɚɹˈaɪvəl/",
+      "phonetic": "/əˈraɪvəl/",
       "meanings": {
         "es": "llegada",
         "pt": "chegada",
@@ -170,7 +170,7 @@
       "id": "pack_00079_0007",
       "word": "accommodation",
       "hint": null,
-      "phonetic": "/ɐkˌɑːmədˈeɪʃən/",
+      "phonetic": "/əˌkɑməˈdeɪʃən/",
       "meanings": {
         "es": "alojamiento",
         "pt": "alojamento",
@@ -196,7 +196,7 @@
       "id": "pack_00079_0008",
       "word": "excursion",
       "hint": null,
-      "phonetic": "/ɛkskˈɜːʃən/",
+      "phonetic": "/ɪkˈskɜrʒən/",
       "meanings": {
         "es": "excursión",
         "pt": "excursão",
@@ -222,7 +222,7 @@
       "id": "pack_00079_0009",
       "word": "travel insurance",
       "hint": null,
-      "phonetic": "/tɹˈævəl ɪnʃˈʊɹɹəns/",
+      "phonetic": "/ˈtrævəl ˌɪnˈʃʊrəns/",
       "meanings": {
         "es": "seguro de viaje",
         "pt": "seguro de viagem",
@@ -248,7 +248,7 @@
       "id": "pack_00079_0010",
       "word": "boarding pass",
       "hint": null,
-      "phonetic": "/bˈɔːɹdɪŋ pˈæs/",
+      "phonetic": "/ˈbɔrdɪŋ pæs/",
       "meanings": {
         "es": "pase de abordar",
         "pt": "cartão de embarque",

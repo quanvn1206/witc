@@ -14,7 +14,7 @@
       "id": "pack_00105_0001",
       "word": "inflation",
       "hint": null,
-      "phonetic": "/ɪnflˈeɪʃən/",
+      "phonetic": "/ˌɪnˈfleɪʃən/",
       "meanings": {
         "es": "inflación",
         "pt": "inflação",
@@ -40,7 +40,7 @@
       "id": "pack_00105_0002",
       "word": "transaction",
       "hint": null,
-      "phonetic": "/tɹænsˈækʃən/",
+      "phonetic": "/trænˈzækʃən/",
       "meanings": {
         "es": "transacción",
         "pt": "transação",
@@ -66,7 +66,7 @@
       "id": "pack_00105_0003",
       "word": "currency",
       "hint": null,
-      "phonetic": "/kˈɜːɹənsi/",
+      "phonetic": "/ˈkɜrənsi/",
       "meanings": {
         "es": "divisa",
         "pt": "moeda",
@@ -92,7 +92,7 @@
       "id": "pack_00105_0004",
       "word": "economy",
       "hint": null,
-      "phonetic": "/ɪkˈɑːnəmi/",
+      "phonetic": "/ɪˈkɑnəmi/",
       "meanings": {
         "es": "economía",
         "pt": "economia",
@@ -118,7 +118,7 @@
       "id": "pack_00105_0005",
       "word": "purchasing power",
       "hint": null,
-      "phonetic": "/pˈɜːtʃɪsɪŋ pˈaʊɚ/",
+      "phonetic": "/ˈpɜrtʃəsɪŋ ˈpaʊər/",
       "meanings": {
         "es": "poder adquisitivo",
         "pt": "poder aquisitivo",
@@ -144,7 +144,7 @@
       "id": "pack_00105_0006",
       "word": "installment",
       "hint": null,
-      "phonetic": "/ɪnstˈɔːlmənt/",
+      "phonetic": "/ˌɪnˈstɔlmənt/",
       "meanings": {
         "es": "entrega",
         "pt": "parcelamento",
@@ -170,7 +170,7 @@
       "id": "pack_00105_0007",
       "word": "taxation",
       "hint": null,
-      "phonetic": "/tæksˈeɪʃən/",
+      "phonetic": "/tækˈseɪʃən/",
       "meanings": {
         "es": "impuestos",
         "pt": "tributação",
@@ -196,7 +196,7 @@
       "id": "pack_00105_0008",
       "word": "revenue",
       "hint": null,
-      "phonetic": "/ɹˈɛvənˌuː/",
+      "phonetic": "/ˈrɛvənu/",
       "meanings": {
         "es": "ganancia",
         "pt": "receita",
@@ -222,7 +222,7 @@
       "id": "pack_00105_0009",
       "word": "consumerism",
       "hint": null,
-      "phonetic": "/kənsˈuːmɚɹˌɪzəm/",
+      "phonetic": "/kənˈsumərɪzəm/",
       "meanings": {
         "es": "consumismo",
         "pt": "consumismo",
@@ -248,7 +248,7 @@
       "id": "pack_00105_0010",
       "word": "financial planning",
       "hint": null,
-      "phonetic": "/faɪnˈænʃəl plˈænɪŋ/",
+      "phonetic": "/fəˈnænʃəl ˈplænɪŋ/",
       "meanings": {
         "es": "planificación financiera",
         "pt": "planejamento financeiro",

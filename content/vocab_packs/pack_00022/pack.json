@@ -14,7 +14,7 @@
       "id": "pack_00022_0001",
       "word": "walk",
       "hint": null,
-      "phonetic": "/wˈɔːk/",
+      "phonetic": "/wɔk/",
       "meanings": {
         "es": "caminar",
         "pt": "andar",
@@ -40,7 +40,7 @@
       "id": "pack_00022_0002",
       "word": "run",
       "hint": null,
-      "phonetic": "/ɹˈʌn/",
+      "phonetic": "/rʌn/",
       "meanings": {
         "es": "correr",
         "pt": "correr",
@@ -66,7 +66,7 @@
       "id": "pack_00022_0003",
       "word": "jump",
       "hint": null,
-      "phonetic": "/dʒˈʌmp/",
+      "phonetic": "/dʒʌmp/",
       "meanings": {
         "es": "saltar",
         "pt": "pular",
@@ -92,7 +92,7 @@
       "id": "pack_00022_0004",
       "word": "crawl",
       "hint": null,
-      "phonetic": "/kɹˈɔːl/",
+      "phonetic": "/krɔl/",
       "meanings": {
         "es": "gatear",
         "pt": "arrastar",
@@ -118,7 +118,7 @@
       "id": "pack_00022_0005",
       "word": "climb",
       "hint": null,
-      "phonetic": "/klˈaɪm/",
+      "phonetic": "/klaɪm/",
       "meanings": {
         "es": "trepar",
         "pt": "escalar",
@@ -144,7 +144,7 @@
       "id": "pack_00022_0006",
       "word": "jog",
       "hint": null,
-      "phonetic": "/dʒˈɑːɡ/",
+      "phonetic": "/dʒɑɡ/",
       "meanings": {
         "es": "sacudida",
         "pt": "correr",
@@ -170,7 +170,7 @@
       "id": "pack_00022_0007",
       "word": "hop",
       "hint": null,
-      "phonetic": "/hˈɑːp/",
+      "phonetic": "/hɑp/",
       "meanings": {
         "es": "brincar",
         "pt": "saltar",
@@ -196,7 +196,7 @@
       "id": "pack_00022_0008",
       "word": "skip",
       "hint": null,
-      "phonetic": "/skˈɪp/",
+      "phonetic": "/skɪp/",
       "meanings": {
         "es": "saltar",
         "pt": "pular",
@@ -222,7 +222,7 @@
       "id": "pack_00022_0009",
       "word": "march",
       "hint": null,
-      "phonetic": "/mˈɑːɹtʃ/",
+      "phonetic": "/mɑrtʃ/",
       "meanings": {
         "es": "marzo",
         "pt": "marchar",
@@ -248,7 +248,7 @@
       "id": "pack_00022_0010",
       "word": "tiptoe",
       "hint": null,
-      "phonetic": "/tˈɪptoʊ/",
+      "phonetic": "/ˈtɪptoʊ/",
       "meanings": {
         "es": "punta del pie",
         "pt": "na ponta dos pés",

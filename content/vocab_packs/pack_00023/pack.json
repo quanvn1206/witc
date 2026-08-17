@@ -14,7 +14,7 @@
       "id": "pack_00023_0001",
       "word": "cash",
       "hint": null,
-      "phonetic": "/kˈæʃ/",
+      "phonetic": "/kæʃ/",
       "meanings": {
         "es": "dinero",
         "pt": "dinheiro",
@@ -40,7 +40,7 @@
       "id": "pack_00023_0002",
       "word": "coin",
       "hint": null,
-      "phonetic": "/kˈɔɪn/",
+      "phonetic": "/kɔɪn/",
       "meanings": {
         "es": "acuñar",
         "pt": "moeda",
@@ -66,7 +66,7 @@
       "id": "pack_00023_0003",
       "word": "check",
       "hint": null,
-      "phonetic": "/tʃˈɛk/",
+      "phonetic": "/tʃɛk/",
       "meanings": {
         "es": "controlar",
         "pt": "verificar",
@@ -92,7 +92,7 @@
       "id": "pack_00023_0004",
       "word": "debit card",
       "hint": null,
-      "phonetic": "/dˈɛbɪt kˈɑːɹd/",
+      "phonetic": "/ˈdɛbɪt kɑrd/",
       "meanings": {
         "es": "tarjeta de débito",
         "pt": "cartão de débito",
@@ -118,7 +118,7 @@
       "id": "pack_00023_0005",
       "word": "credit card",
       "hint": null,
-      "phonetic": "/kɹˈɛdɪt kˈɑːɹd/",
+      "phonetic": "/ˈkrɛdət kɑrd/",
       "meanings": {
         "es": "tarjeta de crédito",
         "pt": "Cartão de crédito",
@@ -144,7 +144,7 @@
       "id": "pack_00023_0006",
       "word": "bank transfer",
       "hint": null,
-      "phonetic": "/bˈæŋk tɹˈænsfɜː/",
+      "phonetic": "/bæŋk trænˈsfɜr/",
       "meanings": {
         "es": "transferencia bancaria",
         "pt": "transferência bancária",
@@ -170,7 +170,7 @@
       "id": "pack_00023_0007",
       "word": "QR code",
       "hint": null,
-      "phonetic": "/kjˌuːˈɑːɹ kˈoʊd/",
+      "phonetic": "/kju ɑr koʊd/",
       "meanings": {
         "es": "código qr",
         "pt": "Código QR",
@@ -196,7 +196,7 @@
       "id": "pack_00023_0008",
       "word": "mobile payment",
       "hint": null,
-      "phonetic": "/mˈoʊbəl pˈeɪmənt/",
+      "phonetic": "/ˈmoʊbəl ˈpeɪmənt/",
       "meanings": {
         "es": "pago movil",
         "pt": "pagamento móvel",
@@ -222,7 +222,7 @@
       "id": "pack_00023_0009",
       "word": "receipt",
       "hint": null,
-      "phonetic": "/ɹᵻsˈiːt/",
+      "phonetic": "/rɪˈsit/",
       "meanings": {
         "es": "recibo",
         "pt": "recibo",
@@ -248,7 +248,7 @@
       "id": "pack_00023_0010",
       "word": "change",
       "hint": null,
-      "phonetic": "/tʃˈeɪndʒ/",
+      "phonetic": "/tʃeɪndʒ/",
       "meanings": {
         "es": "cambiar",
         "pt": "mudar",

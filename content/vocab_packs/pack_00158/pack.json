@@ -14,7 +14,7 @@
       "id": "pack_00158_0001",
       "word": "plant",
       "hint": null,
-      "phonetic": "/plˈænt/",
+      "phonetic": "/plænt/",
       "meanings": {
         "es": "planta",
         "pt": "plantar",
@@ -40,7 +40,7 @@
       "id": "pack_00158_0002",
       "word": "harvest",
       "hint": null,
-      "phonetic": "/hˈɑːɹvɪst/",
+      "phonetic": "/ˈhɑrvəst/",
       "meanings": {
         "es": "cosecha",
         "pt": "colheita",
@@ -66,7 +66,7 @@
       "id": "pack_00158_0003",
       "word": "water",
       "hint": null,
-      "phonetic": "/wˈɔːɾɚ/",
+      "phonetic": "/ˈwɔtər/",
       "meanings": {
         "es": "agua",
         "pt": "água",
@@ -92,7 +92,7 @@
       "id": "pack_00158_0004",
       "word": "feed",
       "hint": null,
-      "phonetic": "/fˈiːd/",
+      "phonetic": "/fid/",
       "meanings": {
         "es": "alimentar",
         "pt": "alimentar",
@@ -118,7 +118,7 @@
       "id": "pack_00158_0005",
       "word": "grow",
       "hint": null,
-      "phonetic": "/ɡɹˈoʊ/",
+      "phonetic": "/ɡroʊ/",
       "meanings": {
         "es": "crecer",
         "pt": "crescer",
@@ -144,7 +144,7 @@
       "id": "pack_00158_0006",
       "word": "dig",
       "hint": null,
-      "phonetic": "/dˈɪɡ/",
+      "phonetic": "/dɪɡ/",
       "meanings": {
         "es": "excavar",
         "pt": "escavação",
@@ -170,7 +170,7 @@
       "id": "pack_00158_0007",
       "word": "pick",
       "hint": null,
-      "phonetic": "/pˈɪk/",
+      "phonetic": "/pɪk/",
       "meanings": {
         "es": "elegir",
         "pt": "escolha",
@@ -196,7 +196,7 @@
       "id": "pack_00158_0008",
       "word": "fertilize",
       "hint": null,
-      "phonetic": "/fˈɜːɾɪlˌaɪz/",
+      "phonetic": "/ˈfɜrtəlaɪz/",
       "meanings": {
         "es": "abonar",
         "pt": "fertilizar",
@@ -222,7 +222,7 @@
       "id": "pack_00158_0009",
       "word": "spray",
       "hint": null,
-      "phonetic": "/spɹˈeɪ/",
+      "phonetic": "/spreɪ/",
       "meanings": {
         "es": "pulverización",
         "pt": "spray",
@@ -248,7 +248,7 @@
       "id": "pack_00158_0010",
       "word": "grass",
       "hint": null,
-      "phonetic": "/ɡɹˈæs/",
+      "phonetic": "/ɡræs/",
       "meanings": {
         "es": "césped",
         "pt": "grama",

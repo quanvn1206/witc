@@ -14,7 +14,7 @@
       "id": "pack_00163_0001",
       "word": "light",
       "hint": null,
-      "phonetic": "/lˈaɪt/",
+      "phonetic": "/laɪt/",
       "meanings": {
         "es": "luz",
         "pt": "luz",
@@ -40,7 +40,7 @@
       "id": "pack_00163_0002",
       "word": "night",
       "hint": null,
-      "phonetic": "/nˈaɪt/",
+      "phonetic": "/naɪt/",
       "meanings": {
         "es": "noche",
         "pt": "noite",
@@ -66,7 +66,7 @@
       "id": "pack_00163_0003",
       "word": "right",
       "hint": null,
-      "phonetic": "/ɹˈaɪt/",
+      "phonetic": "/raɪt/",
       "meanings": {
         "es": "bien",
         "pt": "certo",
@@ -92,7 +92,7 @@
       "id": "pack_00163_0004",
       "word": "fight",
       "hint": null,
-      "phonetic": "/fˈaɪt/",
+      "phonetic": "/faɪt/",
       "meanings": {
         "es": "luchar",
         "pt": "lutar",
@@ -118,7 +118,7 @@
       "id": "pack_00163_0005",
       "word": "bright",
       "hint": null,
-      "phonetic": "/bɹˈaɪt/",
+      "phonetic": "/braɪt/",
       "meanings": {
         "es": "brillante",
         "pt": "brilhante",
@@ -144,7 +144,7 @@
       "id": "pack_00163_0006",
       "word": "flight",
       "hint": null,
-      "phonetic": "/flˈaɪt/",
+      "phonetic": "/flaɪt/",
       "meanings": {
         "es": "vuelo",
         "pt": "voo",
@@ -170,7 +170,7 @@
       "id": "pack_00163_0007",
       "word": "sight",
       "hint": null,
-      "phonetic": "/sˈaɪt/",
+      "phonetic": "/saɪt/",
       "meanings": {
         "es": "vista",
         "pt": "visão",
@@ -196,7 +196,7 @@
       "id": "pack_00163_0008",
       "word": "weight",
       "hint": null,
-      "phonetic": "/wˈeɪt/",
+      "phonetic": "/weɪt/",
       "meanings": {
         "es": "peso",
         "pt": "peso",
@@ -222,7 +222,7 @@
       "id": "pack_00163_0009",
       "word": "height",
       "hint": null,
-      "phonetic": "/hˈaɪt/",
+      "phonetic": "/haɪt/",
       "meanings": {
         "es": "altura",
         "pt": "altura",
@@ -248,7 +248,7 @@
       "id": "pack_00163_0010",
       "word": "delight",
       "hint": null,
-      "phonetic": "/dᵻlˈaɪt/",
+      "phonetic": "/dɪˈlaɪt/",
       "meanings": {
         "es": "deleitar",
         "pt": "prazer",

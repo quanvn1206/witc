@@ -14,7 +14,7 @@
       "id": "pack_00002_0001",
       "word": "carrot",
       "hint": null,
-      "phonetic": "/kˈæɹət/",
+      "phonetic": "/ˈkærət/",
       "meanings": {
         "es": "zanahoria",
         "pt": "cenoura",
@@ -40,7 +40,7 @@
       "id": "pack_00002_0002",
       "word": "potato",
       "hint": null,
-      "phonetic": "/pətˈeɪɾoʊ/",
+      "phonetic": "/pəˈteɪtoʊ/",
       "meanings": {
         "es": "papa",
         "pt": "batata",
@@ -66,7 +66,7 @@
       "id": "pack_00002_0003",
       "word": "tomato",
       "hint": null,
-      "phonetic": "/təmˈeɪɾoʊ/",
+      "phonetic": "/təˈmeɪtoʊ/",
       "meanings": {
         "es": "tomate",
         "pt": "tomate",
@@ -92,7 +92,7 @@
       "id": "pack_00002_0004",
       "word": "onion",
       "hint": null,
-      "phonetic": "/ˈʌniən/",
+      "phonetic": "/ˈʌnjən/",
       "meanings": {
         "es": "cebolla",
         "pt": "cebola",
@@ -118,7 +118,7 @@
       "id": "pack_00002_0005",
       "word": "cucumber",
       "hint": null,
-      "phonetic": "/kjˈuːkʌmbɚ/",
+      "phonetic": "/ˈkjukəmbər/",
       "meanings": {
         "es": "pepino",
         "pt": "pepino",
@@ -144,7 +144,7 @@
       "id": "pack_00002_0006",
       "word": "broccoli",
       "hint": null,
-      "phonetic": "/bɹˈɑːkəli/",
+      "phonetic": "/ˈbrɑkəli/",
       "meanings": {
         "es": "brócoli",
         "pt": "brócolis",
@@ -170,7 +170,7 @@
       "id": "pack_00002_0007",
       "word": "corn",
       "hint": null,
-      "phonetic": "/kˈɔːɹn/",
+      "phonetic": "/kɔrn/",
       "meanings": {
         "es": "maíz",
         "pt": "milho",
@@ -196,7 +196,7 @@
       "id": "pack_00002_0008",
       "word": "cabbage",
       "hint": null,
-      "phonetic": "/kˈæbɪdʒ/",
+      "phonetic": "/ˈkæbədʒ/",
       "meanings": {
         "es": "repollo",
         "pt": "repolho",
@@ -222,7 +222,7 @@
       "id": "pack_00002_0009",
       "word": "pepper",
       "hint": null,
-      "phonetic": "/pˈɛpɚ/",
+      "phonetic": "/ˈpɛpər/",
       "meanings": {
         "es": "pimienta",
         "pt": "pimenta",
@@ -248,7 +248,7 @@
       "id": "pack_00002_0010",
       "word": "garlic",
       "hint": null,
-      "phonetic": "/ɡˈɑːɹlɪk/",
+      "phonetic": "/ˈɡɑrlɪk/",
       "meanings": {
         "es": "ajo",
         "pt": "alho",

@@ -14,7 +14,7 @@
       "id": "pack_00053_0001",
       "word": "hurricane",
       "hint": null,
-      "phonetic": "/hˈɜːɹᵻkˌeɪn/",
+      "phonetic": "/ˈhɜrəkeɪn/",
       "meanings": {
         "es": "huracán",
         "pt": "furacão",
@@ -40,7 +40,7 @@
       "id": "pack_00053_0002",
       "word": "tornado",
       "hint": null,
-      "phonetic": "/tɔːɹnˈeɪdoʊ/",
+      "phonetic": "/tɔrˈneɪdoʊ/",
       "meanings": {
         "es": "tornado",
         "pt": "tornado",
@@ -66,7 +66,7 @@
       "id": "pack_00053_0003",
       "word": "flood",
       "hint": null,
-      "phonetic": "/flˈʌd/",
+      "phonetic": "/flʌd/",
       "meanings": {
         "es": "inundación",
         "pt": "enchente",
@@ -92,7 +92,7 @@
       "id": "pack_00053_0004",
       "word": "drought",
       "hint": null,
-      "phonetic": "/dɹˈaʊt/",
+      "phonetic": "/draʊt/",
       "meanings": {
         "es": "sequía",
         "pt": "seca",
@@ -118,7 +118,7 @@
       "id": "pack_00053_0005",
       "word": "earthquake",
       "hint": null,
-      "phonetic": "/ˈɜːθkweɪk/",
+      "phonetic": "/ˈɜrθkweɪk/",
       "meanings": {
         "es": "terremoto",
         "pt": "terremoto",
@@ -144,7 +144,7 @@
       "id": "pack_00053_0006",
       "word": "volcano",
       "hint": null,
-      "phonetic": "/vɑːlkˈeɪnoʊ/",
+      "phonetic": "/vɑlˈkeɪnoʊ/",
       "meanings": {
         "es": "volcán",
         "pt": "vulcão",
@@ -170,7 +170,7 @@
       "id": "pack_00053_0007",
       "word": "wildfire",
       "hint": null,
-      "phonetic": "/wˈaɪldfaɪɚ/",
+      "phonetic": "/ˈwaɪldfaɪər/",
       "meanings": {
         "es": "incendio forestal",
         "pt": "incêndio florestal",
@@ -196,7 +196,7 @@
       "id": "pack_00053_0008",
       "word": "heatwave",
       "hint": null,
-      "phonetic": "/hˈiːtweɪv/",
+      "phonetic": "/ˈhitweɪv/",
       "meanings": {
         "es": "ola de calor",
         "pt": "onda de calor",
@@ -222,7 +222,7 @@
       "id": "pack_00053_0009",
       "word": "avalanche",
       "hint": null,
-      "phonetic": "/ˈævəlˌænʃ/",
+      "phonetic": "/ˈævəlæntʃ/",
       "meanings": {
         "es": "avalancha",
         "pt": "avalanche",
@@ -248,7 +248,7 @@
       "id": "pack_00053_0010",
       "word": "landslide",
       "hint": null,
-      "phonetic": "/lˈændslaɪd/",
+      "phonetic": "/ˈlændslaɪd/",
       "meanings": {
         "es": "corrimiento de tierras",
         "pt": "deslizamento de terra",

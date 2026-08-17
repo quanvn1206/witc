@@ -14,7 +14,7 @@
       "id": "pack_00152_0001",
       "word": "stove",
       "hint": null,
-      "phonetic": "/stˈoʊv/",
+      "phonetic": "/stoʊv/",
       "meanings": {
         "es": "cocina",
         "pt": "forno",
@@ -66,7 +66,7 @@
       "id": "pack_00152_0003",
       "word": "refrigerator",
       "hint": null,
-      "phonetic": "/ɹᵻfɹˈɪdʒɚɹˌeɪɾɚ/",
+      "phonetic": "/rəˈfrɪdʒəreɪtər/",
       "meanings": {
         "es": "refrigerador",
         "pt": "frigorífico",
@@ -92,7 +92,7 @@
       "id": "pack_00152_0004",
       "word": "microwave",
       "hint": null,
-      "phonetic": "/mˈaɪkɹoʊwˌeɪv/",
+      "phonetic": "/ˈmaɪkrəweɪv/",
       "meanings": {
         "es": "microonda",
         "pt": "microondas",
@@ -118,7 +118,7 @@
       "id": "pack_00152_0005",
       "word": "blender",
       "hint": null,
-      "phonetic": "/blˈɛndɚ/",
+      "phonetic": "/ˈblɛndər/",
       "meanings": {
         "es": "licuadora",
         "pt": "liquidificador",
@@ -144,7 +144,7 @@
       "id": "pack_00152_0006",
       "word": "toaster",
       "hint": null,
-      "phonetic": "/tˈoʊstɚ/",
+      "phonetic": "/ˈtoʊstər/",
       "meanings": {
         "es": "tostadora",
         "pt": "torradeira",
@@ -170,7 +170,7 @@
       "id": "pack_00152_0007",
       "word": "freezer",
       "hint": null,
-      "phonetic": "/fɹˈiːzɚ/",
+      "phonetic": "/ˈfrizər/",
       "meanings": {
         "es": "congelador",
         "pt": "freezer",
@@ -196,7 +196,7 @@
       "id": "pack_00152_0008",
       "word": "sink",
       "hint": null,
-      "phonetic": "/sˈɪŋk/",
+      "phonetic": "/sɪŋk/",
       "meanings": {
         "es": "hundir",
         "pt": "afundar",
@@ -222,7 +222,7 @@
       "id": "pack_00152_0009",
       "word": "dishwasher",
       "hint": null,
-      "phonetic": "/dˈɪʃwɑːʃɚ/",
+      "phonetic": "/ˈdɪʃwɑʃər/",
       "meanings": {
         "es": "lavavajillas",
         "pt": "máquina de lavar louça",
@@ -248,7 +248,7 @@
       "id": "pack_00152_0010",
       "word": "rice cooker",
       "hint": null,
-      "phonetic": "/ɹˈaɪs kˈʊkɚ/",
+      "phonetic": "/raɪs ˈkʊkər/",
       "meanings": {
         "es": "olla arrocera",
         "pt": "panela de arroz",

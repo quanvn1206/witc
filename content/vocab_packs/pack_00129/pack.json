@@ -14,7 +14,7 @@
       "id": "pack_00129_0001",
       "word": "transmission",
       "hint": null,
-      "phonetic": "/tɹænsmˈɪʃən/",
+      "phonetic": "/trænˈsmɪʃən/",
       "meanings": {
         "es": "transmisión",
         "pt": "transmissão",
@@ -40,7 +40,7 @@
       "id": "pack_00129_0002",
       "word": "alignment",
       "hint": null,
-      "phonetic": "/ɐlˈaɪnmənt/",
+      "phonetic": "/əˈlaɪnmənt/",
       "meanings": {
         "es": "alineación",
         "pt": "alinhamento",
@@ -66,7 +66,7 @@
       "id": "pack_00129_0003",
       "word": "diagnostics",
       "hint": null,
-      "phonetic": "/dˌaɪəɡnˈɑːstɪks/",
+      "phonetic": "/ˌdaɪəɡˈnɑstɪks/",
       "meanings": {
         "es": "diagnóstico",
         "pt": "diagnóstico",
@@ -92,7 +92,7 @@
       "id": "pack_00129_0004",
       "word": "lubrication",
       "hint": null,
-      "phonetic": "/lˌuːbɹɪkˈeɪʃən/",
+      "phonetic": "/ˌlubrɪˈkeɪʃən/",
       "meanings": {
         "es": "lubricación",
         "pt": "lubrificação",
@@ -118,7 +118,7 @@
       "id": "pack_00129_0005",
       "word": "coolant",
       "hint": null,
-      "phonetic": "/kˈuːlənt/",
+      "phonetic": "/ˈkulənt/",
       "meanings": {
         "es": "refrigerante",
         "pt": "refrigerante",
@@ -144,7 +144,7 @@
       "id": "pack_00129_0006",
       "word": "cylinder",
       "hint": null,
-      "phonetic": "/sˈɪlɪndɚ/",
+      "phonetic": "/ˈsɪləndər/",
       "meanings": {
         "es": "cilindro",
         "pt": "cilindro",
@@ -170,7 +170,7 @@
       "id": "pack_00129_0007",
       "word": "engine oil",
       "hint": null,
-      "phonetic": "/ˈɛndʒɪn ˈɔɪl/",
+      "phonetic": "/ˈɛndʒən ɔɪl/",
       "meanings": {
         "es": "aceite de motor",
         "pt": "óleo de motor",
@@ -196,7 +196,7 @@
       "id": "pack_00129_0008",
       "word": "fuel injection",
       "hint": null,
-      "phonetic": "/fjˈuːəl ɪndʒˈɛkʃən/",
+      "phonetic": "/ˈfjuəl ˌɪnˈdʒɛkʃən/",
       "meanings": {
         "es": "inyección de combustible",
         "pt": "injeção de combustível",
@@ -222,7 +222,7 @@
       "id": "pack_00129_0009",
       "word": "repair manual",
       "hint": null,
-      "phonetic": "/ɹᵻpˈɛɹ mˈænjuːəl/",
+      "phonetic": "/rɪˈpɛr ˈmænjuəl/",
       "meanings": {
         "es": "manual de reparacion",
         "pt": "manual de reparo",
@@ -248,7 +248,7 @@
       "id": "pack_00129_0010",
       "word": "inspection",
       "hint": null,
-      "phonetic": "/ɪnspˈɛkʃən/",
+      "phonetic": "/ˌɪnˈspɛkʃən/",
       "meanings": {
         "es": "inspección",
         "pt": "inspeção",

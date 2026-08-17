@@ -14,7 +14,7 @@
       "id": "pack_00018_0001",
       "word": "cut",
       "hint": null,
-      "phonetic": "/kˈʌt/",
+      "phonetic": "/kʌt/",
       "meanings": {
         "es": "cortar",
         "pt": "corte",
@@ -40,7 +40,7 @@
       "id": "pack_00018_0002",
       "word": "slice",
       "hint": null,
-      "phonetic": "/slˈaɪs/",
+      "phonetic": "/slaɪs/",
       "meanings": {
         "es": "rebanada",
         "pt": "fatiar",
@@ -66,7 +66,7 @@
       "id": "pack_00018_0003",
       "word": "chop",
       "hint": null,
-      "phonetic": "/tʃˈɑːp/",
+      "phonetic": "/tʃɑp/",
       "meanings": {
         "es": "cortar",
         "pt": "cortar",
@@ -92,7 +92,7 @@
       "id": "pack_00018_0004",
       "word": "peel",
       "hint": null,
-      "phonetic": "/pˈiːl/",
+      "phonetic": "/pil/",
       "meanings": {
         "es": "cáscara",
         "pt": "casca",
@@ -118,7 +118,7 @@
       "id": "pack_00018_0005",
       "word": "trim",
       "hint": null,
-      "phonetic": "/tɹˈɪm/",
+      "phonetic": "/trɪm/",
       "meanings": {
         "es": "recortar",
         "pt": "aparar",
@@ -144,7 +144,7 @@
       "id": "pack_00018_0006",
       "word": "carve",
       "hint": null,
-      "phonetic": "/kˈɑːɹv/",
+      "phonetic": "/kɑrv/",
       "meanings": {
         "es": "esculpir",
         "pt": "esculpir",
@@ -170,7 +170,7 @@
       "id": "pack_00018_0007",
       "word": "dice",
       "hint": null,
-      "phonetic": "/dˈaɪs/",
+      "phonetic": "/daɪs/",
       "meanings": {
         "es": "dados",
         "pt": "dados",
@@ -196,7 +196,7 @@
       "id": "pack_00018_0008",
       "word": "mince",
       "hint": null,
-      "phonetic": "/mˈɪns/",
+      "phonetic": "/mɪns/",
       "meanings": {
         "es": "picar",
         "pt": "picar",
@@ -222,7 +222,7 @@
       "id": "pack_00018_0009",
       "word": "shred",
       "hint": null,
-      "phonetic": "/ʃɹˈɛd/",
+      "phonetic": "/ʃrɛd/",
       "meanings": {
         "es": "pizca",
         "pt": "fragmentar",
@@ -248,7 +248,7 @@
       "id": "pack_00018_0010",
       "word": "grate",
       "hint": null,
-      "phonetic": "/ɡɹˈeɪt/",
+      "phonetic": "/ɡreɪt/",
       "meanings": {
         "es": "rallar",
         "pt": "grelha",

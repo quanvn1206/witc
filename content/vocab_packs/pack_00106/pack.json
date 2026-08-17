@@ -14,7 +14,7 @@
       "id": "pack_00106_0001",
       "word": "holiday",
       "hint": null,
-      "phonetic": "/hˈɑːlɪdˌeɪ/",
+      "phonetic": "/ˈhɑlədeɪ/",
       "meanings": {
         "es": "día festivo",
         "pt": "feriado",
@@ -40,7 +40,7 @@
       "id": "pack_00106_0002",
       "word": "festival",
       "hint": null,
-      "phonetic": "/fˈɛstɪvəl/",
+      "phonetic": "/ˈfɛstəvəl/",
       "meanings": {
         "es": "festival",
         "pt": "festival",
@@ -66,7 +66,7 @@
       "id": "pack_00106_0003",
       "word": "birthday",
       "hint": null,
-      "phonetic": "/bˈɜːθdeɪ/",
+      "phonetic": "/ˈbɜrθdeɪ/",
       "meanings": {
         "es": "cumpleaños",
         "pt": "aniversário",
@@ -92,7 +92,7 @@
       "id": "pack_00106_0004",
       "word": "Christmas",
       "hint": null,
-      "phonetic": "/kɹˈɪsməs/",
+      "phonetic": "/ˈkrɪsməs/",
       "meanings": {
         "es": "Navidad",
         "pt": "Natal",
@@ -118,7 +118,7 @@
       "id": "pack_00106_0005",
       "word": "Easter",
       "hint": null,
-      "phonetic": "/ˈiːstɚ/",
+      "phonetic": "/ˈistər/",
       "meanings": {
         "es": "Pascua de Resurrección",
         "pt": "Páscoa",
@@ -144,7 +144,7 @@
       "id": "pack_00106_0006",
       "word": "New Year",
       "hint": null,
-      "phonetic": "/nˈuː jˈɪɹ/",
+      "phonetic": "/nu jɪr/",
       "meanings": {
         "es": "Año Nuevo",
         "pt": "Ano Novo",
@@ -170,7 +170,7 @@
       "id": "pack_00106_0007",
       "word": "party",
       "hint": null,
-      "phonetic": "/pˈɑːɹɾi/",
+      "phonetic": "/ˈpɑrti/",
       "meanings": {
         "es": "fiesta",
         "pt": "festa",
@@ -196,7 +196,7 @@
       "id": "pack_00106_0008",
       "word": "gift",
       "hint": null,
-      "phonetic": "/ɡˈɪft/",
+      "phonetic": "/ɡɪft/",
       "meanings": {
         "es": "regalo",
         "pt": "presente",
@@ -222,7 +222,7 @@
       "id": "pack_00106_0009",
       "word": "cake",
       "hint": null,
-      "phonetic": "/kˈeɪk/",
+      "phonetic": "/keɪk/",
       "meanings": {
         "es": "pastel",
         "pt": "bolo",
@@ -248,7 +248,7 @@
       "id": "pack_00106_0010",
       "word": "candle",
       "hint": null,
-      "phonetic": "/kˈændəl/",
+      "phonetic": "/ˈkændəl/",
       "meanings": {
         "es": "vela",
         "pt": "vela",

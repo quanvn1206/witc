@@ -14,7 +14,7 @@
       "id": "pack_00160_0001",
       "word": "agriculture",
       "hint": null,
-      "phonetic": "/ˈæɡɹɪkˌʌltʃɚ/",
+      "phonetic": "/ˈæɡrɪkʌltʃər/",
       "meanings": {
         "es": "agricultura",
         "pt": "agricultura",
@@ -40,7 +40,7 @@
       "id": "pack_00160_0002",
       "word": "biodiversity",
       "hint": null,
-      "phonetic": "/bˌaɪoʊdaɪvˈɜːsᵻɾi/",
+      "phonetic": "/ˌbaɪoʊdaɪˈvɜrsəti/",
       "meanings": {
         "es": "biodiversidad",
         "pt": "biodiversidade",
@@ -66,7 +66,7 @@
       "id": "pack_00160_0003",
       "word": "cultivation",
       "hint": null,
-      "phonetic": "/kˌʌltɪvˈeɪʃən/",
+      "phonetic": "/ˌkʌltɪˈveɪʃən/",
       "meanings": {
         "es": "cultivo",
         "pt": "cultivo",
@@ -92,7 +92,7 @@
       "id": "pack_00160_0004",
       "word": "organic farming",
       "hint": null,
-      "phonetic": "/ɔːɹɡˈænɪk fˈɑːɹmɪŋ/",
+      "phonetic": "/ɔrˈɡænɪk ˈfɑrmɪŋ/",
       "meanings": {
         "es": "agricultura organica",
         "pt": "agricultura biológica",
@@ -118,7 +118,7 @@
       "id": "pack_00160_0005",
       "word": "sustainability",
       "hint": null,
-      "phonetic": "/səstˌeɪnəbˈɪlᵻɾi/",
+      "phonetic": "/səˌsteɪnəˈbɪlɪti/",
       "meanings": {
         "es": "sostenibilidad",
         "pt": "sustentabilidade",
@@ -144,7 +144,7 @@
       "id": "pack_00160_0006",
       "word": "conservation",
       "hint": null,
-      "phonetic": "/kˌɑːnsɚvˈeɪʃən/",
+      "phonetic": "/ˌkɑnsərˈveɪʃən/",
       "meanings": {
         "es": "conservación",
         "pt": "conservação",
@@ -170,7 +170,7 @@
       "id": "pack_00160_0007",
       "word": "ecosystem",
       "hint": null,
-      "phonetic": "/ˈiːkoʊsˌɪstəm/",
+      "phonetic": "/ˈikoʊsɪstəm/",
       "meanings": {
         "es": "ecosistema",
         "pt": "ecossistema",
@@ -196,7 +196,7 @@
       "id": "pack_00160_0008",
       "word": "productivity",
       "hint": null,
-      "phonetic": "/pɹˌɑːdəktˈɪvᵻɾi/",
+      "phonetic": "/ˌproʊdəkˈtɪvəti/",
       "meanings": {
         "es": "productividad",
         "pt": "produtividade",
@@ -222,7 +222,7 @@
       "id": "pack_00160_0009",
       "word": "renewable resources",
       "hint": null,
-      "phonetic": "/ɹᵻnˈuːəbəl ɹᵻsˈɔːɹsᵻz/",
+      "phonetic": "/riˈnuəbəl ˈrisɔrsɪz/",
       "meanings": {
         "es": "recursos renovables",
         "pt": "recursos renováveis",
@@ -248,7 +248,7 @@
       "id": "pack_00160_0010",
       "word": "food security",
       "hint": null,
-      "phonetic": "/fˈuːd sᵻkjˈʊɹɹᵻɾi/",
+      "phonetic": "/fud sɪˈkjʊrəti/",
       "meanings": {
         "es": "seguridad alimentaria",
         "pt": "segurança alimentar",

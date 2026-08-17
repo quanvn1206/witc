@@ -14,7 +14,7 @@
       "id": "pack_00109_0001",
       "word": "harvest",
       "hint": null,
-      "phonetic": "/hˈɑːɹvɪst/",
+      "phonetic": "/ˈhɑrvəst/",
       "meanings": {
         "es": "cosecha",
         "pt": "colheita",
@@ -40,7 +40,7 @@
       "id": "pack_00109_0002",
       "word": "ancestor",
       "hint": null,
-      "phonetic": "/ˈænsɛstɚ/",
+      "phonetic": "/ˈænsɛstər/",
       "meanings": {
         "es": "antepasado",
         "pt": "antepassado",
@@ -66,7 +66,7 @@
       "id": "pack_00109_0003",
       "word": "parade float",
       "hint": null,
-      "phonetic": "/pɚɹˈeɪd flˈoʊt/",
+      "phonetic": "/pəˈreɪd floʊt/",
       "meanings": {
         "es": "carroza del desfile",
         "pt": "carro alegórico",
@@ -92,7 +92,7 @@
       "id": "pack_00109_0004",
       "word": "ritual",
       "hint": null,
-      "phonetic": "/ɹˈɪtʃuːəl/",
+      "phonetic": "/ˈrɪtʃuəl/",
       "meanings": {
         "es": "ritual",
         "pt": "ritual",
@@ -118,7 +118,7 @@
       "id": "pack_00109_0005",
       "word": "anniversary",
       "hint": null,
-      "phonetic": "/ˌænɪvˈɜːsɚɹi/",
+      "phonetic": "/ˌænəˈvɜrsəri/",
       "meanings": {
         "es": "aniversario",
         "pt": "aniversário",
@@ -144,7 +144,7 @@
       "id": "pack_00109_0006",
       "word": "cultural event",
       "hint": null,
-      "phonetic": "/kˈʌltʃɚɹəl ᵻvˈɛnt/",
+      "phonetic": "/ˈkʌltʃərəl ɪˈvɛnt/",
       "meanings": {
         "es": "evento cultural",
         "pt": "evento cultural",
@@ -170,7 +170,7 @@
       "id": "pack_00109_0007",
       "word": "memorial",
       "hint": null,
-      "phonetic": "/məmˈɔːɹɪəl/",
+      "phonetic": "/məˈmɔriəl/",
       "meanings": {
         "es": "memorial",
         "pt": "memorial",
@@ -196,7 +196,7 @@
       "id": "pack_00109_0008",
       "word": "pilgrimage",
       "hint": null,
-      "phonetic": "/pˈɪlɡɹɪmɪdʒ/",
+      "phonetic": "/ˈpɪlɡrəmədʒ/",
       "meanings": {
         "es": "peregrinaje",
         "pt": "peregrinação",
@@ -222,7 +222,7 @@
       "id": "pack_00109_0009",
       "word": "folklore",
       "hint": null,
-      "phonetic": "/fˈoʊklɔːɹ/",
+      "phonetic": "/ˈfoʊklɔr/",
       "meanings": {
         "es": "folklore",
         "pt": "folclore",
@@ -248,7 +248,7 @@
       "id": "pack_00109_0010",
       "word": "procession",
       "hint": null,
-      "phonetic": "/pɹəsˈɛʃən/",
+      "phonetic": "/prəˈsɛʃən/",
       "meanings": {
         "es": "procesión",
         "pt": "procissão",

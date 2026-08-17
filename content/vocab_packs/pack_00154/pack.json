@@ -14,7 +14,7 @@
       "id": "pack_00154_0001",
       "word": "menu",
       "hint": null,
-      "phonetic": "/mˈɛnjuː/",
+      "phonetic": "/ˈmɛnju/",
       "meanings": {
         "es": "menú",
         "pt": "menu",
@@ -40,7 +40,7 @@
       "id": "pack_00154_0002",
       "word": "reservation",
       "hint": null,
-      "phonetic": "/ɹˌɛzɚvˈeɪʃən/",
+      "phonetic": "/ˌrɛzərˈveɪʃən/",
       "meanings": {
         "es": "reserva",
         "pt": "reserva",
@@ -66,7 +66,7 @@
       "id": "pack_00154_0003",
       "word": "waiter",
       "hint": null,
-      "phonetic": "/wˈeɪɾɚ/",
+      "phonetic": "/ˈweɪtər/",
       "meanings": {
         "es": "mesero",
         "pt": "garçom",
@@ -92,7 +92,7 @@
       "id": "pack_00154_0004",
       "word": "waitress",
       "hint": null,
-      "phonetic": "/wˈeɪtɹəs/",
+      "phonetic": "/ˈweɪtrəs/",
       "meanings": {
         "es": "camarera",
         "pt": "garçonete",
@@ -118,7 +118,7 @@
       "id": "pack_00154_0005",
       "word": "chef",
       "hint": null,
-      "phonetic": "/ʃˈɛf/",
+      "phonetic": "/ʃɛf/",
       "meanings": {
         "es": "cocinero",
         "pt": "cozinheiro",
@@ -144,7 +144,7 @@
       "id": "pack_00154_0006",
       "word": "appetizer",
       "hint": null,
-      "phonetic": "/ˈæpɪtˌaɪzɚ/",
+      "phonetic": "/ˈæpətaɪzər/",
       "meanings": {
         "es": "aperitivo",
         "pt": "aperitivo",
@@ -170,7 +170,7 @@
       "id": "pack_00154_0007",
       "word": "main course",
       "hint": null,
-      "phonetic": "/mˈeɪn kˈɔːɹs/",
+      "phonetic": "/meɪn kɔrs/",
       "meanings": {
         "es": "plato principal",
         "pt": "prato principal",
@@ -196,7 +196,7 @@
       "id": "pack_00154_0008",
       "word": "dessert",
       "hint": null,
-      "phonetic": "/dɪzˈɜːt/",
+      "phonetic": "/dɪˈzɜrt/",
       "meanings": {
         "es": "postre",
         "pt": "sobremesa",
@@ -222,7 +222,7 @@
       "id": "pack_00154_0009",
       "word": "tip",
       "hint": null,
-      "phonetic": "/tˈɪp/",
+      "phonetic": "/tɪp/",
       "meanings": {
         "es": "consejo",
         "pt": "dica",
@@ -248,7 +248,7 @@
       "id": "pack_00154_0010",
       "word": "buffet",
       "hint": null,
-      "phonetic": "/bˈʌfɪt/",
+      "phonetic": "/ˈbʌfət/",
       "meanings": {
         "es": "bufé",
         "pt": "bufê",

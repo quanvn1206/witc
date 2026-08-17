@@ -14,7 +14,7 @@
       "id": "pack_00080_0001",
       "word": "adventure",
       "hint": null,
-      "phonetic": "/ɐdvˈɛntʃɚ/",
+      "phonetic": "/ædˈvɛntʃər/",
       "meanings": {
         "es": "aventura",
         "pt": "aventura",
@@ -40,7 +40,7 @@
       "id": "pack_00080_0002",
       "word": "expedition",
       "hint": null,
-      "phonetic": "/ˌɛkspədˈɪʃən/",
+      "phonetic": "/ˌɛkspəˈdɪʃən/",
       "meanings": {
         "es": "expedición",
         "pt": "expedição",
@@ -66,7 +66,7 @@
       "id": "pack_00080_0003",
       "word": "destination",
       "hint": null,
-      "phonetic": "/dˌɛstɪnˈeɪʃən/",
+      "phonetic": "/ˌdɛstəˈneɪʃən/",
       "meanings": {
         "es": "destino",
         "pt": "destino",
@@ -92,7 +92,7 @@
       "id": "pack_00080_0004",
       "word": "cultural heritage",
       "hint": null,
-      "phonetic": "/kˈʌltʃɚɹəl hˈɛɹɪɾɪdʒ/",
+      "phonetic": "/ˈkʌltʃərəl ˈhɛrətədʒ/",
       "meanings": {
         "es": "herencia cultural",
         "pt": "património cultural",
@@ -118,7 +118,7 @@
       "id": "pack_00080_0005",
       "word": "eco-tourism",
       "hint": null,
-      "phonetic": "/ˈiːkoʊtˈʊɹɹɪzəm/",
+      "phonetic": "/ˈikoʊtʊrɪzəm/",
       "meanings": {
         "es": "ecoturismo",
         "pt": "ecoturismo",
@@ -144,7 +144,7 @@
       "id": "pack_00080_0006",
       "word": "backpacking",
       "hint": null,
-      "phonetic": "/bˈækpækɪŋ/",
+      "phonetic": "/ˈbækpækɪŋ/",
       "meanings": {
         "es": "mochilero",
         "pt": "mochilão",
@@ -170,7 +170,7 @@
       "id": "pack_00080_0007",
       "word": "hospitality",
       "hint": null,
-      "phonetic": "/hˌɑːspɪtˈælᵻɾi/",
+      "phonetic": "/ˌhɑspəˈtæləti/",
       "meanings": {
         "es": "hospitalidad",
         "pt": "hospitalidade",
@@ -196,7 +196,7 @@
       "id": "pack_00080_0008",
       "word": "local cuisine",
       "hint": null,
-      "phonetic": "/lˈoʊkəl kwᵻzˈiːn/",
+      "phonetic": "/ˈloʊkəl kwɪˈzin/",
       "meanings": {
         "es": "cocina local",
         "pt": "culinária local",
@@ -222,7 +222,7 @@
       "id": "pack_00080_0009",
       "word": "travel agency",
       "hint": null,
-      "phonetic": "/tɹˈævəl ˈeɪdʒənsi/",
+      "phonetic": "/ˈtrævəl ˈeɪdʒənsi/",
       "meanings": {
         "es": "agencia de viajes",
         "pt": "agência de viagens",
@@ -248,7 +248,7 @@
       "id": "pack_00080_0010",
       "word": "sustainable tourism",
       "hint": null,
-      "phonetic": "/səstˈeɪnəbəl tˈʊɹɹɪzəm/",
+      "phonetic": "/səˈsteɪnəbəl ˈtʊrɪzəm/",
       "meanings": {
         "es": "turismo sostenible",
         "pt": "turismo sustentável",

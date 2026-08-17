@@ -14,7 +14,7 @@
       "id": "pack_00116_0001",
       "word": "Hanoi",
       "hint": null,
-      "phonetic": "/hænˈɔɪ/",
+      "phonetic": "/ˈhænɔɪ/",
       "meanings": {
         "es": "Hanoi",
         "pt": "Hanói",
@@ -40,7 +40,7 @@
       "id": "pack_00116_0002",
       "word": "Tokyo",
       "hint": null,
-      "phonetic": "/tˈoʊkɪˌoʊ/",
+      "phonetic": "/ˈtoʊkioʊ/",
       "meanings": {
         "es": "Tokio",
         "pt": "Tóquio",
@@ -66,7 +66,7 @@
       "id": "pack_00116_0003",
       "word": "Seoul",
       "hint": null,
-      "phonetic": "/sˈoʊl/",
+      "phonetic": "/soʊl/",
       "meanings": {
         "es": "Seúl",
         "pt": "Seul",
@@ -92,7 +92,7 @@
       "id": "pack_00116_0004",
       "word": "Beijing",
       "hint": null,
-      "phonetic": "/beɪdʒˈɪŋ/",
+      "phonetic": "/ˌbeɪˈʒɪŋ/",
       "meanings": {
         "es": "Pekín",
         "pt": "Pequim",
@@ -118,7 +118,7 @@
       "id": "pack_00116_0005",
       "word": "Bangkok",
       "hint": null,
-      "phonetic": "/bˈæŋkɑːk/",
+      "phonetic": "/bæŋˈkɑk/",
       "meanings": {
         "es": "Bangkok",
         "pt": "Bangkok",
@@ -144,7 +144,7 @@
       "id": "pack_00116_0006",
       "word": "Jakarta",
       "hint": null,
-      "phonetic": "/dʒɐkˈɑːɹɾə/",
+      "phonetic": "/dʒəˈkɑrtə/",
       "meanings": {
         "es": "Jacarta",
         "pt": "Jacarta",
@@ -170,7 +170,7 @@
       "id": "pack_00116_0007",
       "word": "Manila",
       "hint": null,
-      "phonetic": "/mɐnˈɪlə/",
+      "phonetic": "/məˈnɪlə/",
       "meanings": {
         "es": "Manila",
         "pt": "Manila",
@@ -196,7 +196,7 @@
       "id": "pack_00116_0008",
       "word": "Kuala Lumpur",
       "hint": null,
-      "phonetic": "/kwˈɑːlɐ lˈʌmpʊɹ/",
+      "phonetic": "/ˈkwɑlə ˌlʌmˈpʊr/",
       "meanings": {
         "es": "Kuala Lumpur",
         "pt": "Kuala Lumpur",
@@ -222,7 +222,7 @@
       "id": "pack_00116_0009",
       "word": "Phnom Penh",
       "hint": null,
-      "phonetic": "/pnˈɑːm pˈɛn/",
+      "phonetic": "/fnɑm pɛn/",
       "meanings": {
         "es": "Nom Pen",
         "pt": "Phnom Penh",
@@ -248,7 +248,7 @@
       "id": "pack_00116_0010",
       "word": "Vientiane",
       "hint": null,
-      "phonetic": "/vjɛntjˈɑːn/",
+      "phonetic": "/viˌɛntiˈɑn/",
       "meanings": {
         "es": "Vientián",
         "pt": "Vienciana",

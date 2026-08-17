@@ -14,7 +14,7 @@
       "id": "pack_00019_0001",
       "word": "look",
       "hint": null,
-      "phonetic": "/lˈʊk/",
+      "phonetic": "/lʊk/",
       "meanings": {
         "es": "mirar",
         "pt": "olhar",
@@ -40,7 +40,7 @@
       "id": "pack_00019_0002",
       "word": "watch",
       "hint": null,
-      "phonetic": "/wˈɑːtʃ/",
+      "phonetic": "/wɑtʃ/",
       "meanings": {
         "es": "mirar",
         "pt": "assistir",
@@ -66,7 +66,7 @@
       "id": "pack_00019_0003",
       "word": "stare",
       "hint": null,
-      "phonetic": "/stˈɛɹ/",
+      "phonetic": "/stɛr/",
       "meanings": {
         "es": "mirada fija",
         "pt": "olhar",
@@ -92,7 +92,7 @@
       "id": "pack_00019_0004",
       "word": "glance",
       "hint": null,
-      "phonetic": "/ɡlˈæns/",
+      "phonetic": "/ɡlæns/",
       "meanings": {
         "es": "mirada",
         "pt": "olhar",
@@ -118,7 +118,7 @@
       "id": "pack_00019_0005",
       "word": "peek",
       "hint": null,
-      "phonetic": "/pˈiːk/",
+      "phonetic": "/pik/",
       "meanings": {
         "es": "ojeada",
         "pt": "espiar",
@@ -144,7 +144,7 @@
       "id": "pack_00019_0006",
       "word": "gaze",
       "hint": null,
-      "phonetic": "/ɡˈeɪz/",
+      "phonetic": "/ɡeɪz/",
       "meanings": {
         "es": "mirada",
         "pt": "olhar",
@@ -170,7 +170,7 @@
       "id": "pack_00019_0007",
       "word": "squint",
       "hint": null,
-      "phonetic": "/skwˈɪnt/",
+      "phonetic": "/skwɪnt/",
       "meanings": {
         "es": "estrabismo",
         "pt": "estrabismo",
@@ -196,7 +196,7 @@
       "id": "pack_00019_0008",
       "word": "blink",
       "hint": null,
-      "phonetic": "/blˈɪŋk/",
+      "phonetic": "/blɪŋk/",
       "meanings": {
         "es": "parpadear",
         "pt": "piscar",
@@ -222,7 +222,7 @@
       "id": "pack_00019_0009",
       "word": "wink",
       "hint": null,
-      "phonetic": "/wˈɪŋk/",
+      "phonetic": "/wɪŋk/",
       "meanings": {
         "es": "guiño",
         "pt": "piscar",
@@ -248,7 +248,7 @@
       "id": "pack_00019_0010",
       "word": "glimpse",
       "hint": null,
-      "phonetic": "/ɡlˈɪmps/",
+      "phonetic": "/ɡlɪmps/",
       "meanings": {
         "es": "vistazo",
         "pt": "vislumbre",

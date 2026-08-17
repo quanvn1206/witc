@@ -14,7 +14,7 @@
       "id": "pack_00133_0001",
       "word": "allergy",
       "hint": null,
-      "phonetic": "/ˈælɚdʒi/",
+      "phonetic": "/ˈælərdʒi/",
       "meanings": {
         "es": "alergia",
         "pt": "alergia",
@@ -40,7 +40,7 @@
       "id": "pack_00133_0002",
       "word": "infection",
       "hint": null,
-      "phonetic": "/ɪnfˈɛkʃən/",
+      "phonetic": "/ˌɪnˈfɛkʃən/",
       "meanings": {
         "es": "infección",
         "pt": "infecção",
@@ -66,7 +66,7 @@
       "id": "pack_00133_0003",
       "word": "flu",
       "hint": null,
-      "phonetic": "/flˈuː/",
+      "phonetic": "/flu/",
       "meanings": {
         "es": "gripe",
         "pt": "gripe",
@@ -92,7 +92,7 @@
       "id": "pack_00133_0004",
       "word": "sore throat",
       "hint": null,
-      "phonetic": "/sˈɔːɹ θɹˈoʊt/",
+      "phonetic": "/sɔr θroʊt/",
       "meanings": {
         "es": "dolor de garganta",
         "pt": "dor de garganta",
@@ -118,7 +118,7 @@
       "id": "pack_00133_0005",
       "word": "runny nose",
       "hint": null,
-      "phonetic": "/ɹˈʌni nˈoʊz/",
+      "phonetic": "/ˈrʌni noʊz/",
       "meanings": {
         "es": "rinorrea",
         "pt": "nariz escorrendo",
@@ -144,7 +144,7 @@
       "id": "pack_00133_0006",
       "word": "backache",
       "hint": null,
-      "phonetic": "/bˈækeɪk/",
+      "phonetic": "/ˈbækeɪk/",
       "meanings": {
         "es": "dolor de espalda",
         "pt": "dor nas costas",
@@ -170,7 +170,7 @@
       "id": "pack_00133_0007",
       "word": "toothache",
       "hint": null,
-      "phonetic": "/tˈuːθeɪk/",
+      "phonetic": "/ˈtuθeɪk/",
       "meanings": {
         "es": "dolor de muelas",
         "pt": "dor de dente",
@@ -196,7 +196,7 @@
       "id": "pack_00133_0008",
       "word": "painkiller",
       "hint": null,
-      "phonetic": "/pˈeɪŋkɪlɚ/",
+      "phonetic": "/ˈpeɪnkɪlər/",
       "meanings": {
         "es": "analgésico",
         "pt": "analgésico",
@@ -222,7 +222,7 @@
       "id": "pack_00133_0009",
       "word": "treatment",
       "hint": null,
-      "phonetic": "/tɹˈiːtmənt/",
+      "phonetic": "/ˈtritmənt/",
       "meanings": {
         "es": "tratamiento",
         "pt": "tratamento",
@@ -248,7 +248,7 @@
       "id": "pack_00133_0010",
       "word": "recover",
       "hint": null,
-      "phonetic": "/ɹᵻkˈʌvɚ/",
+      "phonetic": "/rɪˈkʌvər/",
       "meanings": {
         "es": "recuperar",
         "pt": "recuperar",

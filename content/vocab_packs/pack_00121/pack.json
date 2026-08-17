@@ -14,7 +14,7 @@
       "id": "pack_00121_0001",
       "word": "shampoo",
       "hint": null,
-      "phonetic": "/ʃæmpˈuː/",
+      "phonetic": "/ʃæmˈpu/",
       "meanings": {
         "es": "champú",
         "pt": "xampu",
@@ -40,7 +40,7 @@
       "id": "pack_00121_0002",
       "word": "soap",
       "hint": null,
-      "phonetic": "/sˈoʊp/",
+      "phonetic": "/soʊp/",
       "meanings": {
         "es": "jabón",
         "pt": "sabão",
@@ -66,7 +66,7 @@
       "id": "pack_00121_0003",
       "word": "comb",
       "hint": null,
-      "phonetic": "/kˈoʊm/",
+      "phonetic": "/koʊm/",
       "meanings": {
         "es": "peine",
         "pt": "pentear",
@@ -92,7 +92,7 @@
       "id": "pack_00121_0004",
       "word": "brush",
       "hint": null,
-      "phonetic": "/bɹˈʌʃ/",
+      "phonetic": "/brʌʃ/",
       "meanings": {
         "es": "cepillar",
         "pt": "escovar",
@@ -118,7 +118,7 @@
       "id": "pack_00121_0005",
       "word": "mirror",
       "hint": null,
-      "phonetic": "/mˈɪɹɚ/",
+      "phonetic": "/ˈmɪrər/",
       "meanings": {
         "es": "espejo",
         "pt": "espelho",
@@ -144,7 +144,7 @@
       "id": "pack_00121_0006",
       "word": "towel",
       "hint": null,
-      "phonetic": "/tˈaʊəl/",
+      "phonetic": "/ˈtaʊəl/",
       "meanings": {
         "es": "toalla",
         "pt": "toalha",
@@ -170,7 +170,7 @@
       "id": "pack_00121_0007",
       "word": "perfume",
       "hint": null,
-      "phonetic": "/pˈɜːfjuːm/",
+      "phonetic": "/pərˈfjum/",
       "meanings": {
         "es": "perfume",
         "pt": "perfume",
@@ -196,7 +196,7 @@
       "id": "pack_00121_0008",
       "word": "lotion",
       "hint": null,
-      "phonetic": "/lˈoʊʃən/",
+      "phonetic": "/ˈloʊʃən/",
       "meanings": {
         "es": "loción",
         "pt": "loção",
@@ -222,7 +222,7 @@
       "id": "pack_00121_0009",
       "word": "lipstick",
       "hint": null,
-      "phonetic": "/lˈɪpstɪk/",
+      "phonetic": "/ˈlɪpstɪk/",
       "meanings": {
         "es": "lápiz labial",
         "pt": "batom",
@@ -248,7 +248,7 @@
       "id": "pack_00121_0010",
       "word": "cream",
       "hint": null,
-      "phonetic": "/kɹˈiːm/",
+      "phonetic": "/krim/",
       "meanings": {
         "es": "crema",
         "pt": "creme",

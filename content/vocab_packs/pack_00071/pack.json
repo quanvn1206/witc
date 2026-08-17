@@ -14,7 +14,7 @@
       "id": "pack_00071_0001",
       "word": "phone",
       "hint": null,
-      "phonetic": "/fˈoʊn/",
+      "phonetic": "/foʊn/",
       "meanings": {
         "es": "teléfono",
         "pt": "telefone",
@@ -40,7 +40,7 @@
       "id": "pack_00071_0002",
       "word": "computer",
       "hint": null,
-      "phonetic": "/kəmpjˈuːɾɚ/",
+      "phonetic": "/kəmˈpjutər/",
       "meanings": {
         "es": "computadora",
         "pt": "computador",
@@ -66,7 +66,7 @@
       "id": "pack_00071_0003",
       "word": "laptop",
       "hint": null,
-      "phonetic": "/lˈæptɑːp/",
+      "phonetic": "/ˈlæptɑp/",
       "meanings": {
         "es": "computadora portátil",
         "pt": "computador portátil",
@@ -92,7 +92,7 @@
       "id": "pack_00071_0004",
       "word": "tablet",
       "hint": null,
-      "phonetic": "/tˈæblət/",
+      "phonetic": "/ˈtæblət/",
       "meanings": {
         "es": "tableta",
         "pt": "comprimido",
@@ -118,7 +118,7 @@
       "id": "pack_00071_0005",
       "word": "keyboard",
       "hint": null,
-      "phonetic": "/kˈiːbɔːɹd/",
+      "phonetic": "/ˈkibɔrd/",
       "meanings": {
         "es": "teclado",
         "pt": "teclado",
@@ -144,7 +144,7 @@
       "id": "pack_00071_0006",
       "word": "mouse",
       "hint": null,
-      "phonetic": "/mˈaʊs/",
+      "phonetic": "/maʊs/",
       "meanings": {
         "es": "ratón",
         "pt": "rato",
@@ -170,7 +170,7 @@
       "id": "pack_00071_0007",
       "word": "screen",
       "hint": null,
-      "phonetic": "/skɹˈiːn/",
+      "phonetic": "/skrin/",
       "meanings": {
         "es": "pantalla",
         "pt": "tela",
@@ -196,7 +196,7 @@
       "id": "pack_00071_0008",
       "word": "printer",
       "hint": null,
-      "phonetic": "/pɹˈɪntɚ/",
+      "phonetic": "/ˈprɪntər/",
       "meanings": {
         "es": "impresora",
         "pt": "impressora",
@@ -222,7 +222,7 @@
       "id": "pack_00071_0009",
       "word": "camera",
       "hint": null,
-      "phonetic": "/kˈæmɹə/",
+      "phonetic": "/ˈkæmərə/",
       "meanings": {
         "es": "cámara",
         "pt": "câmera",
@@ -248,7 +248,7 @@
       "id": "pack_00071_0010",
       "word": "speaker",
       "hint": null,
-      "phonetic": "/spˈiːkɚ/",
+      "phonetic": "/ˈspikər/",
       "meanings": {
         "es": "vocero",
         "pt": "palestrante",

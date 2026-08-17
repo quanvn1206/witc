@@ -14,7 +14,7 @@
       "id": "pack_00101_0001",
       "word": "shop",
       "hint": null,
-      "phonetic": "/ʃˈɑːp/",
+      "phonetic": "/ʃɑp/",
       "meanings": {
         "es": "comercio",
         "pt": "comprar",
@@ -40,7 +40,7 @@
       "id": "pack_00101_0002",
       "word": "store",
       "hint": null,
-      "phonetic": "/stˈɔːɹ/",
+      "phonetic": "/stɔr/",
       "meanings": {
         "es": "almacenar",
         "pt": "loja",
@@ -66,7 +66,7 @@
       "id": "pack_00101_0003",
       "word": "market",
       "hint": null,
-      "phonetic": "/mˈɑːɹkɪt/",
+      "phonetic": "/ˈmɑrkət/",
       "meanings": {
         "es": "mercado",
         "pt": "mercado",
@@ -92,7 +92,7 @@
       "id": "pack_00101_0004",
       "word": "buy",
       "hint": null,
-      "phonetic": "/bˈaɪ/",
+      "phonetic": "/baɪ/",
       "meanings": {
         "es": "comprar",
         "pt": "comprar",
@@ -118,7 +118,7 @@
       "id": "pack_00101_0005",
       "word": "sell",
       "hint": null,
-      "phonetic": "/sˈɛl/",
+      "phonetic": "/sɛl/",
       "meanings": {
         "es": "vender",
         "pt": "vender",
@@ -144,7 +144,7 @@
       "id": "pack_00101_0006",
       "word": "price",
       "hint": null,
-      "phonetic": "/pɹˈaɪs/",
+      "phonetic": "/praɪs/",
       "meanings": {
         "es": "precio",
         "pt": "preço",
@@ -170,7 +170,7 @@
       "id": "pack_00101_0007",
       "word": "cash",
       "hint": null,
-      "phonetic": "/kˈæʃ/",
+      "phonetic": "/kæʃ/",
       "meanings": {
         "es": "dinero",
         "pt": "dinheiro",
@@ -196,7 +196,7 @@
       "id": "pack_00101_0008",
       "word": "coin",
       "hint": null,
-      "phonetic": "/kˈɔɪn/",
+      "phonetic": "/kɔɪn/",
       "meanings": {
         "es": "acuñar",
         "pt": "moeda",
@@ -222,7 +222,7 @@
       "id": "pack_00101_0009",
       "word": "wallet",
       "hint": null,
-      "phonetic": "/wˈɔlɪt/",
+      "phonetic": "/ˈwɔlət/",
       "meanings": {
         "es": "billetera",
         "pt": "carteira",
@@ -248,7 +248,7 @@
       "id": "pack_00101_0010",
       "word": "bag",
       "hint": null,
-      "phonetic": "/bˈæɡ/",
+      "phonetic": "/bæɡ/",
       "meanings": {
         "es": "bolsa",
         "pt": "bolsa",

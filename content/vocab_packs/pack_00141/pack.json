@@ -14,7 +14,7 @@
       "id": "pack_00141_0001",
       "word": "hammer",
       "hint": null,
-      "phonetic": "/hˈæmɚ/",
+      "phonetic": "/ˈhæmər/",
       "meanings": {
         "es": "martillo",
         "pt": "martelo",
@@ -40,7 +40,7 @@
       "id": "pack_00141_0002",
       "word": "nail",
       "hint": null,
-      "phonetic": "/nˈeɪl/",
+      "phonetic": "/neɪl/",
       "meanings": {
         "es": "clavo",
         "pt": "unha",
@@ -66,7 +66,7 @@
       "id": "pack_00141_0003",
       "word": "saw",
       "hint": null,
-      "phonetic": "/sˈɔː/",
+      "phonetic": "/sɔ/",
       "meanings": {
         "es": "sierra",
         "pt": "serra",
@@ -92,7 +92,7 @@
       "id": "pack_00141_0004",
       "word": "screwdriver",
       "hint": null,
-      "phonetic": "/skɹˈuːdɹaɪvɚ/",
+      "phonetic": "/ˈskrudraɪvər/",
       "meanings": {
         "es": "destornillador",
         "pt": "chave de fenda",
@@ -118,7 +118,7 @@
       "id": "pack_00141_0005",
       "word": "wrench",
       "hint": null,
-      "phonetic": "/ɹˈɛntʃ/",
+      "phonetic": "/rɛntʃ/",
       "meanings": {
         "es": "llave inglesa",
         "pt": "chave inglesa",
@@ -144,7 +144,7 @@
       "id": "pack_00141_0006",
       "word": "ladder",
       "hint": null,
-      "phonetic": "/lˈædɚ/",
+      "phonetic": "/ˈlædər/",
       "meanings": {
         "es": "escalera",
         "pt": "escada",
@@ -170,7 +170,7 @@
       "id": "pack_00141_0007",
       "word": "shovel",
       "hint": null,
-      "phonetic": "/ʃˈʌvəl/",
+      "phonetic": "/ˈʃʌvəl/",
       "meanings": {
         "es": "pala",
         "pt": "pá",
@@ -196,7 +196,7 @@
       "id": "pack_00141_0008",
       "word": "drill",
       "hint": null,
-      "phonetic": "/dɹˈɪl/",
+      "phonetic": "/drɪl/",
       "meanings": {
         "es": "perforar",
         "pt": "furar",
@@ -222,7 +222,7 @@
       "id": "pack_00141_0009",
       "word": "tape measure",
       "hint": null,
-      "phonetic": "/tˈeɪp mˈɛʒɚ/",
+      "phonetic": "/teɪp ˈmɛʒər/",
       "meanings": {
         "es": "cinta métrica",
         "pt": "fita métrica",
@@ -248,7 +248,7 @@
       "id": "pack_00141_0010",
       "word": "pliers",
       "hint": null,
-      "phonetic": "/plˈaɪɚz/",
+      "phonetic": "/ˈplaɪərz/",
       "meanings": {
         "es": "alicates",
         "pt": "alicate",

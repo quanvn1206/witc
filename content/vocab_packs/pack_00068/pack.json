@@ -14,7 +14,7 @@
       "id": "pack_00068_0001",
       "word": "country",
       "hint": null,
-      "phonetic": "/kˈʌntɹi/",
+      "phonetic": "/ˈkʌntri/",
       "meanings": {
         "es": "país",
         "pt": "país",
@@ -40,7 +40,7 @@
       "id": "pack_00068_0002",
       "word": "capital",
       "hint": null,
-      "phonetic": "/kˈæpɪɾəl/",
+      "phonetic": "/ˈkæpətəl/",
       "meanings": {
         "es": "capital",
         "pt": "capital",
@@ -66,7 +66,7 @@
       "id": "pack_00068_0003",
       "word": "border",
       "hint": null,
-      "phonetic": "/bˈɔːɹdɚ/",
+      "phonetic": "/ˈbɔrdər/",
       "meanings": {
         "es": "borde",
         "pt": "fronteira",
@@ -118,7 +118,7 @@
       "id": "pack_00068_0005",
       "word": "continent",
       "hint": null,
-      "phonetic": "/kˈɑːntɪnənt/",
+      "phonetic": "/ˈkɑntənənt/",
       "meanings": {
         "es": "continente",
         "pt": "continente",
@@ -144,7 +144,7 @@
       "id": "pack_00068_0006",
       "word": "population",
       "hint": null,
-      "phonetic": "/pˌɑːpjʊlˈeɪʃən/",
+      "phonetic": "/ˌpɑpjəˈleɪʃən/",
       "meanings": {
         "es": "población",
         "pt": "população",
@@ -170,7 +170,7 @@
       "id": "pack_00068_0007",
       "word": "region",
       "hint": null,
-      "phonetic": "/ɹˈiːdʒən/",
+      "phonetic": "/ˈridʒən/",
       "meanings": {
         "es": "región",
         "pt": "região",
@@ -222,7 +222,7 @@
       "id": "pack_00068_0009",
       "word": "mountain",
       "hint": null,
-      "phonetic": "/mˈaʊntɪn/",
+      "phonetic": "/ˈmaʊntən/",
       "meanings": {
         "es": "montaña",
         "pt": "montanha",
@@ -248,7 +248,7 @@
       "id": "pack_00068_0010",
       "word": "river",
       "hint": null,
-      "phonetic": "/ɹˈɪvɚ/",
+      "phonetic": "/ˈrɪvər/",
       "meanings": {
         "es": "río",
         "pt": "rio",

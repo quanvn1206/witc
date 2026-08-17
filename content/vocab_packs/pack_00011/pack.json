@@ -14,7 +14,7 @@
       "id": "pack_00011_0001",
       "word": "bee",
       "hint": null,
-      "phonetic": "/bˈiː/",
+      "phonetic": "/bi/",
       "meanings": {
         "es": "abeja",
         "pt": "abelha",
@@ -40,7 +40,7 @@
       "id": "pack_00011_0002",
       "word": "butterfly",
       "hint": null,
-      "phonetic": "/bˈʌɾɚflˌaɪ/",
+      "phonetic": "/ˈbʌtərflaɪ/",
       "meanings": {
         "es": "mariposa",
         "pt": "borboleta",
@@ -66,7 +66,7 @@
       "id": "pack_00011_0003",
       "word": "ant",
       "hint": null,
-      "phonetic": "/ˈænt/",
+      "phonetic": "/ænt/",
       "meanings": {
         "es": "hormiga",
         "pt": "formiga",
@@ -92,7 +92,7 @@
       "id": "pack_00011_0004",
       "word": "spider",
       "hint": null,
-      "phonetic": "/spˈaɪdɚ/",
+      "phonetic": "/ˈspaɪdər/",
       "meanings": {
         "es": "araña",
         "pt": "aranha",
@@ -118,7 +118,7 @@
       "id": "pack_00011_0005",
       "word": "ladybug",
       "hint": null,
-      "phonetic": "/lˈeɪdɪbˌʌɡ/",
+      "phonetic": "/ˈleɪdibʌɡ/",
       "meanings": {
         "es": "mariquita",
         "pt": "joaninha",
@@ -144,7 +144,7 @@
       "id": "pack_00011_0006",
       "word": "mosquito",
       "hint": null,
-      "phonetic": "/məskˈiːɾoʊ/",
+      "phonetic": "/məˈskitoʊ/",
       "meanings": {
         "es": "mosquito",
         "pt": "mosquito",
@@ -170,7 +170,7 @@
       "id": "pack_00011_0007",
       "word": "dragonfly",
       "hint": null,
-      "phonetic": "/dɹˈæɡənflˌaɪ/",
+      "phonetic": "/ˈdræɡənflaɪ/",
       "meanings": {
         "es": "libélula",
         "pt": "libélula",
@@ -196,7 +196,7 @@
       "id": "pack_00011_0008",
       "word": "grasshopper",
       "hint": null,
-      "phonetic": "/ɡɹˈæshɑːpɚ/",
+      "phonetic": "/ˈɡræshɑpər/",
       "meanings": {
         "es": "saltamontes",
         "pt": "gafanhoto",
@@ -222,7 +222,7 @@
       "id": "pack_00011_0009",
       "word": "snail",
       "hint": null,
-      "phonetic": "/snˈeɪl/",
+      "phonetic": "/sneɪl/",
       "meanings": {
         "es": "caracol",
         "pt": "lesma",
@@ -248,7 +248,7 @@
       "id": "pack_00011_0010",
       "word": "caterpillar",
       "hint": null,
-      "phonetic": "/kˈæɾɚpˌɪlɚ/",
+      "phonetic": "/ˈkætəpɪlər/",
       "meanings": {
         "es": "oruga",
         "pt": "lagarta",

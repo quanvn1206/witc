@@ -14,7 +14,7 @@
       "id": "pack_00034_0001",
       "word": "head",
       "hint": null,
-      "phonetic": "/hˈɛd/",
+      "phonetic": "/hɛd/",
       "meanings": {
         "es": "cabeza",
         "pt": "cabeça",
@@ -40,7 +40,7 @@
       "id": "pack_00034_0002",
       "word": "arm",
       "hint": null,
-      "phonetic": "/ˈɑːɹm/",
+      "phonetic": "/ɑrm/",
       "meanings": {
         "es": "brazo",
         "pt": "braço",
@@ -66,7 +66,7 @@
       "id": "pack_00034_0003",
       "word": "hand",
       "hint": null,
-      "phonetic": "/hˈænd/",
+      "phonetic": "/hænd/",
       "meanings": {
         "es": "mano",
         "pt": "mão",
@@ -92,7 +92,7 @@
       "id": "pack_00034_0004",
       "word": "leg",
       "hint": null,
-      "phonetic": "/lˈɛɡ/",
+      "phonetic": "/lɛɡ/",
       "meanings": {
         "es": "pierna",
         "pt": "perna",
@@ -118,7 +118,7 @@
       "id": "pack_00034_0005",
       "word": "foot",
       "hint": null,
-      "phonetic": "/fˈʊt/",
+      "phonetic": "/fʊt/",
       "meanings": {
         "es": "pie",
         "pt": "pé",
@@ -144,7 +144,7 @@
       "id": "pack_00034_0006",
       "word": "eye",
       "hint": null,
-      "phonetic": "/ˈaɪ/",
+      "phonetic": "/aɪ/",
       "meanings": {
         "es": "ojo",
         "pt": "olho",
@@ -170,7 +170,7 @@
       "id": "pack_00034_0007",
       "word": "ear",
       "hint": null,
-      "phonetic": "/ˈɪɹ/",
+      "phonetic": "/ir/",
       "meanings": {
         "es": "oreja",
         "pt": "orelha",
@@ -196,7 +196,7 @@
       "id": "pack_00034_0008",
       "word": "nose",
       "hint": null,
-      "phonetic": "/nˈoʊz/",
+      "phonetic": "/noʊz/",
       "meanings": {
         "es": "nariz",
         "pt": "nariz",
@@ -222,7 +222,7 @@
       "id": "pack_00034_0009",
       "word": "mouth",
       "hint": null,
-      "phonetic": "/mˈaʊθ/",
+      "phonetic": "/maʊθ/",
       "meanings": {
         "es": "boca",
         "pt": "boca",
@@ -248,7 +248,7 @@
       "id": "pack_00034_0010",
       "word": "back",
       "hint": null,
-      "phonetic": "/bˈæk/",
+      "phonetic": "/bæk/",
       "meanings": {
         "es": "atrás",
         "pt": "voltar",

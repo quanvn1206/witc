@@ -14,7 +14,7 @@
       "id": "pack_00063_0001",
       "word": "analyze",
       "hint": null,
-      "phonetic": "/ˈænɐlˌaɪz/",
+      "phonetic": "/ˈænəlaɪz/",
       "meanings": {
         "es": "analizar",
         "pt": "analisar",
@@ -40,7 +40,7 @@
       "id": "pack_00063_0002",
       "word": "evaluate",
       "hint": null,
-      "phonetic": "/ɪvˈæljuːˌeɪt/",
+      "phonetic": "/ɪˈvæljueɪt/",
       "meanings": {
         "es": "evaluar",
         "pt": "avaliar",
@@ -66,7 +66,7 @@
       "id": "pack_00063_0003",
       "word": "summarize",
       "hint": null,
-      "phonetic": "/sˈʌmɚɹˌaɪz/",
+      "phonetic": "/ˈsʌməraɪz/",
       "meanings": {
         "es": "resumir",
         "pt": "resumir",
@@ -92,7 +92,7 @@
       "id": "pack_00063_0004",
       "word": "interpret",
       "hint": null,
-      "phonetic": "/ɪntˈɜːpɹɪt/",
+      "phonetic": "/ˌɪnˈtɜrprət/",
       "meanings": {
         "es": "interpretar",
         "pt": "interpretar",
@@ -118,7 +118,7 @@
       "id": "pack_00063_0005",
       "word": "critical thinking",
       "hint": null,
-      "phonetic": "/kɹˈɪɾɪkəl θˈɪŋkɪŋ/",
+      "phonetic": "/ˈkrɪtɪkəl ˈθɪŋkɪŋ/",
       "meanings": {
         "es": "pensamiento crítico",
         "pt": "pensamento crítico",
@@ -144,7 +144,7 @@
       "id": "pack_00063_0006",
       "word": "hypothesis",
       "hint": null,
-      "phonetic": "/haɪpˈɑːθəsˌɪs/",
+      "phonetic": "/haɪˈpɑθəsəs/",
       "meanings": {
         "es": "hipótesis",
         "pt": "hipótese",
@@ -170,7 +170,7 @@
       "id": "pack_00063_0007",
       "word": "methodology",
       "hint": null,
-      "phonetic": "/mˌɛθədˈɑːlədʒi/",
+      "phonetic": "/ˌmɛθəˈdɑlədʒi/",
       "meanings": {
         "es": "metodología",
         "pt": "metodologia",
@@ -196,7 +196,7 @@
       "id": "pack_00063_0008",
       "word": "citation",
       "hint": null,
-      "phonetic": "/saɪtˈeɪʃən/",
+      "phonetic": "/saɪˈteɪʃən/",
       "meanings": {
         "es": "citación",
         "pt": "citação",
@@ -222,7 +222,7 @@
       "id": "pack_00063_0009",
       "word": "plagiarism",
       "hint": null,
-      "phonetic": "/plˈeɪdʒɚɹˌɪzəm/",
+      "phonetic": "/ˈpleɪdʒərɪzəm/",
       "meanings": {
         "es": "plagio",
         "pt": "plágio",
@@ -248,7 +248,7 @@
       "id": "pack_00063_0010",
       "word": "academic writing",
       "hint": null,
-      "phonetic": "/ˌækədˈɛmɪk ɹˈaɪɾɪŋ/",
+      "phonetic": "/ˌækəˈdɛmɪk ˈraɪtɪŋ/",
       "meanings": {
         "es": "escritura académica",
         "pt": "redação acadêmica",

@@ -14,7 +14,7 @@
       "id": "pack_00008_0001",
       "word": "fish",
       "hint": null,
-      "phonetic": "/fˈɪʃ/",
+      "phonetic": "/fɪʃ/",
       "meanings": {
         "es": "pez",
         "pt": "peixe",
@@ -40,7 +40,7 @@
       "id": "pack_00008_0002",
       "word": "shark",
       "hint": null,
-      "phonetic": "/ʃˈɑːɹk/",
+      "phonetic": "/ʃɑrk/",
       "meanings": {
         "es": "tiburón",
         "pt": "tubarão",
@@ -66,7 +66,7 @@
       "id": "pack_00008_0003",
       "word": "whale",
       "hint": null,
-      "phonetic": "/wˈeɪl/",
+      "phonetic": "/weɪl/",
       "meanings": {
         "es": "ballena",
         "pt": "baleia",
@@ -92,7 +92,7 @@
       "id": "pack_00008_0004",
       "word": "dolphin",
       "hint": null,
-      "phonetic": "/dˈɑːlfɪn/",
+      "phonetic": "/ˈdɑlfən/",
       "meanings": {
         "es": "delfín",
         "pt": "golfinho",
@@ -118,7 +118,7 @@
       "id": "pack_00008_0005",
       "word": "octopus",
       "hint": null,
-      "phonetic": "/ˈɑːktəpəs/",
+      "phonetic": "/ˈɑktəpʊs/",
       "meanings": {
         "es": "pulpo",
         "pt": "polvo",
@@ -144,7 +144,7 @@
       "id": "pack_00008_0006",
       "word": "crab",
       "hint": null,
-      "phonetic": "/kɹˈæb/",
+      "phonetic": "/kræb/",
       "meanings": {
         "es": "cangrejo",
         "pt": "caranguejo",
@@ -170,7 +170,7 @@
       "id": "pack_00008_0007",
       "word": "starfish",
       "hint": null,
-      "phonetic": "/stˈɑːɹfɪʃ/",
+      "phonetic": "/ˈstɑrfɪʃ/",
       "meanings": {
         "es": "estrella de mar",
         "pt": "estrela do mar",
@@ -196,7 +196,7 @@
       "id": "pack_00008_0008",
       "word": "jellyfish",
       "hint": null,
-      "phonetic": "/dʒˈɛlɪfɪʃ/",
+      "phonetic": "/ˈdʒɛlifɪʃ/",
       "meanings": {
         "es": "medusa",
         "pt": "medusa",
@@ -222,7 +222,7 @@
       "id": "pack_00008_0009",
       "word": "seahorse",
       "hint": null,
-      "phonetic": "/sˈiːhɔːɹs/",
+      "phonetic": "/ˈsihɔrs/",
       "meanings": {
         "es": "caballito de mar",
         "pt": "cavalo-marinho",
@@ -248,7 +248,7 @@
       "id": "pack_00008_0010",
       "word": "turtle",
       "hint": null,
-      "phonetic": "/tˈɜːɾəl/",
+      "phonetic": "/ˈtɜrtəl/",
       "meanings": {
         "es": "tortuga",
         "pt": "tartaruga",

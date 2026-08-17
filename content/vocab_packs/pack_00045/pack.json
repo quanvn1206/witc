@@ -14,7 +14,7 @@
       "id": "pack_00045_0001",
       "word": "student",
       "hint": null,
-      "phonetic": "/stˈuːdənt/",
+      "phonetic": "/ˈstudənt/",
       "meanings": {
         "es": "alumno",
         "pt": "estudante",
@@ -40,7 +40,7 @@
       "id": "pack_00045_0002",
       "word": "teacher",
       "hint": null,
-      "phonetic": "/tˈiːtʃɚ/",
+      "phonetic": "/ˈtitʃər/",
       "meanings": {
         "es": "maestro",
         "pt": "professor",
@@ -66,7 +66,7 @@
       "id": "pack_00045_0003",
       "word": "classmate",
       "hint": null,
-      "phonetic": "/klˈæsmeɪt/",
+      "phonetic": "/ˈklæsmeɪt/",
       "meanings": {
         "es": "compañero de clase",
         "pt": "colega",
@@ -92,7 +92,7 @@
       "id": "pack_00045_0004",
       "word": "principal",
       "hint": null,
-      "phonetic": "/pɹˈɪnsɪpəl/",
+      "phonetic": "/ˈprɪnsəpəl/",
       "meanings": {
         "es": "principal",
         "pt": "principal",
@@ -118,7 +118,7 @@
       "id": "pack_00045_0005",
       "word": "coach",
       "hint": null,
-      "phonetic": "/kˈoʊtʃ/",
+      "phonetic": "/koʊtʃ/",
       "meanings": {
         "es": "entrenador",
         "pt": "treinador",
@@ -144,7 +144,7 @@
       "id": "pack_00045_0006",
       "word": "librarian",
       "hint": null,
-      "phonetic": "/laɪbɹˈɛɹiən/",
+      "phonetic": "/laɪˈbrɛriən/",
       "meanings": {
         "es": "bibliotecario",
         "pt": "bibliotecário",
@@ -170,7 +170,7 @@
       "id": "pack_00045_0007",
       "word": "monitor",
       "hint": null,
-      "phonetic": "/mˈɑːnɪɾɚ/",
+      "phonetic": "/ˈmɑnətər/",
       "meanings": {
         "es": "monitor",
         "pt": "monitor",
@@ -196,7 +196,7 @@
       "id": "pack_00045_0008",
       "word": "partner",
       "hint": null,
-      "phonetic": "/pˈɑːɹtnɚ/",
+      "phonetic": "/ˈpɑrtnər/",
       "meanings": {
         "es": "pareja",
         "pt": "parceiro",
@@ -222,7 +222,7 @@
       "id": "pack_00045_0009",
       "word": "friend",
       "hint": null,
-      "phonetic": "/fɹˈɛnd/",
+      "phonetic": "/frɛnd/",
       "meanings": {
         "es": "amigo",
         "pt": "amigo",
@@ -248,7 +248,7 @@
       "id": "pack_00045_0010",
       "word": "neighbor",
       "hint": null,
-      "phonetic": "/nˈeɪbɚ/",
+      "phonetic": "/ˈneɪbər/",
       "meanings": {
         "es": "vecino",
         "pt": "vizinho",

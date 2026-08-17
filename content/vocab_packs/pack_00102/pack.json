@@ -14,7 +14,7 @@
       "id": "pack_00102_0001",
       "word": "receipt",
       "hint": null,
-      "phonetic": "/ɹᵻsˈiːt/",
+      "phonetic": "/rɪˈsit/",
       "meanings": {
         "es": "recibo",
         "pt": "recibo",
@@ -40,7 +40,7 @@
       "id": "pack_00102_0002",
       "word": "cashier",
       "hint": null,
-      "phonetic": "/kæʃˈɪɹ/",
+      "phonetic": "/kæˈʃɪr/",
       "meanings": {
         "es": "cajero",
         "pt": "caixa",
@@ -66,7 +66,7 @@
       "id": "pack_00102_0003",
       "word": "change",
       "hint": null,
-      "phonetic": "/tʃˈeɪndʒ/",
+      "phonetic": "/tʃeɪndʒ/",
       "meanings": {
         "es": "cambiar",
         "pt": "mudar",
@@ -92,7 +92,7 @@
       "id": "pack_00102_0004",
       "word": "discount",
       "hint": null,
-      "phonetic": "/dˈɪskaʊnt/",
+      "phonetic": "/dɪˈskaʊnt/",
       "meanings": {
         "es": "descuento",
         "pt": "desconto",
@@ -118,7 +118,7 @@
       "id": "pack_00102_0005",
       "word": "credit card",
       "hint": null,
-      "phonetic": "/kɹˈɛdɪt kˈɑːɹd/",
+      "phonetic": "/ˈkrɛdət kɑrd/",
       "meanings": {
         "es": "tarjeta de crédito",
         "pt": "Cartão de crédito",
@@ -144,7 +144,7 @@
       "id": "pack_00102_0006",
       "word": "debit card",
       "hint": null,
-      "phonetic": "/dˈɛbɪt kˈɑːɹd/",
+      "phonetic": "/ˈdɛbɪt kɑrd/",
       "meanings": {
         "es": "tarjeta de débito",
         "pt": "cartão de débito",
@@ -170,7 +170,7 @@
       "id": "pack_00102_0007",
       "word": "checkout",
       "hint": null,
-      "phonetic": "/tʃˈɛkaʊt/",
+      "phonetic": "/ˈtʃɛkaʊt/",
       "meanings": {
         "es": "verificar",
         "pt": "Confira",
@@ -196,7 +196,7 @@
       "id": "pack_00102_0008",
       "word": "customer",
       "hint": null,
-      "phonetic": "/kˈʌstəmɚ/",
+      "phonetic": "/ˈkʌstəmər/",
       "meanings": {
         "es": "cliente",
         "pt": "cliente",
@@ -222,7 +222,7 @@
       "id": "pack_00102_0009",
       "word": "basket",
       "hint": null,
-      "phonetic": "/bˈæskɪt/",
+      "phonetic": "/ˈbæskət/",
       "meanings": {
         "es": "cesta",
         "pt": "cesta",
@@ -248,7 +248,7 @@
       "id": "pack_00102_0010",
       "word": "bill",
       "hint": null,
-      "phonetic": "/bˈɪl/",
+      "phonetic": "/bɪl/",
       "meanings": {
         "es": "factura",
         "pt": "conta",

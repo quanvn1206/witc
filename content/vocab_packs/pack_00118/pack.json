@@ -14,7 +14,7 @@
       "id": "pack_00118_0001",
       "word": "capital",
       "hint": null,
-      "phonetic": "/kˈæpɪɾəl/",
+      "phonetic": "/ˈkæpətəl/",
       "meanings": {
         "es": "capital",
         "pt": "capital",
@@ -40,7 +40,7 @@
       "id": "pack_00118_0002",
       "word": "downtown",
       "hint": null,
-      "phonetic": "/dˈaʊntaʊn/",
+      "phonetic": "/ˈdaʊntaʊn/",
       "meanings": {
         "es": "centro",
         "pt": "centro da cidade",
@@ -66,7 +66,7 @@
       "id": "pack_00118_0003",
       "word": "suburb",
       "hint": null,
-      "phonetic": "/sˈʌbɜːb/",
+      "phonetic": "/ˈsʌbərb/",
       "meanings": {
         "es": "suburbio",
         "pt": "subúrbio",
@@ -92,7 +92,7 @@
       "id": "pack_00118_0004",
       "word": "avenue",
       "hint": null,
-      "phonetic": "/ˈævənˌuː/",
+      "phonetic": "/ˈævənu/",
       "meanings": {
         "es": "avenida",
         "pt": "avenida",
@@ -118,7 +118,7 @@
       "id": "pack_00118_0005",
       "word": "district",
       "hint": null,
-      "phonetic": "/dˈɪstɹɪkt/",
+      "phonetic": "/ˈdɪstrɪkt/",
       "meanings": {
         "es": "distrito",
         "pt": "distrito",
@@ -144,7 +144,7 @@
       "id": "pack_00118_0006",
       "word": "skyline",
       "hint": null,
-      "phonetic": "/skˈaɪlaɪn/",
+      "phonetic": "/ˈskaɪlaɪn/",
       "meanings": {
         "es": "horizonte",
         "pt": "horizonte",
@@ -196,7 +196,7 @@
       "id": "pack_00118_0008",
       "word": "landmark",
       "hint": null,
-      "phonetic": "/lˈændmɑːɹk/",
+      "phonetic": "/ˈlændmɑrk/",
       "meanings": {
         "es": "marca",
         "pt": "marco",
@@ -222,7 +222,7 @@
       "id": "pack_00118_0009",
       "word": "harbor",
       "hint": null,
-      "phonetic": "/hˈɑːɹbɚ/",
+      "phonetic": "/ˈhɑrbər/",
       "meanings": {
         "es": "puerto",
         "pt": "porto",
@@ -248,7 +248,7 @@
       "id": "pack_00118_0010",
       "word": "boulevard",
       "hint": null,
-      "phonetic": "/bˈuːlɪvˌɑːɹd/",
+      "phonetic": "/ˈbʊləvɑrd/",
       "meanings": {
         "es": "bulevar",
         "pt": "avenida",

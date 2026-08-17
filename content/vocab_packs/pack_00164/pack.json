@@ -14,7 +14,7 @@
       "id": "pack_00164_0001",
       "word": "cake",
       "hint": null,
-      "phonetic": "/kˈeɪk/",
+      "phonetic": "/keɪk/",
       "meanings": {
         "es": "pastel",
         "pt": "bolo",
@@ -40,7 +40,7 @@
       "id": "pack_00164_0002",
       "word": "make",
       "hint": null,
-      "phonetic": "/mˈeɪk/",
+      "phonetic": "/meɪk/",
       "meanings": {
         "es": "hacer",
         "pt": "fazer",
@@ -66,7 +66,7 @@
       "id": "pack_00164_0003",
       "word": "take",
       "hint": null,
-      "phonetic": "/tˈeɪk/",
+      "phonetic": "/teɪk/",
       "meanings": {
         "es": "llevar",
         "pt": "pegar",
@@ -92,7 +92,7 @@
       "id": "pack_00164_0004",
       "word": "bake",
       "hint": null,
-      "phonetic": "/bˈeɪk/",
+      "phonetic": "/beɪk/",
       "meanings": {
         "es": "hornear",
         "pt": "assar",
@@ -118,7 +118,7 @@
       "id": "pack_00164_0005",
       "word": "wake",
       "hint": null,
-      "phonetic": "/wˈeɪk/",
+      "phonetic": "/weɪk/",
       "meanings": {
         "es": "despertar",
         "pt": "acordar",
@@ -144,7 +144,7 @@
       "id": "pack_00164_0006",
       "word": "shake",
       "hint": null,
-      "phonetic": "/ʃˈeɪk/",
+      "phonetic": "/ʃeɪk/",
       "meanings": {
         "es": "agitar",
         "pt": "sacudir",
@@ -170,7 +170,7 @@
       "id": "pack_00164_0007",
       "word": "snake",
       "hint": null,
-      "phonetic": "/snˈeɪk/",
+      "phonetic": "/sneɪk/",
       "meanings": {
         "es": "serpiente",
         "pt": "cobra",
@@ -196,7 +196,7 @@
       "id": "pack_00164_0008",
       "word": "brake",
       "hint": null,
-      "phonetic": "/bɹˈeɪk/",
+      "phonetic": "/breɪk/",
       "meanings": {
         "es": "freno",
         "pt": "freio",
@@ -222,7 +222,7 @@
       "id": "pack_00164_0009",
       "word": "mistake",
       "hint": null,
-      "phonetic": "/mɪstˈeɪk/",
+      "phonetic": "/mɪˈsteɪk/",
       "meanings": {
         "es": "error",
         "pt": "erro",
@@ -248,7 +248,7 @@
       "id": "pack_00164_0010",
       "word": "earthquake",
       "hint": null,
-      "phonetic": "/ˈɜːθkweɪk/",
+      "phonetic": "/ˈɜrθkweɪk/",
       "meanings": {
         "es": "terremoto",
         "pt": "terremoto",

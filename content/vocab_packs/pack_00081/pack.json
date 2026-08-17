@@ -14,7 +14,7 @@
       "id": "pack_00081_0001",
       "word": "football",
       "hint": null,
-      "phonetic": "/fˈʊtbɔːl/",
+      "phonetic": "/ˈfʊtbɔl/",
       "meanings": {
         "es": "fútbol americano",
         "pt": "futebol",
@@ -40,7 +40,7 @@
       "id": "pack_00081_0002",
       "word": "basketball",
       "hint": null,
-      "phonetic": "/bˈæskɪtbˌɔːl/",
+      "phonetic": "/ˈbæskətbɔl/",
       "meanings": {
         "es": "baloncesto",
         "pt": "basquetebol",
@@ -66,7 +66,7 @@
       "id": "pack_00081_0003",
       "word": "tennis",
       "hint": null,
-      "phonetic": "/tˈɛnɪs/",
+      "phonetic": "/ˈtɛnəs/",
       "meanings": {
         "es": "tenis",
         "pt": "tênis",
@@ -92,7 +92,7 @@
       "id": "pack_00081_0004",
       "word": "volleyball",
       "hint": null,
-      "phonetic": "/vˈɑːlɪbˌɔːl/",
+      "phonetic": "/ˈvɑlibɔl/",
       "meanings": {
         "es": "voleibol",
         "pt": "voleibol",
@@ -118,7 +118,7 @@
       "id": "pack_00081_0005",
       "word": "swimming",
       "hint": null,
-      "phonetic": "/swˈɪmɪŋ/",
+      "phonetic": "/ˈswɪmɪŋ/",
       "meanings": {
         "es": "nadar",
         "pt": "natação",
@@ -144,7 +144,7 @@
       "id": "pack_00081_0006",
       "word": "running",
       "hint": null,
-      "phonetic": "/ɹˈʌnɪŋ/",
+      "phonetic": "/ˈrʌnɪŋ/",
       "meanings": {
         "es": "correr",
         "pt": "correndo",
@@ -170,7 +170,7 @@
       "id": "pack_00081_0007",
       "word": "cycling",
       "hint": null,
-      "phonetic": "/sˈaɪklɪŋ/",
+      "phonetic": "/ˈsaɪkəlɪŋ/",
       "meanings": {
         "es": "ciclismo",
         "pt": "ciclismo",
@@ -196,7 +196,7 @@
       "id": "pack_00081_0008",
       "word": "badminton",
       "hint": null,
-      "phonetic": "/bˈædmɪntən/",
+      "phonetic": "/ˈbædmɪntən/",
       "meanings": {
         "es": "bádminton",
         "pt": "badminton",
@@ -222,7 +222,7 @@
       "id": "pack_00081_0009",
       "word": "baseball",
       "hint": null,
-      "phonetic": "/bˈeɪsbɔːl/",
+      "phonetic": "/ˈbeɪsbɔl/",
       "meanings": {
         "es": "béisbol",
         "pt": "beisebol",
@@ -248,7 +248,7 @@
       "id": "pack_00081_0010",
       "word": "golf",
       "hint": null,
-      "phonetic": "/ɡˈɑːlf/",
+      "phonetic": "/ɡɑlf/",
       "meanings": {
         "es": "golf",
         "pt": "golfe",

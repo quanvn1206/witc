@@ -14,7 +14,7 @@
       "id": "pack_00016_0001",
       "word": "smiling",
       "hint": null,
-      "phonetic": "/smˈaɪlɪŋ/",
+      "phonetic": "/ˈsmaɪlɪŋ/",
       "meanings": {
         "es": "sonriente",
         "pt": "sorrindo",
@@ -40,7 +40,7 @@
       "id": "pack_00016_0002",
       "word": "crying",
       "hint": null,
-      "phonetic": "/kɹˈaɪɪŋ/",
+      "phonetic": "/ˈkraɪɪŋ/",
       "meanings": {
         "es": "llanto",
         "pt": "choro",
@@ -66,7 +66,7 @@
       "id": "pack_00016_0003",
       "word": "laughing",
       "hint": null,
-      "phonetic": "/lˈæfɪŋ/",
+      "phonetic": "/ˈlæfɪŋ/",
       "meanings": {
         "es": "reír",
         "pt": "rindo",
@@ -92,7 +92,7 @@
       "id": "pack_00016_0004",
       "word": "frowning",
       "hint": null,
-      "phonetic": "/fɹˈaʊnɪŋ/",
+      "phonetic": "/ˈfraʊnɪŋ/",
       "meanings": {
         "es": "ceñudo",
         "pt": "carrancudo",
@@ -118,7 +118,7 @@
       "id": "pack_00016_0005",
       "word": "yawning",
       "hint": null,
-      "phonetic": "/jˈɔːnɪŋ/",
+      "phonetic": "/ˈjɔnɪŋ/",
       "meanings": {
         "es": "bostezando",
         "pt": "bocejando",
@@ -144,7 +144,7 @@
       "id": "pack_00016_0006",
       "word": "blushing",
       "hint": null,
-      "phonetic": "/blˈʌʃɪŋ/",
+      "phonetic": "/ˈblʌʃɪŋ/",
       "meanings": {
         "es": "rubor",
         "pt": "rubor",
@@ -170,7 +170,7 @@
       "id": "pack_00016_0007",
       "word": "winking",
       "hint": null,
-      "phonetic": "/wˈɪŋkɪŋ/",
+      "phonetic": "/ˈwɪŋkɪŋ/",
       "meanings": {
         "es": "parpadeo",
         "pt": "piscando",
@@ -196,7 +196,7 @@
       "id": "pack_00016_0008",
       "word": "pouting",
       "hint": null,
-      "phonetic": "/pˈaʊɾɪŋ/",
+      "phonetic": "/ˈpaʊtɪŋ/",
       "meanings": {
         "es": "haciendo pucheros",
         "pt": "fazendo beicinho",
@@ -222,7 +222,7 @@
       "id": "pack_00016_0009",
       "word": "gasping",
       "hint": null,
-      "phonetic": "/ɡˈæspɪŋ/",
+      "phonetic": "/ˈɡæspɪŋ/",
       "meanings": {
         "es": "jadeando",
         "pt": "ofegante",
@@ -248,7 +248,7 @@
       "id": "pack_00016_0010",
       "word": "grinning",
       "hint": null,
-      "phonetic": "/ɡɹˈɪnɪŋ/",
+      "phonetic": "/ˈɡrɪnɪŋ/",
       "meanings": {
         "es": "sonriendo",
         "pt": "sorrindo",

@@ -14,7 +14,7 @@
       "id": "pack_00056_0001",
       "word": "traffic light",
       "hint": null,
-      "phonetic": "/tɹˈæfɪk lˈaɪt/",
+      "phonetic": "/ˈtræfɪk laɪt/",
       "meanings": {
         "es": "semáforo",
         "pt": "semáforo",
@@ -40,7 +40,7 @@
       "id": "pack_00056_0002",
       "word": "crossroads",
       "hint": null,
-      "phonetic": "/kɹˈɔsɹoʊdz/",
+      "phonetic": "/ˈkrɔsroʊdz/",
       "meanings": {
         "es": "encrucijada",
         "pt": "encruzilhada",
@@ -66,7 +66,7 @@
       "id": "pack_00056_0003",
       "word": "bridge",
       "hint": null,
-      "phonetic": "/bɹˈɪdʒ/",
+      "phonetic": "/brɪdʒ/",
       "meanings": {
         "es": "puente",
         "pt": "ponte",
@@ -92,7 +92,7 @@
       "id": "pack_00056_0004",
       "word": "tunnel",
       "hint": null,
-      "phonetic": "/tˈʌnəl/",
+      "phonetic": "/ˈtʌnəl/",
       "meanings": {
         "es": "túnel",
         "pt": "túnel",
@@ -118,7 +118,7 @@
       "id": "pack_00056_0005",
       "word": "highway",
       "hint": null,
-      "phonetic": "/hˈaɪweɪ/",
+      "phonetic": "/ˈhaɪweɪ/",
       "meanings": {
         "es": "carretera",
         "pt": "autoestrada",
@@ -144,7 +144,7 @@
       "id": "pack_00056_0006",
       "word": "sidewalk",
       "hint": null,
-      "phonetic": "/sˈaɪdwɔːk/",
+      "phonetic": "/ˈsaɪdwɔk/",
       "meanings": {
         "es": "acera",
         "pt": "calçada",
@@ -170,7 +170,7 @@
       "id": "pack_00056_0007",
       "word": "parking lot",
       "hint": null,
-      "phonetic": "/pˈɑːɹkɪŋ lˈɑːt/",
+      "phonetic": "/ˈpɑrkɪŋ lɑt/",
       "meanings": {
         "es": "estacionamiento",
         "pt": "estacionamento",
@@ -196,7 +196,7 @@
       "id": "pack_00056_0008",
       "word": "speed limit",
       "hint": null,
-      "phonetic": "/spˈiːd lˈɪmɪt/",
+      "phonetic": "/spid ˈlɪmət/",
       "meanings": {
         "es": "Límite de velocidad",
         "pt": "limite de velocidade",
@@ -222,7 +222,7 @@
       "id": "pack_00056_0009",
       "word": "traffic jam",
       "hint": null,
-      "phonetic": "/tɹˈæfɪk dʒˈæm/",
+      "phonetic": "/ˈtræfɪk dʒæm/",
       "meanings": {
         "es": "atasco de tráfico",
         "pt": "engarrafamento",
@@ -248,7 +248,7 @@
       "id": "pack_00056_0010",
       "word": "roundabout",
       "hint": null,
-      "phonetic": "/ɹˈaʊndɐbˌaʊt/",
+      "phonetic": "/ˈraʊndəbaʊt/",
       "meanings": {
         "es": "rotonda",
         "pt": "rotunda",

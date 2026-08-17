@@ -14,7 +14,7 @@
       "id": "pack_00131_0001",
       "word": "doctor",
       "hint": null,
-      "phonetic": "/dˈɑːktɚ/",
+      "phonetic": "/ˈdɑktər/",
       "meanings": {
         "es": "doctor",
         "pt": "doutor",
@@ -40,7 +40,7 @@
       "id": "pack_00131_0002",
       "word": "nurse",
       "hint": null,
-      "phonetic": "/nˈɜːs/",
+      "phonetic": "/nɜrs/",
       "meanings": {
         "es": "enfermero",
         "pt": "enfermeira",
@@ -66,7 +66,7 @@
       "id": "pack_00131_0003",
       "word": "patient",
       "hint": null,
-      "phonetic": "/pˈeɪʃənt/",
+      "phonetic": "/ˈpeɪʃənt/",
       "meanings": {
         "es": "paciente",
         "pt": "paciente",
@@ -92,7 +92,7 @@
       "id": "pack_00131_0004",
       "word": "hospital",
       "hint": null,
-      "phonetic": "/hˈɑːspɪɾəl/",
+      "phonetic": "/ˈhɑspɪtəl/",
       "meanings": {
         "es": "hospital",
         "pt": "hospital",
@@ -118,7 +118,7 @@
       "id": "pack_00131_0005",
       "word": "clinic",
       "hint": null,
-      "phonetic": "/klˈɪnɪk/",
+      "phonetic": "/ˈklɪnɪk/",
       "meanings": {
         "es": "clínica",
         "pt": "clínica",
@@ -144,7 +144,7 @@
       "id": "pack_00131_0006",
       "word": "medicine",
       "hint": null,
-      "phonetic": "/mˈɛdəsən/",
+      "phonetic": "/ˈmɛdəsən/",
       "meanings": {
         "es": "medicamento",
         "pt": "medicamento",
@@ -170,7 +170,7 @@
       "id": "pack_00131_0007",
       "word": "pill",
       "hint": null,
-      "phonetic": "/pˈɪl/",
+      "phonetic": "/pɪl/",
       "meanings": {
         "es": "píldora",
         "pt": "pílula",
@@ -196,7 +196,7 @@
       "id": "pack_00131_0008",
       "word": "bandage",
       "hint": null,
-      "phonetic": "/bˈændɪdʒ/",
+      "phonetic": "/ˈbændɪdʒ/",
       "meanings": {
         "es": "vendaje",
         "pt": "curativo",
@@ -222,7 +222,7 @@
       "id": "pack_00131_0009",
       "word": "thermometer",
       "hint": null,
-      "phonetic": "/θɜːmˈɑːmɪɾɚ/",
+      "phonetic": "/θərˈmɑmətər/",
       "meanings": {
         "es": "termómetro",
         "pt": "termômetro",
@@ -248,7 +248,7 @@
       "id": "pack_00131_0010",
       "word": "ambulance",
       "hint": null,
-      "phonetic": "/ˈæmbjʊləns/",
+      "phonetic": "/ˈæmbjələns/",
       "meanings": {
         "es": "ambulancia",
         "pt": "ambulância",

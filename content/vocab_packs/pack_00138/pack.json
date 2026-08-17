@@ -14,7 +14,7 @@
       "id": "pack_00138_0001",
       "word": "intersection",
       "hint": null,
-      "phonetic": "/ˌɪntɚsˈɛkʃən/",
+      "phonetic": "/ˌɪntərˈsɛkʃən/",
       "meanings": {
         "es": "intersección",
         "pt": "interseção",
@@ -40,7 +40,7 @@
       "id": "pack_00138_0002",
       "word": "highway",
       "hint": null,
-      "phonetic": "/hˈaɪweɪ/",
+      "phonetic": "/ˈhaɪweɪ/",
       "meanings": {
         "es": "carretera",
         "pt": "autoestrada",
@@ -66,7 +66,7 @@
       "id": "pack_00138_0003",
       "word": "roundabout",
       "hint": null,
-      "phonetic": "/ɹˈaʊndɐbˌaʊt/",
+      "phonetic": "/ˈraʊndəbaʊt/",
       "meanings": {
         "es": "rotonda",
         "pt": "rotunda",
@@ -92,7 +92,7 @@
       "id": "pack_00138_0004",
       "word": "tunnel",
       "hint": null,
-      "phonetic": "/tˈʌnəl/",
+      "phonetic": "/ˈtʌnəl/",
       "meanings": {
         "es": "túnel",
         "pt": "túnel",
@@ -118,7 +118,7 @@
       "id": "pack_00138_0005",
       "word": "pedestrian",
       "hint": null,
-      "phonetic": "/pədˈɛstɹiən/",
+      "phonetic": "/pəˈdɛstriən/",
       "meanings": {
         "es": "peatonal",
         "pt": "pedestre",
@@ -144,7 +144,7 @@
       "id": "pack_00138_0006",
       "word": "traffic jam",
       "hint": null,
-      "phonetic": "/tɹˈæfɪk dʒˈæm/",
+      "phonetic": "/ˈtræfɪk dʒæm/",
       "meanings": {
         "es": "atasco de tráfico",
         "pt": "engarrafamento",
@@ -170,7 +170,7 @@
       "id": "pack_00138_0007",
       "word": "speed limit",
       "hint": null,
-      "phonetic": "/spˈiːd lˈɪmɪt/",
+      "phonetic": "/spid ˈlɪmət/",
       "meanings": {
         "es": "Límite de velocidad",
         "pt": "limite de velocidade",
@@ -196,7 +196,7 @@
       "id": "pack_00138_0008",
       "word": "parking lot",
       "hint": null,
-      "phonetic": "/pˈɑːɹkɪŋ lˈɑːt/",
+      "phonetic": "/ˈpɑrkɪŋ lɑt/",
       "meanings": {
         "es": "estacionamiento",
         "pt": "estacionamento",
@@ -222,7 +222,7 @@
       "id": "pack_00138_0009",
       "word": "lane",
       "hint": null,
-      "phonetic": "/lˈeɪn/",
+      "phonetic": "/leɪn/",
       "meanings": {
         "es": "carril",
         "pt": "faixa",
@@ -248,7 +248,7 @@
       "id": "pack_00138_0010",
       "word": "direction",
       "hint": null,
-      "phonetic": "/dᵻɹˈɛkʃən/",
+      "phonetic": "/dəˈrɛkʃən/",
       "meanings": {
         "es": "dirección",
         "pt": "direção",

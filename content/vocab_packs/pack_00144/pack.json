@@ -14,7 +14,7 @@
       "id": "pack_00144_0001",
       "word": "blueprint",
       "hint": null,
-      "phonetic": "/blˈuːpɹɪnt/",
+      "phonetic": "/ˈbluprɪnt/",
       "meanings": {
         "es": "cianotipo",
         "pt": "planta",
@@ -40,7 +40,7 @@
       "id": "pack_00144_0002",
       "word": "scaffold",
       "hint": null,
-      "phonetic": "/skˈæfoʊld/",
+      "phonetic": "/ˈskæfəld/",
       "meanings": {
         "es": "andamio",
         "pt": "andaime",
@@ -66,7 +66,7 @@
       "id": "pack_00144_0003",
       "word": "foundation",
       "hint": null,
-      "phonetic": "/faʊndˈeɪʃən/",
+      "phonetic": "/faʊnˈdeɪʃən/",
       "meanings": {
         "es": "base",
         "pt": "fundação",
@@ -92,7 +92,7 @@
       "id": "pack_00144_0004",
       "word": "roof",
       "hint": null,
-      "phonetic": "/ɹˈuːf/",
+      "phonetic": "/ruf/",
       "meanings": {
         "es": "techo",
         "pt": "teto",
@@ -118,7 +118,7 @@
       "id": "pack_00144_0005",
       "word": "beam",
       "hint": null,
-      "phonetic": "/bˈiːm/",
+      "phonetic": "/bim/",
       "meanings": {
         "es": "haz",
         "pt": "feixe",
@@ -144,7 +144,7 @@
       "id": "pack_00144_0006",
       "word": "column",
       "hint": null,
-      "phonetic": "/kˈɑːlʌm/",
+      "phonetic": "/ˈkɑləm/",
       "meanings": {
         "es": "columna",
         "pt": "coluna",
@@ -170,7 +170,7 @@
       "id": "pack_00144_0007",
       "word": "electrician",
       "hint": null,
-      "phonetic": "/ᵻlɛktɹˈɪʃən/",
+      "phonetic": "/ɪlɛkˈtrɪʃən/",
       "meanings": {
         "es": "electricista",
         "pt": "eletricista",
@@ -196,7 +196,7 @@
       "id": "pack_00144_0008",
       "word": "plumber",
       "hint": null,
-      "phonetic": "/plˈʌmɚ/",
+      "phonetic": "/ˈplʌmər/",
       "meanings": {
         "es": "plomero",
         "pt": "encanador",
@@ -222,7 +222,7 @@
       "id": "pack_00144_0009",
       "word": "carpenter",
       "hint": null,
-      "phonetic": "/kˈɑːɹpəntɚ/",
+      "phonetic": "/ˈkɑrpəntər/",
       "meanings": {
         "es": "carpintero",
         "pt": "carpinteiro",
@@ -248,7 +248,7 @@
       "id": "pack_00144_0010",
       "word": "contractor",
       "hint": null,
-      "phonetic": "/kəntɹˈæktɚ/",
+      "phonetic": "/ˈkɑntræktər/",
       "meanings": {
         "es": "contratista",
         "pt": "contratante",

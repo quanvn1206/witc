@@ -14,7 +14,7 @@
       "id": "pack_00050_0001",
       "word": "spring",
       "hint": null,
-      "phonetic": "/spɹˈɪŋ/",
+      "phonetic": "/sprɪŋ/",
       "meanings": {
         "es": "primavera",
         "pt": "primavera",
@@ -40,7 +40,7 @@
       "id": "pack_00050_0002",
       "word": "summer",
       "hint": null,
-      "phonetic": "/sˈʌmɚ/",
+      "phonetic": "/ˈsʌmər/",
       "meanings": {
         "es": "verano",
         "pt": "verão",
@@ -66,7 +66,7 @@
       "id": "pack_00050_0003",
       "word": "autumn",
       "hint": null,
-      "phonetic": "/ˈɔːɾʌm/",
+      "phonetic": "/ˈɔtəm/",
       "meanings": {
         "es": "otoño",
         "pt": "outono",
@@ -92,7 +92,7 @@
       "id": "pack_00050_0004",
       "word": "winter",
       "hint": null,
-      "phonetic": "/wˈɪntɚ/",
+      "phonetic": "/ˈwɪntər/",
       "meanings": {
         "es": "invierno",
         "pt": "inverno",
@@ -118,7 +118,7 @@
       "id": "pack_00050_0005",
       "word": "season",
       "hint": null,
-      "phonetic": "/sˈiːzən/",
+      "phonetic": "/ˈsizən/",
       "meanings": {
         "es": "estación",
         "pt": "temporada",
@@ -144,7 +144,7 @@
       "id": "pack_00050_0006",
       "word": "sunshine",
       "hint": null,
-      "phonetic": "/sˈʌnʃaɪn/",
+      "phonetic": "/ˈsʌnʃaɪn/",
       "meanings": {
         "es": "luz solar",
         "pt": "luz do sol",
@@ -170,7 +170,7 @@
       "id": "pack_00050_0007",
       "word": "rainfall",
       "hint": null,
-      "phonetic": "/ɹˈeɪnfɔːl/",
+      "phonetic": "/ˈreɪnfɔl/",
       "meanings": {
         "es": "lluvia",
         "pt": "chuva",
@@ -196,7 +196,7 @@
       "id": "pack_00050_0008",
       "word": "temperature",
       "hint": null,
-      "phonetic": "/tˈɛmpɹɪtʃɚ/",
+      "phonetic": "/ˈtɛmprətʃər/",
       "meanings": {
         "es": "temperatura",
         "pt": "temperatura",
@@ -222,7 +222,7 @@
       "id": "pack_00050_0009",
       "word": "breeze",
       "hint": null,
-      "phonetic": "/bɹˈiːz/",
+      "phonetic": "/briz/",
       "meanings": {
         "es": "brisa",
         "pt": "brisa",
@@ -248,7 +248,7 @@
       "id": "pack_00050_0010",
       "word": "climate",
       "hint": null,
-      "phonetic": "/klˈaɪmət/",
+      "phonetic": "/ˈklaɪmət/",
       "meanings": {
         "es": "clima",
         "pt": "clima",

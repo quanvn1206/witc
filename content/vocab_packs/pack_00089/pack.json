@@ -14,7 +14,7 @@
       "id": "pack_00089_0001",
       "word": "console",
       "hint": null,
-      "phonetic": "/kˈɑːnsoʊl/",
+      "phonetic": "/ˈkɑnsoʊl/",
       "meanings": {
         "es": "consola",
         "pt": "console",
@@ -40,7 +40,7 @@
       "id": "pack_00089_0002",
       "word": "controller",
       "hint": null,
-      "phonetic": "/kəntɹˈoʊlɚ/",
+      "phonetic": "/kənˈtroʊlər/",
       "meanings": {
         "es": "controlador",
         "pt": "controlador",
@@ -66,7 +66,7 @@
       "id": "pack_00089_0003",
       "word": "multiplayer",
       "hint": null,
-      "phonetic": "/mˌʌltɪplˈeɪɚ/",
+      "phonetic": "/ˈmʌltipleɪər/",
       "meanings": {
         "es": "multijugador",
         "pt": "multijogador",
@@ -92,7 +92,7 @@
       "id": "pack_00089_0004",
       "word": "mission",
       "hint": null,
-      "phonetic": "/mˈɪʃən/",
+      "phonetic": "/ˈmɪʃən/",
       "meanings": {
         "es": "misión",
         "pt": "missão",
@@ -118,7 +118,7 @@
       "id": "pack_00089_0005",
       "word": "level",
       "hint": null,
-      "phonetic": "/lˈɛvəl/",
+      "phonetic": "/ˈlɛvəl/",
       "meanings": {
         "es": "nivel",
         "pt": "nível",
@@ -144,7 +144,7 @@
       "id": "pack_00089_0006",
       "word": "character",
       "hint": null,
-      "phonetic": "/kˈæɹɪktɚ/",
+      "phonetic": "/ˈkɛrɪktər/",
       "meanings": {
         "es": "personaje",
         "pt": "personagem",
@@ -170,7 +170,7 @@
       "id": "pack_00089_0007",
       "word": "adventure",
       "hint": null,
-      "phonetic": "/ɐdvˈɛntʃɚ/",
+      "phonetic": "/ædˈvɛntʃər/",
       "meanings": {
         "es": "aventura",
         "pt": "aventura",
@@ -196,7 +196,7 @@
       "id": "pack_00089_0008",
       "word": "strategy",
       "hint": null,
-      "phonetic": "/stɹˈæɾədʒi/",
+      "phonetic": "/ˈstrætədʒi/",
       "meanings": {
         "es": "estrategia",
         "pt": "estratégia",
@@ -222,7 +222,7 @@
       "id": "pack_00089_0009",
       "word": "inventory",
       "hint": null,
-      "phonetic": "/ˈɪnvəntˌɔːɹi/",
+      "phonetic": "/ˌɪnvənˈtɔri/",
       "meanings": {
         "es": "inventario",
         "pt": "inventário",
@@ -248,7 +248,7 @@
       "id": "pack_00089_0010",
       "word": "achievement",
       "hint": null,
-      "phonetic": "/ɐtʃˈiːvmənt/",
+      "phonetic": "/əˈtʃivmənt/",
       "meanings": {
         "es": "logro",
         "pt": "conquista",

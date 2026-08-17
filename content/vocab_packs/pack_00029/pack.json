@@ -14,7 +14,7 @@
       "id": "pack_00029_0001",
       "word": "broom",
       "hint": null,
-      "phonetic": "/bɹˈuːm/",
+      "phonetic": "/brum/",
       "meanings": {
         "es": "escoba",
         "pt": "vassoura",
@@ -40,7 +40,7 @@
       "id": "pack_00029_0002",
       "word": "mop",
       "hint": null,
-      "phonetic": "/mˈɑːp/",
+      "phonetic": "/mɑp/",
       "meanings": {
         "es": "fregar",
         "pt": "esfregar",
@@ -66,7 +66,7 @@
       "id": "pack_00029_0003",
       "word": "bucket",
       "hint": null,
-      "phonetic": "/bˈʌkɪt/",
+      "phonetic": "/ˈbʌkət/",
       "meanings": {
         "es": "balde",
         "pt": "balde",
@@ -92,7 +92,7 @@
       "id": "pack_00029_0004",
       "word": "sponge",
       "hint": null,
-      "phonetic": "/spˈʌndʒ/",
+      "phonetic": "/spʌndʒ/",
       "meanings": {
         "es": "esponja",
         "pt": "esponja",
@@ -118,7 +118,7 @@
       "id": "pack_00029_0005",
       "word": "brush",
       "hint": null,
-      "phonetic": "/bɹˈʌʃ/",
+      "phonetic": "/brʌʃ/",
       "meanings": {
         "es": "cepillar",
         "pt": "escovar",
@@ -144,7 +144,7 @@
       "id": "pack_00029_0006",
       "word": "dustpan",
       "hint": null,
-      "phonetic": "/dˈʌstpæn/",
+      "phonetic": "/ˈdʌstpæn/",
       "meanings": {
         "es": "recogedor",
         "pt": "pá de lixo",
@@ -170,7 +170,7 @@
       "id": "pack_00029_0007",
       "word": "vacuum cleaner",
       "hint": null,
-      "phonetic": "/vˈækjuːm klˈiːnɚ/",
+      "phonetic": "/ˈvækjum ˈklinər/",
       "meanings": {
         "es": "aspiradora",
         "pt": "aspirador de pó",
@@ -196,7 +196,7 @@
       "id": "pack_00029_0008",
       "word": "cloth",
       "hint": null,
-      "phonetic": "/klˈɔθ/",
+      "phonetic": "/klɔθ/",
       "meanings": {
         "es": "paño",
         "pt": "pano",
@@ -222,7 +222,7 @@
       "id": "pack_00029_0009",
       "word": "gloves",
       "hint": null,
-      "phonetic": "/ɡlˈʌvz/",
+      "phonetic": "/ɡlʌvz/",
       "meanings": {
         "es": "guantes",
         "pt": "luvas",
@@ -248,7 +248,7 @@
       "id": "pack_00029_0010",
       "word": "spray bottle",
       "hint": null,
-      "phonetic": "/spɹˈeɪ bˈɑːɾəl/",
+      "phonetic": "/spreɪ ˈbɑtəl/",
       "meanings": {
         "es": "botella de spray",
         "pt": "frasco de spray",

@@ -14,7 +14,7 @@
       "id": "pack_00140_0001",
       "word": "infrastructure",
       "hint": null,
-      "phonetic": "/ˈɪnfɹəstɹˌʌktʃɚ/",
+      "phonetic": "/ˌɪnfrəˈstrʌktʃər/",
       "meanings": {
         "es": "infraestructura",
         "pt": "infraestrutura",
@@ -40,7 +40,7 @@
       "id": "pack_00140_0002",
       "word": "urbanization",
       "hint": null,
-      "phonetic": "/ˌɜːbɐnᵻzˈeɪʃən/",
+      "phonetic": "/ˌɜrbənəˈzeɪʃən/",
       "meanings": {
         "es": "urbanización",
         "pt": "urbanização",
@@ -66,7 +66,7 @@
       "id": "pack_00140_0003",
       "word": "municipality",
       "hint": null,
-      "phonetic": "/mjuːnˈɪsɪpˈælᵻɾi/",
+      "phonetic": "/ˌmjunɪsəˈpæləti/",
       "meanings": {
         "es": "municipio",
         "pt": "município",
@@ -92,7 +92,7 @@
       "id": "pack_00140_0004",
       "word": "residential area",
       "hint": null,
-      "phonetic": "/ɹˌɛzᵻdˈɛnʃəl ˈɛɹiə/",
+      "phonetic": "/ˌrɛzɪˈdɛnʃəl ˈɛriə/",
       "meanings": {
         "es": "Barrio residencial",
         "pt": "Área residencial",
@@ -118,7 +118,7 @@
       "id": "pack_00140_0005",
       "word": "commercial district",
       "hint": null,
-      "phonetic": "/kəmˈɜːʃəl dˈɪstɹɪkt/",
+      "phonetic": "/kəˈmɜrʃəl ˈdɪstrɪkt/",
       "meanings": {
         "es": "distrito comercial",
         "pt": "distrito comercial",
@@ -144,7 +144,7 @@
       "id": "pack_00140_0006",
       "word": "transportation network",
       "hint": null,
-      "phonetic": "/tɹænspɔːɹtˈeɪʃən nˈɛtwɜːk/",
+      "phonetic": "/ˌtrænspərˈteɪʃən ˈnɛtwɜrk/",
       "meanings": {
         "es": "red de transporte",
         "pt": "rede de transporte",
@@ -170,7 +170,7 @@
       "id": "pack_00140_0007",
       "word": "city planning",
       "hint": null,
-      "phonetic": "/sˈɪɾi plˈænɪŋ/",
+      "phonetic": "/ˈsɪti ˈplænɪŋ/",
       "meanings": {
         "es": "planificación urbana",
         "pt": "planejamento urbano",
@@ -196,7 +196,7 @@
       "id": "pack_00140_0008",
       "word": "sustainability",
       "hint": null,
-      "phonetic": "/səstˌeɪnəbˈɪlᵻɾi/",
+      "phonetic": "/səˌsteɪnəˈbɪlɪti/",
       "meanings": {
         "es": "sostenibilidad",
         "pt": "sustentabilidade",
@@ -222,7 +222,7 @@
       "id": "pack_00140_0009",
       "word": "accessibility",
       "hint": null,
-      "phonetic": "/æksˌɛsəbˈɪlᵻɾi/",
+      "phonetic": "/ˌæksɛsəˈbɪlɪti/",
       "meanings": {
         "es": "accesibilidad",
         "pt": "acessibilidade",
@@ -248,7 +248,7 @@
       "id": "pack_00140_0010",
       "word": "population density",
       "hint": null,
-      "phonetic": "/pˌɑːpjʊlˈeɪʃən dˈɛnsᵻɾi/",
+      "phonetic": "/ˌpɑpjəˈleɪʃən ˈdɛnsəti/",
       "meanings": {
         "es": "densidad de población",
         "pt": "densidade populacional",

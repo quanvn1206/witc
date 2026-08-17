@@ -14,7 +14,7 @@
       "id": "pack_00074_0001",
       "word": "software",
       "hint": null,
-      "phonetic": "/sˈɔftwɛɹ/",
+      "phonetic": "/ˈsɔftwɛr/",
       "meanings": {
         "es": "software",
         "pt": "programas",
@@ -40,7 +40,7 @@
       "id": "pack_00074_0002",
       "word": "hardware",
       "hint": null,
-      "phonetic": "/hˈɑːɹdwɛɹ/",
+      "phonetic": "/ˈhɑrdwɛr/",
       "meanings": {
         "es": "hardware",
         "pt": "hardware",
@@ -66,7 +66,7 @@
       "id": "pack_00074_0003",
       "word": "database",
       "hint": null,
-      "phonetic": "/dˈeɪɾəbˌeɪs/",
+      "phonetic": "/ˈdeɪtəbeɪs/",
       "meanings": {
         "es": "base de datos",
         "pt": "banco de dados",
@@ -92,7 +92,7 @@
       "id": "pack_00074_0004",
       "word": "server",
       "hint": null,
-      "phonetic": "/sˈɜːvɚ/",
+      "phonetic": "/ˈsɜrvər/",
       "meanings": {
         "es": "servidor",
         "pt": "servidor",
@@ -118,7 +118,7 @@
       "id": "pack_00074_0005",
       "word": "processor",
       "hint": null,
-      "phonetic": "/pɹˈɑːsɛsɚ/",
+      "phonetic": "/ˈprɑsɛsər/",
       "meanings": {
         "es": "procesador",
         "pt": "processador",
@@ -144,7 +144,7 @@
       "id": "pack_00074_0006",
       "word": "memory",
       "hint": null,
-      "phonetic": "/mˈɛmɚɹi/",
+      "phonetic": "/ˈmɛməri/",
       "meanings": {
         "es": "memoria",
         "pt": "memória",
@@ -170,7 +170,7 @@
       "id": "pack_00074_0007",
       "word": "operating system",
       "hint": null,
-      "phonetic": "/ˈɑːpɚɹˌeɪɾɪŋ sˈɪstəm/",
+      "phonetic": "/ˈɑpəreɪtɪŋ ˈsɪstəm/",
       "meanings": {
         "es": "Sistema operativo",
         "pt": "sistema operacional",
@@ -196,7 +196,7 @@
       "id": "pack_00074_0008",
       "word": "backup",
       "hint": null,
-      "phonetic": "/bˈækʌp/",
+      "phonetic": "/ˈbækʌp/",
       "meanings": {
         "es": "respaldo",
         "pt": "backup",
@@ -222,7 +222,7 @@
       "id": "pack_00074_0009",
       "word": "antivirus",
       "hint": null,
-      "phonetic": "/ˌæntɪvˈaɪɹəs/",
+      "phonetic": "/ˌæntiˈvaɪrəs/",
       "meanings": {
         "es": "antivirus",
         "pt": "antivírus",
@@ -248,7 +248,7 @@
       "id": "pack_00074_0010",
       "word": "cloud storage",
       "hint": null,
-      "phonetic": "/klˈaʊd stˈɔːɹɪdʒ/",
+      "phonetic": "/klaʊd ˈstɔrədʒ/",
       "meanings": {
         "es": "almacenamiento en la nube",
         "pt": "armazenamento em nuvem",

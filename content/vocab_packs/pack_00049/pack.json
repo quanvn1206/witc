@@ -14,7 +14,7 @@
       "id": "pack_00049_0001",
       "word": "sunny",
       "hint": null,
-      "phonetic": "/sˈʌni/",
+      "phonetic": "/ˈsʌni/",
       "meanings": {
         "es": "soleado",
         "pt": "ensolarado",
@@ -40,7 +40,7 @@
       "id": "pack_00049_0002",
       "word": "rainy",
       "hint": null,
-      "phonetic": "/ɹˈeɪni/",
+      "phonetic": "/ˈreɪni/",
       "meanings": {
         "es": "lluvioso",
         "pt": "chuvoso",
@@ -66,7 +66,7 @@
       "id": "pack_00049_0003",
       "word": "windy",
       "hint": null,
-      "phonetic": "/wˈɪndi/",
+      "phonetic": "/ˈwɪndi/",
       "meanings": {
         "es": "ventoso",
         "pt": "ventoso",
@@ -92,7 +92,7 @@
       "id": "pack_00049_0004",
       "word": "cloudy",
       "hint": null,
-      "phonetic": "/klˈaʊdi/",
+      "phonetic": "/ˈklaʊdi/",
       "meanings": {
         "es": "nublado",
         "pt": "nublado",
@@ -118,7 +118,7 @@
       "id": "pack_00049_0005",
       "word": "snowy",
       "hint": null,
-      "phonetic": "/snˈoʊi/",
+      "phonetic": "/ˈsnoʊi/",
       "meanings": {
         "es": "de mucha nieve",
         "pt": "nevado",
@@ -144,7 +144,7 @@
       "id": "pack_00049_0006",
       "word": "stormy",
       "hint": null,
-      "phonetic": "/stˈɔːɹmi/",
+      "phonetic": "/ˈstɔrmi/",
       "meanings": {
         "es": "tempestuoso",
         "pt": "tormentoso",
@@ -170,7 +170,7 @@
       "id": "pack_00049_0007",
       "word": "foggy",
       "hint": null,
-      "phonetic": "/fˈɑːɡi/",
+      "phonetic": "/ˈfɑɡi/",
       "meanings": {
         "es": "neblinoso",
         "pt": "enevoado",
@@ -196,7 +196,7 @@
       "id": "pack_00049_0008",
       "word": "hot",
       "hint": null,
-      "phonetic": "/hˈɑːt/",
+      "phonetic": "/hɑt/",
       "meanings": {
         "es": "caliente",
         "pt": "quente",
@@ -222,7 +222,7 @@
       "id": "pack_00049_0009",
       "word": "cold",
       "hint": null,
-      "phonetic": "/kˈoʊld/",
+      "phonetic": "/koʊld/",
       "meanings": {
         "es": "frío",
         "pt": "frio",
@@ -248,7 +248,7 @@
       "id": "pack_00049_0010",
       "word": "warm",
       "hint": null,
-      "phonetic": "/wˈɔːɹm/",
+      "phonetic": "/wɔrm/",
       "meanings": {
         "es": "cálido",
         "pt": "esquentar",

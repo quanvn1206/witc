@@ -14,7 +14,7 @@
       "id": "pack_00147_0001",
       "word": "account",
       "hint": null,
-      "phonetic": "/ɐkˈaʊnt/",
+      "phonetic": "/əˈkaʊnt/",
       "meanings": {
         "es": "cuenta",
         "pt": "conta",
@@ -40,7 +40,7 @@
       "id": "pack_00147_0002",
       "word": "ATM",
       "hint": null,
-      "phonetic": "/ˌeɪtˌiːˈɛm/",
+      "phonetic": "/eɪ ti ɛm/",
       "meanings": {
         "es": "cajero automático",
         "pt": "Caixa eletrônico",
@@ -66,7 +66,7 @@
       "id": "pack_00147_0003",
       "word": "card",
       "hint": null,
-      "phonetic": "/kˈɑːɹd/",
+      "phonetic": "/kɑrd/",
       "meanings": {
         "es": "tarjeta",
         "pt": "cartão",
@@ -92,7 +92,7 @@
       "id": "pack_00147_0004",
       "word": "credit card",
       "hint": null,
-      "phonetic": "/kɹˈɛdɪt kˈɑːɹd/",
+      "phonetic": "/ˈkrɛdət kɑrd/",
       "meanings": {
         "es": "tarjeta de crédito",
         "pt": "Cartão de crédito",
@@ -118,7 +118,7 @@
       "id": "pack_00147_0005",
       "word": "debit card",
       "hint": null,
-      "phonetic": "/dˈɛbɪt kˈɑːɹd/",
+      "phonetic": "/ˈdɛbɪt kɑrd/",
       "meanings": {
         "es": "tarjeta de débito",
         "pt": "cartão de débito",
@@ -144,7 +144,7 @@
       "id": "pack_00147_0006",
       "word": "receipt",
       "hint": null,
-      "phonetic": "/ɹᵻsˈiːt/",
+      "phonetic": "/rɪˈsit/",
       "meanings": {
         "es": "recibo",
         "pt": "recibo",
@@ -170,7 +170,7 @@
       "id": "pack_00147_0007",
       "word": "deposit",
       "hint": null,
-      "phonetic": "/dᵻpˈɑːzɪt/",
+      "phonetic": "/dəˈpɑzɪt/",
       "meanings": {
         "es": "depósito",
         "pt": "depósito",
@@ -196,7 +196,7 @@
       "id": "pack_00147_0008",
       "word": "withdraw",
       "hint": null,
-      "phonetic": "/wɪθdɹˈɔː/",
+      "phonetic": "/wɪðˈdrɔ/",
       "meanings": {
         "es": "retirar",
         "pt": "retirar",
@@ -222,7 +222,7 @@
       "id": "pack_00147_0009",
       "word": "cashier",
       "hint": null,
-      "phonetic": "/kæʃˈɪɹ/",
+      "phonetic": "/kæˈʃɪr/",
       "meanings": {
         "es": "cajero",
         "pt": "caixa",
@@ -248,7 +248,7 @@
       "id": "pack_00147_0010",
       "word": "customer",
       "hint": null,
-      "phonetic": "/kˈʌstəmɚ/",
+      "phonetic": "/ˈkʌstəmər/",
       "meanings": {
         "es": "cliente",
         "pt": "cliente",

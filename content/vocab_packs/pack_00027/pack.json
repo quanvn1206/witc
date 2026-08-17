@@ -14,7 +14,7 @@
       "id": "pack_00027_0001",
       "word": "bathtub",
       "hint": null,
-      "phonetic": "/bˈæθtʌb/",
+      "phonetic": "/ˈbæθtəb/",
       "meanings": {
         "es": "bañera",
         "pt": "banheira",
@@ -40,7 +40,7 @@
       "id": "pack_00027_0002",
       "word": "shower",
       "hint": null,
-      "phonetic": "/ʃˈaʊɚ/",
+      "phonetic": "/ˈʃaʊər/",
       "meanings": {
         "es": "ducha",
         "pt": "banho",
@@ -66,7 +66,7 @@
       "id": "pack_00027_0003",
       "word": "toilet",
       "hint": null,
-      "phonetic": "/tˈɔɪlɪt/",
+      "phonetic": "/ˈtɔɪlət/",
       "meanings": {
         "es": "baño",
         "pt": "banheiro",
@@ -92,7 +92,7 @@
       "id": "pack_00027_0004",
       "word": "sink",
       "hint": null,
-      "phonetic": "/sˈɪŋk/",
+      "phonetic": "/sɪŋk/",
       "meanings": {
         "es": "hundir",
         "pt": "afundar",
@@ -118,7 +118,7 @@
       "id": "pack_00027_0005",
       "word": "towel",
       "hint": null,
-      "phonetic": "/tˈaʊəl/",
+      "phonetic": "/ˈtaʊəl/",
       "meanings": {
         "es": "toalla",
         "pt": "toalha",
@@ -144,7 +144,7 @@
       "id": "pack_00027_0006",
       "word": "toothbrush",
       "hint": null,
-      "phonetic": "/tˈuːθbɹʌʃ/",
+      "phonetic": "/ˈtuθbrəʃ/",
       "meanings": {
         "es": "cepillo de dientes",
         "pt": "escova de dentes",
@@ -170,7 +170,7 @@
       "id": "pack_00027_0007",
       "word": "soap",
       "hint": null,
-      "phonetic": "/sˈoʊp/",
+      "phonetic": "/soʊp/",
       "meanings": {
         "es": "jabón",
         "pt": "sabão",
@@ -196,7 +196,7 @@
       "id": "pack_00027_0008",
       "word": "mirror",
       "hint": null,
-      "phonetic": "/mˈɪɹɚ/",
+      "phonetic": "/ˈmɪrər/",
       "meanings": {
         "es": "espejo",
         "pt": "espelho",
@@ -222,7 +222,7 @@
       "id": "pack_00027_0009",
       "word": "bath mat",
       "hint": null,
-      "phonetic": "/bˈæθ mˈæt/",
+      "phonetic": "/bæθ mæt/",
       "meanings": {
         "es": "alfombra de baño",
         "pt": "tapete de banho",
@@ -248,7 +248,7 @@
       "id": "pack_00027_0010",
       "word": "shampoo bottle",
       "hint": null,
-      "phonetic": "/ʃæmpˈuː bˈɑːɾəl/",
+      "phonetic": "/ʃæmˈpu ˈbɑtəl/",
       "meanings": {
         "es": "botella de champú",
         "pt": "frasco de xampu",

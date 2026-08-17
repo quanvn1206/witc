@@ -14,7 +14,7 @@
       "id": "pack_00037_0001",
       "word": "exercise",
       "hint": null,
-      "phonetic": "/ˈɛksɚsˌaɪz/",
+      "phonetic": "/ˈɛksərsaɪz/",
       "meanings": {
         "es": "ejercicio",
         "pt": "exercício",
@@ -40,7 +40,7 @@
       "id": "pack_00037_0002",
       "word": "stretch",
       "hint": null,
-      "phonetic": "/stɹˈɛtʃ/",
+      "phonetic": "/strɛtʃ/",
       "meanings": {
         "es": "estirar",
         "pt": "esticar",
@@ -66,7 +66,7 @@
       "id": "pack_00037_0003",
       "word": "rest",
       "hint": null,
-      "phonetic": "/ɹˈɛst/",
+      "phonetic": "/rɛst/",
       "meanings": {
         "es": "descansar",
         "pt": "descansar",
@@ -92,7 +92,7 @@
       "id": "pack_00037_0004",
       "word": "breathe",
       "hint": null,
-      "phonetic": "/bɹˈiːð/",
+      "phonetic": "/brið/",
       "meanings": {
         "es": "respirar",
         "pt": "respirar",
@@ -118,7 +118,7 @@
       "id": "pack_00037_0005",
       "word": "wash",
       "hint": null,
-      "phonetic": "/wˈɑːʃ/",
+      "phonetic": "/wɑʃ/",
       "meanings": {
         "es": "lavar",
         "pt": "lavar",
@@ -144,7 +144,7 @@
       "id": "pack_00037_0006",
       "word": "brush",
       "hint": null,
-      "phonetic": "/bɹˈʌʃ/",
+      "phonetic": "/brʌʃ/",
       "meanings": {
         "es": "cepillar",
         "pt": "escovar",
@@ -170,7 +170,7 @@
       "id": "pack_00037_0007",
       "word": "bandage",
       "hint": null,
-      "phonetic": "/bˈændɪdʒ/",
+      "phonetic": "/ˈbændɪdʒ/",
       "meanings": {
         "es": "vendaje",
         "pt": "curativo",
@@ -196,7 +196,7 @@
       "id": "pack_00037_0008",
       "word": "recover",
       "hint": null,
-      "phonetic": "/ɹᵻkˈʌvɚ/",
+      "phonetic": "/rɪˈkʌvər/",
       "meanings": {
         "es": "recuperar",
         "pt": "recuperar",
@@ -222,7 +222,7 @@
       "id": "pack_00037_0009",
       "word": "sneeze",
       "hint": null,
-      "phonetic": "/snˈiːz/",
+      "phonetic": "/sniz/",
       "meanings": {
         "es": "estornudo",
         "pt": "espirrar",
@@ -248,7 +248,7 @@
       "id": "pack_00037_0010",
       "word": "cough",
       "hint": null,
-      "phonetic": "/kˈɔf/",
+      "phonetic": "/kɑf/",
       "meanings": {
         "es": "tos",
         "pt": "tosse",

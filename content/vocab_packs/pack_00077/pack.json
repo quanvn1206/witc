@@ -14,7 +14,7 @@
       "id": "pack_00077_0001",
       "word": "suitcase",
       "hint": null,
-      "phonetic": "/sˈuːtkeɪs/",
+      "phonetic": "/ˈsutkeɪs/",
       "meanings": {
         "es": "maleta",
         "pt": "mala",
@@ -40,7 +40,7 @@
       "id": "pack_00077_0002",
       "word": "ticket",
       "hint": null,
-      "phonetic": "/tˈɪkɪt/",
+      "phonetic": "/ˈtɪkət/",
       "meanings": {
         "es": "boleto",
         "pt": "bilhete",
@@ -66,7 +66,7 @@
       "id": "pack_00077_0003",
       "word": "passport",
       "hint": null,
-      "phonetic": "/pˈæspɔːɹt/",
+      "phonetic": "/ˈpæspɔrt/",
       "meanings": {
         "es": "pasaporte",
         "pt": "passaporte",
@@ -92,7 +92,7 @@
       "id": "pack_00077_0004",
       "word": "map",
       "hint": null,
-      "phonetic": "/mˈæp/",
+      "phonetic": "/mæp/",
       "meanings": {
         "es": "mapa",
         "pt": "mapa",
@@ -118,7 +118,7 @@
       "id": "pack_00077_0005",
       "word": "camera",
       "hint": null,
-      "phonetic": "/kˈæmɹə/",
+      "phonetic": "/ˈkæmərə/",
       "meanings": {
         "es": "cámara",
         "pt": "câmera",
@@ -144,7 +144,7 @@
       "id": "pack_00077_0006",
       "word": "wallet",
       "hint": null,
-      "phonetic": "/wˈɔlɪt/",
+      "phonetic": "/ˈwɔlət/",
       "meanings": {
         "es": "billetera",
         "pt": "carteira",
@@ -170,7 +170,7 @@
       "id": "pack_00077_0007",
       "word": "luggage",
       "hint": null,
-      "phonetic": "/lˈʌɡɪdʒ/",
+      "phonetic": "/ˈlʌɡədʒ/",
       "meanings": {
         "es": "equipaje",
         "pt": "bagagem",
@@ -196,7 +196,7 @@
       "id": "pack_00077_0008",
       "word": "guidebook",
       "hint": null,
-      "phonetic": "/ɡˈaɪdbʊk/",
+      "phonetic": "/ˈɡaɪdbʊk/",
       "meanings": {
         "es": "guía",
         "pt": "guia",
@@ -222,7 +222,7 @@
       "id": "pack_00077_0009",
       "word": "reservation",
       "hint": null,
-      "phonetic": "/ɹˌɛzɚvˈeɪʃən/",
+      "phonetic": "/ˌrɛzərˈveɪʃən/",
       "meanings": {
         "es": "reserva",
         "pt": "reserva",
@@ -248,7 +248,7 @@
       "id": "pack_00077_0010",
       "word": "backpack",
       "hint": null,
-      "phonetic": "/bˈækpæk/",
+      "phonetic": "/ˈbækpæk/",
       "meanings": {
         "es": "mochila",
         "pt": "mochila",

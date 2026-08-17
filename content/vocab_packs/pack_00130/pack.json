@@ -14,7 +14,7 @@
       "id": "pack_00130_0001",
       "word": "efficiency",
       "hint": null,
-      "phonetic": "/ɪfˈɪʃənsi/",
+      "phonetic": "/ɪˈfɪʃənsi/",
       "meanings": {
         "es": "eficiencia",
         "pt": "eficiência",
@@ -40,7 +40,7 @@
       "id": "pack_00130_0002",
       "word": "horsepower",
       "hint": null,
-      "phonetic": "/hˈɔːɹspaʊɚ/",
+      "phonetic": "/ˈhɔrspaʊər/",
       "meanings": {
         "es": "caballo de fuerza",
         "pt": "cavalos de potência",
@@ -66,7 +66,7 @@
       "id": "pack_00130_0003",
       "word": "emission",
       "hint": null,
-      "phonetic": "/ɪmˈɪʃən/",
+      "phonetic": "/ɪˈmɪʃən/",
       "meanings": {
         "es": "emisión",
         "pt": "emissão",
@@ -92,7 +92,7 @@
       "id": "pack_00130_0004",
       "word": "combustion",
       "hint": null,
-      "phonetic": "/kəmbˈʌstʃən/",
+      "phonetic": "/kəmˈbʌstʃən/",
       "meanings": {
         "es": "combustión",
         "pt": "combustão",
@@ -118,7 +118,7 @@
       "id": "pack_00130_0005",
       "word": "calibration",
       "hint": null,
-      "phonetic": "/kˌælɪbɹˈeɪʃən/",
+      "phonetic": "/ˌkæləˈbreɪʃən/",
       "meanings": {
         "es": "calibración",
         "pt": "calibração",
@@ -144,7 +144,7 @@
       "id": "pack_00130_0006",
       "word": "hybrid vehicle",
       "hint": null,
-      "phonetic": "/hˈaɪbɹɪd vˈiəkəl/",
+      "phonetic": "/ˈhaɪbrəd ˈvihɪkəl/",
       "meanings": {
         "es": "vehículo híbrido",
         "pt": "veículo híbrido",
@@ -170,7 +170,7 @@
       "id": "pack_00130_0007",
       "word": "electric vehicle",
       "hint": null,
-      "phonetic": "/ᵻlˈɛktɹɪk vˈiəkəl/",
+      "phonetic": "/ɪˈlɛktrɪk ˈvihɪkəl/",
       "meanings": {
         "es": "vehículo eléctrico",
         "pt": "veículo elétrico",
@@ -196,7 +196,7 @@
       "id": "pack_00130_0008",
       "word": "torque",
       "hint": null,
-      "phonetic": "/tˈɔːɹk/",
+      "phonetic": "/tɔrk/",
       "meanings": {
         "es": "esfuerzo de torsión",
         "pt": "torque",
@@ -222,7 +222,7 @@
       "id": "pack_00130_0009",
       "word": "preventive maintenance",
       "hint": null,
-      "phonetic": "/pɹɪvˈɛntɪv mˈeɪntənəns/",
+      "phonetic": "/prɪˈvɛntɪv ˈmeɪntənəns/",
       "meanings": {
         "es": "mantenimiento preventivo",
         "pt": "manutenção preventiva",
@@ -248,7 +248,7 @@
       "id": "pack_00130_0010",
       "word": "troubleshooting",
       "hint": null,
-      "phonetic": "/tɹˈʌbəlʃˌuːɾɪŋ/",
+      "phonetic": "/ˈtrʌbəlʃutɪŋ/",
       "meanings": {
         "es": "solución de problemas",
         "pt": "solução de problemas",

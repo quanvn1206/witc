@@ -14,7 +14,7 @@
       "id": "pack_00107_0001",
       "word": "parade",
       "hint": null,
-      "phonetic": "/pɚɹˈeɪd/",
+      "phonetic": "/pəˈreɪd/",
       "meanings": {
         "es": "desfile",
         "pt": "parada",
@@ -40,7 +40,7 @@
       "id": "pack_00107_0002",
       "word": "fireworks",
       "hint": null,
-      "phonetic": "/fˈaɪɚwɜːks/",
+      "phonetic": "/ˈfaɪrwɜrks/",
       "meanings": {
         "es": "fuegos artificiales",
         "pt": "fogos de artifício",
@@ -66,7 +66,7 @@
       "id": "pack_00107_0003",
       "word": "costume",
       "hint": null,
-      "phonetic": "/kˈɔstuːm/",
+      "phonetic": "/kɑˈstum/",
       "meanings": {
         "es": "traje",
         "pt": "fantasia",
@@ -92,7 +92,7 @@
       "id": "pack_00107_0004",
       "word": "invitation",
       "hint": null,
-      "phonetic": "/ɪnvɪtˈeɪʃən/",
+      "phonetic": "/ˌɪnvɪˈteɪʃən/",
       "meanings": {
         "es": "invitación",
         "pt": "convite",
@@ -118,7 +118,7 @@
       "id": "pack_00107_0005",
       "word": "decoration",
       "hint": null,
-      "phonetic": "/dˌɛkɚɹˈeɪʃən/",
+      "phonetic": "/ˌdɛkəˈreɪʃən/",
       "meanings": {
         "es": "decoración",
         "pt": "decoração",
@@ -144,7 +144,7 @@
       "id": "pack_00107_0006",
       "word": "balloon",
       "hint": null,
-      "phonetic": "/bəlˈuːn/",
+      "phonetic": "/bəˈlun/",
       "meanings": {
         "es": "globo",
         "pt": "balão",
@@ -170,7 +170,7 @@
       "id": "pack_00107_0007",
       "word": "picnic",
       "hint": null,
-      "phonetic": "/pˈɪknɪk/",
+      "phonetic": "/ˈpɪknɪk/",
       "meanings": {
         "es": "picnic",
         "pt": "piquenique",
@@ -196,7 +196,7 @@
       "id": "pack_00107_0008",
       "word": "family reunion",
       "hint": null,
-      "phonetic": "/fˈæmɪli ɹˌiːjˈuːniən/",
+      "phonetic": "/ˈfæməli riˈunjən/",
       "meanings": {
         "es": "reunión familiar",
         "pt": "reunião de família",
@@ -222,7 +222,7 @@
       "id": "pack_00107_0009",
       "word": "dance",
       "hint": null,
-      "phonetic": "/dˈæns/",
+      "phonetic": "/dæns/",
       "meanings": {
         "es": "bailar",
         "pt": "dança",
@@ -248,7 +248,7 @@
       "id": "pack_00107_0010",
       "word": "music",
       "hint": null,
-      "phonetic": "/mjˈuːzɪk/",
+      "phonetic": "/ˈmjuzɪk/",
       "meanings": {
         "es": "música",
         "pt": "música",

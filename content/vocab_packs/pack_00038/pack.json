@@ -14,7 +14,7 @@
       "id": "pack_00038_0001",
       "word": "patient",
       "hint": null,
-      "phonetic": "/pˈeɪʃənt/",
+      "phonetic": "/ˈpeɪʃənt/",
       "meanings": {
         "es": "paciente",
         "pt": "paciente",
@@ -40,7 +40,7 @@
       "id": "pack_00038_0002",
       "word": "nurse",
       "hint": null,
-      "phonetic": "/nˈɜːs/",
+      "phonetic": "/nɜrs/",
       "meanings": {
         "es": "enfermero",
         "pt": "enfermeira",
@@ -66,7 +66,7 @@
       "id": "pack_00038_0003",
       "word": "doctor",
       "hint": null,
-      "phonetic": "/dˈɑːktɚ/",
+      "phonetic": "/ˈdɑktər/",
       "meanings": {
         "es": "doctor",
         "pt": "doutor",
@@ -92,7 +92,7 @@
       "id": "pack_00038_0004",
       "word": "medicine",
       "hint": null,
-      "phonetic": "/mˈɛdəsən/",
+      "phonetic": "/ˈmɛdəsən/",
       "meanings": {
         "es": "medicamento",
         "pt": "medicamento",
@@ -118,7 +118,7 @@
       "id": "pack_00038_0005",
       "word": "prescription",
       "hint": null,
-      "phonetic": "/pɹɪskɹˈɪpʃən/",
+      "phonetic": "/prəˈskrɪpʃən/",
       "meanings": {
         "es": "prescripción",
         "pt": "prescrição",
@@ -144,7 +144,7 @@
       "id": "pack_00038_0006",
       "word": "appointment",
       "hint": null,
-      "phonetic": "/ɐpˈɔɪntmənt/",
+      "phonetic": "/əˈpɔɪntmənt/",
       "meanings": {
         "es": "cita",
         "pt": "encontro",
@@ -170,7 +170,7 @@
       "id": "pack_00038_0007",
       "word": "clinic",
       "hint": null,
-      "phonetic": "/klˈɪnɪk/",
+      "phonetic": "/ˈklɪnɪk/",
       "meanings": {
         "es": "clínica",
         "pt": "clínica",
@@ -196,7 +196,7 @@
       "id": "pack_00038_0008",
       "word": "injection",
       "hint": null,
-      "phonetic": "/ɪndʒˈɛkʃən/",
+      "phonetic": "/ˌɪnˈdʒɛkʃən/",
       "meanings": {
         "es": "inyección",
         "pt": "injeção",
@@ -222,7 +222,7 @@
       "id": "pack_00038_0009",
       "word": "thermometer",
       "hint": null,
-      "phonetic": "/θɜːmˈɑːmɪɾɚ/",
+      "phonetic": "/θərˈmɑmətər/",
       "meanings": {
         "es": "termómetro",
         "pt": "termômetro",
@@ -248,7 +248,7 @@
       "id": "pack_00038_0010",
       "word": "treatment",
       "hint": null,
-      "phonetic": "/tɹˈiːtmənt/",
+      "phonetic": "/ˈtritmənt/",
       "meanings": {
         "es": "tratamiento",
         "pt": "tratamento",

@@ -14,7 +14,7 @@
       "id": "pack_00012_0001",
       "word": "sparrow",
       "hint": null,
-      "phonetic": "/spˈæɹoʊ/",
+      "phonetic": "/ˈspɛroʊ/",
       "meanings": {
         "es": "gorrión",
         "pt": "pardal",
@@ -40,7 +40,7 @@
       "id": "pack_00012_0002",
       "word": "pigeon",
       "hint": null,
-      "phonetic": "/pˈɪdʒən/",
+      "phonetic": "/ˈpɪdʒən/",
       "meanings": {
         "es": "paloma",
         "pt": "Pombo",
@@ -66,7 +66,7 @@
       "id": "pack_00012_0003",
       "word": "dove",
       "hint": null,
-      "phonetic": "/dˈʌv/",
+      "phonetic": "/dʌv/",
       "meanings": {
         "es": "paloma",
         "pt": "pomba",
@@ -92,7 +92,7 @@
       "id": "pack_00012_0004",
       "word": "swallow",
       "hint": null,
-      "phonetic": "/swˈɔloʊ/",
+      "phonetic": "/ˈswɑloʊ/",
       "meanings": {
         "es": "tragar",
         "pt": "engolir",
@@ -118,7 +118,7 @@
       "id": "pack_00012_0005",
       "word": "magpie",
       "hint": null,
-      "phonetic": "/mˈæɡpaɪ/",
+      "phonetic": "/ˈmæɡpaɪ/",
       "meanings": {
         "es": "urraca",
         "pt": "pega",
@@ -144,7 +144,7 @@
       "id": "pack_00012_0006",
       "word": "eagle",
       "hint": null,
-      "phonetic": "/ˈiːɡəl/",
+      "phonetic": "/ˈiɡəl/",
       "meanings": {
         "es": "águila",
         "pt": "águia",
@@ -170,7 +170,7 @@
       "id": "pack_00012_0007",
       "word": "owl",
       "hint": null,
-      "phonetic": "/ˈaʊl/",
+      "phonetic": "/aʊl/",
       "meanings": {
         "es": "búho",
         "pt": "coruja",
@@ -196,7 +196,7 @@
       "id": "pack_00012_0008",
       "word": "parrot",
       "hint": null,
-      "phonetic": "/pˈæɹət/",
+      "phonetic": "/ˈpɛrət/",
       "meanings": {
         "es": "loro",
         "pt": "papagaio",
@@ -222,7 +222,7 @@
       "id": "pack_00012_0009",
       "word": "peacock",
       "hint": null,
-      "phonetic": "/pˈiːkɑːk/",
+      "phonetic": "/ˈpikɑk/",
       "meanings": {
         "es": "pavo real",
         "pt": "pavão",
@@ -248,7 +248,7 @@
       "id": "pack_00012_0010",
       "word": "flamingo",
       "hint": null,
-      "phonetic": "/flɐmˈɪŋɡoʊ/",
+      "phonetic": "/fləˈmɪŋɡoʊ/",
       "meanings": {
         "es": "flamenco",
         "pt": "flamingo",

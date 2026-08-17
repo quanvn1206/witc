@@ -14,7 +14,7 @@
       "id": "pack_00015_0001",
       "word": "jealous",
       "hint": null,
-      "phonetic": "/dʒˈɛləs/",
+      "phonetic": "/ˈdʒɛləs/",
       "meanings": {
         "es": "celoso",
         "pt": "ciúmes",
@@ -40,7 +40,7 @@
       "id": "pack_00015_0002",
       "word": "embarrassed",
       "hint": null,
-      "phonetic": "/ɛmbˈæɹəst/",
+      "phonetic": "/ɪmˈbɛrəst/",
       "meanings": {
         "es": "avergonzado",
         "pt": "envergonhado",
@@ -66,7 +66,7 @@
       "id": "pack_00015_0003",
       "word": "frustrated",
       "hint": null,
-      "phonetic": "/fɹʌstɹˈeɪɾᵻd/",
+      "phonetic": "/ˈfrʌstreɪtəd/",
       "meanings": {
         "es": "frustrado",
         "pt": "frustrado",
@@ -92,7 +92,7 @@
       "id": "pack_00015_0004",
       "word": "disappointed",
       "hint": null,
-      "phonetic": "/dˌɪsɐpˈɔɪntᵻd/",
+      "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
       "meanings": {
         "es": "decepcionado",
         "pt": "decepcionado",
@@ -118,7 +118,7 @@
       "id": "pack_00015_0005",
       "word": "lonely",
       "hint": null,
-      "phonetic": "/lˈoʊnli/",
+      "phonetic": "/ˈloʊnli/",
       "meanings": {
         "es": "solitario",
         "pt": "sozinho",
@@ -144,7 +144,7 @@
       "id": "pack_00015_0006",
       "word": "ashamed",
       "hint": null,
-      "phonetic": "/ɐʃˈeɪmd/",
+      "phonetic": "/əˈʃeɪmd/",
       "meanings": {
         "es": "avergonzado",
         "pt": "envergonhado",
@@ -170,7 +170,7 @@
       "id": "pack_00015_0007",
       "word": "annoyed",
       "hint": null,
-      "phonetic": "/ɐnˈɔɪd/",
+      "phonetic": "/əˈnɔɪd/",
       "meanings": {
         "es": "enojado",
         "pt": "incomodado",
@@ -196,7 +196,7 @@
       "id": "pack_00015_0008",
       "word": "upset",
       "hint": null,
-      "phonetic": "/ʌpsˈɛt/",
+      "phonetic": "/əpˈsɛt/",
       "meanings": {
         "es": "decepcionado",
         "pt": "chateado",
@@ -222,7 +222,7 @@
       "id": "pack_00015_0009",
       "word": "confused",
       "hint": null,
-      "phonetic": "/kənfjˈuːzd/",
+      "phonetic": "/kənˈfjuzd/",
       "meanings": {
         "es": "confundido",
         "pt": "confuso",
@@ -248,7 +248,7 @@
       "id": "pack_00015_0010",
       "word": "disgusted",
       "hint": null,
-      "phonetic": "/dɪsɡˈʌstᵻd/",
+      "phonetic": "/dɪsˈɡʌstəd/",
       "meanings": {
         "es": "disgustado",
         "pt": "enojado",

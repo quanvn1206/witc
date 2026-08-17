@@ -14,7 +14,7 @@
       "id": "pack_00060_0001",
       "word": "math",
       "hint": null,
-      "phonetic": "/mˈæθ/",
+      "phonetic": "/mæθ/",
       "meanings": {
         "es": "matemáticas",
         "pt": "matemática",
@@ -66,7 +66,7 @@
       "id": "pack_00060_0003",
       "word": "science",
       "hint": null,
-      "phonetic": "/sˈaɪəns/",
+      "phonetic": "/ˈsaɪəns/",
       "meanings": {
         "es": "ciencia",
         "pt": "ciência",
@@ -92,7 +92,7 @@
       "id": "pack_00060_0004",
       "word": "history",
       "hint": null,
-      "phonetic": "/hˈɪstɚɹi/",
+      "phonetic": "/ˈhɪstəri/",
       "meanings": {
         "es": "historia",
         "pt": "história",
@@ -118,7 +118,7 @@
       "id": "pack_00060_0005",
       "word": "geography",
       "hint": null,
-      "phonetic": "/dʒɪˈɑːɡɹəfi/",
+      "phonetic": "/dʒiˈɑɡrəfi/",
       "meanings": {
         "es": "geografía",
         "pt": "geografia",
@@ -144,7 +144,7 @@
       "id": "pack_00060_0006",
       "word": "music",
       "hint": null,
-      "phonetic": "/mjˈuːzɪk/",
+      "phonetic": "/ˈmjuzɪk/",
       "meanings": {
         "es": "música",
         "pt": "música",
@@ -170,7 +170,7 @@
       "id": "pack_00060_0007",
       "word": "art",
       "hint": null,
-      "phonetic": "/ˈɑːɹt/",
+      "phonetic": "/ɑrt/",
       "meanings": {
         "es": "arte",
         "pt": "arte",
@@ -196,7 +196,7 @@
       "id": "pack_00060_0008",
       "word": "biology",
       "hint": null,
-      "phonetic": "/baɪˈɑːlədʒi/",
+      "phonetic": "/baɪˈɑlədʒi/",
       "meanings": {
         "es": "biología",
         "pt": "biologia",
@@ -222,7 +222,7 @@
       "id": "pack_00060_0009",
       "word": "chemistry",
       "hint": null,
-      "phonetic": "/kˈɛmɪstɹi/",
+      "phonetic": "/ˈkɛməstri/",
       "meanings": {
         "es": "química",
         "pt": "química",
@@ -248,7 +248,7 @@
       "id": "pack_00060_0010",
       "word": "physics",
       "hint": null,
-      "phonetic": "/fˈɪzɪks/",
+      "phonetic": "/ˈfɪzɪks/",
       "meanings": {
         "es": "física",
         "pt": "física",

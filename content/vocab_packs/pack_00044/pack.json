@@ -14,7 +14,7 @@
       "id": "pack_00044_0001",
       "word": "mother",
       "hint": null,
-      "phonetic": "/mˈʌðɚ/",
+      "phonetic": "/ˈmʌðər/",
       "meanings": {
         "es": "madre",
         "pt": "mãe",
@@ -40,7 +40,7 @@
       "id": "pack_00044_0002",
       "word": "father",
       "hint": null,
-      "phonetic": "/fˈɑːðɚ/",
+      "phonetic": "/ˈfɑðər/",
       "meanings": {
         "es": "padre",
         "pt": "pai",
@@ -66,7 +66,7 @@
       "id": "pack_00044_0003",
       "word": "sister",
       "hint": null,
-      "phonetic": "/sˈɪstɚ/",
+      "phonetic": "/ˈsɪstər/",
       "meanings": {
         "es": "hermana",
         "pt": "irmã",
@@ -92,7 +92,7 @@
       "id": "pack_00044_0004",
       "word": "brother",
       "hint": null,
-      "phonetic": "/bɹˈʌðɚ/",
+      "phonetic": "/ˈbrʌðər/",
       "meanings": {
         "es": "hermano",
         "pt": "irmão",
@@ -118,7 +118,7 @@
       "id": "pack_00044_0005",
       "word": "grandmother",
       "hint": null,
-      "phonetic": "/ɡɹˈændmʌðɚ/",
+      "phonetic": "/ˈɡrændmʌðər/",
       "meanings": {
         "es": "abuela",
         "pt": "avó",
@@ -144,7 +144,7 @@
       "id": "pack_00044_0006",
       "word": "grandfather",
       "hint": null,
-      "phonetic": "/ɡɹˈændfɑːðɚ/",
+      "phonetic": "/ˈɡrændfɑðər/",
       "meanings": {
         "es": "abuelo",
         "pt": "avô",
@@ -170,7 +170,7 @@
       "id": "pack_00044_0007",
       "word": "aunt",
       "hint": null,
-      "phonetic": "/ˈænt/",
+      "phonetic": "/ænt/",
       "meanings": {
         "es": "tía",
         "pt": "tia",
@@ -222,7 +222,7 @@
       "id": "pack_00044_0009",
       "word": "cousin",
       "hint": null,
-      "phonetic": "/kˈʌzən/",
+      "phonetic": "/ˈkʌzən/",
       "meanings": {
         "es": "primo",
         "pt": "primo",
@@ -248,7 +248,7 @@
       "id": "pack_00044_0010",
       "word": "baby",
       "hint": null,
-      "phonetic": "/bˈeɪbi/",
+      "phonetic": "/ˈbeɪbi/",
       "meanings": {
         "es": "bebé",
         "pt": "bebê",

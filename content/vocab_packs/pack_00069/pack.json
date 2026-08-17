@@ -14,7 +14,7 @@
       "id": "pack_00069_0001",
       "word": "citizen",
       "hint": null,
-      "phonetic": "/sˈɪɾɪzən/",
+      "phonetic": "/ˈsɪtəzən/",
       "meanings": {
         "es": "ciudadano",
         "pt": "cidadão",
@@ -40,7 +40,7 @@
       "id": "pack_00069_0002",
       "word": "passport",
       "hint": null,
-      "phonetic": "/pˈæspɔːɹt/",
+      "phonetic": "/ˈpæspɔrt/",
       "meanings": {
         "es": "pasaporte",
         "pt": "passaporte",
@@ -92,7 +92,7 @@
       "id": "pack_00069_0004",
       "word": "nationality",
       "hint": null,
-      "phonetic": "/nˌæʃənˈælᵻɾi/",
+      "phonetic": "/ˌnæʃəˈnæləti/",
       "meanings": {
         "es": "nacionalidad",
         "pt": "nacionalidade",
@@ -118,7 +118,7 @@
       "id": "pack_00069_0005",
       "word": "government",
       "hint": null,
-      "phonetic": "/ɡˈʌvɚnmənt/",
+      "phonetic": "/ˈɡʌvərmənt/",
       "meanings": {
         "es": "gobierno",
         "pt": "governo",
@@ -144,7 +144,7 @@
       "id": "pack_00069_0006",
       "word": "republic",
       "hint": null,
-      "phonetic": "/ɹᵻpˈʌblɪk/",
+      "phonetic": "/riˈpʌblək/",
       "meanings": {
         "es": "república",
         "pt": "república",
@@ -170,7 +170,7 @@
       "id": "pack_00069_0007",
       "word": "kingdom",
       "hint": null,
-      "phonetic": "/kˈɪŋdəm/",
+      "phonetic": "/ˈkɪŋdəm/",
       "meanings": {
         "es": "reino",
         "pt": "reino",
@@ -196,7 +196,7 @@
       "id": "pack_00069_0008",
       "word": "independence",
       "hint": null,
-      "phonetic": "/ˌɪndᵻpˈɛndəns/",
+      "phonetic": "/ˌɪndɪˈpɛndəns/",
       "meanings": {
         "es": "independencia",
         "pt": "independência",
@@ -222,7 +222,7 @@
       "id": "pack_00069_0009",
       "word": "official language",
       "hint": null,
-      "phonetic": "/əfˈɪʃəl lˈæŋɡwɪdʒ/",
+      "phonetic": "/əˈfɪʃəl ˈlæŋɡwədʒ/",
       "meanings": {
         "es": "idioma oficial",
         "pt": "língua oficial",
@@ -248,7 +248,7 @@
       "id": "pack_00069_0010",
       "word": "immigration",
       "hint": null,
-      "phonetic": "/ˌɪmɪɡɹˈeɪʃən/",
+      "phonetic": "/ˌɪməˈɡreɪʃən/",
       "meanings": {
         "es": "inmigración",
         "pt": "imigração",

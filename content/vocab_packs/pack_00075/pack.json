@@ -14,7 +14,7 @@
       "id": "pack_00075_0001",
       "word": "artificial intelligence",
       "hint": null,
-      "phonetic": "/ˌɑːɹɾɪfˈɪʃəl ɪntˈɛlɪdʒəns/",
+      "phonetic": "/ˌɑrtəˈfɪʃəl ˌɪnˈtɛlədʒəns/",
       "meanings": {
         "es": "inteligencia artificial",
         "pt": "inteligência artificial",
@@ -40,7 +40,7 @@
       "id": "pack_00075_0002",
       "word": "automation",
       "hint": null,
-      "phonetic": "/ˌɔːɾəmˈeɪʃən/",
+      "phonetic": "/ɔtəˈmeɪʃən/",
       "meanings": {
         "es": "automatización",
         "pt": "automação",
@@ -66,7 +66,7 @@
       "id": "pack_00075_0003",
       "word": "cybersecurity",
       "hint": null,
-      "phonetic": "/sˌaɪbɚsᵻkjˈʊɹɹᵻɾi/",
+      "phonetic": "/ˈsaɪbərsɪkjʊrəti/",
       "meanings": {
         "es": "ciberseguridad",
         "pt": "segurança cibernética",
@@ -92,7 +92,7 @@
       "id": "pack_00075_0004",
       "word": "encryption",
       "hint": null,
-      "phonetic": "/ɛŋkɹˈɪpʃən/",
+      "phonetic": "/ɛnˈkrɪpʃən/",
       "meanings": {
         "es": "cifrado",
         "pt": "criptografia",
@@ -118,7 +118,7 @@
       "id": "pack_00075_0005",
       "word": "algorithm",
       "hint": null,
-      "phonetic": "/ˈælɡɚɹˌɪθəm/",
+      "phonetic": "/ˈælɡərɪðəm/",
       "meanings": {
         "es": "algoritmo",
         "pt": "algoritmo",
@@ -144,7 +144,7 @@
       "id": "pack_00075_0006",
       "word": "machine learning",
       "hint": null,
-      "phonetic": "/məʃˈiːn lˈɜːnɪŋ/",
+      "phonetic": "/məˈʃin ˈlɜrnɪŋ/",
       "meanings": {
         "es": "aprendizaje automático",
         "pt": "aprendizado de máquina",
@@ -170,7 +170,7 @@
       "id": "pack_00075_0007",
       "word": "virtual reality",
       "hint": null,
-      "phonetic": "/vˈɜːtʃuːəl ɹɪˈælᵻɾi/",
+      "phonetic": "/ˈvɜrtʃuəl ˌriˈæləti/",
       "meanings": {
         "es": "realidad virtual",
         "pt": "realidade virtual",
@@ -196,7 +196,7 @@
       "id": "pack_00075_0008",
       "word": "wearable technology",
       "hint": null,
-      "phonetic": "/wˈɛɹəbəl tɛknˈɑːlədʒi/",
+      "phonetic": "/ˈwɛrəbəl tɛkˈnɑlədʒi/",
       "meanings": {
         "es": "tecnología usable",
         "pt": "tecnologia vestível",
@@ -222,7 +222,7 @@
       "id": "pack_00075_0009",
       "word": "digital transformation",
       "hint": null,
-      "phonetic": "/dˈɪdʒɪɾəl tɹænsfɔːɹmˈeɪʃən/",
+      "phonetic": "/ˈdɪdʒətəl ˌtrænsfərˈmeɪʃən/",
       "meanings": {
         "es": "transformación digital",
         "pt": "transformação digital",
@@ -248,7 +248,7 @@
       "id": "pack_00075_0010",
       "word": "blockchain",
       "hint": null,
-      "phonetic": "/blˈɑːktʃeɪn/",
+      "phonetic": "/ˈblɑktʃeɪn/",
       "meanings": {
         "es": "cadena de bloques",
         "pt": "blockchain",

@@ -14,7 +14,7 @@
       "id": "pack_00093_0001",
       "word": "meeting",
       "hint": null,
-      "phonetic": "/mˈiːɾɪŋ/",
+      "phonetic": "/ˈmitɪŋ/",
       "meanings": {
         "es": "reunión",
         "pt": "reunião",
@@ -40,7 +40,7 @@
       "id": "pack_00093_0002",
       "word": "schedule",
       "hint": null,
-      "phonetic": "/skˈɛdʒuːl/",
+      "phonetic": "/ˈskɛdʒʊl/",
       "meanings": {
         "es": "cronograma",
         "pt": "agendar",
@@ -66,7 +66,7 @@
       "id": "pack_00093_0003",
       "word": "email",
       "hint": null,
-      "phonetic": "/ˈiːmeɪl/",
+      "phonetic": "/iˈmeɪl/",
       "meanings": {
         "es": "correo electrónico",
         "pt": "e-mail",
@@ -92,7 +92,7 @@
       "id": "pack_00093_0004",
       "word": "report",
       "hint": null,
-      "phonetic": "/ɹᵻpˈɔːɹt/",
+      "phonetic": "/riˈpɔrt/",
       "meanings": {
         "es": "informe",
         "pt": "relatório",
@@ -118,7 +118,7 @@
       "id": "pack_00093_0005",
       "word": "document",
       "hint": null,
-      "phonetic": "/dˈɑːkjuːmənt/",
+      "phonetic": "/ˈdɑkjəmɛnt/",
       "meanings": {
         "es": "documento",
         "pt": "documento",
@@ -144,7 +144,7 @@
       "id": "pack_00093_0006",
       "word": "deadline",
       "hint": null,
-      "phonetic": "/dˈɛdlaɪn/",
+      "phonetic": "/ˈdɛdlaɪn/",
       "meanings": {
         "es": "fecha límite",
         "pt": "prazo final",
@@ -170,7 +170,7 @@
       "id": "pack_00093_0007",
       "word": "salary",
       "hint": null,
-      "phonetic": "/sˈælɚɹi/",
+      "phonetic": "/ˈsæləri/",
       "meanings": {
         "es": "salario",
         "pt": "salário",
@@ -196,7 +196,7 @@
       "id": "pack_00093_0008",
       "word": "interview",
       "hint": null,
-      "phonetic": "/ˈɪntɚvjˌuː/",
+      "phonetic": "/ˈɪntərvju/",
       "meanings": {
         "es": "entrevista",
         "pt": "entrevista",
@@ -222,7 +222,7 @@
       "id": "pack_00093_0009",
       "word": "project",
       "hint": null,
-      "phonetic": "/pɹˈɑːdʒɛkt/",
+      "phonetic": "/ˈprɑdʒɛkt/",
       "meanings": {
         "es": "proyecto",
         "pt": "projeto",
@@ -248,7 +248,7 @@
       "id": "pack_00093_0010",
       "word": "presentation",
       "hint": null,
-      "phonetic": "/pɹˌɛzəntˈeɪʃən/",
+      "phonetic": "/ˌprɛzənˈteɪʃən/",
       "meanings": {
         "es": "presentación",
         "pt": "apresentação",

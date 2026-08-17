@@ -14,7 +14,7 @@
       "id": "pack_00017_0001",
       "word": "hungry",
       "hint": null,
-      "phonetic": "/hˈʌŋɡɹi/",
+      "phonetic": "/ˈhʌŋɡri/",
       "meanings": {
         "es": "hambriento",
         "pt": "com fome",
@@ -40,7 +40,7 @@
       "id": "pack_00017_0002",
       "word": "thirsty",
       "hint": null,
-      "phonetic": "/θˈɜːsti/",
+      "phonetic": "/ˈθɜrsti/",
       "meanings": {
         "es": "sediento",
         "pt": "sedento",
@@ -66,7 +66,7 @@
       "id": "pack_00017_0003",
       "word": "sleepy",
       "hint": null,
-      "phonetic": "/slˈiːpi/",
+      "phonetic": "/ˈslipi/",
       "meanings": {
         "es": "somnoliento",
         "pt": "com sono",
@@ -92,7 +92,7 @@
       "id": "pack_00017_0004",
       "word": "dizzy",
       "hint": null,
-      "phonetic": "/dˈɪzi/",
+      "phonetic": "/ˈdɪzi/",
       "meanings": {
         "es": "mareado",
         "pt": "tonto",
@@ -118,7 +118,7 @@
       "id": "pack_00017_0005",
       "word": "sick",
       "hint": null,
-      "phonetic": "/sˈɪk/",
+      "phonetic": "/sɪk/",
       "meanings": {
         "es": "enfermo",
         "pt": "doente",
@@ -144,7 +144,7 @@
       "id": "pack_00017_0006",
       "word": "exhausted",
       "hint": null,
-      "phonetic": "/ɛɡzˈɔːstᵻd/",
+      "phonetic": "/ɪɡˈzɔstɪd/",
       "meanings": {
         "es": "exhausto",
         "pt": "esgotado",
@@ -170,7 +170,7 @@
       "id": "pack_00017_0007",
       "word": "cold",
       "hint": null,
-      "phonetic": "/kˈoʊld/",
+      "phonetic": "/koʊld/",
       "meanings": {
         "es": "frío",
         "pt": "frio",
@@ -196,7 +196,7 @@
       "id": "pack_00017_0008",
       "word": "hot",
       "hint": null,
-      "phonetic": "/hˈɑːt/",
+      "phonetic": "/hɑt/",
       "meanings": {
         "es": "caliente",
         "pt": "quente",
@@ -222,7 +222,7 @@
       "id": "pack_00017_0009",
       "word": "sweaty",
       "hint": null,
-      "phonetic": "/swˈɛɾi/",
+      "phonetic": "/ˈswɛti/",
       "meanings": {
         "es": "sudoroso",
         "pt": "suado",
@@ -248,7 +248,7 @@
       "id": "pack_00017_0010",
       "word": "shivering",
       "hint": null,
-      "phonetic": "/ʃˈɪvɚɹɪŋ/",
+      "phonetic": "/ˈʃɪvərɪŋ/",
       "meanings": {
         "es": "temblando",
         "pt": "tremendo",

@@ -40,7 +40,7 @@
       "id": "pack_00006_0002",
       "word": "egg yolk",
       "hint": null,
-      "phonetic": "/ˈɛɡ jˈoʊk/",
+      "phonetic": "/ɛɡ joʊk/",
       "meanings": {
         "es": "yema",
         "pt": "gema de ovo",
@@ -66,7 +66,7 @@
       "id": "pack_00006_0003",
       "word": "egg white",
       "hint": null,
-      "phonetic": "/ˈɛɡ wˈaɪt/",
+      "phonetic": "/ɛɡ waɪt/",
       "meanings": {
         "es": "clara de huevo",
         "pt": "clara de ovo",
@@ -92,7 +92,7 @@
       "id": "pack_00006_0004",
       "word": "soft-boiled egg",
       "hint": null,
-      "phonetic": "/sˈɔftbˈɔɪld ˈɛɡ/",
+      "phonetic": "/ˈsɑftbɔɪld ɛɡ/",
       "meanings": {
         "es": "huevo pasado por agua",
         "pt": "ovo cozido",
@@ -118,7 +118,7 @@
       "id": "pack_00006_0005",
       "word": "hard-boiled egg",
       "hint": null,
-      "phonetic": "/hˈɑːɹdbˈɔɪld ˈɛɡ/",
+      "phonetic": "/ˈhɑrdbɔɪld ɛɡ/",
       "meanings": {
         "es": "huevo duro",
         "pt": "ovo cozido",
@@ -144,7 +144,7 @@
       "id": "pack_00006_0006",
       "word": "sunny-side-up egg",
       "hint": null,
-      "phonetic": "/sˈʌnisˈaɪdˌʌp ˈɛɡ/",
+      "phonetic": "/ˈsʌnisaɪdʌp ɛɡ/",
       "meanings": {
         "es": "huevo soleado hacia arriba",
         "pt": "ovo estrelado",
@@ -170,7 +170,7 @@
       "id": "pack_00006_0007",
       "word": "over-easy egg",
       "hint": null,
-      "phonetic": "/ˌoʊvɚɹˈiːzi ˈɛɡ/",
+      "phonetic": "/ˈoʊvərizi ɛɡ/",
       "meanings": {
         "es": "huevo demasiado fácil",
         "pt": "ovo fácil demais",
@@ -196,7 +196,7 @@
       "id": "pack_00006_0008",
       "word": "scrambled egg",
       "hint": null,
-      "phonetic": "/skɹˈæmbəld ˈɛɡ/",
+      "phonetic": "/ˈskræmbəld ɛɡ/",
       "meanings": {
         "es": "huevo revuelto",
         "pt": "ovo mexido",
@@ -222,7 +222,7 @@
       "id": "pack_00006_0009",
       "word": "poached egg",
       "hint": null,
-      "phonetic": "/pˈoʊtʃt ˈɛɡ/",
+      "phonetic": "/poʊtʃt ɛɡ/",
       "meanings": {
         "es": "huevo escalfado",
         "pt": "ovo escalfado",
@@ -248,7 +248,7 @@
       "id": "pack_00006_0010",
       "word": "fried egg",
       "hint": null,
-      "phonetic": "/fɹˈaɪd ˈɛɡ/",
+      "phonetic": "/fraɪd ɛɡ/",
       "meanings": {
         "es": "huevo frito",
         "pt": "ovo frito",

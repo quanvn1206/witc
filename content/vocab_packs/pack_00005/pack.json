@@ -14,7 +14,7 @@
       "id": "pack_00005_0001",
       "word": "hamburger",
       "hint": null,
-      "phonetic": "/hˈæmbɜːɡɚ/",
+      "phonetic": "/ˈhæmbərɡər/",
       "meanings": {
         "es": "hamburguesa",
         "pt": "hamburger",
@@ -40,7 +40,7 @@
       "id": "pack_00005_0002",
       "word": "pizza",
       "hint": null,
-      "phonetic": "/pˈiːtsə/",
+      "phonetic": "/ˈpitsə/",
       "meanings": {
         "es": "pizza",
         "pt": "pizza",
@@ -66,7 +66,7 @@
       "id": "pack_00005_0003",
       "word": "fries",
       "hint": null,
-      "phonetic": "/fɹˈaɪz/",
+      "phonetic": "/fraɪz/",
       "meanings": {
         "es": "papas fritas",
         "pt": "batatas fritas",
@@ -92,7 +92,7 @@
       "id": "pack_00005_0004",
       "word": "hot dog",
       "hint": null,
-      "phonetic": "/hˈɑːt dˈɑːɡ/",
+      "phonetic": "/hɑt dɔɡ/",
       "meanings": {
         "es": "Hot dog",
         "pt": "cachorro-quente",
@@ -118,7 +118,7 @@
       "id": "pack_00005_0005",
       "word": "sandwich",
       "hint": null,
-      "phonetic": "/sˈændwɪtʃ/",
+      "phonetic": "/ˈsændwɪtʃ/",
       "meanings": {
         "es": "sándwich",
         "pt": "sanduíche",
@@ -144,7 +144,7 @@
       "id": "pack_00005_0006",
       "word": "taco",
       "hint": null,
-      "phonetic": "/tˈɑːkoʊ/",
+      "phonetic": "/ˈtɑkoʊ/",
       "meanings": {
         "es": "tacos",
         "pt": "taco",
@@ -170,7 +170,7 @@
       "id": "pack_00005_0007",
       "word": "fried chicken",
       "hint": null,
-      "phonetic": "/fɹˈaɪd tʃˈɪkɪn/",
+      "phonetic": "/fraɪd ˈtʃɪkən/",
       "meanings": {
         "es": "Pollo frito",
         "pt": "frango frito",
@@ -196,7 +196,7 @@
       "id": "pack_00005_0008",
       "word": "nachos",
       "hint": null,
-      "phonetic": "/nˈætʃoʊz/",
+      "phonetic": "/ˈnɑtʃoʊz/",
       "meanings": {
         "es": "nachos",
         "pt": "nachos",
@@ -222,7 +222,7 @@
       "id": "pack_00005_0009",
       "word": "popcorn",
       "hint": null,
-      "phonetic": "/pˈɑːpkɔːɹn/",
+      "phonetic": "/ˈpɑpkɔrn/",
       "meanings": {
         "es": "Palomitas",
         "pt": "Pipoca",
@@ -248,7 +248,7 @@
       "id": "pack_00005_0010",
       "word": "sushi",
       "hint": null,
-      "phonetic": "/sˈuːʃi/",
+      "phonetic": "/ˈsuʃi/",
       "meanings": {
         "es": "sushi",
         "pt": "sushi",

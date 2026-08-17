@@ -14,7 +14,7 @@
       "id": "pack_00003_0001",
       "word": "water",
       "hint": null,
-      "phonetic": "/wˈɔːɾɚ/",
+      "phonetic": "/ˈwɔtər/",
       "meanings": {
         "es": "agua",
         "pt": "água",
@@ -40,7 +40,7 @@
       "id": "pack_00003_0002",
       "word": "milk",
       "hint": null,
-      "phonetic": "/mˈɪlk/",
+      "phonetic": "/mɪlk/",
       "meanings": {
         "es": "leche",
         "pt": "leite",
@@ -66,7 +66,7 @@
       "id": "pack_00003_0003",
       "word": "juice",
       "hint": null,
-      "phonetic": "/dʒˈuːs/",
+      "phonetic": "/dʒus/",
       "meanings": {
         "es": "jugo",
         "pt": "suco",
@@ -92,7 +92,7 @@
       "id": "pack_00003_0004",
       "word": "coffee",
       "hint": null,
-      "phonetic": "/kˈɔfi/",
+      "phonetic": "/ˈkɑfi/",
       "meanings": {
         "es": "café",
         "pt": "café",
@@ -118,7 +118,7 @@
       "id": "pack_00003_0005",
       "word": "tea",
       "hint": null,
-      "phonetic": "/tˈiː/",
+      "phonetic": "/ti/",
       "meanings": {
         "es": "té",
         "pt": "chá",
@@ -144,7 +144,7 @@
       "id": "pack_00003_0006",
       "word": "soda",
       "hint": null,
-      "phonetic": "/sˈoʊdə/",
+      "phonetic": "/ˈsoʊdə/",
       "meanings": {
         "es": "soda",
         "pt": "refrigerante",
@@ -170,7 +170,7 @@
       "id": "pack_00003_0007",
       "word": "lemonade",
       "hint": null,
-      "phonetic": "/lˌɛmənˈeɪd/",
+      "phonetic": "/ˈlɛməneɪd/",
       "meanings": {
         "es": "limonada",
         "pt": "limonada",
@@ -196,7 +196,7 @@
       "id": "pack_00003_0008",
       "word": "smoothie",
       "hint": null,
-      "phonetic": "/smˈuːði/",
+      "phonetic": "/ˈsmuði/",
       "meanings": {
         "es": "zalamero",
         "pt": "smoothie",
@@ -222,7 +222,7 @@
       "id": "pack_00003_0009",
       "word": "hot chocolate",
       "hint": null,
-      "phonetic": "/hˈɑːt tʃˈɑːklət/",
+      "phonetic": "/hɑt ˈtʃɔklət/",
       "meanings": {
         "es": "chocolate caliente",
         "pt": "chocolate quente",
@@ -248,7 +248,7 @@
       "id": "pack_00003_0010",
       "word": "coconut water",
       "hint": null,
-      "phonetic": "/kˈoʊkənˌʌt wˈɔːɾɚ/",
+      "phonetic": "/ˈkoʊkənʌt ˈwɔtər/",
       "meanings": {
         "es": "agua de coco",
         "pt": "Água de Côco",

@@ -14,7 +14,7 @@
       "id": "pack_00032_0001",
       "word": "washing machine",
       "hint": null,
-      "phonetic": "/wˈɑːʃɪŋ məʃˈiːn/",
+      "phonetic": "/ˈwɑʃɪŋ məˈʃin/",
       "meanings": {
         "es": "lavadora",
         "pt": "máquina de lavar",
@@ -40,7 +40,7 @@
       "id": "pack_00032_0002",
       "word": "laundry basket",
       "hint": null,
-      "phonetic": "/lˈɔːndɹi bˈæskɪt/",
+      "phonetic": "/ˈlɔndri ˈbæskət/",
       "meanings": {
         "es": "cesto de la ropa sucia",
         "pt": "cesto de roupa suja",
@@ -66,7 +66,7 @@
       "id": "pack_00032_0003",
       "word": "detergent",
       "hint": null,
-      "phonetic": "/dɪtˈɜːdʒənt/",
+      "phonetic": "/dɪˈtɜrdʒənt/",
       "meanings": {
         "es": "detergente",
         "pt": "detergente",
@@ -92,7 +92,7 @@
       "id": "pack_00032_0004",
       "word": "clothespin",
       "hint": null,
-      "phonetic": "/klˈoʊðspɪn/",
+      "phonetic": "/ˈkloʊzpɪn/",
       "meanings": {
         "es": "pinza para la ropa",
         "pt": "prendedor de roupa",
@@ -118,7 +118,7 @@
       "id": "pack_00032_0005",
       "word": "iron",
       "hint": null,
-      "phonetic": "/ˈaɪɚn/",
+      "phonetic": "/ˈaɪərn/",
       "meanings": {
         "es": "hierro",
         "pt": "ferro",
@@ -144,7 +144,7 @@
       "id": "pack_00032_0006",
       "word": "ironing board",
       "hint": null,
-      "phonetic": "/ˈaɪɚnɪŋ bˈɔːɹd/",
+      "phonetic": "/ˈaɪərnɪŋ bɔrd/",
       "meanings": {
         "es": "tabla de planchar",
         "pt": "tábua de passar roupa",
@@ -170,7 +170,7 @@
       "id": "pack_00032_0007",
       "word": "hanger",
       "hint": null,
-      "phonetic": "/hˈæŋɚ/",
+      "phonetic": "/ˈhæŋər/",
       "meanings": {
         "es": "percha",
         "pt": "cabide",
@@ -196,7 +196,7 @@
       "id": "pack_00032_0008",
       "word": "fabric softener",
       "hint": null,
-      "phonetic": "/fˈæbɹɪk sˈɔfənɚ/",
+      "phonetic": "/ˈfæbrɪk ˈsɔfənər/",
       "meanings": {
         "es": "suavizante de telas",
         "pt": "amaciante de roupas",
@@ -222,7 +222,7 @@
       "id": "pack_00032_0009",
       "word": "dryer",
       "hint": null,
-      "phonetic": "/dɹˈaɪɚ/",
+      "phonetic": "/ˈdraɪər/",
       "meanings": {
         "es": "secadora",
         "pt": "secador",
@@ -248,7 +248,7 @@
       "id": "pack_00032_0010",
       "word": "laundry bag",
       "hint": null,
-      "phonetic": "/lˈɔːndɹi bˈæɡ/",
+      "phonetic": "/ˈlɔndri bæɡ/",
       "meanings": {
         "es": "bolsa de lavandería",
         "pt": "saco de roupa suja",

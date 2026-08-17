@@ -14,7 +14,7 @@
       "id": "pack_00054_0001",
       "word": "car",
       "hint": null,
-      "phonetic": "/kˈɑːɹ/",
+      "phonetic": "/kɑr/",
       "meanings": {
         "es": "auto",
         "pt": "carro",
@@ -40,7 +40,7 @@
       "id": "pack_00054_0002",
       "word": "bus",
       "hint": null,
-      "phonetic": "/bˈʌs/",
+      "phonetic": "/bʌs/",
       "meanings": {
         "es": "autobús",
         "pt": "ônibus",
@@ -66,7 +66,7 @@
       "id": "pack_00054_0003",
       "word": "train",
       "hint": null,
-      "phonetic": "/tɹˈeɪn/",
+      "phonetic": "/treɪn/",
       "meanings": {
         "es": "tren",
         "pt": "trem",
@@ -92,7 +92,7 @@
       "id": "pack_00054_0004",
       "word": "bicycle",
       "hint": null,
-      "phonetic": "/bˈaɪsɪkəl/",
+      "phonetic": "/ˈbaɪsɪkəl/",
       "meanings": {
         "es": "bicicleta",
         "pt": "bicicleta",
@@ -118,7 +118,7 @@
       "id": "pack_00054_0005",
       "word": "motorcycle",
       "hint": null,
-      "phonetic": "/mˈoʊɾɚsˌaɪkəl/",
+      "phonetic": "/ˈmoʊtərsaɪkəl/",
       "meanings": {
         "es": "motocicleta",
         "pt": "motocicleta",
@@ -144,7 +144,7 @@
       "id": "pack_00054_0006",
       "word": "taxi",
       "hint": null,
-      "phonetic": "/tˈæksi/",
+      "phonetic": "/ˈtæksi/",
       "meanings": {
         "es": "Taxi",
         "pt": "Táxi",
@@ -170,7 +170,7 @@
       "id": "pack_00054_0007",
       "word": "truck",
       "hint": null,
-      "phonetic": "/tɹˈʌk/",
+      "phonetic": "/trʌk/",
       "meanings": {
         "es": "camión",
         "pt": "caminhão",
@@ -196,7 +196,7 @@
       "id": "pack_00054_0008",
       "word": "van",
       "hint": null,
-      "phonetic": "/vˈæn/",
+      "phonetic": "/væn/",
       "meanings": {
         "es": "furgoneta",
         "pt": "van",
@@ -222,7 +222,7 @@
       "id": "pack_00054_0009",
       "word": "boat",
       "hint": null,
-      "phonetic": "/bˈoʊt/",
+      "phonetic": "/boʊt/",
       "meanings": {
         "es": "bote",
         "pt": "barco",
@@ -248,7 +248,7 @@
       "id": "pack_00054_0010",
       "word": "airplane",
       "hint": null,
-      "phonetic": "/ˈɛɹpleɪn/",
+      "phonetic": "/ˈɛrpleɪn/",
       "meanings": {
         "es": "avión",
         "pt": "avião",
