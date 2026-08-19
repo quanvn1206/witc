@@ -53,7 +53,7 @@
         "de": "Biodiversität",
         "zh": "生物多样性",
         "ja": "生物多様性",
-        "ko": "생물 다양성",
+        "ko": "생물다양성",
         "ar": "التنوع البيولوجي",
         "tr": "biyolojik çeşitlilik",
         "en": "biodiversity"
@@ -70,7 +70,7 @@
       "meanings": {
         "es": "cultivo",
         "pt": "cultivo",
-        "fr": "cultivation",
+        "fr": "culture",
         "hi": "खेती",
         "ms": "penanaman",
         "id": "penanaman",
@@ -80,7 +80,7 @@
         "zh": "栽培",
         "ja": "栽培",
         "ko": "경작",
-        "ar": "زراعة",
+        "ar": "استزراع",
         "tr": "yetiştirme",
         "en": "cultivation"
       },
@@ -209,7 +209,7 @@
         "de": "Produktivität",
         "zh": "生产率",
         "ja": "生産性",
-        "ko": "생산력",
+        "ko": "생산성",
         "ar": "إنتاجية",
         "tr": "üretkenlik",
         "en": "productivity"

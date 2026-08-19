@@ -53,7 +53,7 @@
         "de": "Automatisierung",
         "zh": "自动化",
         "ja": "オートメーション",
-        "ko": "오토메이션",
+        "ko": "자동화",
         "ar": "الأتمتة",
         "tr": "otomasyon",
         "en": "automation"
@@ -131,7 +131,7 @@
         "de": "Algorithmus",
         "zh": "算法",
         "ja": "アルゴリズム",
-        "ko": "연산",
+        "ko": "알고리즘",
         "ar": "خوارزمية",
         "tr": "algoritma",
         "en": "algorithm"
@@ -262,7 +262,7 @@
         "zh": "区块链",
         "ja": "ブロックチェーン",
         "ko": "블록체인",
-        "ar": "blockchain",
+        "ar": "بلوك تشين",
         "tr": "blok zinciri",
         "en": "blockchain"
       },

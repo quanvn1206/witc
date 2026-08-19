@@ -50,10 +50,10 @@
         "id": "pencegahan",
         "vi": "phòng ngừa",
         "it": "prevenzione",
-        "de": "Verhütung",
+        "de": "Prävention",
         "zh": "预防",
         "ja": "防止",
-        "ko": "방지",
+        "ko": "예방",
         "ar": "وقاية",
         "tr": "önleme",
         "en": "prevention"
@@ -79,7 +79,7 @@
         "de": "Rehabilitation",
         "zh": "康复",
         "ja": "リハビリテーション",
-        "ko": "복권",
+        "ko": "재활",
         "ar": "إعادة التأهيل",
         "tr": "rehabilitasyon",
         "en": "rehabilitation"
@@ -157,7 +157,7 @@
         "de": "Labor",
         "zh": "实验室",
         "ja": "研究室",
-        "ko": "실혐실",
+        "ko": "실험실",
         "ar": "معمل",
         "tr": "laboratuvar",
         "en": "laboratory"
@@ -261,7 +261,7 @@
         "de": "ambulant",
         "zh": "门诊",
         "ja": "外来",
-        "ko": "외래 환자",
+        "ko": "외래환자",
         "ar": "العيادات الخارجية",
         "tr": "ayakta tedavi gören",
         "en": "outpatient"

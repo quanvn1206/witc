@@ -27,7 +27,7 @@
         "de": "Parade",
         "zh": "游行",
         "ja": "パレード",
-        "ko": "행렬",
+        "ko": "퍼레이드",
         "ar": "موكب",
         "tr": "geçit töreni",
         "en": "parade"
@@ -53,7 +53,7 @@
         "de": "Feuerwerk",
         "zh": "烟花",
         "ja": "花火",
-        "ko": "불꽃",
+        "ko": "불꽃놀이",
         "ar": "ألعاب نارية",
         "tr": "havai fişek",
         "en": "fireworks"
@@ -71,7 +71,7 @@
         "es": "traje",
         "pt": "fantasia",
         "fr": "costume",
-        "hi": "पोशाक",
+        "hi": "वेशभूषा",
         "ms": "pakaian",
         "id": "kostum",
         "vi": "trang phục",
@@ -79,7 +79,7 @@
         "de": "Kostüm",
         "zh": "戏服",
         "ja": "コスチューム",
-        "ko": "복장",
+        "ko": "의상",
         "ar": "زي",
         "tr": "kostüm",
         "en": "costume"
@@ -184,7 +184,7 @@
         "zh": "野餐",
         "ja": "ピクニック",
         "ko": "피크닉",
-        "ar": "نزهه",
+        "ar": "نزهة",
         "tr": "piknik",
         "en": "picnic"
       },
@@ -209,7 +209,7 @@
         "de": "Familientreffen",
         "zh": "家庭团聚",
         "ja": "家族の再会",
-        "ko": "이산가족 상봉",
+        "ko": "가족 모임",
         "ar": "لم شمل الأسرة",
         "tr": "aile birleşimi",
         "en": "family reunion"
@@ -224,8 +224,8 @@
       "hint": null,
       "phonetic": "/dæns/",
       "meanings": {
-        "es": "bailar",
-        "pt": "dança",
+        "es": "baile",
+        "pt": "dançar",
         "fr": "danse",
         "hi": "नृत्य",
         "ms": "menari",

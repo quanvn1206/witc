@@ -133,7 +133,7 @@
         "ja": "政府",
         "ko": "정부",
         "ar": "حكومة",
-        "tr": "devlet",
+        "tr": "hükümet",
         "en": "government"
       },
       "imagePath": "images/government.webp",
@@ -176,7 +176,7 @@
         "pt": "reino",
         "fr": "royaume",
         "hi": "साम्राज्य",
-        "ms": "kerajaan",
+        "ms": "kerajaan (monarki)",
         "id": "kerajaan",
         "vi": "vương quốc",
         "it": "regno",
@@ -235,7 +235,7 @@
         "de": "Amtssprache",
         "zh": "官方语言",
         "ja": "公用語",
-        "ko": "공식 언어",
+        "ko": "공용어",
         "ar": "اللغة الرسمية",
         "tr": "resmi dil",
         "en": "official language"
