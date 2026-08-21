@@ -1,0 +1,23 @@
+{
+  "id": "topic_trending",
+  "version": 1,
+  "title": "Trending",
+  "description": "Popular packs to play right now.",
+  "coverImage": "images/cover.webp",
+  "packIds": [
+    "pack_00006",
+    "pack_00017",
+    "pack_00025",
+    "pack_00036",
+    "pack_00053",
+    "pack_00064",
+    "pack_00082",
+    "pack_00138",
+    "pack_00161",
+    "pack_00165"
+  ],
+  "tags": [
+    "trending"
+  ],
+  "isTrending": true
+}

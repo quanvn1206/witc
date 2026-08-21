@@ -1,7 +1,11 @@
 {
-  "manifestVersion": 3,
+  "manifestVersion": 4,
   "trendingTopicIds": [],
   "topics": [
+    {
+      "id": "topic_trending",
+      "version": 1
+    },
     {
       "id": "topic_00001",
       "version": 2
