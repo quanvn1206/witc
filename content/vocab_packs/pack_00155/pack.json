@@ -40,7 +40,7 @@
       "id": "pack_00155_0002",
       "word": "ingredient",
       "hint": null,
-      "phonetic": "/ˌɪnˈɡridiənt/",
+      "phonetic": "/ˌɪnˈɡriːdiənt/",
       "meanings": {
         "es": "ingrediente",
         "pt": "ingrediente",
@@ -66,7 +66,7 @@
       "id": "pack_00155_0003",
       "word": "cuisine",
       "hint": null,
-      "phonetic": "/kwɪˈzin/",
+      "phonetic": "/kwɪˈziːn/",
       "meanings": {
         "es": "cocina",
         "pt": "cozinha",
@@ -92,7 +92,7 @@
       "id": "pack_00155_0004",
       "word": "seasoning",
       "hint": null,
-      "phonetic": "/ˈsizənɪŋ/",
+      "phonetic": "/ˈsiːzənɪŋ/",
       "meanings": {
         "es": "condimento",
         "pt": "tempero",
@@ -170,7 +170,7 @@
       "id": "pack_00155_0007",
       "word": "hygiene",
       "hint": null,
-      "phonetic": "/ˈhaɪdʒin/",
+      "phonetic": "/ˈhaɪdʒiːn/",
       "meanings": {
         "es": "higiene",
         "pt": "higiene",
@@ -196,7 +196,7 @@
       "id": "pack_00155_0008",
       "word": "portion",
       "hint": null,
-      "phonetic": "/ˈpɔrʃən/",
+      "phonetic": "/ˈpɔːrʃən/",
       "meanings": {
         "es": "porción",
         "pt": "parte",
@@ -222,7 +222,7 @@
       "id": "pack_00155_0009",
       "word": "garnish",
       "hint": null,
-      "phonetic": "/ˈɡɑrnɪʃ/",
+      "phonetic": "/ˈɡɑːrnɪʃ/",
       "meanings": {
         "es": "guarnición",
         "pt": "enfeitar",

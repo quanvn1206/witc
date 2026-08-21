@@ -40,7 +40,7 @@
       "id": "pack_00055_0002",
       "word": "platform",
       "hint": null,
-      "phonetic": "/ˈplætfɔrm/",
+      "phonetic": "/ˈplætfɔːrm/",
       "meanings": {
         "es": "plataforma",
         "pt": "plataforma",
@@ -144,7 +144,7 @@
       "id": "pack_00055_0006",
       "word": "stop",
       "hint": null,
-      "phonetic": "/stɑp/",
+      "phonetic": "/stɑːp/",
       "meanings": {
         "es": "detener",
         "pt": "parar",
@@ -170,7 +170,7 @@
       "id": "pack_00055_0007",
       "word": "route",
       "hint": null,
-      "phonetic": "/rut/",
+      "phonetic": "/ruːt/",
       "meanings": {
         "es": "ruta",
         "pt": "rota",

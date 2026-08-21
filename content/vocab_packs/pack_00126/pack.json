@@ -14,7 +14,7 @@
       "id": "pack_00126_0001",
       "word": "car",
       "hint": null,
-      "phonetic": "/kɑr/",
+      "phonetic": "/kɑːr/",
       "meanings": {
         "es": "auto",
         "pt": "carro",
@@ -40,7 +40,7 @@
       "id": "pack_00126_0002",
       "word": "wheel",
       "hint": null,
-      "phonetic": "/wil/",
+      "phonetic": "/wiːl/",
       "meanings": {
         "es": "rueda",
         "pt": "roda",
@@ -118,7 +118,7 @@
       "id": "pack_00126_0005",
       "word": "door",
       "hint": null,
-      "phonetic": "/dɔr/",
+      "phonetic": "/dɔːr/",
       "meanings": {
         "es": "puerta",
         "pt": "porta",
@@ -196,7 +196,7 @@
       "id": "pack_00126_0008",
       "word": "seat",
       "hint": null,
-      "phonetic": "/sit/",
+      "phonetic": "/siːt/",
       "meanings": {
         "es": "asiento",
         "pt": "assento",
@@ -248,7 +248,7 @@
       "id": "pack_00126_0010",
       "word": "steering wheel",
       "hint": null,
-      "phonetic": "/ˈstɪrɪŋ wil/",
+      "phonetic": "/ˈstɪrɪŋ wiːl/",
       "meanings": {
         "es": "volante",
         "pt": "volante",

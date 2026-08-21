@@ -40,7 +40,7 @@
       "id": "pack_00158_0002",
       "word": "harvest",
       "hint": null,
-      "phonetic": "/ˈhɑrvəst/",
+      "phonetic": "/ˈhɑːrvəst/",
       "meanings": {
         "es": "cosechar",
         "pt": "colher",
@@ -66,7 +66,7 @@
       "id": "pack_00158_0003",
       "word": "water",
       "hint": null,
-      "phonetic": "/ˈwɔtər/",
+      "phonetic": "/ˈwɔːtər/",
       "meanings": {
         "es": "regar",
         "pt": "regar",
@@ -92,7 +92,7 @@
       "id": "pack_00158_0004",
       "word": "feed",
       "hint": null,
-      "phonetic": "/fid/",
+      "phonetic": "/fiːd/",
       "meanings": {
         "es": "alimentar",
         "pt": "alimentar",
@@ -196,7 +196,7 @@
       "id": "pack_00158_0008",
       "word": "fertilize",
       "hint": null,
-      "phonetic": "/ˈfɜrtəlaɪz/",
+      "phonetic": "/ˈfɜːrtəlaɪz/",
       "meanings": {
         "es": "abonar",
         "pt": "fertilizar",

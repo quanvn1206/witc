@@ -14,7 +14,7 @@
       "id": "pack_00097_0001",
       "word": "movie",
       "hint": null,
-      "phonetic": "/ˈmuvi/",
+      "phonetic": "/ˈmuːvi/",
       "meanings": {
         "es": "película",
         "pt": "filme",
@@ -144,7 +144,7 @@
       "id": "pack_00097_0006",
       "word": "screen",
       "hint": null,
-      "phonetic": "/skrin/",
+      "phonetic": "/skriːn/",
       "meanings": {
         "es": "pantalla",
         "pt": "tela",
@@ -170,7 +170,7 @@
       "id": "pack_00097_0007",
       "word": "comedy",
       "hint": null,
-      "phonetic": "/ˈkɑmədi/",
+      "phonetic": "/ˈkɑːmədi/",
       "meanings": {
         "es": "comedia",
         "pt": "comédia",
@@ -196,7 +196,7 @@
       "id": "pack_00097_0008",
       "word": "cartoon",
       "hint": null,
-      "phonetic": "/kɑrˈtun/",
+      "phonetic": "/kɑrˈtuːn/",
       "meanings": {
         "es": "dibujos animados",
         "pt": "desenho animado",
@@ -248,7 +248,7 @@
       "id": "pack_00097_0010",
       "word": "scene",
       "hint": null,
-      "phonetic": "/sin/",
+      "phonetic": "/siːn/",
       "meanings": {
         "es": "escena",
         "pt": "cena",

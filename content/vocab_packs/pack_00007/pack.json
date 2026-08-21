@@ -66,7 +66,7 @@
       "id": "pack_00007_0003",
       "word": "horse",
       "hint": null,
-      "phonetic": "/hɔrs/",
+      "phonetic": "/hɔːrs/",
       "meanings": {
         "es": "caballo",
         "pt": "cavalo",
@@ -92,7 +92,7 @@
       "id": "pack_00007_0004",
       "word": "sheep",
       "hint": null,
-      "phonetic": "/ʃip/",
+      "phonetic": "/ʃiːp/",
       "meanings": {
         "es": "oveja",
         "pt": "ovelha",
@@ -196,7 +196,7 @@
       "id": "pack_00007_0008",
       "word": "rooster",
       "hint": null,
-      "phonetic": "/ˈrustər/",
+      "phonetic": "/ˈruːstər/",
       "meanings": {
         "es": "gallo",
         "pt": "galo",
@@ -222,7 +222,7 @@
       "id": "pack_00007_0009",
       "word": "donkey",
       "hint": null,
-      "phonetic": "/ˈdɑŋki/",
+      "phonetic": "/ˈdɑːŋki/",
       "meanings": {
         "es": "burro",
         "pt": "burro",

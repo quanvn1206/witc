@@ -14,7 +14,7 @@
       "id": "pack_00139_0001",
       "word": "commute",
       "hint": null,
-      "phonetic": "/kəˈmjut/",
+      "phonetic": "/kəˈmjuːt/",
       "meanings": {
         "es": "desplazarse",
         "pt": "trajeto",
@@ -40,7 +40,7 @@
       "id": "pack_00139_0002",
       "word": "public transport",
       "hint": null,
-      "phonetic": "/ˈpʌblɪk trænˈspɔrt/",
+      "phonetic": "/ˈpʌblɪk trænˈspɔːrt/",
       "meanings": {
         "es": "transporte público",
         "pt": "transporte público",
@@ -118,7 +118,7 @@
       "id": "pack_00139_0005",
       "word": "pedestrian crossing",
       "hint": null,
-      "phonetic": "/pəˈdɛstriən ˈkrɔsɪŋ/",
+      "phonetic": "/pəˈdɛstriən ˈkrɔːsɪŋ/",
       "meanings": {
         "es": "paso de peatones",
         "pt": "passagem para pedestres",

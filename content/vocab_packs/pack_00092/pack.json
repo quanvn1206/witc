@@ -92,7 +92,7 @@
       "id": "pack_00092_0004",
       "word": "colleague",
       "hint": null,
-      "phonetic": "/ˈkɑliɡ/",
+      "phonetic": "/ˈkɑːliɡ/",
       "meanings": {
         "es": "colega",
         "pt": "colega",
@@ -144,7 +144,7 @@
       "id": "pack_00092_0006",
       "word": "boss",
       "hint": null,
-      "phonetic": "/bɑs/",
+      "phonetic": "/bɑːs/",
       "meanings": {
         "es": "jefe",
         "pt": "chefe",
@@ -248,7 +248,7 @@
       "id": "pack_00092_0010",
       "word": "team",
       "hint": null,
-      "phonetic": "/tim/",
+      "phonetic": "/tiːm/",
       "meanings": {
         "es": "equipo",
         "pt": "equipe",

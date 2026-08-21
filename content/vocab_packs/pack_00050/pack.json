@@ -66,7 +66,7 @@
       "id": "pack_00050_0003",
       "word": "autumn",
       "hint": null,
-      "phonetic": "/ˈɔtəm/",
+      "phonetic": "/ˈɔːtəm/",
       "meanings": {
         "es": "otoño",
         "pt": "outono",
@@ -118,7 +118,7 @@
       "id": "pack_00050_0005",
       "word": "season",
       "hint": null,
-      "phonetic": "/ˈsizən/",
+      "phonetic": "/ˈsiːzən/",
       "meanings": {
         "es": "estación",
         "pt": "temporada",
@@ -170,7 +170,7 @@
       "id": "pack_00050_0007",
       "word": "rainfall",
       "hint": null,
-      "phonetic": "/ˈreɪnfɔl/",
+      "phonetic": "/ˈreɪnfɔːl/",
       "meanings": {
         "es": "lluvia",
         "pt": "chuva",
@@ -222,7 +222,7 @@
       "id": "pack_00050_0009",
       "word": "breeze",
       "hint": null,
-      "phonetic": "/briz/",
+      "phonetic": "/briːz/",
       "meanings": {
         "es": "brisa",
         "pt": "brisa",

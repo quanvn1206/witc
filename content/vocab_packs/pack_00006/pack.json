@@ -92,7 +92,7 @@
       "id": "pack_00006_0004",
       "word": "soft-boiled egg",
       "hint": null,
-      "phonetic": "/ˈsɑftbɔɪld ɛɡ/",
+      "phonetic": "/ˈsɑːftbɔɪld ɛɡ/",
       "meanings": {
         "es": "huevo pasado por agua",
         "pt": "ovo mole",
@@ -118,7 +118,7 @@
       "id": "pack_00006_0005",
       "word": "hard-boiled egg",
       "hint": null,
-      "phonetic": "/ˈhɑrdbɔɪld ɛɡ/",
+      "phonetic": "/ˈhɑːrdbɔɪld ɛɡ/",
       "meanings": {
         "es": "huevo duro",
         "pt": "ovo cozido",
@@ -170,7 +170,7 @@
       "id": "pack_00006_0007",
       "word": "over-easy egg",
       "hint": null,
-      "phonetic": "/ˈoʊvərizi ɛɡ/",
+      "phonetic": "/ˈoʊvəriːzi ɛɡ/",
       "meanings": {
         "es": "huevo vuelta y vuelta",
         "pt": "ovo frito dos dois lados",

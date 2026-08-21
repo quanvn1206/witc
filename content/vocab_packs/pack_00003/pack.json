@@ -14,7 +14,7 @@
       "id": "pack_00003_0001",
       "word": "water",
       "hint": null,
-      "phonetic": "/ˈwɔtər/",
+      "phonetic": "/ˈwɔːtər/",
       "meanings": {
         "es": "agua",
         "pt": "água",
@@ -66,7 +66,7 @@
       "id": "pack_00003_0003",
       "word": "juice",
       "hint": null,
-      "phonetic": "/dʒus/",
+      "phonetic": "/dʒuːs/",
       "meanings": {
         "es": "jugo",
         "pt": "suco",
@@ -92,7 +92,7 @@
       "id": "pack_00003_0004",
       "word": "coffee",
       "hint": null,
-      "phonetic": "/ˈkɑfi/",
+      "phonetic": "/ˈkɑːfi/",
       "meanings": {
         "es": "café",
         "pt": "café",
@@ -118,7 +118,7 @@
       "id": "pack_00003_0005",
       "word": "tea",
       "hint": null,
-      "phonetic": "/ti/",
+      "phonetic": "/tiː/",
       "meanings": {
         "es": "té",
         "pt": "chá",
@@ -196,7 +196,7 @@
       "id": "pack_00003_0008",
       "word": "smoothie",
       "hint": null,
-      "phonetic": "/ˈsmuði/",
+      "phonetic": "/ˈsmuːði/",
       "meanings": {
         "es": "batido",
         "pt": "smoothie",
@@ -222,7 +222,7 @@
       "id": "pack_00003_0009",
       "word": "hot chocolate",
       "hint": null,
-      "phonetic": "/hɑt ˈtʃɔklət/",
+      "phonetic": "/hɑːt ˈtʃɔːklət/",
       "meanings": {
         "es": "chocolate caliente",
         "pt": "chocolate quente",
@@ -248,7 +248,7 @@
       "id": "pack_00003_0010",
       "word": "coconut water",
       "hint": null,
-      "phonetic": "/ˈkoʊkənʌt ˈwɔtər/",
+      "phonetic": "/ˈkoʊkənʌt ˈwɔːtər/",
       "meanings": {
         "es": "agua de coco",
         "pt": "Água de Côco",

@@ -14,7 +14,7 @@
       "id": "pack_00127_0001",
       "word": "fuel",
       "hint": null,
-      "phonetic": "/ˈfjuəl/",
+      "phonetic": "/ˈfjuːəl/",
       "meanings": {
         "es": "combustible",
         "pt": "combustível",
@@ -92,7 +92,7 @@
       "id": "pack_00127_0004",
       "word": "wash",
       "hint": null,
-      "phonetic": "/wɑʃ/",
+      "phonetic": "/wɑːʃ/",
       "meanings": {
         "es": "lavar",
         "pt": "lavar",
@@ -144,7 +144,7 @@
       "id": "pack_00127_0006",
       "word": "garage",
       "hint": null,
-      "phonetic": "/ɡəˈrɑʒ/",
+      "phonetic": "/ɡəˈrɑːʒ/",
       "meanings": {
         "es": "taller mecánico",
         "pt": "garagem",
@@ -222,7 +222,7 @@
       "id": "pack_00127_0009",
       "word": "toolbox",
       "hint": null,
-      "phonetic": "/ˈtulbɔks/",
+      "phonetic": "/ˈtuːlbɔːks/",
       "meanings": {
         "es": "caja de instrumento",
         "pt": "caixa de ferramentas",

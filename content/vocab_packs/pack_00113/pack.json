@@ -14,7 +14,7 @@
       "id": "pack_00113_0001",
       "word": "fortress",
       "hint": null,
-      "phonetic": "/ˈfɔrtrəs/",
+      "phonetic": "/ˈfɔːrtrəs/",
       "meanings": {
         "es": "fortaleza",
         "pt": "fortaleza",
@@ -40,7 +40,7 @@
       "id": "pack_00113_0002",
       "word": "ruins",
       "hint": null,
-      "phonetic": "/ˈruənz/",
+      "phonetic": "/ˈruːənz/",
       "meanings": {
         "es": "ruinas",
         "pt": "ruínas",
@@ -66,7 +66,7 @@
       "id": "pack_00113_0003",
       "word": "cathedral",
       "hint": null,
-      "phonetic": "/kəˈθidrəl/",
+      "phonetic": "/kəˈθiːdrəl/",
       "meanings": {
         "es": "catedral",
         "pt": "catedral",
@@ -92,7 +92,7 @@
       "id": "pack_00113_0004",
       "word": "arch",
       "hint": null,
-      "phonetic": "/ɑrtʃ/",
+      "phonetic": "/ɑːrtʃ/",
       "meanings": {
         "es": "arco",
         "pt": "arco",
@@ -144,7 +144,7 @@
       "id": "pack_00113_0006",
       "word": "fortress wall",
       "hint": null,
-      "phonetic": "/ˈfɔrtrəs wɔl/",
+      "phonetic": "/ˈfɔːrtrəs wɔːl/",
       "meanings": {
         "es": "muralla de la fortaleza",
         "pt": "muralha da fortaleza",
@@ -170,7 +170,7 @@
       "id": "pack_00113_0007",
       "word": "observatory",
       "hint": null,
-      "phonetic": "/əbˈzɜrvətɔri/",
+      "phonetic": "/əbˈzɜːrvətɔːri/",
       "meanings": {
         "es": "observatorio",
         "pt": "observatório",
@@ -248,7 +248,7 @@
       "id": "pack_00113_0010",
       "word": "memorial",
       "hint": null,
-      "phonetic": "/məˈmɔriəl/",
+      "phonetic": "/məˈmɔːriəl/",
       "meanings": {
         "es": "memorial",
         "pt": "memorial",

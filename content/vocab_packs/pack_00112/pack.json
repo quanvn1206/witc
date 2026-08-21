@@ -14,7 +14,7 @@
       "id": "pack_00112_0001",
       "word": "museum",
       "hint": null,
-      "phonetic": "/mjuˈziəm/",
+      "phonetic": "/mjuˈziːəm/",
       "meanings": {
         "es": "museo",
         "pt": "museu",
@@ -118,7 +118,7 @@
       "id": "pack_00112_0005",
       "word": "monument",
       "hint": null,
-      "phonetic": "/ˈmɑnjumənt/",
+      "phonetic": "/ˈmɑːnjumənt/",
       "meanings": {
         "es": "monumento",
         "pt": "monumento",
@@ -144,7 +144,7 @@
       "id": "pack_00112_0006",
       "word": "garden",
       "hint": null,
-      "phonetic": "/ˈɡɑrdən/",
+      "phonetic": "/ˈɡɑːrdən/",
       "meanings": {
         "es": "jardín",
         "pt": "jardim",
@@ -222,7 +222,7 @@
       "id": "pack_00112_0009",
       "word": "church",
       "hint": null,
-      "phonetic": "/tʃɜrtʃ/",
+      "phonetic": "/tʃɜːrtʃ/",
       "meanings": {
         "es": "iglesia",
         "pt": "igreja",
@@ -248,7 +248,7 @@
       "id": "pack_00112_0010",
       "word": "park",
       "hint": null,
-      "phonetic": "/pɑrk/",
+      "phonetic": "/pɑːrk/",
       "meanings": {
         "es": "parque",
         "pt": "parque",

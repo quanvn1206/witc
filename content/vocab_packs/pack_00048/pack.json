@@ -14,7 +14,7 @@
       "id": "pack_00048_0001",
       "word": "colleague",
       "hint": null,
-      "phonetic": "/ˈkɑliɡ/",
+      "phonetic": "/ˈkɑːliɡ/",
       "meanings": {
         "es": "colega",
         "pt": "colega",
@@ -40,7 +40,7 @@
       "id": "pack_00048_0002",
       "word": "roommate",
       "hint": null,
-      "phonetic": "/ˈrumeɪt/",
+      "phonetic": "/ˈruːmeɪt/",
       "meanings": {
         "es": "compañero de cuarto",
         "pt": "colega de quarto",
@@ -196,7 +196,7 @@
       "id": "pack_00048_0008",
       "word": "teammate",
       "hint": null,
-      "phonetic": "/ˈtimeɪt/",
+      "phonetic": "/ˈtiːmeɪt/",
       "meanings": {
         "es": "compañero de equipo",
         "pt": "companheiro de equipe",
@@ -222,7 +222,7 @@
       "id": "pack_00048_0009",
       "word": "leader",
       "hint": null,
-      "phonetic": "/ˈlidər/",
+      "phonetic": "/ˈliːdər/",
       "meanings": {
         "es": "líder",
         "pt": "líder",
@@ -248,7 +248,7 @@
       "id": "pack_00048_0010",
       "word": "follower",
       "hint": null,
-      "phonetic": "/ˈfɑloʊər/",
+      "phonetic": "/ˈfɑːloʊər/",
       "meanings": {
         "es": "seguidor",
         "pt": "seguidor",

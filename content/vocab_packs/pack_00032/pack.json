@@ -14,7 +14,7 @@
       "id": "pack_00032_0001",
       "word": "washing machine",
       "hint": null,
-      "phonetic": "/ˈwɑʃɪŋ məˈʃin/",
+      "phonetic": "/ˈwɑːʃɪŋ məˈʃiːn/",
       "meanings": {
         "es": "lavadora",
         "pt": "máquina de lavar",
@@ -40,7 +40,7 @@
       "id": "pack_00032_0002",
       "word": "laundry basket",
       "hint": null,
-      "phonetic": "/ˈlɔndri ˈbæskət/",
+      "phonetic": "/ˈlɔːndri ˈbæskət/",
       "meanings": {
         "es": "cesto de la ropa sucia",
         "pt": "cesto de roupa suja",
@@ -66,7 +66,7 @@
       "id": "pack_00032_0003",
       "word": "detergent",
       "hint": null,
-      "phonetic": "/dɪˈtɜrdʒənt/",
+      "phonetic": "/dɪˈtɜːrdʒənt/",
       "meanings": {
         "es": "detergente",
         "pt": "detergente",
@@ -144,7 +144,7 @@
       "id": "pack_00032_0006",
       "word": "ironing board",
       "hint": null,
-      "phonetic": "/ˈaɪərnɪŋ bɔrd/",
+      "phonetic": "/ˈaɪərnɪŋ bɔːrd/",
       "meanings": {
         "es": "tabla de planchar",
         "pt": "tábua de passar roupa",
@@ -196,7 +196,7 @@
       "id": "pack_00032_0008",
       "word": "fabric softener",
       "hint": null,
-      "phonetic": "/ˈfæbrɪk ˈsɔfənər/",
+      "phonetic": "/ˈfæbrɪk ˈsɔːfənər/",
       "meanings": {
         "es": "suavizante de telas",
         "pt": "amaciante de roupas",
@@ -248,7 +248,7 @@
       "id": "pack_00032_0010",
       "word": "laundry bag",
       "hint": null,
-      "phonetic": "/ˈlɔndri bæɡ/",
+      "phonetic": "/ˈlɔːndri bæɡ/",
       "meanings": {
         "es": "bolsa de lavandería",
         "pt": "saco de roupa suja",

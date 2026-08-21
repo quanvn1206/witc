@@ -14,7 +14,7 @@
       "id": "pack_00136_0001",
       "word": "street",
       "hint": null,
-      "phonetic": "/strit/",
+      "phonetic": "/striːt/",
       "meanings": {
         "es": "calle",
         "pt": "rua",
@@ -92,7 +92,7 @@
       "id": "pack_00136_0004",
       "word": "park",
       "hint": null,
-      "phonetic": "/pɑrk/",
+      "phonetic": "/pɑːrk/",
       "meanings": {
         "es": "parque",
         "pt": "parque",
@@ -118,7 +118,7 @@
       "id": "pack_00136_0005",
       "word": "hospital",
       "hint": null,
-      "phonetic": "/ˈhɑspɪtəl/",
+      "phonetic": "/ˈhɑːspɪtəl/",
       "meanings": {
         "es": "hospital",
         "pt": "hospital",
@@ -144,7 +144,7 @@
       "id": "pack_00136_0006",
       "word": "school",
       "hint": null,
-      "phonetic": "/skul/",
+      "phonetic": "/skuːl/",
       "meanings": {
         "es": "escuela",
         "pt": "escola",
@@ -196,7 +196,7 @@
       "id": "pack_00136_0008",
       "word": "supermarket",
       "hint": null,
-      "phonetic": "/ˈsupərmɑrkɪt/",
+      "phonetic": "/ˈsuːpərmɑːrkɪt/",
       "meanings": {
         "es": "supermercado",
         "pt": "supermercado",
@@ -248,7 +248,7 @@
       "id": "pack_00136_0010",
       "word": "library",
       "hint": null,
-      "phonetic": "/ˈlaɪbrɛri/",
+      "phonetic": "/ˈlaɪbrɛriː/",
       "meanings": {
         "es": "biblioteca",
         "pt": "biblioteca",

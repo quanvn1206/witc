@@ -14,7 +14,7 @@
       "id": "pack_00022_0001",
       "word": "walk",
       "hint": null,
-      "phonetic": "/wɔk/",
+      "phonetic": "/wɔːk/",
       "meanings": {
         "es": "caminar",
         "pt": "andar",
@@ -92,7 +92,7 @@
       "id": "pack_00022_0004",
       "word": "crawl",
       "hint": null,
-      "phonetic": "/krɔl/",
+      "phonetic": "/krɔːl/",
       "meanings": {
         "es": "gatear",
         "pt": "arrastar",
@@ -144,7 +144,7 @@
       "id": "pack_00022_0006",
       "word": "jog",
       "hint": null,
-      "phonetic": "/dʒɑɡ/",
+      "phonetic": "/dʒɑːɡ/",
       "meanings": {
         "es": "trotar",
         "pt": "correr",
@@ -170,7 +170,7 @@
       "id": "pack_00022_0007",
       "word": "hop",
       "hint": null,
-      "phonetic": "/hɑp/",
+      "phonetic": "/hɑːp/",
       "meanings": {
         "es": "saltar a la pata coja",
         "pt": "pular num pé só",
@@ -222,7 +222,7 @@
       "id": "pack_00022_0009",
       "word": "march",
       "hint": null,
-      "phonetic": "/mɑrtʃ/",
+      "phonetic": "/mɑːrtʃ/",
       "meanings": {
         "es": "marchar",
         "pt": "marchar",

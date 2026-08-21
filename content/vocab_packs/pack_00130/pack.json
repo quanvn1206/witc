@@ -40,7 +40,7 @@
       "id": "pack_00130_0002",
       "word": "horsepower",
       "hint": null,
-      "phonetic": "/ˈhɔrspaʊər/",
+      "phonetic": "/ˈhɔːrspaʊər/",
       "meanings": {
         "es": "caballo de fuerza",
         "pt": "cavalos de potência",
@@ -144,7 +144,7 @@
       "id": "pack_00130_0006",
       "word": "hybrid vehicle",
       "hint": null,
-      "phonetic": "/ˈhaɪbrəd ˈvihɪkəl/",
+      "phonetic": "/ˈhaɪbrəd ˈviːhɪkəl/",
       "meanings": {
         "es": "vehículo híbrido",
         "pt": "veículo híbrido",
@@ -170,7 +170,7 @@
       "id": "pack_00130_0007",
       "word": "electric vehicle",
       "hint": null,
-      "phonetic": "/ɪˈlɛktrɪk ˈvihɪkəl/",
+      "phonetic": "/ɪˈlɛktrɪk ˈviːhɪkəl/",
       "meanings": {
         "es": "vehículo eléctrico",
         "pt": "veículo elétrico",
@@ -196,7 +196,7 @@
       "id": "pack_00130_0008",
       "word": "torque",
       "hint": null,
-      "phonetic": "/tɔrk/",
+      "phonetic": "/tɔːrk/",
       "meanings": {
         "es": "par motor",
         "pt": "torque",
@@ -248,7 +248,7 @@
       "id": "pack_00130_0010",
       "word": "troubleshooting",
       "hint": null,
-      "phonetic": "/ˈtrʌbəlʃutɪŋ/",
+      "phonetic": "/ˈtrʌbəlʃuːtɪŋ/",
       "meanings": {
         "es": "solución de problemas",
         "pt": "solução de problemas",

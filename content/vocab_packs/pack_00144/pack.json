@@ -14,7 +14,7 @@
       "id": "pack_00144_0001",
       "word": "blueprint",
       "hint": null,
-      "phonetic": "/ˈbluprɪnt/",
+      "phonetic": "/ˈbluːprɪnt/",
       "meanings": {
         "es": "cianotipo",
         "pt": "planta",
@@ -92,7 +92,7 @@
       "id": "pack_00144_0004",
       "word": "roof",
       "hint": null,
-      "phonetic": "/ruf/",
+      "phonetic": "/ruːf/",
       "meanings": {
         "es": "techo",
         "pt": "teto",
@@ -118,7 +118,7 @@
       "id": "pack_00144_0005",
       "word": "beam",
       "hint": null,
-      "phonetic": "/bim/",
+      "phonetic": "/biːm/",
       "meanings": {
         "es": "viga",
         "pt": "viga",
@@ -144,7 +144,7 @@
       "id": "pack_00144_0006",
       "word": "column",
       "hint": null,
-      "phonetic": "/ˈkɑləm/",
+      "phonetic": "/ˈkɑːləm/",
       "meanings": {
         "es": "columna",
         "pt": "coluna",
@@ -222,7 +222,7 @@
       "id": "pack_00144_0009",
       "word": "carpenter",
       "hint": null,
-      "phonetic": "/ˈkɑrpəntər/",
+      "phonetic": "/ˈkɑːrpəntər/",
       "meanings": {
         "es": "carpintero",
         "pt": "carpinteiro",
@@ -248,7 +248,7 @@
       "id": "pack_00144_0010",
       "word": "contractor",
       "hint": null,
-      "phonetic": "/ˈkɑntræktər/",
+      "phonetic": "/ˈkɑːntræktər/",
       "meanings": {
         "es": "contratista",
         "pt": "empreiteiro",

@@ -14,7 +14,7 @@
       "id": "pack_00128_0001",
       "word": "replace",
       "hint": null,
-      "phonetic": "/ˌriˈpleɪs/",
+      "phonetic": "/ˌriːˈpleɪs/",
       "meanings": {
         "es": "reemplazar",
         "pt": "substituir",
@@ -92,7 +92,7 @@
       "id": "pack_00128_0004",
       "word": "gearbox",
       "hint": null,
-      "phonetic": "/ˈɡɪrbɑks/",
+      "phonetic": "/ˈɡɪrbɑːks/",
       "meanings": {
         "es": "caja de cambios",
         "pt": "caixa de velocidades",
@@ -144,7 +144,7 @@
       "id": "pack_00128_0006",
       "word": "spark plug",
       "hint": null,
-      "phonetic": "/spɑrk plʌɡ/",
+      "phonetic": "/spɑːrk plʌɡ/",
       "meanings": {
         "es": "bujía",
         "pt": "vela de ignição",
@@ -170,7 +170,7 @@
       "id": "pack_00128_0007",
       "word": "windshield",
       "hint": null,
-      "phonetic": "/ˈwɪndʃild/",
+      "phonetic": "/ˈwɪndʃiːld/",
       "meanings": {
         "es": "parabrisas",
         "pt": "pára-brisa",
@@ -222,7 +222,7 @@
       "id": "pack_00128_0009",
       "word": "exhaust",
       "hint": null,
-      "phonetic": "/ɪɡˈzɔst/",
+      "phonetic": "/ɪɡˈzɔːst/",
       "meanings": {
         "es": "escape",
         "pt": "escape",

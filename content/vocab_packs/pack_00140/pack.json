@@ -40,7 +40,7 @@
       "id": "pack_00140_0002",
       "word": "urbanization",
       "hint": null,
-      "phonetic": "/ˌɜrbənəˈzeɪʃən/",
+      "phonetic": "/ˌɜːrbənəˈzeɪʃən/",
       "meanings": {
         "es": "urbanización",
         "pt": "urbanização",
@@ -66,7 +66,7 @@
       "id": "pack_00140_0003",
       "word": "municipality",
       "hint": null,
-      "phonetic": "/ˌmjunɪsəˈpæləti/",
+      "phonetic": "/ˌmjuːnɪsəˈpæləti/",
       "meanings": {
         "es": "municipio",
         "pt": "município",
@@ -118,7 +118,7 @@
       "id": "pack_00140_0005",
       "word": "commercial district",
       "hint": null,
-      "phonetic": "/kəˈmɜrʃəl ˈdɪstrɪkt/",
+      "phonetic": "/kəˈmɜːrʃəl ˈdɪstrɪkt/",
       "meanings": {
         "es": "distrito comercial",
         "pt": "distrito comercial",
@@ -144,7 +144,7 @@
       "id": "pack_00140_0006",
       "word": "transportation network",
       "hint": null,
-      "phonetic": "/ˌtrænspərˈteɪʃən ˈnɛtwɜrk/",
+      "phonetic": "/ˌtrænspərˈteɪʃən ˈnɛtwɜːrk/",
       "meanings": {
         "es": "red de transporte",
         "pt": "rede de transporte",
@@ -248,7 +248,7 @@
       "id": "pack_00140_0010",
       "word": "population density",
       "hint": null,
-      "phonetic": "/ˌpɑpjəˈleɪʃən ˈdɛnsəti/",
+      "phonetic": "/ˌpɑːpjəˈleɪʃən ˈdɛnsəti/",
       "meanings": {
         "es": "densidad de población",
         "pt": "densidade populacional",

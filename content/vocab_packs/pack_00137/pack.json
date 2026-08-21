@@ -118,7 +118,7 @@
       "id": "pack_00137_0005",
       "word": "crosswalk",
       "hint": null,
-      "phonetic": "/ˈkrɑswɑk/",
+      "phonetic": "/ˈkrɑːswɑːk/",
       "meanings": {
         "es": "paso de peatones",
         "pt": "faixa de pedestres",
@@ -170,7 +170,7 @@
       "id": "pack_00137_0007",
       "word": "sidewalk",
       "hint": null,
-      "phonetic": "/ˈsaɪdwɔk/",
+      "phonetic": "/ˈsaɪdwɔːk/",
       "meanings": {
         "es": "acera",
         "pt": "calçada",
@@ -196,7 +196,7 @@
       "id": "pack_00137_0008",
       "word": "bus stop",
       "hint": null,
-      "phonetic": "/bʌs stɑp/",
+      "phonetic": "/bʌs stɑːp/",
       "meanings": {
         "es": "parada de autobús",
         "pt": "ponto de ônibus",

@@ -40,7 +40,7 @@
       "id": "pack_00036_0002",
       "word": "cough",
       "hint": null,
-      "phonetic": "/kɑf/",
+      "phonetic": "/kɑːf/",
       "meanings": {
         "es": "tos",
         "pt": "tosse",
@@ -66,7 +66,7 @@
       "id": "pack_00036_0003",
       "word": "fever",
       "hint": null,
-      "phonetic": "/ˈfivər/",
+      "phonetic": "/ˈfiːvər/",
       "meanings": {
         "es": "fiebre",
         "pt": "febre",
@@ -144,7 +144,7 @@
       "id": "pack_00036_0006",
       "word": "toothache",
       "hint": null,
-      "phonetic": "/ˈtuθeɪk/",
+      "phonetic": "/ˈtuːθeɪk/",
       "meanings": {
         "es": "dolor de muelas",
         "pt": "dor de dente",
@@ -170,7 +170,7 @@
       "id": "pack_00036_0007",
       "word": "sore throat",
       "hint": null,
-      "phonetic": "/sɔr θroʊt/",
+      "phonetic": "/sɔːr θroʊt/",
       "meanings": {
         "es": "dolor de garganta",
         "pt": "dor de garganta",
@@ -196,7 +196,7 @@
       "id": "pack_00036_0008",
       "word": "flu",
       "hint": null,
-      "phonetic": "/flu/",
+      "phonetic": "/fluː/",
       "meanings": {
         "es": "gripe",
         "pt": "gripe",

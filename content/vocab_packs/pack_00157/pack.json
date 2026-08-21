@@ -40,7 +40,7 @@
       "id": "pack_00157_0002",
       "word": "corn",
       "hint": null,
-      "phonetic": "/kɔrn/",
+      "phonetic": "/kɔːrn/",
       "meanings": {
         "es": "maíz",
         "pt": "milho",
@@ -66,7 +66,7 @@
       "id": "pack_00157_0003",
       "word": "wheat",
       "hint": null,
-      "phonetic": "/wit/",
+      "phonetic": "/wiːt/",
       "meanings": {
         "es": "trigo",
         "pt": "trigo",
@@ -92,7 +92,7 @@
       "id": "pack_00157_0004",
       "word": "bean",
       "hint": null,
-      "phonetic": "/bin/",
+      "phonetic": "/biːn/",
       "meanings": {
         "es": "frijol",
         "pt": "feijão",

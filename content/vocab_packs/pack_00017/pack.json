@@ -40,7 +40,7 @@
       "id": "pack_00017_0002",
       "word": "thirsty",
       "hint": null,
-      "phonetic": "/ˈθɜrsti/",
+      "phonetic": "/ˈθɜːrsti/",
       "meanings": {
         "es": "sediento",
         "pt": "sedento",
@@ -66,7 +66,7 @@
       "id": "pack_00017_0003",
       "word": "sleepy",
       "hint": null,
-      "phonetic": "/ˈslipi/",
+      "phonetic": "/ˈsliːpi/",
       "meanings": {
         "es": "somnoliento",
         "pt": "com sono",
@@ -144,7 +144,7 @@
       "id": "pack_00017_0006",
       "word": "exhausted",
       "hint": null,
-      "phonetic": "/ɪɡˈzɔstɪd/",
+      "phonetic": "/ɪɡˈzɔːstɪd/",
       "meanings": {
         "es": "exhausto",
         "pt": "esgotado",
@@ -196,7 +196,7 @@
       "id": "pack_00017_0008",
       "word": "hot",
       "hint": null,
-      "phonetic": "/hɑt/",
+      "phonetic": "/hɑːt/",
       "meanings": {
         "es": "caliente",
         "pt": "quente",

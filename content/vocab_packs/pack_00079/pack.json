@@ -40,7 +40,7 @@
       "id": "pack_00079_0002",
       "word": "visa",
       "hint": null,
-      "phonetic": "/ˈvizə/",
+      "phonetic": "/ˈviːzə/",
       "meanings": {
         "es": "visa",
         "pt": "Visa",
@@ -92,7 +92,7 @@
       "id": "pack_00079_0004",
       "word": "currency exchange",
       "hint": null,
-      "phonetic": "/ˈkɜrənsi ɪksˈtʃeɪndʒ/",
+      "phonetic": "/ˈkɜːrənsi ɪksˈtʃeɪndʒ/",
       "meanings": {
         "es": "cambio de divisas",
         "pt": "câmbio de moeda",
@@ -118,7 +118,7 @@
       "id": "pack_00079_0005",
       "word": "departure",
       "hint": null,
-      "phonetic": "/dɪˈpɑrtʃər/",
+      "phonetic": "/dɪˈpɑːrtʃər/",
       "meanings": {
         "es": "partida",
         "pt": "partida",
@@ -170,7 +170,7 @@
       "id": "pack_00079_0007",
       "word": "accommodation",
       "hint": null,
-      "phonetic": "/əˌkɑməˈdeɪʃən/",
+      "phonetic": "/əˌkɑːməˈdeɪʃən/",
       "meanings": {
         "es": "alojamiento",
         "pt": "alojamento",
@@ -196,7 +196,7 @@
       "id": "pack_00079_0008",
       "word": "excursion",
       "hint": null,
-      "phonetic": "/ɪkˈskɜrʒən/",
+      "phonetic": "/ɪkˈskɜːrʒən/",
       "meanings": {
         "es": "excursión",
         "pt": "excursão",
@@ -248,7 +248,7 @@
       "id": "pack_00079_0010",
       "word": "boarding pass",
       "hint": null,
-      "phonetic": "/ˈbɔrdɪŋ pæs/",
+      "phonetic": "/ˈbɔːrdɪŋ pæs/",
       "meanings": {
         "es": "pase de abordar",
         "pt": "cartão de embarque",

@@ -144,7 +144,7 @@
       "id": "pack_00049_0006",
       "word": "stormy",
       "hint": null,
-      "phonetic": "/ˈstɔrmi/",
+      "phonetic": "/ˈstɔːrmi/",
       "meanings": {
         "es": "tempestuoso",
         "pt": "tormentoso",
@@ -170,7 +170,7 @@
       "id": "pack_00049_0007",
       "word": "foggy",
       "hint": null,
-      "phonetic": "/ˈfɑɡi/",
+      "phonetic": "/ˈfɑːɡi/",
       "meanings": {
         "es": "neblinoso",
         "pt": "enevoado",
@@ -196,7 +196,7 @@
       "id": "pack_00049_0008",
       "word": "hot",
       "hint": null,
-      "phonetic": "/hɑt/",
+      "phonetic": "/hɑːt/",
       "meanings": {
         "es": "caliente",
         "pt": "quente",
@@ -248,7 +248,7 @@
       "id": "pack_00049_0010",
       "word": "warm",
       "hint": null,
-      "phonetic": "/wɔrm/",
+      "phonetic": "/wɔːrm/",
       "meanings": {
         "es": "cálido",
         "pt": "morno",

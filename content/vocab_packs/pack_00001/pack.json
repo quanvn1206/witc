@@ -66,7 +66,7 @@
       "id": "pack_00001_0003",
       "word": "orange",
       "hint": null,
-      "phonetic": "/ˈɔrəndʒ/",
+      "phonetic": "/ˈɔːrəndʒ/",
       "meanings": {
         "es": "naranja",
         "pt": "laranja",
@@ -118,7 +118,7 @@
       "id": "pack_00001_0005",
       "word": "watermelon",
       "hint": null,
-      "phonetic": "/ˈwɔtərmɛlən/",
+      "phonetic": "/ˈwɔːtərmɛlən/",
       "meanings": {
         "es": "sandía",
         "pt": "melancia",
@@ -144,7 +144,7 @@
       "id": "pack_00001_0006",
       "word": "strawberry",
       "hint": null,
-      "phonetic": "/ˈstrɔbɛri/",
+      "phonetic": "/ˈstrɔːbɛri/",
       "meanings": {
         "es": "fresa",
         "pt": "morango",
@@ -248,7 +248,7 @@
       "id": "pack_00001_0010",
       "word": "peach",
       "hint": null,
-      "phonetic": "/pitʃ/",
+      "phonetic": "/piːtʃ/",
       "meanings": {
         "es": "durazno",
         "pt": "pêssego",

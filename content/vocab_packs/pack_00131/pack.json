@@ -14,7 +14,7 @@
       "id": "pack_00131_0001",
       "word": "doctor",
       "hint": null,
-      "phonetic": "/ˈdɑktər/",
+      "phonetic": "/ˈdɑːktər/",
       "meanings": {
         "es": "doctor",
         "pt": "doutor",
@@ -40,7 +40,7 @@
       "id": "pack_00131_0002",
       "word": "nurse",
       "hint": null,
-      "phonetic": "/nɜrs/",
+      "phonetic": "/nɜːrs/",
       "meanings": {
         "es": "enfermero",
         "pt": "enfermeira",
@@ -92,7 +92,7 @@
       "id": "pack_00131_0004",
       "word": "hospital",
       "hint": null,
-      "phonetic": "/ˈhɑspɪtəl/",
+      "phonetic": "/ˈhɑːspɪtəl/",
       "meanings": {
         "es": "hospital",
         "pt": "hospital",
@@ -222,7 +222,7 @@
       "id": "pack_00131_0009",
       "word": "thermometer",
       "hint": null,
-      "phonetic": "/θərˈmɑmətər/",
+      "phonetic": "/θərˈmɑːmətər/",
       "meanings": {
         "es": "termómetro",
         "pt": "termômetro",

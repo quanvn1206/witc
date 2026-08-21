@@ -40,7 +40,7 @@
       "id": "pack_00056_0002",
       "word": "crossroads",
       "hint": null,
-      "phonetic": "/ˈkrɔsroʊdz/",
+      "phonetic": "/ˈkrɔːsroʊdz/",
       "meanings": {
         "es": "encrucijada",
         "pt": "encruzilhada",
@@ -144,7 +144,7 @@
       "id": "pack_00056_0006",
       "word": "sidewalk",
       "hint": null,
-      "phonetic": "/ˈsaɪdwɔk/",
+      "phonetic": "/ˈsaɪdwɔːk/",
       "meanings": {
         "es": "acera",
         "pt": "calçada",
@@ -170,7 +170,7 @@
       "id": "pack_00056_0007",
       "word": "parking lot",
       "hint": null,
-      "phonetic": "/ˈpɑrkɪŋ lɑt/",
+      "phonetic": "/ˈpɑːrkɪŋ lɑːt/",
       "meanings": {
         "es": "estacionamiento",
         "pt": "estacionamento",
@@ -196,7 +196,7 @@
       "id": "pack_00056_0008",
       "word": "speed limit",
       "hint": null,
-      "phonetic": "/spid ˈlɪmət/",
+      "phonetic": "/spiːd ˈlɪmət/",
       "meanings": {
         "es": "Límite de velocidad",
         "pt": "limite de velocidade",

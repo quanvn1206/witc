@@ -66,7 +66,7 @@
       "id": "pack_00133_0003",
       "word": "flu",
       "hint": null,
-      "phonetic": "/flu/",
+      "phonetic": "/fluː/",
       "meanings": {
         "es": "gripe",
         "pt": "gripe",
@@ -92,7 +92,7 @@
       "id": "pack_00133_0004",
       "word": "sore throat",
       "hint": null,
-      "phonetic": "/sɔr θroʊt/",
+      "phonetic": "/sɔːr θroʊt/",
       "meanings": {
         "es": "dolor de garganta",
         "pt": "dor de garganta",
@@ -170,7 +170,7 @@
       "id": "pack_00133_0007",
       "word": "toothache",
       "hint": null,
-      "phonetic": "/ˈtuθeɪk/",
+      "phonetic": "/ˈtuːθeɪk/",
       "meanings": {
         "es": "dolor de muelas",
         "pt": "dor de dente",
@@ -222,7 +222,7 @@
       "id": "pack_00133_0009",
       "word": "treatment",
       "hint": null,
-      "phonetic": "/ˈtritmənt/",
+      "phonetic": "/ˈtriːtmənt/",
       "meanings": {
         "es": "tratamiento",
         "pt": "tratamento",

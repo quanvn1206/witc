@@ -40,7 +40,7 @@
       "id": "pack_00014_0002",
       "word": "confident",
       "hint": null,
-      "phonetic": "/ˈkɑnfədənt/",
+      "phonetic": "/ˈkɑːnfədənt/",
       "meanings": {
         "es": "confiado",
         "pt": "confiante",
@@ -170,7 +170,7 @@
       "id": "pack_00014_0007",
       "word": "content",
       "hint": null,
-      "phonetic": "/ˈkɑntɛnt/",
+      "phonetic": "/kənˈtɛnt/",
       "meanings": {
         "es": "a gusto",
         "pt": "contente",
@@ -196,7 +196,7 @@
       "id": "pack_00014_0008",
       "word": "amused",
       "hint": null,
-      "phonetic": "/əˈmjuzd/",
+      "phonetic": "/əˈmjuːzd/",
       "meanings": {
         "es": "divertido",
         "pt": "divertido",

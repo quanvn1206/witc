@@ -40,7 +40,7 @@
       "id": "pack_00076_0002",
       "word": "restaurant",
       "hint": null,
-      "phonetic": "/ˈrɛstərɑnt/",
+      "phonetic": "/ˈrɛstərɑːnt/",
       "meanings": {
         "es": "restaurante",
         "pt": "restaurante",
@@ -66,7 +66,7 @@
       "id": "pack_00076_0003",
       "word": "airport",
       "hint": null,
-      "phonetic": "/ˈɛrpɔrt/",
+      "phonetic": "/ˈɛrpɔːrt/",
       "meanings": {
         "es": "aeropuerto",
         "pt": "aeroporto",
@@ -118,7 +118,7 @@
       "id": "pack_00076_0005",
       "word": "hospital",
       "hint": null,
-      "phonetic": "/ˈhɑspɪtəl/",
+      "phonetic": "/ˈhɑːspɪtəl/",
       "meanings": {
         "es": "hospital",
         "pt": "hospital",
@@ -170,7 +170,7 @@
       "id": "pack_00076_0007",
       "word": "supermarket",
       "hint": null,
-      "phonetic": "/ˈsupərmɑrkɪt/",
+      "phonetic": "/ˈsuːpərmɑːrkɪt/",
       "meanings": {
         "es": "supermercado",
         "pt": "supermercado",
@@ -196,7 +196,7 @@
       "id": "pack_00076_0008",
       "word": "park",
       "hint": null,
-      "phonetic": "/pɑrk/",
+      "phonetic": "/pɑːrk/",
       "meanings": {
         "es": "parque",
         "pt": "parque",
@@ -222,7 +222,7 @@
       "id": "pack_00076_0009",
       "word": "museum",
       "hint": null,
-      "phonetic": "/mjuˈziəm/",
+      "phonetic": "/mjuˈziːəm/",
       "meanings": {
         "es": "museo",
         "pt": "museu",
@@ -248,7 +248,7 @@
       "id": "pack_00076_0010",
       "word": "beach",
       "hint": null,
-      "phonetic": "/bitʃ/",
+      "phonetic": "/biːtʃ/",
       "meanings": {
         "es": "playa",
         "pt": "praia",

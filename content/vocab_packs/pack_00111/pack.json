@@ -66,7 +66,7 @@
       "id": "pack_00111_0003",
       "word": "Great Wall",
       "hint": null,
-      "phonetic": "/ɡreɪt wɔl/",
+      "phonetic": "/ɡreɪt wɔːl/",
       "meanings": {
         "es": "Gran Muralla",
         "pt": "Grande Muralha",
@@ -92,7 +92,7 @@
       "id": "pack_00111_0004",
       "word": "Colosseum",
       "hint": null,
-      "phonetic": "/ˌkɑləˈsiəm/",
+      "phonetic": "/ˌkɑːləˈsiːəm/",
       "meanings": {
         "es": "Coliseo",
         "pt": "Coliseu",
@@ -144,7 +144,7 @@
       "id": "pack_00111_0006",
       "word": "Taj Mahal",
       "hint": null,
-      "phonetic": "/tɑʒ məˈhɑl/",
+      "phonetic": "/tɑːʒ məˈhɑːl/",
       "meanings": {
         "es": "Taj Mahal",
         "pt": "Taj Mahal",
@@ -248,7 +248,7 @@
       "id": "pack_00111_0010",
       "word": "statue",
       "hint": null,
-      "phonetic": "/ˈstætʃu/",
+      "phonetic": "/ˈstætʃuː/",
       "meanings": {
         "es": "estatua",
         "pt": "estátua",

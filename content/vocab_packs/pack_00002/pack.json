@@ -118,7 +118,7 @@
       "id": "pack_00002_0005",
       "word": "cucumber",
       "hint": null,
-      "phonetic": "/ˈkjukəmbər/",
+      "phonetic": "/ˈkjuːkəmbər/",
       "meanings": {
         "es": "pepino",
         "pt": "pepino",
@@ -144,7 +144,7 @@
       "id": "pack_00002_0006",
       "word": "broccoli",
       "hint": null,
-      "phonetic": "/ˈbrɑkəli/",
+      "phonetic": "/ˈbrɑːkəli/",
       "meanings": {
         "es": "brócoli",
         "pt": "brócolis",
@@ -170,7 +170,7 @@
       "id": "pack_00002_0007",
       "word": "corn",
       "hint": null,
-      "phonetic": "/kɔrn/",
+      "phonetic": "/kɔːrn/",
       "meanings": {
         "es": "maíz",
         "pt": "milho",
@@ -248,7 +248,7 @@
       "id": "pack_00002_0010",
       "word": "garlic",
       "hint": null,
-      "phonetic": "/ˈɡɑrlɪk/",
+      "phonetic": "/ˈɡɑːrlɪk/",
       "meanings": {
         "es": "ajo",
         "pt": "alho",

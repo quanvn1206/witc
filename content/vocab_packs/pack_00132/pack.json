@@ -92,7 +92,7 @@
       "id": "pack_00132_0004",
       "word": "pharmacy",
       "hint": null,
-      "phonetic": "/ˈfɑrməsi/",
+      "phonetic": "/ˈfɑːrməsi/",
       "meanings": {
         "es": "farmacia",
         "pt": "farmácia",
@@ -170,7 +170,7 @@
       "id": "pack_00132_0007",
       "word": "cough",
       "hint": null,
-      "phonetic": "/kɑf/",
+      "phonetic": "/kɑːf/",
       "meanings": {
         "es": "tos",
         "pt": "tosse",
@@ -196,7 +196,7 @@
       "id": "pack_00132_0008",
       "word": "fever",
       "hint": null,
-      "phonetic": "/ˈfivər/",
+      "phonetic": "/ˈfiːvər/",
       "meanings": {
         "es": "fiebre",
         "pt": "febre",

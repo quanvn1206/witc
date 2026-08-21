@@ -66,7 +66,7 @@
       "id": "pack_00135_0003",
       "word": "rehabilitation",
       "hint": null,
-      "phonetic": "/ˌrihəˌbɪləˈteɪʃən/",
+      "phonetic": "/ˌriːhəˌbɪləˈteɪʃən/",
       "meanings": {
         "es": "rehabilitación",
         "pt": "reabilitação",
@@ -92,7 +92,7 @@
       "id": "pack_00135_0004",
       "word": "chronic disease",
       "hint": null,
-      "phonetic": "/ˈkrɑnɪk dɪˈziz/",
+      "phonetic": "/ˈkrɑːnɪk dɪˈziːz/",
       "meanings": {
         "es": "enfermedad crónica",
         "pt": "doença crônica",
@@ -118,7 +118,7 @@
       "id": "pack_00135_0005",
       "word": "medical record",
       "hint": null,
-      "phonetic": "/ˈmɛdəkəl rəˈkɔrd/",
+      "phonetic": "/ˈmɛdəkəl rəˈkɔːrd/",
       "meanings": {
         "es": "expediente medico",
         "pt": "prontuário médico",
@@ -144,7 +144,7 @@
       "id": "pack_00135_0006",
       "word": "laboratory",
       "hint": null,
-      "phonetic": "/ˈlæbrətɔri/",
+      "phonetic": "/ˈlæbrətɔːri/",
       "meanings": {
         "es": "laboratorio",
         "pt": "laboratório",

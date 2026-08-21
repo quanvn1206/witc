@@ -92,7 +92,7 @@
       "id": "pack_00082_0004",
       "word": "warm up",
       "hint": null,
-      "phonetic": "/wɔrm ʌp/",
+      "phonetic": "/wɔːrm ʌp/",
       "meanings": {
         "es": "calentamiento",
         "pt": "aquecimento",
@@ -118,7 +118,7 @@
       "id": "pack_00082_0005",
       "word": "cool down",
       "hint": null,
-      "phonetic": "/kul daʊn/",
+      "phonetic": "/kuːl daʊn/",
       "meanings": {
         "es": "enfriarse",
         "pt": "esfriar",
@@ -196,7 +196,7 @@
       "id": "pack_00082_0008",
       "word": "walk",
       "hint": null,
-      "phonetic": "/wɔk/",
+      "phonetic": "/wɔːk/",
       "meanings": {
         "es": "caminar",
         "pt": "andar",
@@ -222,7 +222,7 @@
       "id": "pack_00082_0009",
       "word": "jog",
       "hint": null,
-      "phonetic": "/dʒɑɡ/",
+      "phonetic": "/dʒɑːɡ/",
       "meanings": {
         "es": "trotar",
         "pt": "correr",

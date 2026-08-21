@@ -40,7 +40,7 @@
       "id": "pack_00008_0002",
       "word": "shark",
       "hint": null,
-      "phonetic": "/ʃɑrk/",
+      "phonetic": "/ʃɑːrk/",
       "meanings": {
         "es": "tiburón",
         "pt": "tubarão",
@@ -92,7 +92,7 @@
       "id": "pack_00008_0004",
       "word": "dolphin",
       "hint": null,
-      "phonetic": "/ˈdɑlfən/",
+      "phonetic": "/ˈdɑːlfən/",
       "meanings": {
         "es": "delfín",
         "pt": "golfinho",
@@ -118,7 +118,7 @@
       "id": "pack_00008_0005",
       "word": "octopus",
       "hint": null,
-      "phonetic": "/ˈɑktəpʊs/",
+      "phonetic": "/ˈɑːktəpʊs/",
       "meanings": {
         "es": "pulpo",
         "pt": "polvo",
@@ -170,7 +170,7 @@
       "id": "pack_00008_0007",
       "word": "starfish",
       "hint": null,
-      "phonetic": "/ˈstɑrfɪʃ/",
+      "phonetic": "/ˈstɑːrfɪʃ/",
       "meanings": {
         "es": "estrella de mar",
         "pt": "estrela do mar",
@@ -222,7 +222,7 @@
       "id": "pack_00008_0009",
       "word": "seahorse",
       "hint": null,
-      "phonetic": "/ˈsihɔrs/",
+      "phonetic": "/ˈsiːhɔːrs/",
       "meanings": {
         "es": "caballito de mar",
         "pt": "cavalo-marinho",
@@ -248,7 +248,7 @@
       "id": "pack_00008_0010",
       "word": "turtle",
       "hint": null,
-      "phonetic": "/ˈtɜrtəl/",
+      "phonetic": "/ˈtɜːrtəl/",
       "meanings": {
         "es": "tortuga",
         "pt": "tartaruga",

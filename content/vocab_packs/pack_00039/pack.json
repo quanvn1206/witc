@@ -14,7 +14,7 @@
       "id": "pack_00039_0001",
       "word": "shirt",
       "hint": null,
-      "phonetic": "/ʃɜrt/",
+      "phonetic": "/ʃɜːrt/",
       "meanings": {
         "es": "camisa",
         "pt": "camisa",
@@ -40,7 +40,7 @@
       "id": "pack_00039_0002",
       "word": "T-shirt",
       "hint": null,
-      "phonetic": "/ˈtiʃɜrt/",
+      "phonetic": "/ˈtiːʃɜːrt/",
       "meanings": {
         "es": "camiseta",
         "pt": "camiseta",
@@ -92,7 +92,7 @@
       "id": "pack_00039_0004",
       "word": "shorts",
       "hint": null,
-      "phonetic": "/ʃɔrts/",
+      "phonetic": "/ʃɔːrts/",
       "meanings": {
         "es": "bermudas",
         "pt": "shorts",
@@ -118,7 +118,7 @@
       "id": "pack_00039_0005",
       "word": "skirt",
       "hint": null,
-      "phonetic": "/skɜrt/",
+      "phonetic": "/skɜːrt/",
       "meanings": {
         "es": "falda",
         "pt": "saia",
@@ -222,7 +222,7 @@
       "id": "pack_00039_0009",
       "word": "socks",
       "hint": null,
-      "phonetic": "/sɑks/",
+      "phonetic": "/sɑːks/",
       "meanings": {
         "es": "calcetines",
         "pt": "meias",
@@ -248,7 +248,7 @@
       "id": "pack_00039_0010",
       "word": "shoes",
       "hint": null,
-      "phonetic": "/ʃuz/",
+      "phonetic": "/ʃuːz/",
       "meanings": {
         "es": "zapatos",
         "pt": "sapatos",

@@ -14,7 +14,7 @@
       "id": "pack_00011_0001",
       "word": "bee",
       "hint": null,
-      "phonetic": "/bi/",
+      "phonetic": "/biː/",
       "meanings": {
         "es": "abeja",
         "pt": "abelha",
@@ -144,7 +144,7 @@
       "id": "pack_00011_0006",
       "word": "mosquito",
       "hint": null,
-      "phonetic": "/məˈskitoʊ/",
+      "phonetic": "/məˈskiːtoʊ/",
       "meanings": {
         "es": "mosquito",
         "pt": "mosquito",
@@ -196,7 +196,7 @@
       "id": "pack_00011_0008",
       "word": "grasshopper",
       "hint": null,
-      "phonetic": "/ˈɡræshɑpər/",
+      "phonetic": "/ˈɡræshɑːpər/",
       "meanings": {
         "es": "saltamontes",
         "pt": "gafanhoto",

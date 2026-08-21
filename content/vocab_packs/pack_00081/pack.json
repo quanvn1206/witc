@@ -14,7 +14,7 @@
       "id": "pack_00081_0001",
       "word": "football",
       "hint": null,
-      "phonetic": "/ˈfʊtbɔl/",
+      "phonetic": "/ˈfʊtbɔːl/",
       "meanings": {
         "es": "fútbol",
         "pt": "futebol",
@@ -40,7 +40,7 @@
       "id": "pack_00081_0002",
       "word": "basketball",
       "hint": null,
-      "phonetic": "/ˈbæskətbɔl/",
+      "phonetic": "/ˈbæskətbɔːl/",
       "meanings": {
         "es": "baloncesto",
         "pt": "basquetebol",
@@ -92,7 +92,7 @@
       "id": "pack_00081_0004",
       "word": "volleyball",
       "hint": null,
-      "phonetic": "/ˈvɑlibɔl/",
+      "phonetic": "/ˈvɑːlibɔːl/",
       "meanings": {
         "es": "voleibol",
         "pt": "voleibol",
@@ -222,7 +222,7 @@
       "id": "pack_00081_0009",
       "word": "baseball",
       "hint": null,
-      "phonetic": "/ˈbeɪsbɔl/",
+      "phonetic": "/ˈbeɪsbɔːl/",
       "meanings": {
         "es": "béisbol",
         "pt": "beisebol",
@@ -248,7 +248,7 @@
       "id": "pack_00081_0010",
       "word": "golf",
       "hint": null,
-      "phonetic": "/ɡɑlf/",
+      "phonetic": "/ɡɑːlf/",
       "meanings": {
         "es": "golf",
         "pt": "golfe",

@@ -40,7 +40,7 @@
       "id": "pack_00087_0002",
       "word": "cards",
       "hint": null,
-      "phonetic": "/kɑrdz/",
+      "phonetic": "/kɑːrdz/",
       "meanings": {
         "es": "cartas",
         "pt": "cartões",
@@ -118,7 +118,7 @@
       "id": "pack_00087_0005",
       "word": "dominoes",
       "hint": null,
-      "phonetic": "/ˈdɑmənoʊz/",
+      "phonetic": "/ˈdɑːmənoʊz/",
       "meanings": {
         "es": "dominó",
         "pt": "dominó",
@@ -144,7 +144,7 @@
       "id": "pack_00087_0006",
       "word": "checkerboard",
       "hint": null,
-      "phonetic": "/ˈtʃɛkərbɔrd/",
+      "phonetic": "/ˈtʃɛkərbɔːrd/",
       "meanings": {
         "es": "tablero de damas",
         "pt": "tabuleiro de damas",
@@ -196,7 +196,7 @@
       "id": "pack_00087_0008",
       "word": "turn",
       "hint": null,
-      "phonetic": "/tɜrn/",
+      "phonetic": "/tɜːrn/",
       "meanings": {
         "es": "turno",
         "pt": "turno",
@@ -248,7 +248,7 @@
       "id": "pack_00087_0010",
       "word": "loser",
       "hint": null,
-      "phonetic": "/ˈluzər/",
+      "phonetic": "/ˈluːzər/",
       "meanings": {
         "es": "perdedor",
         "pt": "perdedor",

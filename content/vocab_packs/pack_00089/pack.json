@@ -14,7 +14,7 @@
       "id": "pack_00089_0001",
       "word": "console",
       "hint": null,
-      "phonetic": "/ˈkɑnsoʊl/",
+      "phonetic": "/ˈkɑːnsoʊl/",
       "meanings": {
         "es": "consola",
         "pt": "console",
@@ -222,7 +222,7 @@
       "id": "pack_00089_0009",
       "word": "inventory",
       "hint": null,
-      "phonetic": "/ˌɪnvənˈtɔri/",
+      "phonetic": "/ˌɪnvənˈtɔːri/",
       "meanings": {
         "es": "inventario",
         "pt": "inventário",
@@ -248,7 +248,7 @@
       "id": "pack_00089_0010",
       "word": "achievement",
       "hint": null,
-      "phonetic": "/əˈtʃivmənt/",
+      "phonetic": "/əˈtʃiːvmənt/",
       "meanings": {
         "es": "logro",
         "pt": "conquista",

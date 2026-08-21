@@ -14,7 +14,7 @@
       "id": "pack_00151_0001",
       "word": "spoon",
       "hint": null,
-      "phonetic": "/spun/",
+      "phonetic": "/spuːn/",
       "meanings": {
         "es": "cuchara",
         "pt": "colher",
@@ -40,7 +40,7 @@
       "id": "pack_00151_0002",
       "word": "fork",
       "hint": null,
-      "phonetic": "/fɔrk/",
+      "phonetic": "/fɔːrk/",
       "meanings": {
         "es": "tenedor",
         "pt": "garfo",
@@ -222,7 +222,7 @@
       "id": "pack_00151_0009",
       "word": "pot",
       "hint": null,
-      "phonetic": "/pɑt/",
+      "phonetic": "/pɑːt/",
       "meanings": {
         "es": "olla",
         "pt": "pote",

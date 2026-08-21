@@ -66,7 +66,7 @@
       "id": "pack_00052_0003",
       "word": "freeze",
       "hint": null,
-      "phonetic": "/friz/",
+      "phonetic": "/friːz/",
       "meanings": {
         "es": "congelar",
         "pt": "congelar",
@@ -170,7 +170,7 @@
       "id": "pack_00052_0007",
       "word": "pour",
       "hint": null,
-      "phonetic": "/pɔr/",
+      "phonetic": "/pɔːr/",
       "meanings": {
         "es": "derramar",
         "pt": "derramar",
@@ -222,7 +222,7 @@
       "id": "pack_00052_0009",
       "word": "warm up",
       "hint": null,
-      "phonetic": "/wɔrm ʌp/",
+      "phonetic": "/wɔːrm ʌp/",
       "meanings": {
         "es": "calentamiento",
         "pt": "aquecimento",
@@ -248,7 +248,7 @@
       "id": "pack_00052_0010",
       "word": "cool down",
       "hint": null,
-      "phonetic": "/kul daʊn/",
+      "phonetic": "/kuːl daʊn/",
       "meanings": {
         "es": "enfriarse",
         "pt": "esfriar",

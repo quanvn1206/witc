@@ -14,7 +14,7 @@
       "id": "pack_00106_0001",
       "word": "holiday",
       "hint": null,
-      "phonetic": "/ˈhɑlədeɪ/",
+      "phonetic": "/ˈhɑːlədeɪ/",
       "meanings": {
         "es": "día festivo",
         "pt": "feriado",
@@ -66,7 +66,7 @@
       "id": "pack_00106_0003",
       "word": "birthday",
       "hint": null,
-      "phonetic": "/ˈbɜrθdeɪ/",
+      "phonetic": "/ˈbɜːrθdeɪ/",
       "meanings": {
         "es": "cumpleaños",
         "pt": "aniversário",
@@ -118,7 +118,7 @@
       "id": "pack_00106_0005",
       "word": "Easter",
       "hint": null,
-      "phonetic": "/ˈistər/",
+      "phonetic": "/ˈiːstər/",
       "meanings": {
         "es": "Pascua de Resurrección",
         "pt": "Páscoa",
@@ -144,7 +144,7 @@
       "id": "pack_00106_0006",
       "word": "New Year",
       "hint": null,
-      "phonetic": "/nu jɪr/",
+      "phonetic": "/nuː jɪr/",
       "meanings": {
         "es": "Año Nuevo",
         "pt": "Ano Novo",
@@ -170,7 +170,7 @@
       "id": "pack_00106_0007",
       "word": "party",
       "hint": null,
-      "phonetic": "/ˈpɑrti/",
+      "phonetic": "/ˈpɑːrti/",
       "meanings": {
         "es": "fiesta",
         "pt": "festa",

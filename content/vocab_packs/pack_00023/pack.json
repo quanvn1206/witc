@@ -92,7 +92,7 @@
       "id": "pack_00023_0004",
       "word": "debit card",
       "hint": null,
-      "phonetic": "/ˈdɛbɪt kɑrd/",
+      "phonetic": "/ˈdɛbɪt kɑːrd/",
       "meanings": {
         "es": "tarjeta de débito",
         "pt": "cartão de débito",
@@ -118,7 +118,7 @@
       "id": "pack_00023_0005",
       "word": "credit card",
       "hint": null,
-      "phonetic": "/ˈkrɛdət kɑrd/",
+      "phonetic": "/ˈkrɛdət kɑːrd/",
       "meanings": {
         "es": "tarjeta de crédito",
         "pt": "Cartão de crédito",
@@ -144,7 +144,7 @@
       "id": "pack_00023_0006",
       "word": "bank transfer",
       "hint": null,
-      "phonetic": "/bæŋk trænˈsfɜr/",
+      "phonetic": "/bæŋk ˈtrænsfər/",
       "meanings": {
         "es": "transferencia bancaria",
         "pt": "transferência bancária",
@@ -170,7 +170,7 @@
       "id": "pack_00023_0007",
       "word": "QR code",
       "hint": null,
-      "phonetic": "/kju ɑr koʊd/",
+      "phonetic": "/kjuː ɑːr koʊd/",
       "meanings": {
         "es": "código qr",
         "pt": "Código QR",
@@ -222,7 +222,7 @@
       "id": "pack_00023_0009",
       "word": "receipt",
       "hint": null,
-      "phonetic": "/rɪˈsit/",
+      "phonetic": "/rɪˈsiːt/",
       "meanings": {
         "es": "recibo",
         "pt": "recibo",

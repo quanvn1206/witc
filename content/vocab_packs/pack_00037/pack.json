@@ -92,7 +92,7 @@
       "id": "pack_00037_0004",
       "word": "breathe",
       "hint": null,
-      "phonetic": "/brið/",
+      "phonetic": "/briːð/",
       "meanings": {
         "es": "respirar",
         "pt": "respirar",
@@ -118,7 +118,7 @@
       "id": "pack_00037_0005",
       "word": "wash",
       "hint": null,
-      "phonetic": "/wɑʃ/",
+      "phonetic": "/wɑːʃ/",
       "meanings": {
         "es": "lavar",
         "pt": "lavar",
@@ -222,7 +222,7 @@
       "id": "pack_00037_0009",
       "word": "sneeze",
       "hint": null,
-      "phonetic": "/sniz/",
+      "phonetic": "/sniːz/",
       "meanings": {
         "es": "estornudar",
         "pt": "espirrar",
@@ -248,7 +248,7 @@
       "id": "pack_00037_0010",
       "word": "cough",
       "hint": null,
-      "phonetic": "/kɑf/",
+      "phonetic": "/kɑːf/",
       "meanings": {
         "es": "toser",
         "pt": "tossir",

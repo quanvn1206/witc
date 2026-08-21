@@ -14,7 +14,7 @@
       "id": "pack_00029_0001",
       "word": "broom",
       "hint": null,
-      "phonetic": "/brum/",
+      "phonetic": "/bruːm/",
       "meanings": {
         "es": "fregona",
         "pt": "esfregão",
@@ -40,7 +40,7 @@
       "id": "pack_00029_0002",
       "word": "mop",
       "hint": null,
-      "phonetic": "/mɑp/",
+      "phonetic": "/mɑːp/",
       "meanings": {
         "es": "fregar",
         "pt": "esfregar",
@@ -170,7 +170,7 @@
       "id": "pack_00029_0007",
       "word": "vacuum cleaner",
       "hint": null,
-      "phonetic": "/ˈvækjum ˈklinər/",
+      "phonetic": "/ˈvækjum ˈkliːnər/",
       "meanings": {
         "es": "aspiradora",
         "pt": "aspirador de pó",
@@ -196,7 +196,7 @@
       "id": "pack_00029_0008",
       "word": "cloth",
       "hint": null,
-      "phonetic": "/klɔθ/",
+      "phonetic": "/klɔːθ/",
       "meanings": {
         "es": "paño",
         "pt": "pano",
@@ -248,7 +248,7 @@
       "id": "pack_00029_0010",
       "word": "spray bottle",
       "hint": null,
-      "phonetic": "/spreɪ ˈbɑtəl/",
+      "phonetic": "/spreɪ ˈbɑːtəl/",
       "meanings": {
         "es": "botella de spray",
         "pt": "frasco de spray",
