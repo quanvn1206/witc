@@ -40,7 +40,7 @@
       "id": "pack_00128_0002",
       "word": "inspect",
       "hint": null,
-      "phonetic": "/ˌɪnˈspɛkt/",
+      "phonetic": "/ɪnˈspekt/",
       "meanings": {
         "es": "inspeccionar",
         "pt": "inspecionar",
@@ -144,7 +144,7 @@
       "id": "pack_00128_0006",
       "word": "spark plug",
       "hint": null,
-      "phonetic": "/spɑːrk plʌɡ/",
+      "phonetic": "/ˌspɑːrk ˈplʌɡ/",
       "meanings": {
         "es": "bujía",
         "pt": "vela de ignição",
@@ -196,7 +196,7 @@
       "id": "pack_00128_0008",
       "word": "suspension",
       "hint": null,
-      "phonetic": "/səˈspɛnʃən/",
+      "phonetic": "/səˈspenʃən/",
       "meanings": {
         "es": "suspensión",
         "pt": "suspensão",
@@ -222,7 +222,7 @@
       "id": "pack_00128_0009",
       "word": "exhaust",
       "hint": null,
-      "phonetic": "/ɪɡˈzɔːst/",
+      "phonetic": "/ɪɡˈzɑːst/",
       "meanings": {
         "es": "escape",
         "pt": "escape",

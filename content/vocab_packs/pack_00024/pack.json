@@ -40,7 +40,7 @@
       "id": "pack_00024_0002",
       "word": "armchair",
       "hint": null,
-      "phonetic": "/ˈɑːrmtʃɛr/",
+      "phonetic": "/ˈɑːrmtʃer/",
       "meanings": {
         "es": "sillón",
         "pt": "cadeirão",
@@ -92,7 +92,7 @@
       "id": "pack_00024_0004",
       "word": "bookshelf",
       "hint": null,
-      "phonetic": "/ˈbʊkʃɛlf/",
+      "phonetic": "/ˈbʊkʃelf/",
       "meanings": {
         "es": "estante para libros",
         "pt": "estante",
@@ -118,7 +118,7 @@
       "id": "pack_00024_0005",
       "word": "TV stand",
       "hint": null,
-      "phonetic": "/tiː viː stænd/",
+      "phonetic": "/ˌtiː ˈviː stænd/",
       "meanings": {
         "es": "soporte de televisión",
         "pt": "Suporte de TV",
@@ -248,7 +248,7 @@
       "id": "pack_00024_0010",
       "word": "wall clock",
       "hint": null,
-      "phonetic": "/wɔːl klɑːk/",
+      "phonetic": "/wɑːl klɑːk/",
       "meanings": {
         "es": "reloj de pared",
         "pt": "relógio de parede",

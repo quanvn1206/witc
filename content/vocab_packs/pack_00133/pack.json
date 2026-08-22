@@ -40,7 +40,7 @@
       "id": "pack_00133_0002",
       "word": "infection",
       "hint": null,
-      "phonetic": "/ˌɪnˈfɛkʃən/",
+      "phonetic": "/ɪnˈfekʃən/",
       "meanings": {
         "es": "infección",
         "pt": "infecção",
@@ -92,7 +92,7 @@
       "id": "pack_00133_0004",
       "word": "sore throat",
       "hint": null,
-      "phonetic": "/sɔːr θroʊt/",
+      "phonetic": "/ˌsɔːr ˈθroʊt/",
       "meanings": {
         "es": "dolor de garganta",
         "pt": "dor de garganta",
@@ -118,7 +118,7 @@
       "id": "pack_00133_0005",
       "word": "runny nose",
       "hint": null,
-      "phonetic": "/ˈrʌni noʊz/",
+      "phonetic": "/ˌrʌni ˈnoʊz/",
       "meanings": {
         "es": "rinorrea",
         "pt": "nariz escorrendo",

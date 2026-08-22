@@ -118,7 +118,7 @@
       "id": "pack_00157_0005",
       "word": "potato",
       "hint": null,
-      "phonetic": "/pəˈteɪtoʊ/",
+      "phonetic": "/pəˈteɪt̬oʊ/",
       "meanings": {
         "es": "papa",
         "pt": "batata",
@@ -144,7 +144,7 @@
       "id": "pack_00157_0006",
       "word": "tomato",
       "hint": null,
-      "phonetic": "/təˈmeɪtoʊ/",
+      "phonetic": "/təˈmeɪt̬oʊ/",
       "meanings": {
         "es": "tomate",
         "pt": "tomate",
@@ -170,7 +170,7 @@
       "id": "pack_00157_0007",
       "word": "carrot",
       "hint": null,
-      "phonetic": "/ˈkærət/",
+      "phonetic": "/ˈkerət/",
       "meanings": {
         "es": "zanahoria",
         "pt": "cenoura",
@@ -196,7 +196,7 @@
       "id": "pack_00157_0008",
       "word": "cabbage",
       "hint": null,
-      "phonetic": "/ˈkæbədʒ/",
+      "phonetic": "/ˈkæbɪdʒ/",
       "meanings": {
         "es": "repollo",
         "pt": "repolho",
@@ -222,7 +222,7 @@
       "id": "pack_00157_0009",
       "word": "lettuce",
       "hint": null,
-      "phonetic": "/ˈlɛtəs/",
+      "phonetic": "/ˈletɪs/",
       "meanings": {
         "es": "lechuga",
         "pt": "alface",

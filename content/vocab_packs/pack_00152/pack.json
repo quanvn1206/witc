@@ -66,7 +66,7 @@
       "id": "pack_00152_0003",
       "word": "refrigerator",
       "hint": null,
-      "phonetic": "/rəˈfrɪdʒəreɪtər/",
+      "phonetic": "/rɪˈfrɪdʒəreɪtər/",
       "meanings": {
         "es": "refrigerador",
         "pt": "frigorífico",
@@ -118,7 +118,7 @@
       "id": "pack_00152_0005",
       "word": "blender",
       "hint": null,
-      "phonetic": "/ˈblɛndər/",
+      "phonetic": "/ˈblendər/",
       "meanings": {
         "es": "licuadora",
         "pt": "liquidificador",
@@ -248,7 +248,7 @@
       "id": "pack_00152_0010",
       "word": "rice cooker",
       "hint": null,
-      "phonetic": "/raɪs ˈkʊkər/",
+      "phonetic": "/ˌraɪs ˈkʊkər/",
       "meanings": {
         "es": "olla arrocera",
         "pt": "panela de arroz",

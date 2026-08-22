@@ -40,7 +40,7 @@
       "id": "pack_00082_0002",
       "word": "stretch",
       "hint": null,
-      "phonetic": "/strɛtʃ/",
+      "phonetic": "/stretʃ/",
       "meanings": {
         "es": "estirar",
         "pt": "esticar",
@@ -66,7 +66,7 @@
       "id": "pack_00082_0003",
       "word": "exercise",
       "hint": null,
-      "phonetic": "/ˈɛksərsaɪz/",
+      "phonetic": "/ˈeksərsaɪz/",
       "meanings": {
         "es": "ejercicio",
         "pt": "exercício",
@@ -92,7 +92,7 @@
       "id": "pack_00082_0004",
       "word": "warm up",
       "hint": null,
-      "phonetic": "/wɔːrm ʌp/",
+      "phonetic": "/ˌwɔːrm ˈʌp/",
       "meanings": {
         "es": "calentamiento",
         "pt": "aquecimento",
@@ -118,7 +118,7 @@
       "id": "pack_00082_0005",
       "word": "cool down",
       "hint": null,
-      "phonetic": "/kuːl daʊn/",
+      "phonetic": "/ˌkuːl ˈdaʊn/",
       "meanings": {
         "es": "enfriarse",
         "pt": "esfriar",
@@ -196,7 +196,7 @@
       "id": "pack_00082_0008",
       "word": "walk",
       "hint": null,
-      "phonetic": "/wɔːk/",
+      "phonetic": "/wɑːk/",
       "meanings": {
         "es": "caminar",
         "pt": "andar",
@@ -248,7 +248,7 @@
       "id": "pack_00082_0010",
       "word": "rest",
       "hint": null,
-      "phonetic": "/rɛst/",
+      "phonetic": "/rest/",
       "meanings": {
         "es": "descansar",
         "pt": "descansar",

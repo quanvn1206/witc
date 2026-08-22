@@ -14,7 +14,7 @@
       "id": "pack_00091_0001",
       "word": "desk",
       "hint": null,
-      "phonetic": "/dɛsk/",
+      "phonetic": "/desk/",
       "meanings": {
         "es": "escritorio",
         "pt": "mesa",
@@ -144,7 +144,7 @@
       "id": "pack_00091_0006",
       "word": "stapler",
       "hint": null,
-      "phonetic": "/ˈsteɪpələr/",
+      "phonetic": "/ˈsteɪplər/",
       "meanings": {
         "es": "grapadora",
         "pt": "grampeador",
@@ -222,7 +222,7 @@
       "id": "pack_00091_0009",
       "word": "chair",
       "hint": null,
-      "phonetic": "/tʃɛr/",
+      "phonetic": "/tʃer/",
       "meanings": {
         "es": "silla",
         "pt": "cadeira",
@@ -248,7 +248,7 @@
       "id": "pack_00091_0010",
       "word": "pen",
       "hint": null,
-      "phonetic": "/pɛn/",
+      "phonetic": "/pen/",
       "meanings": {
         "es": "bolígrafo",
         "pt": "caneta",

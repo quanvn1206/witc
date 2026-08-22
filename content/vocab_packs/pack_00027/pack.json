@@ -14,7 +14,7 @@
       "id": "pack_00027_0001",
       "word": "bathtub",
       "hint": null,
-      "phonetic": "/ˈbæθtəb/",
+      "phonetic": "/ˈbæθtʌb/",
       "meanings": {
         "es": "bañera",
         "pt": "banheira",
@@ -144,7 +144,7 @@
       "id": "pack_00027_0006",
       "word": "toothbrush",
       "hint": null,
-      "phonetic": "/ˈtuːθbrəʃ/",
+      "phonetic": "/ˈtuːθbrʌʃ/",
       "meanings": {
         "es": "cepillo de dientes",
         "pt": "escova de dentes",
@@ -222,7 +222,7 @@
       "id": "pack_00027_0009",
       "word": "bath mat",
       "hint": null,
-      "phonetic": "/bæθ mæt/",
+      "phonetic": "/ˌbæθ ˈmæt/",
       "meanings": {
         "es": "alfombra de baño",
         "pt": "tapete de banho",

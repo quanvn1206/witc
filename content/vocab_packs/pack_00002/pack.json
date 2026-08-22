@@ -14,7 +14,7 @@
       "id": "pack_00002_0001",
       "word": "carrot",
       "hint": null,
-      "phonetic": "/ˈkærət/",
+      "phonetic": "/ˈkerət/",
       "meanings": {
         "es": "zanahoria",
         "pt": "cenoura",
@@ -40,7 +40,7 @@
       "id": "pack_00002_0002",
       "word": "potato",
       "hint": null,
-      "phonetic": "/pəˈteɪtoʊ/",
+      "phonetic": "/pəˈteɪt̬oʊ/",
       "meanings": {
         "es": "papa",
         "pt": "batata",
@@ -66,7 +66,7 @@
       "id": "pack_00002_0003",
       "word": "tomato",
       "hint": null,
-      "phonetic": "/təˈmeɪtoʊ/",
+      "phonetic": "/təˈmeɪt̬oʊ/",
       "meanings": {
         "es": "tomate",
         "pt": "tomate",
@@ -118,7 +118,7 @@
       "id": "pack_00002_0005",
       "word": "cucumber",
       "hint": null,
-      "phonetic": "/ˈkjuːkəmbər/",
+      "phonetic": "/ˈkjuːkʌmbər/",
       "meanings": {
         "es": "pepino",
         "pt": "pepino",
@@ -196,7 +196,7 @@
       "id": "pack_00002_0008",
       "word": "cabbage",
       "hint": null,
-      "phonetic": "/ˈkæbədʒ/",
+      "phonetic": "/ˈkæbɪdʒ/",
       "meanings": {
         "es": "repollo",
         "pt": "repolho",
@@ -222,7 +222,7 @@
       "id": "pack_00002_0009",
       "word": "pepper",
       "hint": null,
-      "phonetic": "/ˈpɛpər/",
+      "phonetic": "/ˈpepər/",
       "meanings": {
         "es": "pimienta",
         "pt": "pimenta",

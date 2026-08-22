@@ -92,7 +92,7 @@
       "id": "pack_00140_0004",
       "word": "residential area",
       "hint": null,
-      "phonetic": "/ˌrɛzɪˈdɛnʃəl ˈɛriə/",
+      "phonetic": "/ˌrezɪˈdenʃəl ˈeriə/",
       "meanings": {
         "es": "zona residencial",
         "pt": "área residencial",
@@ -144,7 +144,7 @@
       "id": "pack_00140_0006",
       "word": "transportation network",
       "hint": null,
-      "phonetic": "/ˌtrænspərˈteɪʃən ˈnɛtwɜːrk/",
+      "phonetic": "/ˌtrænspərˈteɪʃən ˈnetwɜːrk/",
       "meanings": {
         "es": "red de transporte",
         "pt": "rede de transporte",
@@ -222,7 +222,7 @@
       "id": "pack_00140_0009",
       "word": "accessibility",
       "hint": null,
-      "phonetic": "/ˌæksɛsəˈbɪlɪti/",
+      "phonetic": "/əkˌsesəˈbɪləti/",
       "meanings": {
         "es": "accesibilidad",
         "pt": "acessibilidade",
@@ -248,7 +248,7 @@
       "id": "pack_00140_0010",
       "word": "population density",
       "hint": null,
-      "phonetic": "/ˌpɑːpjəˈleɪʃən ˈdɛnsəti/",
+      "phonetic": "/ˌpɑːpjəˈleɪʃən ˈdensəti/",
       "meanings": {
         "es": "densidad de población",
         "pt": "densidade populacional",

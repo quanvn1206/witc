@@ -14,7 +14,7 @@
       "id": "pack_00135_0001",
       "word": "healthcare",
       "hint": null,
-      "phonetic": "/ˈhɛlθkɛr/",
+      "phonetic": "/ˈhelθker/",
       "meanings": {
         "es": "cuidado de la salud",
         "pt": "assistência médica",
@@ -40,7 +40,7 @@
       "id": "pack_00135_0002",
       "word": "prevention",
       "hint": null,
-      "phonetic": "/priˈvɛnʃən/",
+      "phonetic": "/prɪˈvenʃən/",
       "meanings": {
         "es": "prevención",
         "pt": "prevenção",
@@ -66,7 +66,7 @@
       "id": "pack_00135_0003",
       "word": "rehabilitation",
       "hint": null,
-      "phonetic": "/ˌriːhəˌbɪləˈteɪʃən/",
+      "phonetic": "/ˌriːəˌbɪləˈteɪʃən/",
       "meanings": {
         "es": "rehabilitación",
         "pt": "reabilitação",
@@ -118,7 +118,7 @@
       "id": "pack_00135_0005",
       "word": "medical record",
       "hint": null,
-      "phonetic": "/ˈmɛdəkəl rəˈkɔːrd/",
+      "phonetic": "/ˈmedɪkəl rɪˈkɔːrd/",
       "meanings": {
         "es": "expediente medico",
         "pt": "prontuário médico",
@@ -170,7 +170,7 @@
       "id": "pack_00135_0007",
       "word": "insurance",
       "hint": null,
-      "phonetic": "/ˌɪnˈʃʊrəns/",
+      "phonetic": "/ɪnˈʃʊrəns/",
       "meanings": {
         "es": "seguro",
         "pt": "seguro",
@@ -196,7 +196,7 @@
       "id": "pack_00135_0008",
       "word": "mental health",
       "hint": null,
-      "phonetic": "/ˈmɛntəl hɛlθ/",
+      "phonetic": "/ˈmentəl ˈhelθ/",
       "meanings": {
         "es": "salud mental",
         "pt": "saúde mental",
@@ -222,7 +222,7 @@
       "id": "pack_00135_0009",
       "word": "public health",
       "hint": null,
-      "phonetic": "/ˈpʌblɪk hɛlθ/",
+      "phonetic": "/ˈpʌblɪk ˈhelθ/",
       "meanings": {
         "es": "salud publica",
         "pt": "saúde pública",

@@ -92,7 +92,7 @@
       "id": "pack_00038_0004",
       "word": "medicine",
       "hint": null,
-      "phonetic": "/ˈmɛdəsən/",
+      "phonetic": "/ˈmedɪsən/",
       "meanings": {
         "es": "medicamento",
         "pt": "medicamento",
@@ -118,7 +118,7 @@
       "id": "pack_00038_0005",
       "word": "prescription",
       "hint": null,
-      "phonetic": "/prəˈskrɪpʃən/",
+      "phonetic": "/prɪˈskrɪpʃən/",
       "meanings": {
         "es": "prescripción",
         "pt": "prescrição",
@@ -196,7 +196,7 @@
       "id": "pack_00038_0008",
       "word": "injection",
       "hint": null,
-      "phonetic": "/ˌɪnˈdʒɛkʃən/",
+      "phonetic": "/ɪnˈdʒekʃən/",
       "meanings": {
         "es": "inyección",
         "pt": "injeção",
@@ -222,7 +222,7 @@
       "id": "pack_00038_0009",
       "word": "thermometer",
       "hint": null,
-      "phonetic": "/θərˈmɑːmətər/",
+      "phonetic": "/θərˈmɑːmɪtər/",
       "meanings": {
         "es": "termómetro",
         "pt": "termômetro",

@@ -40,7 +40,7 @@
       "id": "pack_00134_0002",
       "word": "diagnosis",
       "hint": null,
-      "phonetic": "/ˌdaɪəɡˈnoʊsəs/",
+      "phonetic": "/ˌdaɪəɡˈnoʊsɪs/",
       "meanings": {
         "es": "diagnóstico",
         "pt": "diagnóstico",
@@ -118,7 +118,7 @@
       "id": "pack_00134_0005",
       "word": "vaccination",
       "hint": null,
-      "phonetic": "/væksəˈneɪʃən/",
+      "phonetic": "/ˌvæksəˈneɪʃən/",
       "meanings": {
         "es": "vacunación",
         "pt": "vacinação",
@@ -196,7 +196,7 @@
       "id": "pack_00134_0008",
       "word": "specialist",
       "hint": null,
-      "phonetic": "/ˈspɛʃələst/",
+      "phonetic": "/ˈspeʃəlɪst/",
       "meanings": {
         "es": "especialista",
         "pt": "especialista",
@@ -222,7 +222,7 @@
       "id": "pack_00134_0009",
       "word": "blood pressure",
       "hint": null,
-      "phonetic": "/blʌd ˈprɛʃər/",
+      "phonetic": "/ˌblʌd ˈpreʃər/",
       "meanings": {
         "es": "presión arterial",
         "pt": "pressão arterial",
@@ -248,7 +248,7 @@
       "id": "pack_00134_0010",
       "word": "X-ray",
       "hint": null,
-      "phonetic": "/ˈɛksreɪ/",
+      "phonetic": "/ˈeksreɪ/",
       "meanings": {
         "es": "radiografía",
         "pt": "raio X",

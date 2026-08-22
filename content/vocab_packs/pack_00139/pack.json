@@ -40,7 +40,7 @@
       "id": "pack_00139_0002",
       "word": "public transport",
       "hint": null,
-      "phonetic": "/ˈpʌblɪk trænˈspɔːrt/",
+      "phonetic": "/ˈpʌblɪk ˈtrænspɔːrt/",
       "meanings": {
         "es": "transporte público",
         "pt": "transporte público",
@@ -66,7 +66,7 @@
       "id": "pack_00139_0003",
       "word": "congestion",
       "hint": null,
-      "phonetic": "/kənˈdʒɛstʃən/",
+      "phonetic": "/kənˈdʒestʃən/",
       "meanings": {
         "es": "congestión",
         "pt": "congestionamento",
@@ -118,7 +118,7 @@
       "id": "pack_00139_0005",
       "word": "pedestrian crossing",
       "hint": null,
-      "phonetic": "/pəˈdɛstriən ˈkrɔːsɪŋ/",
+      "phonetic": "/pəˈdestriən ˈkrɑːsɪŋ/",
       "meanings": {
         "es": "paso de peatones",
         "pt": "passagem para pedestres",
@@ -144,7 +144,7 @@
       "id": "pack_00139_0006",
       "word": "rush hour",
       "hint": null,
-      "phonetic": "/rʌʃ ˈaʊər/",
+      "phonetic": "/ˌrʌʃ ˈaʊər/",
       "meanings": {
         "es": "hora punta",
         "pt": "hora do rush",
@@ -248,7 +248,7 @@
       "id": "pack_00139_0010",
       "word": "road safety",
       "hint": null,
-      "phonetic": "/roʊd ˈseɪfti/",
+      "phonetic": "/ˌroʊd ˈseɪfti/",
       "meanings": {
         "es": "seguridad vial",
         "pt": "segurança rodoviária",

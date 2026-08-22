@@ -14,7 +14,7 @@
       "id": "pack_00043_0001",
       "word": "wear",
       "hint": null,
-      "phonetic": "/wɛr/",
+      "phonetic": "/wer/",
       "meanings": {
         "es": "tener puesto",
         "pt": "vestir",
@@ -40,7 +40,7 @@
       "id": "pack_00043_0002",
       "word": "try on",
       "hint": null,
-      "phonetic": "/traɪ ɑːn/",
+      "phonetic": "/ˌtraɪ ˈɑːn/",
       "meanings": {
         "es": "probarse",
         "pt": "experimentar",
@@ -222,7 +222,7 @@
       "id": "pack_00043_0009",
       "word": "dress",
       "hint": null,
-      "phonetic": "/drɛs/",
+      "phonetic": "/dres/",
       "meanings": {
         "es": "vestido",
         "pt": "vestido",
@@ -248,7 +248,7 @@
       "id": "pack_00043_0010",
       "word": "undress",
       "hint": null,
-      "phonetic": "/ənˈdrɛs/",
+      "phonetic": "/ʌnˈdres/",
       "meanings": {
         "es": "desvestirse",
         "pt": "despir",

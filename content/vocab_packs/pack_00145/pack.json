@@ -14,7 +14,7 @@
       "id": "pack_00145_0001",
       "word": "architecture",
       "hint": null,
-      "phonetic": "/ˈɑːrkətɛktʃər/",
+      "phonetic": "/ˈɑːrkətektʃər/",
       "meanings": {
         "es": "arquitectura",
         "pt": "arquitetura",
@@ -40,7 +40,7 @@
       "id": "pack_00145_0002",
       "word": "inspection",
       "hint": null,
-      "phonetic": "/ˌɪnˈspɛkʃən/",
+      "phonetic": "/ɪnˈspekʃən/",
       "meanings": {
         "es": "inspección",
         "pt": "inspeção",
@@ -66,7 +66,7 @@
       "id": "pack_00145_0003",
       "word": "renovation",
       "hint": null,
-      "phonetic": "/ˌrɛnəˈveɪʃən/",
+      "phonetic": "/ˌrenəˈveɪʃən/",
       "meanings": {
         "es": "renovación",
         "pt": "renovação",
@@ -118,7 +118,7 @@
       "id": "pack_00145_0005",
       "word": "engineering",
       "hint": null,
-      "phonetic": "/ˈɛndʒənɪrɪŋ/",
+      "phonetic": "/ˌendʒɪˈnɪrɪŋ/",
       "meanings": {
         "es": "ingeniería",
         "pt": "engenharia",
@@ -196,7 +196,7 @@
       "id": "pack_00145_0008",
       "word": "site supervisor",
       "hint": null,
-      "phonetic": "/saɪt ˈsuːpərvaɪzər/",
+      "phonetic": "/ˌsaɪt ˈsuːpərvaɪzər/",
       "meanings": {
         "es": "supervisor del sitio",
         "pt": "supervisor de local",
@@ -222,7 +222,7 @@
       "id": "pack_00145_0009",
       "word": "safety regulation",
       "hint": null,
-      "phonetic": "/ˈseɪfti ˌrɛɡjəˈleɪʃən/",
+      "phonetic": "/ˈseɪfti ˌreɡjəˈleɪʃən/",
       "meanings": {
         "es": "regulación de seguridad",
         "pt": "regulamento de segurança",
@@ -248,7 +248,7 @@
       "id": "pack_00145_0010",
       "word": "project management",
       "hint": null,
-      "phonetic": "/ˈprɑːdʒɛkt ˈmænədʒmənt/",
+      "phonetic": "/ˈprɑːdʒekt ˈmænədʒmənt/",
       "meanings": {
         "es": "gestión de proyectos",
         "pt": "gerenciamento de projetos",

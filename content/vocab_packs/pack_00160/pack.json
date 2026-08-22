@@ -92,7 +92,7 @@
       "id": "pack_00160_0004",
       "word": "organic farming",
       "hint": null,
-      "phonetic": "/ɔrˈɡænɪk ˈfɑːrmɪŋ/",
+      "phonetic": "/ɔːrˈɡænɪk ˈfɑːrmɪŋ/",
       "meanings": {
         "es": "agricultura organica",
         "pt": "agricultura biológica",
@@ -222,7 +222,7 @@
       "id": "pack_00160_0009",
       "word": "renewable resources",
       "hint": null,
-      "phonetic": "/riˈnuːəbəl ˈriːsɔrsɪz/",
+      "phonetic": "/rɪˈnuːəbəl ˈriːsɔːrsɪz/",
       "meanings": {
         "es": "recursos renovables",
         "pt": "recursos renováveis",
@@ -248,7 +248,7 @@
       "id": "pack_00160_0010",
       "word": "food security",
       "hint": null,
-      "phonetic": "/fuːd sɪˈkjʊrəti/",
+      "phonetic": "/ˌfuːd sɪˈkjʊrəti/",
       "meanings": {
         "es": "seguridad alimentaria",
         "pt": "segurança alimentar",

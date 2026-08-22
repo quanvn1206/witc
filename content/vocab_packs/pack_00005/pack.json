@@ -14,7 +14,7 @@
       "id": "pack_00005_0001",
       "word": "hamburger",
       "hint": null,
-      "phonetic": "/ˈhæmbərɡər/",
+      "phonetic": "/ˈhæmbɜːrɡər/",
       "meanings": {
         "es": "hamburguesa",
         "pt": "hamburger",
@@ -92,7 +92,7 @@
       "id": "pack_00005_0004",
       "word": "hot dog",
       "hint": null,
-      "phonetic": "/hɑːt dɔːɡ/",
+      "phonetic": "/ˌhɑːt ˈdɑːɡ/",
       "meanings": {
         "es": "Hot dog",
         "pt": "cachorro-quente",
@@ -118,7 +118,7 @@
       "id": "pack_00005_0005",
       "word": "sandwich",
       "hint": null,
-      "phonetic": "/ˈsændwɪtʃ/",
+      "phonetic": "/ˈsænwɪtʃ/",
       "meanings": {
         "es": "sándwich",
         "pt": "sanduíche",
@@ -170,7 +170,7 @@
       "id": "pack_00005_0007",
       "word": "fried chicken",
       "hint": null,
-      "phonetic": "/fraɪd ˈtʃɪkən/",
+      "phonetic": "/ˌfraɪd ˈtʃɪkɪn/",
       "meanings": {
         "es": "Pollo frito",
         "pt": "frango frito",

@@ -14,7 +14,7 @@
       "id": "pack_00053_0001",
       "word": "hurricane",
       "hint": null,
-      "phonetic": "/ˈhɜːrəkeɪn/",
+      "phonetic": "/ˈhɜːrɪkeɪn/",
       "meanings": {
         "es": "huracán",
         "pt": "furacão",
@@ -40,7 +40,7 @@
       "id": "pack_00053_0002",
       "word": "tornado",
       "hint": null,
-      "phonetic": "/tɔrˈneɪdoʊ/",
+      "phonetic": "/tɔːrˈneɪdoʊ/",
       "meanings": {
         "es": "tornado",
         "pt": "tornado",
@@ -144,7 +144,7 @@
       "id": "pack_00053_0006",
       "word": "volcano",
       "hint": null,
-      "phonetic": "/vɑlˈkeɪnoʊ/",
+      "phonetic": "/vɑːlˈkeɪnoʊ/",
       "meanings": {
         "es": "volcán",
         "pt": "vulcão",

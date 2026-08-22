@@ -92,7 +92,7 @@
       "id": "pack_00036_0004",
       "word": "headache",
       "hint": null,
-      "phonetic": "/ˈhɛdeɪk/",
+      "phonetic": "/ˈhedeɪk/",
       "meanings": {
         "es": "dolor de cabeza",
         "pt": "dor de cabeça",
@@ -170,7 +170,7 @@
       "id": "pack_00036_0007",
       "word": "sore throat",
       "hint": null,
-      "phonetic": "/sɔːr θroʊt/",
+      "phonetic": "/ˌsɔːr ˈθroʊt/",
       "meanings": {
         "es": "dolor de garganta",
         "pt": "dor de garganta",
@@ -222,7 +222,7 @@
       "id": "pack_00036_0009",
       "word": "runny nose",
       "hint": null,
-      "phonetic": "/ˈrʌni noʊz/",
+      "phonetic": "/ˌrʌni ˈnoʊz/",
       "meanings": {
         "es": "goteo nasal",
         "pt": "nariz escorrendo",

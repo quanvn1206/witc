@@ -14,7 +14,7 @@
       "id": "pack_00155_0001",
       "word": "recipe",
       "hint": null,
-      "phonetic": "/ˈrɛsəpi/",
+      "phonetic": "/ˈresəpi/",
       "meanings": {
         "es": "receta",
         "pt": "receita",
@@ -40,7 +40,7 @@
       "id": "pack_00155_0002",
       "word": "ingredient",
       "hint": null,
-      "phonetic": "/ˌɪnˈɡriːdiənt/",
+      "phonetic": "/ɪnˈɡriːdiənt/",
       "meanings": {
         "es": "ingrediente",
         "pt": "ingrediente",
@@ -118,7 +118,7 @@
       "id": "pack_00155_0005",
       "word": "nutrition",
       "hint": null,
-      "phonetic": "/nuˈtrɪʃən/",
+      "phonetic": "/nuːˈtrɪʃən/",
       "meanings": {
         "es": "nutrición",
         "pt": "nutrição",
@@ -144,7 +144,7 @@
       "id": "pack_00155_0006",
       "word": "presentation",
       "hint": null,
-      "phonetic": "/ˌprɛzənˈteɪʃən/",
+      "phonetic": "/ˌprezənˈteɪʃən/",
       "meanings": {
         "es": "emplatado",
         "pt": "apresentação",
@@ -248,7 +248,7 @@
       "id": "pack_00155_0010",
       "word": "specialty",
       "hint": null,
-      "phonetic": "/ˈspɛʃəlti/",
+      "phonetic": "/ˈspeʃəlti/",
       "meanings": {
         "es": "especialidad",
         "pt": "especialidade",
